@@ -6,8 +6,16 @@ South Indian astrology charts with proper layout and multilingual support.
 
 from __future__ import annotations
 
-from fastapi_babel import _
+from dataclasses import dataclass
+from typing import TYPE_CHECKING, cast
+
+from ndastro_engine.enums import Houses, Planets, Rasis
 from pydantic import BaseModel
+
+from ndastro_api.core.babel_i18n import _
+
+if TYPE_CHECKING:
+    from ndastro_api.core.models.kattam import Kattam
 
 # Chart generation constants
 CHART_BORDER_COLOR = "#FF0000"
@@ -68,11 +76,23 @@ class BirthDetails(BaseModel):
     place: str | None = None
 
 
-def process_rasi_data(kattams_data: list) -> tuple[dict, int | None, dict]:
+@dataclass
+class KattamDisplayData:
+    """Data class to hold processed kattam data for chart rendering."""
+
+    name: str
+    short_name: str
+    display_name: str
+    retro: bool | None
+    adv: float | None
+    px_frac: float | None = None
+
+
+def process_rasi_data(kattams_data: list[Kattam]) -> tuple[dict[Rasis, list[KattamDisplayData]], Rasis | None, dict[Rasis, Houses]]:
     """Process kattams data to extract rasi and planet information."""
-    rasi_data = {}
-    asc_rasi = None
-    house_map = {}
+    rasi_data: dict[Rasis, list[KattamDisplayData]] = {}
+    asc_rasi: Rasis | None = None
+    house_map: dict[Rasis, Houses] = {}
 
     for item in kattams_data:
         rasi = item.rasi
@@ -80,33 +100,32 @@ def process_rasi_data(kattams_data: list) -> tuple[dict, int | None, dict]:
         if item.is_ascendant:
             asc_rasi = rasi
 
-        planets = []
+        planets: list[KattamDisplayData] = []
         if item.planets:
             planets = [
-                {"name": p.name, "short_name": p.short_name, "display_name": p.display_name, "retro": p.retrograde, "adv": p.advanced_by}
-                for p in item.planets
+                KattamDisplayData(name=p.name, short_name=p.code, display_name=p.code, retro=p.is_retrograde, adv=p.advanced_by) for p in item.planets
             ]
         rasi_data[rasi] = planets
 
     return rasi_data, asc_rasi, house_map
 
 
-def calculate_planet_positions(planets: list[dict]) -> list[dict]:
+def calculate_planet_positions(planets: list[KattamDisplayData]) -> list[KattamDisplayData]:
     """Calculate positions for planets within a rasi cell."""
     if not planets:
         return planets
 
-    planets = sorted(planets, key=lambda p: p["adv"])
-    positions = []
+    planets = sorted(planets, key=lambda p: cast("float", p.adv))
+    positions: list[float] = []
 
     for p in planets:
-        frac = PLANET_FRAC_MIN + PLANET_SLOT_HEIGHT_FACTOR * (p["adv"] / DEGREES_PER_RASI)
+        frac = PLANET_FRAC_MIN + PLANET_SLOT_HEIGHT_FACTOR * (cast("float", p.adv) / DEGREES_PER_RASI)
         overlaps = [pos for pos in positions if abs(pos - frac) < PLANET_OVERLAP_OFFSET]
         if overlaps:
             frac += len(overlaps) * PLANET_OVERLAP_OFFSET
         frac = min(frac, PLANET_FRAC_MAX)
         positions.append(frac)
-        p["px_frac"] = frac
+        p.px_frac = frac
 
     return planets
 
@@ -142,7 +161,7 @@ def render_center_text(svg: list[str], birth_details: BirthDetails | None) -> No
 
 
 def render_house_and_planets(  # noqa: PLR0913
-    svg: list[str], rasi: int, layout_pos: tuple[int, int], planets: list[dict], house_map: dict, asc_rasi: int | None
+    svg: list[str], rasi: int, layout_pos: tuple[int, int], planets: list[KattamDisplayData], house_map: dict, asc_rasi: int | None
 ) -> None:
     """Render a single house and its planets."""
     col, row = layout_pos
@@ -174,21 +193,21 @@ def render_house_and_planets(  # noqa: PLR0913
     slot_height = (CELL_SIZE * PLANET_SLOT_HEIGHT_FACTOR) / max(len(planets), 1)
 
     for i, p in enumerate(planets):
-        px = x0 + CELL_SIZE * p["px_frac"]
+        px = x0 + CELL_SIZE * p.px_frac if p.px_frac is not None else x0 + CELL_SIZE * 0.5
         py = start_py + i * slot_height
         fill = PLANET_TEXT_COLOR
-        show_retro = p["retro"] and p["name"] not in ["Rahu", "Kethu"]
+        show_retro = p.retro and p.short_name not in [Planets.RAHU.code, Planets.KETHU.code]
 
         if show_retro:
             svg.append(
                 f'<text x="{px}" y="{py}" text-anchor="middle" font-size="{rasi_font_size}" fill="{fill}">'
-                f'{p["display_name"]}<tspan dy="{RETRO_SUPERSCRIPT_DY}" font-size="{rasi_font_size * RETRO_SUPERSCRIPT_SCALE}">℞</tspan></text>'
+                f'{_(p.short_name)}<tspan dy="{RETRO_SUPERSCRIPT_DY}" font-size="{rasi_font_size * RETRO_SUPERSCRIPT_SCALE}">℞</tspan></text>'
             )
         else:
-            svg.append(f'<text x="{px}" y="{py}" text-anchor="middle" font-size="{rasi_font_size}" fill="{fill}">{p["display_name"]}</text>')
+            svg.append(f'<text x="{px}" y="{py}" text-anchor="middle" font-size="{rasi_font_size}" fill="{fill}">{_(p.display_name)}</text>')
 
 
-def generate_south_indian_chart_svg(kattams_data: list, birth_details: BirthDetails | None = None) -> str:
+def generate_south_indian_chart_svg(kattams_data: list[Kattam], birth_details: BirthDetails | None = None) -> str:
     """Generate SVG for South Indian astrology chart with enhanced layout and multilingual support.
 
     Args:
@@ -216,7 +235,7 @@ def generate_south_indian_chart_svg(kattams_data: list, birth_details: BirthDeta
 
     # Draw houses and planets
     for rasi, layout_pos in layout.items():
-        planets = rasi_data.get(rasi, [])
+        planets = rasi_data.get(Rasis(rasi), [])
         planets_with_positions = calculate_planet_positions(planets)
         render_house_and_planets(svg, rasi, layout_pos, planets_with_positions, house_map, asc_rasi)
 

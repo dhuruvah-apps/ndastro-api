@@ -199,3 +199,5 @@ cython_debug/
 
 *.db
 *.bsp
+
+coverage.json

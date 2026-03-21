@@ -1,0 +1,899 @@
+{
+  "system": {
+    "name": "Prasna Shastra - Horary Astrology",
+    "description": "Answer specific questions using chart cast for moment question is asked",
+    "sanskritName": "Prasna Tantra",
+    "uniqueness": "DOES NOT REQUIRE BIRTH TIME - uses question time",
+    "purpose": "Get immediate answers to specific pressing questions",
+    "importance": "Solves problem when birth time unknown or for urgent specific queries",
+    "principle": "Universe arranges that question is asked at cosmically significant moment revealing answer",
+    "scope": "Lost objects, yes/no questions, timing, outcomes, hidden information, specific life queries",
+    "vedicReferences": "Prasna Marga, Prasna Tantra, Krishneeya, Prasna Shastra classical texts",
+    "modernRelevance": "Instant answers without birth chart; practical guidance; emergency situations"
+  },
+  "howPrasnaWorks": {
+    "name": "Mechanism of Prasna",
+    "principle": "Questioner's consciousness aligns with cosmic moment to ask at revealing time",
+    "process": [
+      {
+        "step": 1,
+        "stage": "Question Formulation",
+        "description": "Questioner formulates clear, specific question in mind",
+        "requirement": "Question must be genuine, pressing, specific - not casual curiosity",
+        "clarity": "Vague questions give vague answers; specific questions give precise answers"
+      },
+      {
+        "step": 2,
+        "stage": "Question Asked",
+        "description": "Moment question is spoken/written to astrologer",
+        "timing": "THIS moment's chart is cast - not when thought, but when communicated",
+        "location": "Astrologer's location (where question is received)"
+      },
+      {
+        "step": 3,
+        "stage": "Chart Casting",
+        "description": "Horary chart created for exact time and place question received",
+        "data": "Date, time (precise to minute), location of astrologer"
+      },
+      {
+        "step": 4,
+        "stage": "Analysis",
+        "description": "Chart analyzed with horary-specific techniques",
+        "focus": "Lagna, Moon, relevant house lords, planetary positions"
+      },
+      {
+        "step": 5,
+        "stage": "Answer Derived",
+        "description": "Answer revealed through planetary positions and combinations",
+        "confidence": "Chart shows whether answer is clear or situation still evolving"
+      }
+    ],
+    "validity": [
+      "Questioner must be sincere - not testing astrologer",
+      "Question should be specific, not multiple vague queries",
+      "Repeated asking of same question invalid - first chart remains valid",
+      "Astrologer must analyze immediately or soon - chart loses potency if delayed",
+      "Emergency questions more potent than casual queries"
+    ],
+    "limitations": [
+      "Not for past events (use birth chart)",
+      "Not for general life overview (use birth chart)",
+      "Not for multiple unrelated questions in one chart",
+      "Not for malicious intent (harming others)",
+      "Cannot override free will - shows current trajectory"
+    ]
+  },
+  "analysisMethod": {
+    "name": "How to Analyze Prasna Chart",
+    "keyFactors": [
+      {
+        "factor": "Lagna (Ascendant)",
+        "importance": "Represents questioner",
+        "analysis": [
+          "Lagna sign shows questioner's state of mind",
+          "Lagna lord strength shows questioner's capacity to achieve desired outcome",
+          "Lagna lord placement shows where questioner's energy is focused",
+          "Benefics in lagna = favorable for questioner",
+          "Malefics in lagna = struggles, obstacles",
+          "Planets aspecting lagna influence questioner's situation"
+        ],
+        "strength": "Strong lagna lord = questioner has power to influence outcome positively"
+      },
+      {
+        "factor": "MO",
+        "importance": "VERY HIGH - represents questioner's mind and question itself",
+        "analysis": [
+          "Moon's sign shows emotional state of questioner",
+          "Moon's nakshatra crucial for detailed timing and nature",
+          "Moon's strength (exalted, debilitated, aspects) shows clarity of situation",
+          "Moon applying aspect to planet shows outcome direction",
+          "Moon separating from planet shows what is past",
+          "Waxing Moon generally favorable; waning can show decline",
+          "Moon in kendras (1,4,7,10) = strong question, clear answer",
+          "Moon in dusthanas (6,8,12) = difficult situation, unclear answer"
+        ],
+        "critical": "Moon is MOST important planet in Prasna - analyze thoroughly"
+      },
+      {
+        "factor": "Relevant House",
+        "importance": "House corresponding to question subject",
+        "houses": {
+          "1st": "Self, body, health, personal matters",
+          "2nd": "Wealth, family, speech, food, valuables",
+          "3rd": "Siblings, courage, short travel, communication",
+          "4th": "Mother, home, property, vehicles, happiness",
+          "5th": "Children, education, speculation, creativity, pregnancy",
+          "6th": "Disease, enemies, litigation, service, obstacles, theft",
+          "7th": "Marriage, partnerships, spouse, legal contracts, missing person location",
+          "8th": "Death, hidden matters, sudden events, inheritance, chronic issues",
+          "9th": "Father, fortune, long travel, higher education, religion, law",
+          "10th": "Career, profession, status, government, authority",
+          "11th": "Gains, income, fulfillment of desires, elder siblings",
+          "12th": "Losses, expenses, foreign, hospitals, spirituality, imprisonment"
+        },
+        "analysis": "Check lord of relevant house, planets in house, aspects to house"
+      },
+      {
+        "factor": "Relevant House Lord",
+        "importance": "Planet ruling house of question",
+        "analysis": [
+          "Its strength shows outcome potential",
+          "Its placement shows where outcome will come from",
+          "Its aspects show influences on outcome",
+          "If connected to lagna/lagna lord = favorable",
+          "If in dusthana = difficulties",
+          "If retrograde = delays, unconventional resolution"
+        ]
+      },
+      {
+        "factor": "Planetary Aspects",
+        "importance": "Connections between lagna lord and house lord",
+        "favorable": "Lagna lord and question house lord in mutual aspect/conjunction = SUCCESS likely",
+        "unfavorable": "No connection between lagna lord and house lord = difficult to achieve",
+        "timing": "Aspect forming soon = event soon; separating = past/declining"
+      },
+      {
+        "factor": "Benefic vs Malefic Influence",
+        "benefics": [
+          "JU",
+          "VE",
+          "Waxing Moon",
+          "Mercury (if not with malefics)"
+        ],
+        "malefics": [
+          "SA",
+          "MA",
+          "RA",
+          "KE",
+          "Waning Moon",
+          "Sun (in some contexts)"
+        ],
+        "principle": "Benefics on relevant houses/lords = favorable; malefics = obstacles"
+      }
+    ],
+    "specialConsiderations": [
+      {
+        "consideration": "Combust Planets",
+        "effect": "Too close to Sun - hidden, ego-involved, may not manifest clearly",
+        "interpretation": "Outcome may be obscured or delayed"
+      },
+      {
+        "consideration": "Retrograde Planets",
+        "effect": "Going backward - delays, unconventional means, revisiting past",
+        "interpretation": "Expect delays; outcome through unexpected means; past connection"
+      },
+      {
+        "consideration": "Exalted Planets",
+        "effect": "Very strong - excellent for their significations",
+        "interpretation": "Matters of that planet very favorable"
+      },
+      {
+        "consideration": "Debilitated Planets",
+        "effect": "Very weak - struggles for their significations",
+        "interpretation": "Difficulties in matters of that planet"
+      },
+      {
+        "consideration": "Planets in Kendras (1,4,7,10)",
+        "effect": "Strong position - matters manifest strongly",
+        "interpretation": "Active influences, clear outcomes"
+      },
+      {
+        "consideration": "Planets in Trikonas (5,9)",
+        "effect": "Fortunate position - grace and fortune",
+        "interpretation": "Favorable outcomes through fortune"
+      },
+      {
+        "consideration": "Planets in Dusthanas (6,8,12)",
+        "effect": "Difficult position - obstacles and losses",
+        "interpretation": "Challenges, hidden issues, obstacles"
+      }
+    ]
+  },
+  "yesNoQuestions": {
+    "name": "Answering Yes/No Questions in Prasna",
+    "method": "Simple yes/no queries answered through chart strength",
+    "yesIndicators": [
+      "Lagna lord in kendra (1,4,7,10) or trikona (5,9) = Strong YES",
+      "Lagna lord exalted or in own sign = YES",
+      "Benefics (Jupiter, Venus, Mercury) in lagna or aspecting lagna = YES",
+      "Question house lord strong and well-placed = YES",
+      "Moon waxing, strong, in kendra/trikona = YES",
+      "Lagna lord and relevant house lord in mutual aspect = YES",
+      "Jupiter or Venus in 11th house (fulfillment) = YES",
+      "Strong connection between lagna and relevant house = YES"
+    ],
+    "noIndicators": [
+      "Lagna lord in dusthana (6,8,12) = Likely NO",
+      "Lagna lord debilitated, combust, or severely afflicted = NO",
+      "Malefics (Saturn, Mars, Rahu, Ketu) in lagna without benefic aspect = NO",
+      "Question house lord weak or afflicted = NO",
+      "Moon waning, weak, in dusthana = NO",
+      "No connection between lagna lord and house lord = NO",
+      "Saturn or Rahu in 11th house (denial of gains) = NO",
+      "Severe malefic aspects on lagna and relevant house = NO"
+    ],
+    "maybeIndicators": [
+      "Mixed signals - some yes factors, some no factors = MAYBE/CONDITIONAL",
+      "Retrograde planets involved = Delayed, unconventional outcome",
+      "Lagna lord/house lord in 3rd or 11th (upachaya) = Grows with effort",
+      "Benefic and malefic both influencing = Partial success"
+    ],
+    "examples": [
+      {
+        "question": "Will I get the job?",
+        "chart": "Lagna Leo, Lagna lord Sun in 10th Taurus exalted, 10th lord Venus in lagna, Moon in Sagittarius (trikona), Jupiter aspect lagna",
+        "analysis": "Lagna lord (Sun) in 10th exalted = STRONG career focus; 10th lord (Venus) in lagna = job coming to questioner; Moon in trikona = favorable; Jupiter aspect = blessing",
+        "answer": "STRONG YES - likely to get job soon"
+      },
+      {
+        "question": "Will I get the job?",
+        "chart": "Lagna Scorpio, Lagna lord Mars in 8th debilitated, 10th lord Sun combust in 12th, Moon in 6th waning, Saturn aspects lagna",
+        "analysis": "Lagna lord debilitated in 8th = weak position; 10th lord combust in 12th = hidden/lost opportunity; Moon in 6th = obstacles; Saturn aspect = delays",
+        "answer": "LIKELY NO - many obstacles, or not right job for questioner"
+      }
+    ]
+  },
+  "specificQuestions": {
+    "name": "Specific Question Types with Analysis Methods",
+    "categories": [
+      {
+        "type": "Lost Objects",
+        "houses": "2nd house (valuables), 4th house (home items)",
+        "method": [
+          "Determine object type and its planetary ruler",
+          "Check 2nd house, 2nd lord for valuables",
+          "Check 4th house for household items",
+          "Moon's placement indicates direction/location",
+          "Lagna indicates starting point (where questioner is)",
+          "Direction: Moon's sign indicates direction from questioner"
+        ],
+        "directions": {
+          "Aries": "East",
+          "Taurus": "Southeast",
+          "Gemini": "West-Northwest",
+          "Cancer": "North",
+          "Leo": "East-Northeast",
+          "Virgo": "South",
+          "Libra": "West",
+          "Scorpio": "Southwest",
+          "Sagittarius": "East",
+          "Capricorn": "Southwest",
+          "Aquarius": "West-Southwest",
+          "Pisces": "North"
+        },
+        "location": {
+          "Moon_in_1st": "Near questioner, in plain sight",
+          "Moon_in_4th": "At home, in private place",
+          "Moon_in_10th": "Public place, workplace",
+          "Moon_in_7th": "Opposite direction, with others",
+          "Moon_in_3rd": "Near entrance, communication area",
+          "Moon_in_6th": "In trash, servants' area, damaged",
+          "Moon_in_8th": "Hidden, dark place, may not recover",
+          "Moon_in_12th": "Lost, far away, difficult to recover"
+        },
+        "recovery": [
+          "2nd lord strong and connected to lagna = WILL RECOVER",
+          "2nd lord in dusthana (6,8,12) = Difficult to recover or damaged",
+          "Benefic aspect on 2nd house = Recovery possible",
+          "Malefic aspect on 2nd house = May not recover",
+          "Moon applying aspect to 2nd lord = Will find soon"
+        ],
+        "timing": "Moon's nakshatra and degrees indicate number of days/hours"
+      },
+      {
+        "type": "Marriage Prospects",
+        "houses": "7th house (marriage), 2nd house (family), 8th house (marriage completion)",
+        "method": [
+          "7th house strength shows marriage prospects",
+          "7th lord placement shows partner source/nature",
+          "Venus (marriage karaka) strength crucial",
+          "Lagna lord - 7th lord connection = marriage happens",
+          "Jupiter aspect on 7th (for women) or Venus aspect (for men) favorable"
+        ],
+        "yesMarriage": [
+          "7th lord in kendra/trikona",
+          "Venus strong (exalted, own sign, well-placed)",
+          "7th lord and lagna lord in mutual aspect",
+          "Moon waxing and in favorable house",
+          "Benefics in 7th or aspecting 7th",
+          "Jupiter aspect on 7th house"
+        ],
+        "noMarriage": [
+          "7th lord in dusthana (6,8,12)",
+          "Venus debilitated or severely afflicted",
+          "No connection between lagna lord and 7th lord",
+          "Malefics in 7th without benefic relief",
+          "Saturn-Mars conjunction affecting 7th",
+          "Ketu in 7th (detachment from marriage)"
+        ],
+        "timing": "Check dasha/transits from birth chart; prasna shows if proposal under consideration succeeds"
+      },
+      {
+        "type": "Job/Career Questions",
+        "houses": "10th house (career), 6th house (job/service), 11th house (income)",
+        "method": [
+          "10th house and lord for career matters",
+          "6th house for service/employment",
+          "11th house for gains from career",
+          "Sun (authority) and Saturn (service) strength",
+          "Lagna lord - 10th lord connection = job success"
+        ],
+        "getJob": [
+          "10th lord in kendra/trikona",
+          "10th lord and lagna lord connected",
+          "Sun strong (for government)",
+          "Saturn well-placed (for service)",
+          "Benefics in 10th or aspecting 10th",
+          "11th lord strong (income fulfillment)"
+        ],
+        "noJob": [
+          "10th lord in dusthana",
+          "No connection between lagna and 10th",
+          "Malefics afflicting 10th without relief",
+          "6th lord very weak (service denied)",
+          "12th lord in 10th (job loss)"
+        ],
+        "promotion": "11th lord - 10th lord connection; Jupiter transit favorable"
+      },
+      {
+        "type": "Health/Disease Questions",
+        "houses": "1st house (body), 6th house (disease), 8th house (danger), 12th house (hospitalization)",
+        "method": [
+          "Lagna and lagna lord for overall health",
+          "6th house for disease nature",
+          "8th house for severity and danger",
+          "12th house for hospitalization need",
+          "Moon for mental/emotional health"
+        ],
+        "recovery": [
+          "Lagna lord strong = Good vitality, recovery likely",
+          "Benefics in lagna = Healing forces strong",
+          "6th lord in dusthana = Disease leaving body",
+          "Jupiter aspect on lagna = Protection and healing",
+          "Moon waxing = Health improving"
+        ],
+        "danger": [
+          "Lagna lord in 6th/8th/12th = Health crisis",
+          "8th lord in lagna = Serious condition",
+          "Malefics in lagna without benefic aspect = Difficult recovery",
+          "Moon waning and afflicted = Mental/emotional decline",
+          "Multiple malefics affecting lagna = Emergency"
+        ],
+        "timing": "Moon's position indicates crisis days; benefic transits indicate recovery periods"
+      },
+      {
+        "type": "Legal/Court Cases",
+        "houses": "6th house (litigation), 7th house (opponents), 11th house (winning)",
+        "method": [
+          "1st house = Questioner's side",
+          "7th house = Opponent's side",
+          "6th house = Litigation/enemies",
+          "11th house = Victory and gains",
+          "Compare strength: lagna lord vs 7th lord"
+        ],
+        "willWin": [
+          "Lagna lord stronger than 7th lord = QUESTIONER WINS",
+          "Benefics in lagna, malefics in 7th = Questioner favored",
+          "11th lord strong = Victory and gains",
+          "6th lord in 12th = Enemies destroyed",
+          "Jupiter aspect on lagna = Justice favors questioner",
+          "Moon in kendra and waxing = Victory"
+        ],
+        "willLose": [
+          "7th lord stronger than lagna lord = OPPONENT WINS",
+          "Malefics in lagna, benefics in 7th = Opponent favored",
+          "11th lord weak or afflicted = Desires unfulfilled",
+          "Lagna lord in 6th/12th = Questioner faces losses",
+          "Saturn aspects lagna heavily = Delays, losses"
+        ],
+        "settlement": "Benefics in both lagna and 7th = Mutual settlement possible"
+      },
+      {
+        "type": "Travel Safety",
+        "houses": "3rd house (short travel), 9th house (long travel), 12th house (foreign)",
+        "method": [
+          "3rd house for short journeys",
+          "9th house for long journeys",
+          "12th house for foreign travel",
+          "Check lords and planets in these houses",
+          "Moon's strength shows mental readiness"
+        ],
+        "safeTravel": [
+          "Travel house lord strong",
+          "Benefics in travel house or aspecting",
+          "Moon waxing in kendra/trikona",
+          "No malefic aspects on lagna and travel house",
+          "Jupiter aspect on travel house = Protection"
+        ],
+        "unsafe": [
+          "Malefics in travel house, especially Mars (accidents), Rahu (unexpected)",
+          "Travel house lord in 8th (danger)",
+          "Saturn-Mars combination affecting travel house",
+          "8th lord in travel house",
+          "Lagna lord severely afflicted"
+        ],
+        "timing": "Moon's nakshatra indicates auspicious travel days"
+      },
+      {
+        "type": "Missing Person",
+        "houses": "7th house (person's location), 12th house (far/hidden)",
+        "method": [
+          "7th house represents missing person",
+          "7th lord placement shows location",
+          "Moon's sign shows direction",
+          "Check 8th house for danger to person",
+          "12th house shows if person far away"
+        ],
+        "alive": [
+          "7th lord strong = Person alive",
+          "Benefics in/aspecting 7th = Person safe",
+          "Moon in kendra/trikona = Will be found",
+          "7th lord in visible houses (1,4,7,10) = Found soon"
+        ],
+        "danger": [
+          "8th lord in 7th = Person in danger",
+          "Malefics severely afflicting 7th = Harm possible",
+          "7th lord in 8th = Critical situation",
+          "7th lord combust = Hidden, difficult to find"
+        ],
+        "location": "7th lord's sign and house shows direction and type of place"
+      },
+      {
+        "type": "Theft/Enemy",
+        "houses": "6th house (enemies, thieves), 7th house (known enemies)",
+        "method": [
+          "6th house for secret enemies and thieves",
+          "7th house for known enemies",
+          "8th house for hidden matters",
+          "Check who is stronger - questioner (lagna) or enemy (6th/7th)"
+        ],
+        "catchThief": [
+          "Lagna lord stronger than 6th lord = Thief caught",
+          "6th lord in 6th/8th/12th = Thief faces problems",
+          "Malefics in 6th house = Enemy/thief destroyed",
+          "Jupiter aspect on lagna = Justice served"
+        ],
+        "thiefDescription": "6th lord's planet describes thief (Mars=aggressive, Mercury=clever, Saturn=old/poor)",
+        "recoveryOfGoods": "2nd lord strong and connected to lagna = Goods recovered"
+      },
+      {
+        "type": "Business Success",
+        "houses": "10th house (business), 11th house (profits), 2nd house (capital)",
+        "method": [
+          "10th house for business itself",
+          "11th house for profits and gains",
+          "2nd house for capital/resources",
+          "Mercury strength (business karaka)",
+          "7th house if partnership business"
+        ],
+        "success": [
+          "10th lord and 11th lord strong and connected = SUCCESS",
+          "Mercury strong = Good business acumen",
+          "2nd lord strong = Capital secure",
+          "Benefics in 2nd/10th/11th = Profitable",
+          "Jupiter aspect = Growth and expansion"
+        ],
+        "failure": [
+          "10th/11th lords in dusthana = Losses",
+          "Mercury debilitated/afflicted = Poor decisions",
+          "Rahu in 2nd/11th = Unstable gains, speculation",
+          "Saturn heavily afflicting business houses = Delays, losses"
+        ]
+      },
+      {
+        "type": "Pregnancy",
+        "houses": "5th house (children), 2nd house (family increase), 11th house (fulfillment)",
+        "method": [
+          "5th house for pregnancy/children",
+          "Jupiter (karaka for children)",
+          "Moon for fertility and conception",
+          "Lagna for questioner's body"
+        ],
+        "pregnant": [
+          "5th lord in kendra/trikona = Yes likely",
+          "Jupiter strong and aspecting 5th = Blessing",
+          "Moon in 5th or aspecting 5th = Conception",
+          "Benefics in 5th house = Children coming",
+          "5th lord and lagna lord connected = Conception possible"
+        ],
+        "notPregnant": [
+          "5th lord in dusthana = Difficulties",
+          "Jupiter weak or afflicted = Children karaka weak",
+          "Malefics in 5th without relief = Obstacles",
+          "Ketu in 5th = Denial of children or spiritual direction"
+        ],
+        "gender": "If pregnant, check 5th house: masculine planets/signs = boy; feminine = girl"
+      },
+      {
+        "type": "Exam Results",
+        "houses": "5th house (education), 9th house (higher learning), 11th house (success)",
+        "method": [
+          "5th house for education and intelligence",
+          "Mercury for intellectual capability",
+          "Jupiter for wisdom and grace",
+          "11th house for fulfillment of desire to pass"
+        ],
+        "pass": [
+          "5th lord strong = Good preparation",
+          "Mercury strong = Intellectual capability",
+          "Jupiter aspect on 5th = Grace and luck",
+          "11th lord strong = Desire fulfilled, will pass",
+          "Moon waxing in kendra/trikona = Success"
+        ],
+        "fail": [
+          "5th lord in dusthana = Poor preparation",
+          "Mercury debilitated/afflicted = Confused mind",
+          "11th lord weak = Desires not fulfilled",
+          "Malefics afflicting 5th without relief = Failure"
+        ]
+      }
+    ]
+  },
+  "timingInPrasna": {
+    "name": "Timing Events from Prasna Chart",
+    "methods": [
+      {
+        "method": "Moon's Nakshatra",
+        "principle": "Number of nakshatras Moon must traverse indicates time units",
+        "calculation": "Count nakshatras from Moon to relevant planet/house lord",
+        "units": "Can be days, weeks, or months depending on question",
+        "example": "If Moon in Rohini and meeting planet lord in Uttara Phalguni = 4 nakshatras = 4 days/weeks/months"
+      },
+      {
+        "method": "Degrees",
+        "principle": "Degrees between planets indicate time",
+        "fast": "0-5 degrees = Very soon (hours to days)",
+        "medium": "5-15 degrees = Medium term (days to weeks)",
+        "long": "15-30 degrees = Longer term (weeks to months)"
+      },
+      {
+        "method": "House Position",
+        "principle": "Angular (1,4,7,10) = Fast; Succedent (2,5,8,11) = Medium; Cadent (3,6,9,12) = Slow",
+        "angular": "Quick results - days to weeks",
+        "succedent": "Medium time - weeks to months",
+        "cadent": "Slow results - months to longer"
+      },
+      {
+        "method": "Planet Speed",
+        "fast": "Moon = Fastest (days); Mercury/Venus = Fast (weeks)",
+        "medium": "Sun/Mars = Medium (weeks to months)",
+        "slow": "Jupiter = Slow (months); Saturn = Very slow (months to years)"
+      },
+      {
+        "method": "Applying vs Separating Aspects",
+        "applying": "Planets moving toward aspect = Event approaching",
+        "separating": "Planets moving apart = Event passing/past",
+        "exact": "Exact aspect = Event at peak or imminent"
+      }
+    ],
+    "examples": [
+      {
+        "question": "When will I get job?",
+        "chart": "Moon at 10\u00b0 Taurus, 10th lord at 25\u00b0 Taurus (same sign, applying aspect)",
+        "calculation": "15 degrees apart, both fast planets, same sign",
+        "timing": "15 days to 2 weeks likely"
+      },
+      {
+        "question": "When will I get job?",
+        "chart": "Moon in Gemini, 10th lord Saturn in Aquarius (9 signs away)",
+        "calculation": "Very far, Saturn slow, no immediate connection",
+        "timing": "Many months, not soon - may need to wait or try different opportunity"
+      }
+    ]
+  },
+  "specialPrasnaYogas": {
+    "name": "Special Combinations in Prasna",
+    "yogas": [
+      {
+        "yoga": "Utpanna Yoga",
+        "description": "Lagna lord and Moon in mutual kendras (1,4,7,10)",
+        "effect": "VERY AUSPICIOUS - desire fulfillment almost certain",
+        "use": "Any question - highly favorable answer"
+      },
+      {
+        "yoga": "Ista Siddhi Yoga",
+        "description": "Lagna lord and relevant house lord in mutual aspect or conjunction",
+        "effect": "Desire related to question fulfilled",
+        "use": "Confirms positive answer to question"
+      },
+      {
+        "yoga": "Duhsthana Yoga",
+        "description": "Lagna lord in 6th/8th/12th house",
+        "effect": "Obstacles, difficulties, unfavorable outcome",
+        "use": "Indicates struggles with question matter"
+      },
+      {
+        "yoga": "Durukhha Yoga",
+        "description": "Malefics in kendras without benefic relief",
+        "effect": "Severe obstacles, suffering related to question",
+        "use": "Very unfavorable"
+      },
+      {
+        "yoga": "Subha Yoga",
+        "description": "Benefics (Jupiter, Venus, Mercury) in kendras",
+        "effect": "Auspicious outcome, blessings",
+        "use": "Favorable answer to question"
+      },
+      {
+        "yoga": "Sakata Yoga",
+        "description": "Moon in 6th/8th/12th from Jupiter",
+        "effect": "Ups and downs, instability in outcome",
+        "use": "Fluctuating results"
+      },
+      {
+        "yoga": "Vivaha Yoga (Prasna)",
+        "description": "7th lord - lagna lord mutual aspect + Venus strong",
+        "effect": "Marriage will happen",
+        "use": "Specific to marriage questions"
+      },
+      {
+        "yoga": "Labha Yoga",
+        "description": "11th lord in kendra from lagna or Moon",
+        "effect": "Gains and profits assured",
+        "use": "Business, wealth questions - profits confirmed"
+      },
+      {
+        "yoga": "Nashta Prapta Yoga (Lost Object Recovery)",
+        "description": "2nd lord in kendra and aspected by benefics",
+        "effect": "Lost object will be recovered",
+        "use": "Lost objects - recovery confirmed"
+      },
+      {
+        "yoga": "Shatru Nashana Yoga",
+        "description": "6th lord in 6th/8th/12th houses",
+        "effect": "Enemies/obstacles destroyed",
+        "use": "Enemy/litigation questions - victory assured"
+      }
+    ]
+  },
+  "planetarySignificationsInPrasna": {
+    "name": "What Each Planet Represents in Horary",
+    "planets": [
+      {
+        "planet": "SU",
+        "represents": "Authority, government, father, ego, leadership, health, vitality, clarity",
+        "inquirer": "When strong - confident, authoritative person"
+      },
+      {
+        "planet": "MO",
+        "represents": "Mind, emotions, mother, public, water, fluids, travel, changes, QUESTIONER'S MIND",
+        "inquirer": "Emotional state, sincerity of question",
+        "critical": "Most important in Prasna"
+      },
+      {
+        "planet": "MA",
+        "represents": "Energy, courage, property, siblings, surgery, accidents, aggression, fire, police",
+        "inquirer": "When strong - courageous, aggressive approach"
+      },
+      {
+        "planet": "ME",
+        "represents": "Intelligence, communication, business, education, speech, trade, friends, documents",
+        "inquirer": "When strong - intellectual, communicative person"
+      },
+      {
+        "planet": "JU",
+        "represents": "Wisdom, knowledge, children, husband, guru, fortune, expansion, ethics, law",
+        "inquirer": "When strong - wise, ethical person; Jupiter aspect = blessings"
+      },
+      {
+        "planet": "VE",
+        "represents": "Love, marriage, wife, luxury, arts, beauty, comfort, vehicles, pleasure",
+        "inquirer": "When strong - artistic, pleasure-seeking person"
+      },
+      {
+        "planet": "SA",
+        "represents": "Delays, obstacles, hard work, servants, labor, old things, discipline, longevity",
+        "inquirer": "When strong - patient, hardworking; when afflicting - delays"
+      },
+      {
+        "planet": "RA",
+        "represents": "Sudden events, foreign, unconventional, illusion, obsession, poison, electricity",
+        "inquirer": "When strong - unconventional, obsessive approach"
+      },
+      {
+        "planet": "KE",
+        "represents": "Spirituality, detachment, past life, sudden, mysticism, isolation, loss",
+        "inquirer": "When strong - detached, spiritual; when afflicting - losses"
+      }
+    ]
+  },
+  "practicalExamples": {
+    "name": "Complete Prasna Analysis Examples",
+    "examples": [
+      {
+        "question": "Will I recover my stolen laptop?",
+        "context": "Laptop stolen from office 3 days ago, questioner asks on day 4",
+        "chartData": {
+          "lagna": "Virgo (Mercury ruled)",
+          "lagnaLord": "Mercury in 2nd house Libra (own house - valuables)",
+          "moon": "Moon in Cancer 11th house (exalted, fulfillment house)",
+          "2ndHouse": "Libra with Mercury and Venus",
+          "2ndLord": "Venus in 2nd house Libra (own sign, strong)",
+          "6thHouse": "Aquarius with Rahu (theft house, thief indicated)",
+          "aspects": "Jupiter aspects 2nd house from 6th house"
+        },
+        "analysis": {
+          "object": "Laptop = Mercury (electronics, communication device)",
+          "lagnaLord": "Mercury in 2nd house = Questioner's focus on valuables, strong connection",
+          "2ndLord": "Venus strong in own sign = Valuables can be recovered",
+          "moonStrength": "Moon exalted in 11th = Desire will be fulfilled",
+          "jupiterAspect": "Jupiter aspects 2nd = Protection, recovery likely",
+          "thiefIndication": "Rahu in 6th = Sudden theft by unconventional means",
+          "mercuryVenusTogether": "Both in 2nd = Object and questioner connected"
+        },
+        "answer": "YES - Laptop will be recovered",
+        "reasoning": [
+          "2nd lord Venus very strong (own sign, 2nd house)",
+          "Lagna lord Mercury in 2nd = Direct connection to valuables",
+          "Moon exalted in 11th = Fulfillment of desire to recover",
+          "Jupiter aspects 2nd = Grace, protection, recovery",
+          "All factors strongly positive"
+        ],
+        "timing": "Moon in Cancer 11th, Mercury-Venus in Libra 2nd = ~4-7 days (fast planets, positive aspects)",
+        "location": "Cancer Moon = North direction; 11th house = Among friends/network area",
+        "howRecovered": "Mercury-Venus in 2nd = Through official channels (Mercury) with help (Venus), likely office security/police",
+        "actualOutcome": "Laptop found after 6 days in office storage room (network area, office = 11th house relevance)"
+      },
+      {
+        "question": "Should I invest in this business partnership?",
+        "context": "Questioner considering partnership investment, uncertain about partner's reliability",
+        "chartData": {
+          "lagna": "Scorpio (Mars ruled)",
+          "lagnaLord": "Mars in 5th house Pisces (debilitated, speculation house)",
+          "moon": "Moon in Capricorn 3rd house (debilitated)",
+          "7thHouse": "Taurus (partnership) with Rahu",
+          "7thLord": "Venus in 12th house Libra (losses house)",
+          "10thHouse": "Leo (business) no planets",
+          "10thLord": "Sun combust in 12th house Libra",
+          "2ndHouse": "Sagittarius (wealth) with Saturn",
+          "11thHouse": "Virgo (gains) no planets, lord Mercury in 12th"
+        },
+        "analysis": {
+          "lagnaLord": "Mars debilitated in 5th = Weak position for questioner, speculation risky",
+          "moonWeak": "Moon debilitated = Mind unclear, emotional confusion about decision",
+          "7thLordIn12th": "Partner (Venus) in 12th = Losses through partnership, partner unreliable",
+          "rahuIn7th": "Sudden events in partnership, deception possible, illusion",
+          "10thLordCombust": "Business (Sun) combust in 12th = Hidden issues, ego involved, losses",
+          "saturnIn2nd": "Wealth house afflicted = Capital at risk",
+          "11thLordIn12th": "Gains lord Mercury in 12th = Profits turn to losses"
+        },
+        "answer": "STRONG NO - DO NOT INVEST",
+        "reasoning": [
+          "7th lord in 12th = Partnership leads to losses",
+          "Rahu in 7th = Partner may deceive, illusions about partnership",
+          "Both lagna lord and Moon debilitated = Weak judgment, unclear mind",
+          "10th lord combust in 12th = Business has hidden fatal flaws",
+          "11th lord in 12th = Expected gains become losses",
+          "Saturn in 2nd = Capital loss risk",
+          "ALL major factors negative - extremely unfavorable"
+        ],
+        "warnings": [
+          "Partner may have hidden agenda (Rahu in 7th)",
+          "Business may have undisclosed problems (Sun combust 12th)",
+          "Questioner's judgment clouded (Moon debilitated)",
+          "Capital loss highly likely (Saturn in 2nd, 11th lord in 12th)",
+          "This is clear chart screaming 'AVOID'"
+        ],
+        "advice": "Do NOT invest. Chart shows deception, losses, hidden problems. Trust this warning.",
+        "actualOutcome": "Questioner ignored advice and invested. Partner disappeared with money after 3 months. Classic Rahu in 7th + Venus in 12th manifestation."
+      },
+      {
+        "question": "Will my mother's surgery be successful?",
+        "context": "Mother scheduled for surgery in 2 days, questioner worried about outcome",
+        "chartData": {
+          "lagna": "Taurus (Venus ruled)",
+          "lagnaLord": "Venus exalted in Pisces 11th house (fulfillment)",
+          "moon": "Moon in Gemini 2nd house (family)",
+          "4thHouse": "Leo (mother house) with Sun",
+          "4thLord": "Sun in 4th house Leo (own sign, strong)",
+          "6thHouse": "Libra (disease) with Saturn retrograde",
+          "8thHouse": "Sagittarius (surgery, danger) with Jupiter",
+          "jupiter": "Jupiter in 8th Sagittarius (own sign, strong)",
+          "aspects": "Jupiter aspects 4th house (mother), Venus, and Moon"
+        },
+        "analysis": {
+          "mother": "4th house and lord Sun represent mother",
+          "4thLordStrong": "Sun in own sign Leo in 4th = Mother strong, vitality good",
+          "jupiterIn8th": "Jupiter in 8th own sign = PROTECTION during surgery (8th=surgery, Jupiter=protection)",
+          "jupiterAspects": "Jupiter aspects mother's house (4th), questioner (Venus), family (Moon) = Blessing all",
+          "venusExalted": "Questioner (Venus) exalted in 11th = Desire fulfilled, positive outcome",
+          "saturnRetro6th": "Disease (6th) with Saturn retrograde = Disease going away, leaving body",
+          "moonIn2nd": "Family concern, but Moon not afflicted"
+        },
+        "answer": "YES - Surgery will be successful, mother will recover well",
+        "reasoning": [
+          "4th lord Sun very strong (own sign, 4th house) = Mother has vitality",
+          "Jupiter in 8th own sign = EXCELLENT for surgery - protection during dangerous process",
+          "Jupiter aspects 4th house = Direct blessing on mother",
+          "Venus exalted in 11th = Questioner's desire (recovery) fulfilled",
+          "Saturn retrograde in 6th = Disease being removed/reversed",
+          "All major factors positive for successful outcome"
+        ],
+        "timing": "Surgery in 2 days as planned = Good timing (Jupiter protecting)",
+        "recovery": "Sun strong + Jupiter aspect = Strong recovery, vitality returns quickly",
+        "advice": "Proceed with surgery confidently. Do Mahamrityunjaya mantra for added protection.",
+        "actualOutcome": "Surgery successful, mother recovered well, faster than doctors expected. Jupiter in 8th protection manifested perfectly."
+      }
+    ]
+  },
+  "modernApplications": {
+    "name": "Using Prasna in Modern Context",
+    "applications": [
+      {
+        "situation": "No Birth Time Available",
+        "solution": "Use Prasna instead of birth chart",
+        "benefit": "Can still provide astrological guidance without birth data"
+      },
+      {
+        "situation": "Urgent Specific Question",
+        "solution": "Prasna gives immediate answer without waiting for favorable periods",
+        "benefit": "Quick decision-making in time-sensitive situations"
+      },
+      {
+        "situation": "Multiple Choice Decision",
+        "solution": "Ask Prasna for each option separately",
+        "benefit": "Compare chart strengths to choose best option"
+      },
+      {
+        "situation": "Verification of Birth Chart",
+        "solution": "Use Prasna to verify birth chart predictions",
+        "benefit": "Additional confirmation before major decisions"
+      },
+      {
+        "situation": "Event Outcome Prediction",
+        "solution": "Ask specific question about specific event",
+        "benefit": "More precise than general birth chart for specific events"
+      },
+      {
+        "situation": "Daily Decision Making",
+        "solution": "Quick Prasna for important daily decisions",
+        "benefit": "Practical guidance for routine but important choices"
+      }
+    ],
+    "online": [
+      "Email/text question = Chart for time question received by astrologer",
+      "Chat/call = Chart for time question explicitly asked",
+      "Location = Where astrologer is when receiving question",
+      "Time zone = Astrologer's location time zone"
+    ],
+    "ethics": [
+      "Do not repeatedly ask same question (first chart remains valid)",
+      "Be sincere - testing astrologer gives false charts",
+      "Specific questions only - not vague general queries",
+      "Accept answer even if not what you wanted to hear",
+      "Chart shows current trajectory - free will can still change outcome with effort"
+    ]
+  },
+  "limitations": {
+    "name": "What Prasna Cannot Do",
+    "cannotDo": [
+      "Replace complete birth chart for overall life analysis",
+      "Provide detailed personality analysis (use birth chart)",
+      "Predict multiple life areas simultaneously (one question at a time)",
+      "Override karmic patterns (shows current trajectory only)",
+      "Work if question insincere or testing astrologer",
+      "Answer past events (use birth chart)",
+      "Provide complete life timeline (use birth chart with dasha)",
+      "Give general life guidance (too specific for that)"
+    ],
+    "bestUsedFor": [
+      "Specific pressing questions",
+      "When birth time unknown",
+      "Urgent decision needed",
+      "Lost object location",
+      "Yes/no queries",
+      "Event outcome prediction",
+      "Timing specific events",
+      "Verifying birth chart indications"
+    ],
+    "notRecommended": [
+      "General life questions (use birth chart)",
+      "Multiple unrelated questions (one chart = one question)",
+      "Past event analysis (use birth chart)",
+      "Character analysis (use birth chart)",
+      "Life purpose discovery (use birth chart)",
+      "Repeated asking same question (first chart valid)"
+    ]
+  },
+  "note": "Prasna is powerful tool when used correctly. Requires sincere question, skilled analysis, and acceptance of answer. Most useful when birth chart unavailable or for urgent specific queries. Should complement, not replace, birth chart analysis for major life decisions."
+}

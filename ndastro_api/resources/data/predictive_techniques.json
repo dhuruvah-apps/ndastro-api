@@ -1,0 +1,1011 @@
+{
+  "system": {
+    "name": "Vedic Predictive Astrology",
+    "description": "Comprehensive techniques for predicting life events and timing",
+    "sanskritName": "Phalita Jyotisha",
+    "purpose": "Accurate prediction of life events, timing, and outcomes",
+    "importance": "Core application of astrology for practical life guidance",
+    "mainMethods": [
+      "Dasha-Bhukti analysis",
+      "Transit analysis",
+      "Varshaphal (Annual charts)",
+      "Prashna (Horary)",
+      "Divisional chart analysis",
+      "Ashtakavarga timing"
+    ],
+    "vedicReferences": "Brihat Parashara Hora Shastra, Jataka Parijata, Phaladeepika, Saravali",
+    "accuracy": "High when multiple techniques confirm same timing"
+  },
+  "predictionTechniques": [
+    {
+      "name": "Dasha-Bhukti Analysis",
+      "importance": "Primary timing method",
+      "description": "Analysis of major and sub-periods for event timing",
+      "methodology": "Check dasha lord, bhukti lord, and their relationship to houses and planets",
+      "steps": [
+        {
+          "step": 1,
+          "action": "Identify current Mahadasha lord",
+          "analysis": "Check planet's nature, house rulership, placement, strength"
+        },
+        {
+          "step": 2,
+          "action": "Identify current Antardasha (Bhukti) lord",
+          "analysis": "Check sub-period lord's nature and relationship with mahadasha lord"
+        },
+        {
+          "step": 3,
+          "action": "Check mutual relationship",
+          "analysis": "Friends, enemies, neutral? Yoga formation? Aspect relationship?"
+        },
+        {
+          "step": 4,
+          "action": "Analyze house rulerships",
+          "analysis": "Which houses do dasha-bhukti lords rule? Their significations will manifest"
+        },
+        {
+          "step": 5,
+          "action": "Check placements",
+          "analysis": "Houses where dasha-bhukti lords are placed show areas of activity"
+        },
+        {
+          "step": 6,
+          "action": "Examine aspects",
+          "analysis": "Planets aspected by dasha-bhukti lords will activate"
+        }
+      ],
+      "eventTiming": {
+        "marriage": "7th lord's dasha-bhukti, Venus dasha-bhukti, 7th house activations",
+        "career": "10th lord's dasha-bhukti, Sun/Saturn dasha-bhukti, 10th house activations",
+        "children": "5th lord's dasha-bhukti, Jupiter dasha-bhukti, 5th house activations",
+        "property": "4th lord's dasha-bhukti, Mars dasha-bhukti, 4th house activations",
+        "wealth": "2nd/11th lord dasha-bhukti, Jupiter/Venus dasha-bhukti, wealth house activations",
+        "health": "6th/8th lord dasha-bhukti, malefic dasha-bhukti, afflicted house activations",
+        "spiritual": "9th/12th lord dasha-bhukti, Jupiter/Ketu dasha-bhukti, spiritual house activations",
+        "foreign": "12th lord dasha-bhukti, Rahu dasha-bhukti, foreign significator activations"
+      },
+      "pratyantarDasha": "Further subdivision for precise timing within antardasha",
+      "sookshmaDasha": "Even more precise timing for specific dates",
+      "example": "Marriage timing: Jupiter MD, Venus AD, Moon PD in 7th from Moon with transit Jupiter over natal Venus"
+    },
+    {
+      "name": "Transit Analysis",
+      "importance": "Secondary confirmation method",
+      "description": "Current planetary positions triggering natal chart points",
+      "sanskritName": "Gochara",
+      "principles": "Transiting planets activate natal house positions and aspects",
+      "majorTransits": [
+        {
+          "planet": "JU",
+          "cycle": "12 years",
+          "importance": "Very high - major benefic",
+          "effects": "Expansion, growth, fortune, wisdom in houses transited",
+          "keyTransits": [
+            "Over natal Jupiter - wisdom peak, fortune",
+            "Over natal Venus - marriage, wealth, arts",
+            "Over 7th house - marriage possibility",
+            "Over 1st house - new beginnings, growth",
+            "Over 10th house - career advancement"
+          ],
+          "significance": "Events blessed by Jupiter transit are auspicious and lasting"
+        },
+        {
+          "planet": "SA",
+          "cycle": "29.5 years",
+          "importance": "Very high - major karmic indicator",
+          "effects": "Tests, lessons, delays, maturity, discipline in houses transited",
+          "keyTransits": [
+            "Over natal Moon (Sade Sati) - 7.5 year testing period",
+            "Over natal Sun - authority challenges, ego tests",
+            "Over 1st house - physical tests, maturity",
+            "Over 7th house - relationship tests",
+            "Over 10th house - career responsibility, hard work"
+          ],
+          "sadeSati": "2.5 years before, during, and after Moon sign - major life testing period",
+          "significance": "Events during Saturn transit teach important life lessons"
+        },
+        {
+          "planet": "Rahu-Ketu",
+          "cycle": "18 years",
+          "importance": "High - karmic axis",
+          "effects": "Sudden changes, foreign connections, spiritual evolution",
+          "keyTransits": [
+            "Over natal Moon - mental turbulence, foreign",
+            "Over 1st-7th axis - identity and relationship changes",
+            "Over 4th-10th axis - home and career upheavals",
+            "Natal Rahu-Ketu return - major karmic completion"
+          ],
+          "significance": "Events during nodal transit are karmic and transformative"
+        },
+        {
+          "planet": "MA",
+          "cycle": "1.88 years",
+          "importance": "Medium to high",
+          "effects": "Energy, action, conflicts, courage, property matters",
+          "keyTransits": [
+            "Over natal Mars - energy peak, accidents if afflicted",
+            "Over 1st house - assertiveness, energy boost",
+            "Over 4th house - property matters, mother issues",
+            "Over 7th house - marital conflicts or passion",
+            "Over 10th house - career action, competition"
+          ],
+          "significance": "Events require action, courage, and careful energy management"
+        },
+        {
+          "planet": "VE",
+          "cycle": "1 year",
+          "importance": "Medium",
+          "effects": "Love, luxury, arts, beauty, relationships, wealth",
+          "keyTransits": [
+            "Over natal Venus - love peak, beauty enhancement",
+            "Over 7th house - romance, marriage possibilities",
+            "Over 2nd house - wealth gains, food pleasures",
+            "Over 5th house - creative expression, romance"
+          ],
+          "significance": "Events bring pleasure, beauty, and relationship focus"
+        },
+        {
+          "planet": "ME",
+          "cycle": "1 year",
+          "importance": "Medium",
+          "effects": "Communication, business, intellect, education, trade",
+          "keyTransits": [
+            "Over natal Mercury - intellect peak, communication",
+            "Over 3rd house - writing, communication projects",
+            "Over 10th house - business matters, career communication"
+          ],
+          "significance": "Events involve intellect, communication, and business"
+        }
+      ],
+      "vedhaPoints": "Obstruction points that block transit benefits",
+      "transitFromMoon": "Also check transits from Moon lagna for emotional effects",
+      "doubleTransit": "Jupiter-Saturn transits to same house give strong results"
+    },
+    {
+      "name": "Varshaphal (Annual Chart)",
+      "importance": "High for yearly predictions",
+      "description": "Solar return chart cast for exact Sun return each year",
+      "sanskritName": "Varsha Kundali/Tajaka",
+      "calculation": "Chart cast for moment Sun returns to exact birth longitude",
+      "purpose": "Year-specific predictions from birthday to birthday",
+      "uniqueFeatures": [
+        "Uses Tajaka aspects (Western-like)",
+        "Muntha (year lord) system",
+        "Sahams (Arabic parts)",
+        "Annual planetary lordships",
+        "Different from birth chart analysis"
+      ],
+      "keyElements": [
+        {
+          "element": "Varsha Lagna",
+          "description": "Ascendant of solar return chart",
+          "significance": "Shows year's overall theme and focus",
+          "analysis": "Lord, planets in Varsha lagna, aspects"
+        },
+        {
+          "element": "Muntha",
+          "description": "Progressed point moving one sign per year from birth lagna",
+          "calculation": "Age modulo 12 = sign from birth lagna",
+          "significance": "Year's destiny point, shows year's direction",
+          "lord": "Muntha lord is year's significator"
+        },
+        {
+          "element": "Year Lord",
+          "description": "Lord of sign where Muntha falls",
+          "importance": "Most important planet for the year",
+          "analysis": "Year lord's strength, placement determines year's success"
+        },
+        {
+          "element": "Tajaka Aspects",
+          "description": "Five special aspects used in annual predictions",
+          "types": [
+            "Itthasala (applying)",
+            "Easarpha (separating)",
+            "Nakta (collection of light)",
+            "Yamaya (no light)",
+            "Manahoo (refranation)"
+          ],
+          "significance": "Show event likelihood and timing within year"
+        },
+        {
+          "element": "Sahams",
+          "description": "Arabic parts for specific life areas",
+          "examples": [
+            "Punya Saham (fortune)",
+            "Vidya Saham (education)",
+            "Vivaha Saham (marriage)",
+            "Santana Saham (children)"
+          ],
+          "usage": "Check sahams for specific predictions"
+        },
+        {
+          "element": "Patyayini Dasha",
+          "description": "Special dasha system for annual chart",
+          "duration": "One year divided among planets",
+          "usage": "Month-by-month predictions within the year"
+        }
+      ],
+      "interpretation": [
+        "Check Varsha lagna lord strength",
+        "Analyze Muntha position and lord",
+        "Look for Rajayogas in annual chart",
+        "Check houses from Varsha lagna for yearly themes",
+        "Combine with birth chart and current dashas"
+      ],
+      "example": "Strong Jupiter in Varsha lagna with Muntha in 9th house indicates fortunate year with spiritual growth"
+    },
+    {
+      "name": "Prashna (Horary) Astrology",
+      "importance": "High for specific questions",
+      "description": "Chart cast for moment of question to answer specific queries",
+      "sanskritName": "Prashna Shastra",
+      "principle": "Universe arranges chart at question moment to reflect answer",
+      "applications": "Lost objects, yes/no questions, event outcomes, hidden matters",
+      "uniqueFeatures": [
+        "No birth details needed",
+        "Instant answers possible",
+        "Good for uncertain birth times",
+        "Reveals hidden information"
+      ],
+      "methodology": [
+        {
+          "step": 1,
+          "action": "Cast chart for question moment",
+          "details": "Exact time and place when question asked or reaches astrologer"
+        },
+        {
+          "step": 2,
+          "action": "Identify querent and quesited",
+          "details": "Querent = questioner (usually 1st house), Quesited = question subject (relevant house)"
+        },
+        {
+          "step": 3,
+          "action": "Check chart strength",
+          "details": "Is chart fit to judge? Lagna not in beginning/end degrees, benefics in kendras/trikonas"
+        },
+        {
+          "step": 4,
+          "action": "Analyze relevant houses",
+          "details": "Marriage question? Check 7th house. Career? Check 10th house"
+        },
+        {
+          "step": 5,
+          "action": "Check Moon",
+          "details": "Moon's position, aspects, nakshatra are crucial"
+        },
+        {
+          "step": 6,
+          "action": "Apply Prashna rules",
+          "details": "Special rules like Udvega, Vishti, etc."
+        }
+      ],
+      "houseSignifications": {
+        "1st": "Questioner, physical body, general welfare",
+        "2nd": "Wealth, family, food, lost objects (movable)",
+        "3rd": "Siblings, courage, short travels, communications",
+        "4th": "Mother, home, property, vehicles, lost objects (immovable)",
+        "5th": "Children, love affairs, speculation, intelligence",
+        "6th": "Diseases, enemies, debts, litigation, servants",
+        "7th": "Spouse, partnerships, business, open enemies",
+        "8th": "Hidden matters, death, obstacles, inheritance",
+        "9th": "Father, fortune, long travels, spirituality, legal matters",
+        "10th": "Career, profession, status, government matters",
+        "11th": "Gains, profits, fulfillment of desires, friends",
+        "12th": "Losses, expenses, foreign lands, imprisonment, hospitalization"
+      },
+      "specialTechniques": [
+        "Udvega - Mental agitation of questioner",
+        "Vishti Karana - Inauspicious for question",
+        "Lost object location by Moon's nakshatra",
+        "Yes/No by benefic/malefic aspects",
+        "Timing by Moon's distance from significator"
+      ],
+      "example": "Lost object question: Check 2nd house for movable, 4th for immovable; Moon's nakshatra shows direction"
+    },
+    {
+      "name": "Divisional Chart Analysis",
+      "importance": "High for specific life areas",
+      "description": "Use specific divisional charts for detailed event analysis",
+      "principle": "Each varga shows one life area in detail",
+      "application": "Check relevant varga for specific predictions",
+      "mappings": [
+        {
+          "event": "Marriage timing and quality",
+          "varga": "D9 (Navamsa)",
+          "analysis": "7th house in D9, Venus in D9, 7th lord D9 position, dasha activation"
+        },
+        {
+          "event": "Career success and changes",
+          "varga": "D10 (Dasamsa)",
+          "analysis": "10th house in D10, Sun/Saturn in D10, 10th lord D10 position, career yogas in D10"
+        },
+        {
+          "event": "Children arrival and quality",
+          "varga": "D7 (Saptamsa)",
+          "analysis": "5th house in D7, Jupiter in D7, 5th lord D7 position, children timing"
+        },
+        {
+          "event": "Education and learning",
+          "varga": "D24 (Chaturvimsamsa)",
+          "analysis": "2nd/4th/5th houses in D24, Mercury/Jupiter in D24, educational yogas"
+        },
+        {
+          "event": "Property acquisition",
+          "varga": "D4 (Chaturthamsa)",
+          "analysis": "4th house in D4, Mars in D4, property yogas, timing"
+        },
+        {
+          "event": "Wealth accumulation",
+          "varga": "D2 (Hora)",
+          "analysis": "Sun/Moon in Hora, wealth houses, Jupiter/Venus strength"
+        },
+        {
+          "event": "Spiritual progress",
+          "varga": "D20 (Vimsamsa)",
+          "analysis": "9th/12th houses in D20, Jupiter in D20, spiritual yogas"
+        },
+        {
+          "event": "Health issues",
+          "varga": "D30 (Trimsamsa)",
+          "analysis": "6th/8th houses in D30, malefics in D30, disease indicators"
+        },
+        {
+          "event": "Siblings relationship",
+          "varga": "D3 (Drekkana)",
+          "analysis": "3rd house in D3, Mars in D3, sibling count and quality"
+        },
+        {
+          "event": "Vehicles and comforts",
+          "varga": "D16 (Shodasamsa)",
+          "analysis": "4th house in D16, Venus in D16, comfort level"
+        },
+        {
+          "event": "Past life karma",
+          "varga": "D60 (Shashtyamsa)",
+          "analysis": "Overall D60 strength, karmic patterns, life purpose"
+        }
+      ],
+      "combinedAnalysis": "Event manifests when both D1 and relevant varga show indication",
+      "timing": "Use D1 dashas but check varga for quality and specifics"
+    },
+    {
+      "name": "Ashtakavarga Transit Timing",
+      "importance": "High for precise timing",
+      "description": "Use Sarvashtakavarga points for transit timing",
+      "methodology": [
+        "Check SAV (Sarvashtakavarga) points in transit house",
+        "High points (30+) = favorable transit results",
+        "Low points (below 20) = challenging transit results",
+        "Combine with dasha-bhukti for precise event timing"
+      ],
+      "application": "Jupiter transit over house with 33 SAV points in Venus dasha = marriage timing",
+      "kakshya": "Use kakshya for day-level precision"
+    },
+    {
+      "name": "Progressive Techniques",
+      "importance": "Medium to high",
+      "description": "Charts progressed forward for predictions",
+      "types": [
+        {
+          "technique": "Tertiary Progressions",
+          "method": "Progress chart by one day = one year",
+          "usage": "Yearly predictions"
+        },
+        {
+          "technique": "Tithi Pravesh",
+          "method": "Chart cast when Sun-Moon angle returns to birth angle",
+          "usage": "Lunar year predictions"
+        },
+        {
+          "technique": "Bhava Chakra Progression",
+          "method": "House cusps progress over time",
+          "usage": "Long-term life phase changes"
+        }
+      ]
+    }
+  ],
+  "majorLifeEvents": {
+    "marriage": {
+      "name": "Marriage Prediction and Timing",
+      "primaryIndicators": [
+        "7th house - spouse, marriage",
+        "7th lord - timing and nature",
+        "Venus - marriage significator",
+        "Upapada lagna (A7) - marriage circumstances",
+        "Darakaraka - spouse indicator",
+        "Navamsa 7th house - marital happiness"
+      ],
+      "timingFactors": [
+        "7th lord dasha-bhukti period",
+        "Venus dasha-bhukti period",
+        "Darakaraka dasha-bhukti period",
+        "Upapada lord dasha-bhukti period",
+        "Jupiter transit over 7th house or Venus",
+        "Rahu-Ketu axis transiting 1st-7th or 5th-11th",
+        "Saturn releasing 7th house (after testing)",
+        "High SAV points in 7th house during transit"
+      ],
+      "navamsaAnalysis": [
+        "D9 7th house strength",
+        "D9 Venus position",
+        "D9 7th lord strength",
+        "D9 marital yogas",
+        "D9 lagna lord (overall D9 strength)"
+      ],
+      "delays": [
+        "Saturn in 7th house",
+        "Malefics aspecting 7th house",
+        "7th lord debilitated or afflicted",
+        "Venus combust or afflicted",
+        "Ketu in 7th house",
+        "Mangal dosha (Mars in certain houses)"
+      ],
+      "denials": [
+        "Very rare - usually delays",
+        "Severe afflictions to 7th house and lord",
+        "Venus completely destroyed",
+        "Strong moksha yogas",
+        "Multiple severe doshas"
+      ],
+      "remedies": [
+        "Strengthen Venus and 7th lord",
+        "Perform marriage-specific pujas",
+        "Visit specific temples",
+        "Chant marriage mantras",
+        "Wear Venus gemstone if suitable"
+      ],
+      "perfectTiming": "When dasha, transit, and annual chart all indicate marriage simultaneously"
+    },
+    "children": {
+      "name": "Children Prediction and Timing",
+      "primaryIndicators": [
+        "5th house - children",
+        "5th lord - children timing",
+        "Jupiter - children significator",
+        "Putrakaraka - child indicator",
+        "Saptamsa D7 analysis",
+        "5th from Moon"
+      ],
+      "timingFactors": [
+        "5th lord dasha-bhukti period",
+        "Jupiter dasha-bhukti period",
+        "Putrakaraka dasha-bhukti period",
+        "Jupiter transit over 5th house or natal Jupiter",
+        "Jupiter transit in lagna (new beginning)",
+        "After marriage yoga activation",
+        "D7 5th house activation in dasha"
+      ],
+      "genderPrediction": [
+        "Masculine planets in 5th = male children",
+        "Feminine planets in 5th = female children",
+        "Check D7 for detailed gender analysis",
+        "Check Navamsa 5th house",
+        "Jupiter aspects favor male, Venus aspects favor female"
+      ],
+      "numberPrediction": [
+        "Count significators in 5th house",
+        "Check D7 carefully for number",
+        "5th lord strength indicates number",
+        "Multiple planets in 5th = multiple children"
+      ],
+      "delays": [
+        "Saturn in 5th house",
+        "Malefics in 5th house",
+        "5th lord debilitated",
+        "Jupiter afflicted",
+        "Weak D7 5th house"
+      ],
+      "denials": [
+        "Severe afflictions to 5th house and lord",
+        "Jupiter completely destroyed",
+        "Very weak D7",
+        "Medical issues (shown in 6th/8th houses)",
+        "Karma from past (shown in D60)"
+      ],
+      "remedies": [
+        "Strengthen Jupiter and 5th lord",
+        "Santana Gopala puja",
+        "Visit child-giving temples",
+        "Chant Santana mantras",
+        "Feed children"
+      ]
+    },
+    "career": {
+      "name": "Career Success and Changes",
+      "primaryIndicators": [
+        "10th house - career, profession",
+        "10th lord - career direction",
+        "Sun - authority, government",
+        "Saturn - hard work, service",
+        "Atmakaraka - soul purpose",
+        "Dasamsa D10 analysis"
+      ],
+      "timingFactors": [
+        "10th lord dasha-bhukti period",
+        "Sun dasha-bhukti period (authority)",
+        "Saturn dasha-bhukti period (hard work rewards)",
+        "Jupiter transit over 10th house (promotion)",
+        "Saturn transit over 10th house (responsibility)",
+        "Rajayoga dasha activation",
+        "D10 10th house activation"
+      ],
+      "careerSelection": [
+        "10th lord nature shows career type",
+        "Planets in 10th show career field",
+        "Atmakaraka indicates soul profession",
+        "Strongest planet can indicate profession",
+        "D10 analysis for detailed career path"
+      ],
+      "careerChange": [
+        "New dasha beginning (especially if different element)",
+        "Jupiter-Saturn conjunction transit",
+        "10th lord changing dasha",
+        "Rahu-Ketu transit over 1st-7th or 4th-10th",
+        "Major Varshaphal changes"
+      ],
+      "success": [
+        "Strong 10th house and lord",
+        "Rajayogas in chart",
+        "Good D10 chart",
+        "Jupiter's blessings (aspects)",
+        "Saturn's maturity (aspects)",
+        "Favorable dashas activating success yogas"
+      ],
+      "failures": [
+        "Weak 10th house and lord",
+        "Malefic dashas with no support",
+        "Saturn's testing periods",
+        "Rahu creating illusions",
+        "Viparita Rajayogas (success from failures)"
+      ],
+      "remedies": [
+        "Strengthen 10th lord and Sun",
+        "Career-specific deity worship",
+        "Gayatri mantra for intelligence",
+        "Hard work during Saturn periods",
+        "Patience and persistence"
+      ]
+    },
+    "wealth": {
+      "name": "Wealth Accumulation and Timing",
+      "primaryIndicators": [
+        "2nd house - accumulated wealth",
+        "11th house - income, gains",
+        "9th house - fortune, luck",
+        "Jupiter - expansion, wealth",
+        "Venus - luxuries, wealth",
+        "Hora D2 - wealth potential",
+        "Indu lagna - prosperity"
+      ],
+      "timingFactors": [
+        "2nd/11th lord dasha-bhukti",
+        "Jupiter dasha-bhukti (expansion)",
+        "Venus dasha-bhukti (luxury wealth)",
+        "9th lord dasha-bhukti (fortune)",
+        "Dhana yoga dasha activation",
+        "Jupiter transit over 2nd/11th houses",
+        "Wealth planets transit over wealth houses"
+      ],
+      "wealthYogas": [
+        "2nd and 11th lord conjunction",
+        "9th and 10th lord conjunction (Rajayoga + wealth)",
+        "Venus-Jupiter conjunction",
+        "Lakshmi yoga",
+        "Kubera yoga",
+        "Multiple planets in 11th house"
+      ],
+      "sources": [
+        "10th house - career income",
+        "11th house - business gains",
+        "2nd house - family wealth",
+        "9th house - fortune, inheritance",
+        "5th house - speculation, investments",
+        "8th house - inheritance, sudden gains"
+      ],
+      "losses": [
+        "12th house activations - expenses",
+        "6th house activations - debts",
+        "8th house malefic transits - losses",
+        "Weak wealth lord dashas",
+        "Malefic transits over wealth houses",
+        "Rahu creating illusions"
+      ],
+      "remedies": [
+        "Strengthen Jupiter and Venus",
+        "Lakshmi worship",
+        "Kubera puja",
+        "Friday fasting for Venus",
+        "Charity on Thursdays for Jupiter",
+        "Yellow sapphire or diamond (if suitable)"
+      ]
+    },
+    "health": {
+      "name": "Health Issues and Timing",
+      "primaryIndicators": [
+        "1st house - physical body",
+        "6th house - diseases",
+        "8th house - chronic issues, dangers",
+        "12th house - hospitalization",
+        "Mars - surgeries, accidents",
+        "Saturn - chronic diseases",
+        "Sun - vitality",
+        "Moon - mental health"
+      ],
+      "timingFactors": [
+        "6th/8th lord dasha-bhukti periods",
+        "Malefic dashas without support",
+        "Saturn transit over 1st house or Moon (Sade Sati)",
+        "Mars transit over 6th/8th houses",
+        "Rahu-Ketu transit over 1st-7th axis",
+        "Low SAV points in health houses",
+        "Weak lagna lord dasha"
+      ],
+      "diseaseTypes": [
+        "Sun afflicted - heart, bones, eyes, vitality",
+        "Moon afflicted - mind, emotions, fluids, stomach",
+        "Mars afflicted - blood, accidents, surgeries, fever",
+        "Mercury afflicted - nerves, skin, speech, breathing",
+        "Jupiter afflicted - liver, obesity, diabetes, ears",
+        "Venus afflicted - kidneys, reproductive, diabetes",
+        "Saturn afflicted - bones, teeth, chronic diseases, depression",
+        "Rahu - unusual diseases, addictions, confusion",
+        "Ketu - mysterious diseases, spiritual causes"
+      ],
+      "bodyParts": [
+        "1st house - head, brain",
+        "2nd house - face, eyes, mouth",
+        "3rd house - shoulders, arms, lungs",
+        "4th house - chest, heart, breasts",
+        "5th house - stomach, upper abdomen",
+        "6th house - intestines, digestion",
+        "7th house - lower abdomen, kidneys",
+        "8th house - reproductive organs",
+        "9th house - thighs, hips",
+        "10th house - knees",
+        "11th house - calves, ankles",
+        "12th house - feet, sleep"
+      ],
+      "chronicIssues": [
+        "8th house activations",
+        "Saturn's malefic influence",
+        "Weak 1st house and lord",
+        "Multiple malefics in dusthanas",
+        "D30 severe afflictions"
+      ],
+      "accidents": [
+        "Mars in 6th/8th houses",
+        "Mars dasha with afflictions",
+        "Mars-Rahu combinations",
+        "8th lord activations",
+        "Mars transit over natal Mars (afflicted)"
+      ],
+      "remedies": [
+        "Strengthen lagna lord and weak planets",
+        "Mrityunjaya mantra for serious issues",
+        "Planet-specific health mantras",
+        "Donate items related to afflicting planet",
+        "Wear gemstones for benefic planets",
+        "Ayurvedic treatments based on planetary afflictions"
+      ]
+    },
+    "foreign": {
+      "name": "Foreign Travel and Settlement",
+      "primaryIndicators": [
+        "12th house - foreign lands",
+        "9th house - long distance travel",
+        "Rahu - foreign, unconventional",
+        "7th house - going away from homeland",
+        "4th house (affliction) - leaving home",
+        "Moon - mind seeking different place"
+      ],
+      "timingFactors": [
+        "12th lord dasha-bhukti period",
+        "Rahu dasha-bhukti period",
+        "9th lord dasha-bhukti (long travel)",
+        "Rahu-Ketu transit over 1st-7th or 9th-3rd",
+        "Jupiter transit over 9th/12th houses",
+        "Planets in 12th house activated"
+      ],
+      "settlement": [
+        "Strong 12th house and lord",
+        "Rahu in 1st/7th/9th houses",
+        "4th lord in 12th or vice versa",
+        "Multiple planets in 12th house",
+        "Moon in 12th house or aspecting",
+        "Foreign yogas (specific combinations)"
+      ],
+      "temporaryTravel": [
+        "9th lord period",
+        "3rd lord period (short trips)",
+        "Jupiter transit without settlement yogas",
+        "Work-related - 10th lord with 9th/12th"
+      ],
+      "denial": [
+        "Very strong 4th house (attachment to home)",
+        "No planets in 12th house",
+        "Jupiter strongly placed in 1st/4th",
+        "No Rahu influence on travel houses",
+        "Strong family bonds (2nd house)"
+      ],
+      "remedies": [
+        "If desired: Strengthen 12th lord and Rahu",
+        "If preventing: Strengthen 4th house and Jupiter",
+        "Specific deity worship based on chart"
+      ]
+    },
+    "spirituality": {
+      "name": "Spiritual Evolution and Moksha",
+      "primaryIndicators": [
+        "9th house - dharma, higher knowledge",
+        "12th house - moksha, transcendence",
+        "Ketu - detachment, spirituality",
+        "Jupiter - guru, wisdom",
+        "5th house - past merit, mantra",
+        "8th house - transformation",
+        "Atmakaraka - soul indicator"
+      ],
+      "timingFactors": [
+        "Ketu dasha-bhukti period",
+        "Jupiter dasha-bhukti (wisdom)",
+        "9th/12th lord dasha-bhukti",
+        "Saturn maturing the soul",
+        "Rahu-Ketu transits (spiritual axis)",
+        "Major life crises (8th house activation)",
+        "Spiritual yogas activation time"
+      ],
+      "spiritualYogas": [
+        "Kemadruma yoga - detachment",
+        "Pravrajya yogas - renunciation",
+        "Jupiter-Ketu conjunction - spiritual wisdom",
+        "Multiple planets in 12th house - moksha",
+        "Strong 9th and 12th houses together",
+        "Saturn-Ketu combinations - serious spirituality"
+      ],
+      "guruMeeting": [
+        "Jupiter transit over 9th house",
+        "9th lord dasha-bhukti",
+        "Ketu dasha activating 9th lord",
+        "Strong Jupiter period with spiritual readiness",
+        "Destined in D9 and D20"
+      ],
+      "transformation": [
+        "8th house activations",
+        "Ketu periods bringing detachment",
+        "Saturn teaching through difficulties",
+        "Rahu showing worldly illusions",
+        "Life crises awakening spiritual quest"
+      ],
+      "moksha": [
+        "Strong 12th house indications",
+        "Multiple moksha yogas",
+        "Ketu very strong and well-placed",
+        "12th lord exalted or strong",
+        "Jupiter aspecting 12th house",
+        "Liberation destined (shown in D60)"
+      ]
+    },
+    "death": {
+      "name": "Longevity and Death Prediction",
+      "warning": "Highly sensitive - predict only with complete expertise and ethical responsibility",
+      "primaryIndicators": [
+        "8th house - longevity",
+        "8th lord - life span indicator",
+        "3rd house - longevity (8th from 8th)",
+        "Maraka houses - 2nd and 7th (death-inflicting)",
+        "Saturn - longevity significator",
+        "Sun - vitality"
+      ],
+      "lifeSpan": [
+        {
+          "type": "Short life (Alpayu)",
+          "duration": "0-32 years",
+          "indicators": "Weak lagna, weak 8th house, malefics in kendras"
+        },
+        {
+          "type": "Medium life (Madhyayu)",
+          "duration": "32-70 years",
+          "indicators": "Mixed strength, some beneficial some malefic"
+        },
+        {
+          "type": "Long life (Poornayu)",
+          "duration": "70-100+ years",
+          "indicators": "Strong lagna, strong 8th house, benefics well-placed"
+        }
+      ],
+      "dangerPeriods": [
+        "8th lord dasha-bhukti",
+        "Maraka (2nd/7th) lord dashas",
+        "Saturn transit over 8th house or Moon",
+        "Mars-Saturn conjunction transits",
+        "Rahu-Ketu transit over 1st-7th axis",
+        "Multiple malefics transiting 8th house",
+        "Weak lagna lord dasha with afflictions"
+      ],
+      "marakaDashas": [
+        "2nd lord dasha-bhukti (primary maraka)",
+        "7th lord dasha-bhukti (primary maraka)",
+        "8th lord dasha-bhukti (longevity house)",
+        "Planets in 2nd/7th houses in their dashas",
+        "Weak planet dashas with no strength"
+      ],
+      "avoidanceRemedies": [
+        "Mrityunjaya mantra regularly",
+        "Ayush homam",
+        "Mahamrityunjaya havan",
+        "Strengthen 8th lord and lagna lord",
+        "Saturn remedies for longevity",
+        "Life-extending rituals",
+        "Proper lifestyle and precautions"
+      ],
+      "ethicalNote": "Death predictions should rarely be made; focus on life-extending remedies and precautions",
+      "purposeOfKnowledge": "Awareness for preparation and maximizing life purpose, not creating fear"
+    }
+  },
+  "eventConfirmation": {
+    "name": "Multi-Level Event Confirmation",
+    "description": "How to confirm event timing with multiple techniques",
+    "principle": "Event manifests when multiple factors align simultaneously",
+    "levels": [
+      {
+        "level": 1,
+        "factor": "Birth Chart Indication",
+        "requirement": "Yoga or house strength showing event possibility",
+        "example": "Strong 7th house and Venus for marriage"
+      },
+      {
+        "level": 2,
+        "factor": "Dasha-Bhukti Activation",
+        "requirement": "Relevant planet dasha-bhukti running",
+        "example": "Venus-Jupiter period for marriage"
+      },
+      {
+        "level": 3,
+        "factor": "Transit Confirmation",
+        "requirement": "Relevant transits activating natal points",
+        "example": "Jupiter transiting over 7th house or Venus"
+      },
+      {
+        "level": 4,
+        "factor": "Divisional Chart Support",
+        "requirement": "Relevant varga showing event",
+        "example": "D9 7th house activated for marriage"
+      },
+      {
+        "level": 5,
+        "factor": "Ashtakavarga Support",
+        "requirement": "Good SAV points in relevant houses",
+        "example": "7th house has 28+ SAV points"
+      },
+      {
+        "level": 6,
+        "factor": "Annual Chart Indication",
+        "requirement": "Varshaphal showing event that year",
+        "example": "Strong 7th house in annual chart"
+      },
+      {
+        "level": 7,
+        "factor": "Prashna Confirmation",
+        "requirement": "If question asked, horary shows yes",
+        "example": "Prashna chart confirms marriage timing"
+      }
+    ],
+    "minimumRequirement": "At least 3-4 levels should confirm for confident prediction",
+    "idealScenario": "When 5+ levels align, event is highly certain",
+    "exampleCase": {
+      "event": "Marriage in June 2026",
+      "level1": "Strong 7th house, exalted Venus in 5th",
+      "level2": "Venus Mahadasha, Jupiter Antardasha running",
+      "level3": "Jupiter transiting 7th house, Saturn blessing from 11th",
+      "level4": "D9 7th house has benefics, D9 Venus strong",
+      "level5": "7th house SAV = 32 points (excellent)",
+      "level6": "2026 Varshaphal has Muntha in 7th, Venus as year lord",
+      "level7": "Prashna chart shows marriage in 3 months",
+      "confidence": "Very high - all 7 levels confirm"
+    }
+  },
+  "timingPrecision": {
+    "name": "Event Timing Precision Levels",
+    "levels": [
+      {
+        "precision": "Year Level",
+        "methods": [
+          "Major dasha change",
+          "Varshaphal",
+          "Major transits"
+        ],
+        "accuracy": "Can predict which year event likely"
+      },
+      {
+        "precision": "Month Level",
+        "methods": [
+          "Antardasha",
+          "Transit sign changes",
+          "Patyayini dasha from Varshaphal"
+        ],
+        "accuracy": "Can narrow to 2-3 month window"
+      },
+      {
+        "precision": "Week Level",
+        "methods": [
+          "Pratyantardasha",
+          "Precise transits",
+          "Ashtakavarga kakshya"
+        ],
+        "accuracy": "Can narrow to specific weeks"
+      },
+      {
+        "precision": "Day Level",
+        "methods": [
+          "Sookshma dasha",
+          "Exact transit degrees",
+          "Prashna",
+          "Muhurta"
+        ],
+        "accuracy": "Can sometimes pinpoint exact dates"
+      }
+    ],
+    "practicalApproach": "Most astrologers work at year-month level; day-level very difficult",
+    "uncertaintyFactors": [
+      "Free will can shift timing slightly",
+      "Multiple event possibilities in same period",
+      "Birth time accuracy affects precision",
+      "Complexity of chart",
+      "Astrologer's expertise level"
+    ]
+  },
+  "predictionPrinciples": {
+    "name": "Core Principles of Prediction",
+    "principles": [
+      {
+        "principle": "Promise in Birth Chart",
+        "rule": "If not promised in birth chart, cannot happen",
+        "example": "No children yoga in chart = children very difficult despite favorable dashas"
+      },
+      {
+        "principle": "Dasha Activation",
+        "rule": "Promised event manifests only in relevant dasha",
+        "example": "Marriage yoga exists but manifests only in Venus or 7th lord dasha"
+      },
+      {
+        "principle": "Transit Trigger",
+        "rule": "Even in right dasha, needs transit trigger",
+        "example": "Venus dasha for marriage needs Jupiter transit over 7th as trigger"
+      },
+      {
+        "principle": "Multiple Confirmation",
+        "rule": "Never predict on single factor alone",
+        "example": "Check dasha, transit, varga, and Ashtakavarga all together"
+      },
+      {
+        "principle": "Divisional Accuracy",
+        "rule": "Relevant divisional chart must support",
+        "example": "Marriage prediction needs good D9, not just D1"
+      },
+      {
+        "principle": "Strength Matters",
+        "rule": "Weak planets give weak results even in their dashas",
+        "example": "Debilitated 7th lord dasha may give delayed/difficult marriage"
+      },
+      {
+        "principle": "Benefic vs Malefic",
+        "rule": "Benefics give easier manifestation, malefics give struggle",
+        "example": "Venus dasha marriage easier than Saturn dasha marriage"
+      },
+      {
+        "principle": "Timing Window",
+        "rule": "Events have timing windows, not exact dates usually",
+        "example": "Marriage likely June-September 2026, not exactly June 15th"
+      },
+      {
+        "principle": "Free Will Space",
+        "rule": "Major events destined, but response and minor details have free will",
+        "example": "Marriage destined, but choice of partner has some free will"
+      },
+      {
+        "principle": "Remedial Modification",
+        "rule": "Proper remedies can modify timing and severity",
+        "example": "Delay difficult event or improve its quality through remedies"
+      }
+    ]
+  }
+}

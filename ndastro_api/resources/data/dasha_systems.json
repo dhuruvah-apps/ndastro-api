@@ -1,0 +1,820 @@
+[
+  {
+    "name": "Vimshottari Dasha",
+    "totalYears": 120,
+    "type": "Nakshatra-based",
+    "importance": "Primary",
+    "popularity": "Most widely used",
+    "description": "Most popular dasha system based on birth nakshatra, 120-year cycle",
+    "calculationBasis": "Moon's position in nakshatra at birth",
+    "startingPoint": "Nakshatra lord at birth becomes first Mahadasha lord",
+    "applicability": "Universal - applicable to all charts",
+    "sequence": [
+      "KE",
+      "VE",
+      "SU",
+      "MO",
+      "MA",
+      "RA",
+      "JU",
+      "SA",
+      "ME"
+    ],
+    "periods": [
+      {
+        "planet": "KE",
+        "years": 7,
+        "nature": "Spiritual, detachment, past karma",
+        "effects": "Mystical experiences, detachment, spiritual seeking, confusion, sudden changes",
+        "significations": [
+          "Moksha",
+          "Spirituality",
+          "Detachment",
+          "Past life karma",
+          "Sudden events"
+        ],
+        "positiveResults": "Spiritual awakening, moksha, occult knowledge, intuition, liberation",
+        "negativeResults": "Confusion, isolation, accidents, losses, depression, chronic issues",
+        "remedies": [
+          "Ganesha worship",
+          "Cat's eye gemstone",
+          "Ketu mantras",
+          "Charity on Thursdays"
+        ]
+      },
+      {
+        "planet": "VE",
+        "years": 20,
+        "nature": "Pleasure, luxury, relationships",
+        "effects": "Marriage, wealth, comforts, arts, romance, material gains, luxury",
+        "significations": [
+          "Marriage",
+          "Wealth",
+          "Comforts",
+          "Arts",
+          "Beauty",
+          "Relationships"
+        ],
+        "positiveResults": "Marriage, wealth accumulation, artistic success, luxury, romance, happiness",
+        "negativeResults": "Relationship problems, excessive indulgence, scandals, health issues in reproductive organs",
+        "remedies": [
+          "Lakshmi worship",
+          "Diamond/white sapphire",
+          "Venus mantras",
+          "Friday fasting"
+        ]
+      },
+      {
+        "planet": "SU",
+        "years": 6,
+        "nature": "Authority, ego, government",
+        "effects": "Career advancement, authority, recognition, government favor, father issues",
+        "significations": [
+          "Authority",
+          "Government",
+          "Father",
+          "Career",
+          "Recognition",
+          "Ego"
+        ],
+        "positiveResults": "Career success, authority, government positions, recognition, confidence, leadership",
+        "negativeResults": "Ego conflicts, government troubles, father problems, eye issues, heart problems",
+        "remedies": [
+          "Surya namaskara",
+          "Ruby gemstone",
+          "Sun mantras",
+          "Sunday charity"
+        ]
+      },
+      {
+        "planet": "MO",
+        "years": 10,
+        "nature": "Mind, emotions, mother",
+        "effects": "Mental peace/disturbance, mother issues, emotional life, home matters, travel",
+        "significations": [
+          "Mind",
+          "Emotions",
+          "Mother",
+          "Home",
+          "Mental peace",
+          "Public"
+        ],
+        "positiveResults": "Mental peace, emotional fulfillment, mother's blessings, property gains, popularity",
+        "negativeResults": "Mental stress, emotional instability, mother problems, mood swings, water-related issues",
+        "remedies": [
+          "Chandra mantras",
+          "Pearl gemstone",
+          "Monday fasting",
+          "Mother service"
+        ]
+      },
+      {
+        "planet": "MA",
+        "years": 7,
+        "nature": "Energy, courage, siblings",
+        "effects": "Energy, courage, property, siblings, accidents, surgeries, disputes",
+        "significations": [
+          "Energy",
+          "Courage",
+          "Property",
+          "Siblings",
+          "Accidents",
+          "Disputes"
+        ],
+        "positiveResults": "Courage, energy, property gains, victory over enemies, sibling support, achievement",
+        "negativeResults": "Accidents, injuries, surgeries, disputes, sibling problems, anger issues, blood disorders",
+        "remedies": [
+          "Hanuman worship",
+          "Red coral",
+          "Mars mantras",
+          "Tuesday fasting"
+        ]
+      },
+      {
+        "planet": "RA",
+        "years": 18,
+        "nature": "Material desires, foreign connections",
+        "effects": "Foreign travel, unexpected gains, technology, unconventional paths, obsessions",
+        "significations": [
+          "Foreign",
+          "Technology",
+          "Unconventional",
+          "Sudden events",
+          "Obsessions",
+          "Material desires"
+        ],
+        "positiveResults": "Foreign success, technology gains, unconventional success, sudden wealth, innovation",
+        "negativeResults": "Confusion, deception, addictions, unconventional problems, sudden losses, health issues",
+        "remedies": [
+          "Durga worship",
+          "Hessonite garnet",
+          "Rahu mantras",
+          "Saturday charity"
+        ]
+      },
+      {
+        "planet": "JU",
+        "years": 16,
+        "nature": "Wisdom, prosperity, expansion",
+        "effects": "Education, children, wealth, spirituality, expansion, wisdom, teaching",
+        "significations": [
+          "Wisdom",
+          "Children",
+          "Wealth",
+          "Spirituality",
+          "Education",
+          "Dharma"
+        ],
+        "positiveResults": "Educational success, children, wealth growth, spiritual development, teaching, recognition",
+        "negativeResults": "Over-expansion, debt, liver issues, weight gain, guru disputes, false optimism",
+        "remedies": [
+          "Jupiter mantras",
+          "Yellow sapphire",
+          "Thursday fasting",
+          "Guru service"
+        ]
+      },
+      {
+        "planet": "SA",
+        "years": 19,
+        "nature": "Discipline, delays, hard work",
+        "effects": "Hard work, delays, longevity, service, responsibility, chronic issues, discipline",
+        "significations": [
+          "Hard work",
+          "Delays",
+          "Discipline",
+          "Service",
+          "Longevity",
+          "Responsibility"
+        ],
+        "positiveResults": "Discipline, hard work pays off, longevity, service recognition, maturity, stability",
+        "negativeResults": "Delays, obstacles, chronic health issues, depression, isolation, financial stress",
+        "remedies": [
+          "Shani mantras",
+          "Blue sapphire (caution)",
+          "Saturday fasting",
+          "Service to elderly"
+        ]
+      },
+      {
+        "planet": "ME",
+        "years": 17,
+        "nature": "Intelligence, communication, business",
+        "effects": "Business, communication, education, intellect, versatility, trade, writing",
+        "significations": [
+          "Intelligence",
+          "Business",
+          "Communication",
+          "Education",
+          "Trade",
+          "Versatility"
+        ],
+        "positiveResults": "Business success, communication skills, educational achievements, writing, versatility, intelligence",
+        "negativeResults": "Mental stress, communication problems, business losses, nervous disorders, skin issues",
+        "remedies": [
+          "Mercury mantras",
+          "Emerald gemstone",
+          "Wednesday fasting",
+          "Vishnu worship"
+        ]
+      }
+    ],
+    "antardashas": "Each Mahadasha divided into 9 Antardashas in same sequence",
+    "pratyantardashas": "Each Antardasha further divided into 9 Pratyantardashas",
+    "sookshmaDashas": "Further subdivisions for precise timing",
+    "vedicReferences": "Brihat Parashara Hora Shastra - most detailed dasha system",
+    "usage": "Primary dasha system for timing life events",
+    "keywords": [
+      "120 years",
+      "Most popular",
+      "Nakshatra-based",
+      "Universal"
+    ]
+  },
+  {
+    "name": "Ashtottari Dasha",
+    "totalYears": 108,
+    "type": "Nakshatra-based",
+    "importance": "Secondary",
+    "popularity": "Moderately used",
+    "description": "108-year cycle excluding Rahu and Ketu, used when Rahu is not in specific positions",
+    "calculationBasis": "Moon's nakshatra, but excluding certain nakshatras",
+    "startingPoint": "Determined by Moon's nakshatra at birth",
+    "applicability": "When Rahu is not in kendras from lagna or Moon",
+    "sequence": [
+      "SU",
+      "MO",
+      "MA",
+      "ME",
+      "SA",
+      "JU",
+      "VE"
+    ],
+    "periods": [
+      {
+        "planet": "SU",
+        "years": 6,
+        "nature": "Authority, government, father",
+        "significations": [
+          "Authority",
+          "Career",
+          "Government",
+          "Father",
+          "Soul"
+        ]
+      },
+      {
+        "planet": "MO",
+        "years": 15,
+        "nature": "Mind, emotions, mother",
+        "significations": [
+          "Mind",
+          "Emotions",
+          "Mother",
+          "Public",
+          "Mental peace"
+        ]
+      },
+      {
+        "planet": "MA",
+        "years": 8,
+        "nature": "Energy, courage, property",
+        "significations": [
+          "Energy",
+          "Property",
+          "Courage",
+          "Siblings",
+          "Vitality"
+        ]
+      },
+      {
+        "planet": "ME",
+        "years": 17,
+        "nature": "Intelligence, business, communication",
+        "significations": [
+          "Intelligence",
+          "Business",
+          "Communication",
+          "Education",
+          "Trade"
+        ]
+      },
+      {
+        "planet": "SA",
+        "years": 10,
+        "nature": "Discipline, delays, hard work",
+        "significations": [
+          "Discipline",
+          "Service",
+          "Delays",
+          "Longevity",
+          "Hard work"
+        ]
+      },
+      {
+        "planet": "JU",
+        "years": 19,
+        "nature": "Wisdom, expansion, children",
+        "significations": [
+          "Wisdom",
+          "Children",
+          "Wealth",
+          "Spirituality",
+          "Expansion"
+        ]
+      },
+      {
+        "planet": "VE",
+        "years": 21,
+        "nature": "Pleasure, luxury, relationships",
+        "significations": [
+          "Marriage",
+          "Wealth",
+          "Comforts",
+          "Arts",
+          "Beauty"
+        ]
+      }
+    ],
+    "antardashas": "Each Mahadasha divided into 7 Antardashas in same sequence",
+    "vedicReferences": "Mentioned in BPHS as alternative when Rahu not prominent",
+    "usage": "Alternative to Vimshottari in specific conditions",
+    "keywords": [
+      "108 years",
+      "No nodes",
+      "Alternative system",
+      "Conditional"
+    ]
+  },
+  {
+    "name": "Yogini Dasha",
+    "totalYears": 36,
+    "type": "Nakshatra-based",
+    "importance": "Supplementary",
+    "popularity": "Specialized use",
+    "description": "36-year cycle based on Yogini deities, used for specific predictions",
+    "calculationBasis": "Moon's nakshatra at birth",
+    "startingPoint": "Yogini determined by birth nakshatra",
+    "applicability": "Supplementary system, especially for female natives",
+    "sequence": [
+      "Mangala",
+      "Pingala",
+      "Dhanya",
+      "Bhramari",
+      "Bhadrika",
+      "Ulka",
+      "Y21",
+      "Sankata"
+    ],
+    "periods": [
+      {
+        "yogini": "Mangala",
+        "ruler": "MO",
+        "years": 1,
+        "nature": "Auspicious beginning",
+        "significations": [
+          "New beginnings",
+          "Mental peace",
+          "Emotions",
+          "Growth"
+        ]
+      },
+      {
+        "yogini": "Pingala",
+        "ruler": "SU",
+        "years": 2,
+        "nature": "Authority and recognition",
+        "significations": [
+          "Authority",
+          "Recognition",
+          "Government",
+          "Career advancement"
+        ]
+      },
+      {
+        "yogini": "Dhanya",
+        "ruler": "JU",
+        "years": 3,
+        "nature": "Wealth and prosperity",
+        "significations": [
+          "Wealth",
+          "Prosperity",
+          "Children",
+          "Wisdom",
+          "Expansion"
+        ]
+      },
+      {
+        "yogini": "Bhramari",
+        "ruler": "MA",
+        "years": 4,
+        "nature": "Energy and action",
+        "significations": [
+          "Energy",
+          "Courage",
+          "Action",
+          "Property",
+          "Victory"
+        ]
+      },
+      {
+        "yogini": "Bhadrika",
+        "ruler": "ME",
+        "years": 5,
+        "nature": "Intelligence and communication",
+        "significations": [
+          "Intelligence",
+          "Business",
+          "Communication",
+          "Education",
+          "Trade"
+        ]
+      },
+      {
+        "yogini": "Ulka",
+        "ruler": "SA",
+        "years": 6,
+        "nature": "Challenges and discipline",
+        "significations": [
+          "Discipline",
+          "Hard work",
+          "Delays",
+          "Service",
+          "Longevity"
+        ]
+      },
+      {
+        "yogini": "Y21",
+        "ruler": "VE",
+        "years": 7,
+        "nature": "Success and pleasure",
+        "significations": [
+          "Success",
+          "Marriage",
+          "Wealth",
+          "Comforts",
+          "Arts"
+        ]
+      },
+      {
+        "yogini": "Sankata",
+        "ruler": "RA",
+        "years": 8,
+        "nature": "Difficulties and transformation",
+        "significations": [
+          "Challenges",
+          "Transformation",
+          "Foreign",
+          "Sudden events",
+          "Tests"
+        ]
+      }
+    ],
+    "antardashas": "Each period divided into sub-periods",
+    "vedicReferences": "Based on Tantric and Yogini traditions",
+    "usage": "Supplementary predictions, especially for women",
+    "keywords": [
+      "36 years",
+      "Yogini deities",
+      "Female-focused",
+      "Tantric"
+    ]
+  },
+  {
+    "name": "Chara Dasha",
+    "totalYears": "Variable",
+    "type": "Sign-based (Jaimini)",
+    "importance": "High",
+    "popularity": "Widely used with Jaimini",
+    "description": "Movable dasha based on signs, from Jaimini system",
+    "calculationBasis": "Sign positions and strengths",
+    "startingPoint": "Lagna or stronger among lagna and 7th house",
+    "applicability": "Jaimini astrology - sign-based predictions",
+    "sequence": "Varies - either direct or reverse zodiac order based on odd/even sign",
+    "calculationMethod": "Years calculated by difference between sign and its lord's position",
+    "antardashas": "Each Mahadasha divided into 12 Antardashas of all signs",
+    "specialFeatures": [
+      "Direct and reverse order",
+      "Variable duration per sign",
+      "Sign-based timing",
+      "No planetary periods"
+    ],
+    "significations": [
+      "Life events",
+      "Karaka analysis",
+      "Sign-based timing",
+      "Jaimini predictions"
+    ],
+    "vedicReferences": "Jaimini Sutras - primary Jaimini dasha system",
+    "usage": "Jaimini astrology for event timing",
+    "keywords": [
+      "Variable",
+      "Sign-based",
+      "Jaimini",
+      "Karaka"
+    ]
+  },
+  {
+    "name": "Kalachakra Dasha",
+    "totalYears": 100,
+    "type": "Nakshatra-based",
+    "importance": "Specialized",
+    "popularity": "Specialized use",
+    "description": "100-year cycle based on nakshatra padas, from Kalachakra system",
+    "calculationBasis": "Moon's nakshatra pada at birth",
+    "startingPoint": "Determined by birth nakshatra pada",
+    "applicability": "Specialized predictions, longevity analysis",
+    "sequence": "Based on nakshatra groups: Savya, Apasavya, Dakshina",
+    "groups": [
+      "Savya (clockwise)",
+      "Apasavya (anticlockwise)",
+      "Dakshina (southward)"
+    ],
+    "significations": [
+      "Longevity",
+      "Life span",
+      "Major events",
+      "Spiritual evolution"
+    ],
+    "specialFeatures": [
+      "Three directional groups",
+      "100-year cycle",
+      "Pada-based",
+      "Longevity focus"
+    ],
+    "vedicReferences": "Kalachakra texts for longevity and life events",
+    "usage": "Longevity and major life event predictions",
+    "keywords": [
+      "100 years",
+      "Nakshatra padas",
+      "Longevity",
+      "Directional"
+    ]
+  },
+  {
+    "name": "Narayana Dasha",
+    "totalYears": 120,
+    "type": "Sign-based (Jaimini)",
+    "importance": "Medium",
+    "popularity": "Jaimini practitioners",
+    "description": "Sign-based dasha from Jaimini system for event timing",
+    "calculationBasis": "Sign positions and mathematical calculations",
+    "startingPoint": "Calculated from lagna and specific rules",
+    "applicability": "Jaimini predictions alongside Chara Dasha",
+    "sequence": "Specific mathematical sequence based on Jaimini rules",
+    "significations": [
+      "General predictions",
+      "Life events",
+      "Complementary to Chara",
+      "Sign influences"
+    ],
+    "specialFeatures": [
+      "Sign-based",
+      "Mathematical sequence",
+      "Complements Chara Dasha"
+    ],
+    "vedicReferences": "Jaimini Sutras",
+    "usage": "Jaimini event timing",
+    "keywords": [
+      "120 years",
+      "Jaimini",
+      "Sign-based",
+      "Complementary"
+    ]
+  },
+  {
+    "name": "Shodasottari Dasha",
+    "totalYears": 116,
+    "type": "Nakshatra-based",
+    "importance": "Rare",
+    "popularity": "Rarely used",
+    "description": "116-year cycle for specific birth conditions",
+    "calculationBasis": "Moon's nakshatra when specific conditions met",
+    "startingPoint": "Birth nakshatra lord",
+    "applicability": "When birth is in certain specific nakshatras",
+    "sequence": [
+      "SU",
+      "MA",
+      "JU",
+      "ME",
+      "SA",
+      "VE",
+      "MO",
+      "RA",
+      "KE"
+    ],
+    "periods": [
+      {
+        "planet": "SU",
+        "years": 11
+      },
+      {
+        "planet": "MA",
+        "years": 12
+      },
+      {
+        "planet": "JU",
+        "years": 13
+      },
+      {
+        "planet": "ME",
+        "years": 14
+      },
+      {
+        "planet": "SA",
+        "years": 15
+      },
+      {
+        "planet": "VE",
+        "years": 16
+      },
+      {
+        "planet": "MO",
+        "years": 17
+      },
+      {
+        "planet": "RA",
+        "years": 18
+      }
+    ],
+    "vedicReferences": "Mentioned in BPHS for specific conditions",
+    "usage": "Rare - specific birth conditions only",
+    "keywords": [
+      "116 years",
+      "Conditional",
+      "Rare",
+      "Alternative"
+    ]
+  },
+  {
+    "name": "Dwisaptati Sama Dasha",
+    "totalYears": 72,
+    "type": "Equal duration",
+    "importance": "Rare",
+    "popularity": "Rarely used",
+    "description": "72-year cycle with equal duration for each planet",
+    "calculationBasis": "Equal distribution among 8 planets",
+    "startingPoint": "Determined by specific rules",
+    "applicability": "Specific chart conditions",
+    "sequence": [
+      "SU",
+      "MO",
+      "MA",
+      "ME",
+      "JU",
+      "VE",
+      "SA",
+      "RA"
+    ],
+    "periods": "Each planet gets 9 years equally",
+    "significations": [
+      "Equal influence periods",
+      "Balanced timing",
+      "General predictions"
+    ],
+    "vedicReferences": "Classical texts for specific conditions",
+    "usage": "Rarely used alternative system",
+    "keywords": [
+      "72 years",
+      "Equal periods",
+      "Rare",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Shat Trimsa Sama Dasha",
+    "totalYears": 36,
+    "type": "Equal duration",
+    "importance": "Rare",
+    "popularity": "Rarely used",
+    "description": "36-year cycle with equal 3-year periods",
+    "calculationBasis": "Specific birth conditions",
+    "startingPoint": "Calculated from lagna",
+    "applicability": "Very specific conditions",
+    "sequence": "All signs in specific order",
+    "periods": "Each sign gets 3 years",
+    "significations": [
+      "Sign-based timing",
+      "Equal periods",
+      "General life phases"
+    ],
+    "vedicReferences": "Rare mentions in classical texts",
+    "usage": "Very rarely used",
+    "keywords": [
+      "36 years",
+      "Equal 3-year periods",
+      "Rare",
+      "Sign-based"
+    ]
+  },
+  {
+    "name": "Panchottari Dasha",
+    "totalYears": 105,
+    "type": "Nakshatra-based",
+    "importance": "Rare",
+    "popularity": "Rarely used",
+    "description": "105-year cycle excluding Sun and Moon",
+    "calculationBasis": "Birth nakshatra excluding certain nakshatras",
+    "startingPoint": "Specific nakshatra rules",
+    "applicability": "Specific birth conditions",
+    "sequence": [
+      "ME",
+      "VE",
+      "JU",
+      "SA",
+      "MA",
+      "RA",
+      "KE"
+    ],
+    "periods": [
+      {
+        "planet": "ME",
+        "years": 12
+      },
+      {
+        "planet": "VE",
+        "years": 18
+      },
+      {
+        "planet": "JU",
+        "years": 15
+      },
+      {
+        "planet": "SA",
+        "years": 21
+      },
+      {
+        "planet": "MA",
+        "years": 15
+      },
+      {
+        "planet": "RA",
+        "years": 18
+      },
+      {
+        "planet": "KE",
+        "years": 6
+      }
+    ],
+    "vedicReferences": "Mentioned in BPHS for specific conditions",
+    "usage": "Rare alternative system",
+    "keywords": [
+      "105 years",
+      "No Sun/Moon",
+      "Rare",
+      "Alternative"
+    ]
+  },
+  {
+    "name": "Mandooka Dasha",
+    "totalYears": "Variable",
+    "type": "Specialized",
+    "importance": "Very rare",
+    "popularity": "Extremely rare",
+    "description": "Frog-like jumping dasha for specific predictions",
+    "calculationBasis": "Special calculation methods",
+    "startingPoint": "Complex rules",
+    "applicability": "Very specific conditions",
+    "specialFeatures": [
+      "Jumping pattern",
+      "Non-sequential",
+      "Highly specialized"
+    ],
+    "significations": [
+      "Specific event timing",
+      "Unusual patterns"
+    ],
+    "vedicReferences": "Rare classical mentions",
+    "usage": "Extremely rare specialized use",
+    "keywords": [
+      "Variable",
+      "Jumping pattern",
+      "Very rare",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Nirayana Shoola Dasha",
+    "totalYears": "Variable",
+    "type": "Specialized",
+    "importance": "Rare",
+    "popularity": "Specialized use",
+    "description": "Specialized dasha for specific chart analysis",
+    "calculationBasis": "Complex mathematical rules",
+    "startingPoint": "Specific planetary positions",
+    "applicability": "Advanced predictions",
+    "significations": [
+      "Specialized timing",
+      "Advanced predictions",
+      "Specific events"
+    ],
+    "vedicReferences": "Advanced classical texts",
+    "usage": "Specialized advanced predictions",
+    "keywords": [
+      "Variable",
+      "Specialized",
+      "Advanced",
+      "Mathematical"
+    ]
+  }
+]

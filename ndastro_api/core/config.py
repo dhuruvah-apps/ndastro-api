@@ -168,6 +168,11 @@ class TestSettings(BaseSettings):
     TEST_DATABASE_SYNC_PREFIX: str = config("TEST_DATABASE_SYNC_PREFIX", default="sqlite:///")
     TEST_DATABASE_ASYNC_PREFIX: str = config("TEST_DATABASE_ASYNC_PREFIX", default="sqlite+aiosqlite:///")
     TEST_DATABASE_URL: str | None = config("TEST_DATABASE_URL", default=None)
+    TEST_API_V1_STR: str = config("TEST_API_V1_STR", default="/api/v1")
+    TEST_FIRST_SUPERUSER_PASSWORD: str = config("TEST_FIRST_SUPERUSER_PASSWORD", default="admin")
+    TEST_FIRST_SUPERUSER_EMAIL: str = config("TEST_FIRST_SUPERUSER_EMAIL", default="admin@dapps.com")
+    TEST_FIRST_SUPERUSER_NAME: str = config("TEST_FIRST_SUPERUSER_NAME", default="admin")
+    TEST_FIRST_SUPERUSER_USERNAME: str = config("TEST_FIRST_SUPERUSER_USERNAME", default="admin")
 
 
 class ClientSideCacheSettings(BaseSettings):

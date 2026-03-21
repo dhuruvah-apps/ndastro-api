@@ -1,0 +1,1088 @@
+[
+  {
+    "name": "Ashtakavarga System",
+    "description": "Eight-fold division system measuring planetary and house strength through benefic points (bindus)",
+    "type": "Predictive strength system",
+    "purpose": "Quantitative measurement of planetary strength and house beneficence",
+    "calculation": "Each planet contributes benefic points (bindus) to houses based on specific rules",
+    "totalPoints": 337,
+    "components": [
+      "Bhinnashtakavarga (individual)",
+      "Sarvashtakavarga (total)",
+      "Prashtarashtakavarga (detailed)"
+    ],
+    "usage": [
+      "Transit predictions",
+      "Dasha analysis",
+      "House strength",
+      "Event timing",
+      "Remedy determination"
+    ],
+    "vedicReferences": "Detailed in Brihat Parashara Hora Shastra and other classics",
+    "importance": "Very high for precise predictions and timing"
+  },
+  {
+    "planet": "SU",
+    "sanskritName": "Surya Ashtakavarga",
+    "totalBindus": 49,
+    "description": "Sun's benefic point contribution measuring vitality, authority, and soul strength",
+    "beneficFrom": [
+      {
+        "source": "Sun itself",
+        "houses": [
+          1,
+          2,
+          4,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "points": 8
+      },
+      {
+        "source": "MO",
+        "houses": [
+          3,
+          6,
+          10,
+          11
+        ],
+        "points": 4
+      },
+      {
+        "source": "MA",
+        "houses": [
+          1,
+          2,
+          4,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "points": 8
+      },
+      {
+        "source": "ME",
+        "houses": [
+          3,
+          5,
+          6,
+          9,
+          10,
+          11,
+          12
+        ],
+        "points": 7
+      },
+      {
+        "source": "JU",
+        "houses": [
+          5,
+          6,
+          9,
+          11
+        ],
+        "points": 4
+      },
+      {
+        "source": "VE",
+        "houses": [
+          6,
+          7,
+          12
+        ],
+        "points": 3
+      },
+      {
+        "source": "SA",
+        "houses": [
+          1,
+          2,
+          4,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "points": 8
+      },
+      {
+        "source": "Lagna",
+        "houses": [
+          3,
+          4,
+          6,
+          10,
+          11,
+          12
+        ],
+        "points": 6
+      }
+    ],
+    "averageBindus": 4,
+    "significations": [
+      "Vitality",
+      "Authority",
+      "Government",
+      "Father",
+      "Career",
+      "Soul power",
+      "Leadership"
+    ],
+    "interpretation": {
+      "high": "5+ bindus - Strong vitality, good authority, career success, father's support",
+      "average": "3-4 bindus - Moderate vitality, decent authority, average career",
+      "low": "0-2 bindus - Weak vitality, authority challenges, career obstacles"
+    },
+    "transitUse": "High bindus indicate favorable Sun transits; low bindus suggest challenges",
+    "remedies": "Strengthen houses with low Sun bindus through Surya mantras, ruby, Sunday worship"
+  },
+  {
+    "planet": "MO",
+    "sanskritName": "Chandra Ashtakavarga",
+    "totalBindus": 49,
+    "description": "Moon's benefic point contribution measuring mind, emotions, and mother",
+    "beneficFrom": [
+      {
+        "source": "SU",
+        "houses": [
+          3,
+          6,
+          7,
+          8,
+          10,
+          11
+        ],
+        "points": 6
+      },
+      {
+        "source": "Moon itself",
+        "houses": [
+          1,
+          3,
+          6,
+          7,
+          10,
+          11
+        ],
+        "points": 6
+      },
+      {
+        "source": "MA",
+        "houses": [
+          2,
+          3,
+          5,
+          6,
+          9,
+          10,
+          11
+        ],
+        "points": 7
+      },
+      {
+        "source": "ME",
+        "houses": [
+          1,
+          3,
+          4,
+          5,
+          7,
+          8,
+          10,
+          11
+        ],
+        "points": 8
+      },
+      {
+        "source": "JU",
+        "houses": [
+          1,
+          4,
+          7,
+          8,
+          10,
+          11,
+          12
+        ],
+        "points": 7
+      },
+      {
+        "source": "VE",
+        "houses": [
+          3,
+          4,
+          5,
+          7,
+          9,
+          10,
+          11
+        ],
+        "points": 7
+      },
+      {
+        "source": "SA",
+        "houses": [
+          3,
+          5,
+          6,
+          11
+        ],
+        "points": 4
+      },
+      {
+        "source": "Lagna",
+        "houses": [
+          3,
+          6,
+          7,
+          8,
+          10,
+          11
+        ],
+        "points": 6
+      }
+    ],
+    "averageBindus": 4,
+    "significations": [
+      "Mind",
+      "Emotions",
+      "Mother",
+      "Mental peace",
+      "Public",
+      "Feelings",
+      "Home"
+    ],
+    "interpretation": {
+      "high": "5+ bindus - Strong mind, emotional stability, mother's blessings, mental peace",
+      "average": "3-4 bindus - Moderate mental strength, average emotions, decent maternal support",
+      "low": "0-2 bindus - Mental stress, emotional instability, mother issues, anxiety"
+    },
+    "transitUse": "High bindus favor Moon transits for mental peace; low bindus indicate emotional challenges",
+    "remedies": "Strengthen low Moon bindu houses through Chandra mantras, pearl, Monday fasting"
+  },
+  {
+    "planet": "MA",
+    "sanskritName": "Mangala Ashtakavarga",
+    "totalBindus": 39,
+    "description": "Mars' benefic point contribution measuring energy, courage, and property",
+    "beneficFrom": [
+      {
+        "source": "SU",
+        "houses": [
+          1,
+          2,
+          4,
+          7,
+          8,
+          10,
+          11
+        ],
+        "points": 7
+      },
+      {
+        "source": "MO",
+        "houses": [
+          3,
+          6,
+          10,
+          11
+        ],
+        "points": 4
+      },
+      {
+        "source": "Mars itself",
+        "houses": [
+          1,
+          2,
+          4,
+          7,
+          8,
+          10,
+          11
+        ],
+        "points": 7
+      },
+      {
+        "source": "ME",
+        "houses": [
+          3,
+          5,
+          6,
+          11
+        ],
+        "points": 4
+      },
+      {
+        "source": "JU",
+        "houses": [
+          6,
+          10,
+          11,
+          12
+        ],
+        "points": 4
+      },
+      {
+        "source": "VE",
+        "houses": [
+          6,
+          8,
+          11,
+          12
+        ],
+        "points": 4
+      },
+      {
+        "source": "SA",
+        "houses": [
+          1,
+          4,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "points": 7
+      },
+      {
+        "source": "Lagna",
+        "houses": [
+          1,
+          3,
+          6,
+          10,
+          11
+        ],
+        "points": 5
+      }
+    ],
+    "averageBindus": 3,
+    "significations": [
+      "Energy",
+      "Courage",
+      "Property",
+      "Siblings",
+      "Accidents",
+      "Surgery",
+      "Vitality"
+    ],
+    "interpretation": {
+      "high": "4+ bindus - High energy, courage, property gains, sibling support, good vitality",
+      "average": "2-3 bindus - Moderate energy, average courage, some property, normal vitality",
+      "low": "0-1 bindus - Low energy, fear, property losses, accidents, sibling problems"
+    },
+    "transitUse": "High bindus support Mars transits for action; low bindus warn of accidents/disputes",
+    "remedies": "Strengthen weak Mars houses through Hanuman worship, red coral, Tuesday fasting"
+  },
+  {
+    "planet": "ME",
+    "sanskritName": "Budha Ashtakavarga",
+    "totalBindus": 54,
+    "description": "Mercury's benefic point contribution measuring intelligence, communication, and business",
+    "beneficFrom": [
+      {
+        "source": "SU",
+        "houses": [
+          5,
+          6,
+          9,
+          11,
+          12
+        ],
+        "points": 5
+      },
+      {
+        "source": "MO",
+        "houses": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          11
+        ],
+        "points": 6
+      },
+      {
+        "source": "MA",
+        "houses": [
+          1,
+          2,
+          4,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "points": 8
+      },
+      {
+        "source": "Mercury itself",
+        "houses": [
+          1,
+          3,
+          5,
+          6,
+          9,
+          10,
+          11,
+          12
+        ],
+        "points": 8
+      },
+      {
+        "source": "JU",
+        "houses": [
+          6,
+          8,
+          11,
+          12
+        ],
+        "points": 4
+      },
+      {
+        "source": "VE",
+        "houses": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          8,
+          9,
+          11
+        ],
+        "points": 8
+      },
+      {
+        "source": "SA",
+        "houses": [
+          1,
+          2,
+          4,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "points": 8
+      },
+      {
+        "source": "Lagna",
+        "houses": [
+          1,
+          2,
+          4,
+          6,
+          8,
+          10,
+          11
+        ],
+        "points": 7
+      }
+    ],
+    "averageBindus": 4,
+    "significations": [
+      "Intelligence",
+      "Communication",
+      "Business",
+      "Education",
+      "Trade",
+      "Wit",
+      "Versatility"
+    ],
+    "interpretation": {
+      "high": "5+ bindus - Exceptional intelligence, communication success, business gains, educational excellence",
+      "average": "3-4 bindus - Good intelligence, decent communication, average business, normal education",
+      "low": "0-2 bindus - Weak intellect, communication problems, business losses, educational struggles"
+    },
+    "transitUse": "High bindus excellent for Mercury transits in business/education; low bindus caution",
+    "remedies": "Strengthen weak Mercury houses through Vishnu worship, emerald, Wednesday fasting"
+  },
+  {
+    "planet": "JU",
+    "sanskritName": "Guru Ashtakavarga",
+    "totalBindus": 56,
+    "description": "Jupiter's benefic point contribution measuring wisdom, children, and prosperity",
+    "beneficFrom": [
+      {
+        "source": "SU",
+        "houses": [
+          1,
+          2,
+          3,
+          4,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "points": 9
+      },
+      {
+        "source": "MO",
+        "houses": [
+          2,
+          5,
+          7,
+          9,
+          11
+        ],
+        "points": 5
+      },
+      {
+        "source": "MA",
+        "houses": [
+          1,
+          2,
+          4,
+          7,
+          8,
+          10,
+          11
+        ],
+        "points": 7
+      },
+      {
+        "source": "ME",
+        "houses": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          9,
+          10,
+          11
+        ],
+        "points": 8
+      },
+      {
+        "source": "Jupiter itself",
+        "houses": [
+          1,
+          2,
+          3,
+          4,
+          7,
+          8,
+          10,
+          11
+        ],
+        "points": 8
+      },
+      {
+        "source": "VE",
+        "houses": [
+          2,
+          5,
+          6,
+          9,
+          10,
+          11
+        ],
+        "points": 6
+      },
+      {
+        "source": "SA",
+        "houses": [
+          3,
+          5,
+          6,
+          12
+        ],
+        "points": 4
+      },
+      {
+        "source": "Lagna",
+        "houses": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          9,
+          10,
+          11
+        ],
+        "points": 9
+      }
+    ],
+    "averageBindus": 4,
+    "significations": [
+      "Wisdom",
+      "Children",
+      "Wealth",
+      "Spirituality",
+      "Dharma",
+      "Education",
+      "Expansion"
+    ],
+    "interpretation": {
+      "high": "5+ bindus - Great wisdom, children blessings, prosperity, spiritual growth, dharmic life",
+      "average": "3-4 bindus - Good wisdom, children possibilities, decent wealth, some spirituality",
+      "low": "0-2 bindus - Limited wisdom, children problems, financial struggles, spiritual obstacles"
+    },
+    "transitUse": "High bindus most auspicious for Jupiter transits; low bindus reduce benefic effects",
+    "remedies": "Strengthen weak Jupiter houses through Guru mantras, yellow sapphire, Thursday fasting"
+  },
+  {
+    "planet": "VE",
+    "sanskritName": "Shukra Ashtakavarga",
+    "totalBindus": 52,
+    "description": "Venus' benefic point contribution measuring love, luxury, and relationships",
+    "beneficFrom": [
+      {
+        "source": "SU",
+        "houses": [
+          8,
+          11,
+          12
+        ],
+        "points": 3
+      },
+      {
+        "source": "MO",
+        "houses": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          8,
+          9,
+          11,
+          12
+        ],
+        "points": 9
+      },
+      {
+        "source": "MA",
+        "houses": [
+          3,
+          4,
+          6,
+          9,
+          11,
+          12
+        ],
+        "points": 6
+      },
+      {
+        "source": "ME",
+        "houses": [
+          3,
+          5,
+          6,
+          9,
+          11
+        ],
+        "points": 5
+      },
+      {
+        "source": "JU",
+        "houses": [
+          5,
+          8,
+          9,
+          10,
+          11
+        ],
+        "points": 5
+      },
+      {
+        "source": "Venus itself",
+        "houses": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          8,
+          9,
+          10,
+          11
+        ],
+        "points": 9
+      },
+      {
+        "source": "SA",
+        "houses": [
+          3,
+          4,
+          5,
+          8,
+          9,
+          10,
+          11
+        ],
+        "points": 7
+      },
+      {
+        "source": "Lagna",
+        "houses": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          8,
+          9,
+          11
+        ],
+        "points": 8
+      }
+    ],
+    "averageBindus": 4,
+    "significations": [
+      "Love",
+      "Marriage",
+      "Luxury",
+      "Comforts",
+      "Arts",
+      "Beauty",
+      "Relationships",
+      "Wealth"
+    ],
+    "interpretation": {
+      "high": "5+ bindus - Excellent love life, happy marriage, luxury, artistic success, beauty, comfort",
+      "average": "3-4 bindus - Good relationships, decent marriage, average comforts, some artistic ability",
+      "low": "0-2 bindus - Relationship problems, marriage difficulties, luxury lacking, artistic struggles"
+    },
+    "transitUse": "High bindus favor Venus transits for romance/marriage; low bindus indicate relationship challenges",
+    "remedies": "Strengthen weak Venus houses through Lakshmi worship, diamond, Friday rituals"
+  },
+  {
+    "planet": "SA",
+    "sanskritName": "Shani Ashtakavarga",
+    "totalBindus": 39,
+    "description": "Saturn's benefic point contribution measuring discipline, longevity, and karma",
+    "beneficFrom": [
+      {
+        "source": "SU",
+        "houses": [
+          1,
+          2,
+          4,
+          7,
+          8,
+          10,
+          11
+        ],
+        "points": 7
+      },
+      {
+        "source": "MO",
+        "houses": [
+          3,
+          6,
+          11
+        ],
+        "points": 3
+      },
+      {
+        "source": "MA",
+        "houses": [
+          3,
+          5,
+          6,
+          10,
+          11,
+          12
+        ],
+        "points": 6
+      },
+      {
+        "source": "ME",
+        "houses": [
+          6,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "points": 6
+      },
+      {
+        "source": "JU",
+        "houses": [
+          5,
+          6,
+          11,
+          12
+        ],
+        "points": 4
+      },
+      {
+        "source": "VE",
+        "houses": [
+          6,
+          11,
+          12
+        ],
+        "points": 3
+      },
+      {
+        "source": "Saturn itself",
+        "houses": [
+          3,
+          5,
+          6,
+          11
+        ],
+        "points": 4
+      },
+      {
+        "source": "Lagna",
+        "houses": [
+          1,
+          3,
+          4,
+          6,
+          10,
+          11
+        ],
+        "points": 6
+      }
+    ],
+    "averageBindus": 3,
+    "significations": [
+      "Discipline",
+      "Longevity",
+      "Hard work",
+      "Service",
+      "Delays",
+      "Karma",
+      "Responsibility"
+    ],
+    "interpretation": {
+      "high": "4+ bindus - Good discipline, longevity, hard work rewards, karmic balance, responsibility",
+      "average": "2-3 bindus - Moderate discipline, average longevity, some hard work, normal karma",
+      "low": "0-1 bindus - Weak discipline, health issues, obstacles, delays, karmic debts, chronic problems"
+    },
+    "transitUse": "High bindus reduce Saturn transit difficulties; low bindus intensify challenges",
+    "remedies": "Strengthen weak Saturn houses through Shani mantras, blue sapphire (caution), Saturday service"
+  },
+  {
+    "name": "Sarvashtakavarga",
+    "description": "Total benefic points from all planets combined - overall chart strength",
+    "totalBindus": 337,
+    "calculation": "Sum of all seven planetary ashtakavarga bindus",
+    "distribution": "337 points distributed across 12 houses",
+    "averagePerHouse": 28,
+    "purpose": "Overall strength of each house and chart vitality",
+    "interpretation": {
+      "veryHigh": "35+ bindus - Exceptionally strong house, excellent results in that house area",
+      "high": "30-34 bindus - Strong house, good results and support",
+      "average": "25-29 bindus - Moderate house strength, average results",
+      "low": "20-24 bindus - Weak house, challenges in that area",
+      "veryLow": "Below 20 bindus - Very weak house, major obstacles and difficulties"
+    },
+    "transitUse": "When transit planets pass through high bindu houses, excellent results; low bindus bring challenges",
+    "significations": {
+      "house1": "Physical body, personality, overall life direction",
+      "house2": "Wealth, family, speech, food",
+      "house3": "Courage, siblings, short travels, skills",
+      "house4": "Mother, property, education, happiness",
+      "house5": "Children, intelligence, creativity, speculation",
+      "house6": "Enemies, diseases, debts, service",
+      "house7": "Marriage, partnerships, business",
+      "house8": "Longevity, transformation, inheritance, occult",
+      "house9": "Fortune, dharma, father, spirituality",
+      "house10": "Career, status, authority, reputation",
+      "house11": "Gains, income, aspirations, friends",
+      "house12": "Losses, expenses, moksha, foreign"
+    },
+    "usage": "Primary tool for judging house strength and transit results",
+    "vedicReferences": "Core ashtakavarga system in BPHS"
+  },
+  {
+    "name": "Kakshya System",
+    "description": "Sub-division of each house into 7 planetary kakshyas (portions)",
+    "purpose": "Precise timing and strength measurement within houses",
+    "structure": "Each house has 30\u00b0, divided into 7 unequal kakshyas ruled by planets",
+    "divisions": [
+      {
+        "planet": "SA",
+        "degrees": "5\u00b0",
+        "nature": "Discipline, delay, hard work"
+      },
+      {
+        "planet": "JU",
+        "degrees": "5\u00b0",
+        "nature": "Wisdom, expansion, fortune"
+      },
+      {
+        "planet": "MA",
+        "degrees": "8\u00b0",
+        "nature": "Energy, action, courage"
+      },
+      {
+        "planet": "SU",
+        "degrees": "5\u00b0",
+        "nature": "Authority, vitality, ego"
+      },
+      {
+        "planet": "VE",
+        "degrees": "3\u00b0",
+        "nature": "Pleasure, luxury, beauty"
+      },
+      {
+        "planet": "ME",
+        "degrees": "3\u00b0",
+        "nature": "Intelligence, communication"
+      },
+      {
+        "planet": "MO",
+        "degrees": "1\u00b0",
+        "nature": "Mind, emotions, feelings"
+      }
+    ],
+    "usage": "Precise transit timing and sub-period effects",
+    "interpretation": "When planet transits its own kakshya with bindus, excellent results",
+    "vedicReferences": "Advanced ashtakavarga application"
+  },
+  {
+    "name": "Ashtakavarga Reduction",
+    "description": "Reduction of bindus through Trikona and Ekadhipatya principles",
+    "purpose": "Refine predictions by removing redundant or cancelled bindus",
+    "methods": [
+      {
+        "type": "Trikona Shodhana",
+        "description": "Reduction based on trikona relationships",
+        "principle": "Bindus in 1-5-9, 2-6-10, 3-7-11, 4-8-12 trikonas examined",
+        "rule": "If a house has no bindus while its trikona houses have bindus, some effects cancelled"
+      },
+      {
+        "type": "Ekadhipatya Shodhana",
+        "description": "Reduction for signs ruled by same planet",
+        "principle": "Saturn rules Capricorn and Aquarius, Jupiter rules Sagittarius and Pisces",
+        "rule": "Bindus in both signs of same ruler examined for reduction"
+      },
+      {
+        "type": "Graha Shodhana",
+        "description": "Planetary dignity-based reduction",
+        "principle": "Planet's strength in exaltation, own sign, debilitation affects bindu value",
+        "rule": "Debilitated planet bindus may be reduced in effect"
+      }
+    ],
+    "usage": "Advanced practitioners use for refined predictions",
+    "vedicReferences": "Advanced topics in ashtakavarga texts"
+  },
+  {
+    "name": "Practical Applications",
+    "description": "Real-world usage of Ashtakavarga in predictions",
+    "applications": [
+      {
+        "purpose": "Transit Predictions",
+        "method": "Check SAV (Sarvashtakavarga) bindus in transit house",
+        "interpretation": "High bindus = favorable transit results, Low bindus = challenges",
+        "example": "Saturn transiting house with 30+ SAV bindus reduces malefic effects"
+      },
+      {
+        "purpose": "Dasha Analysis",
+        "method": "Check planet's ashtakavarga in its own dasha",
+        "interpretation": "High bindus in dasha lord's houses = good dasha results",
+        "example": "Venus dasha excellent if Venus ashtakavarga shows high bindus in kendras"
+      },
+      {
+        "purpose": "Marriage Timing",
+        "method": "Check 7th house SAV and Venus ashtakavarga bindus",
+        "interpretation": "7th house with 28+ bindus, Venus with 4+ bindus in 7th = favorable marriage",
+        "example": "Jupiter transiting 7th with high bindus + Venus dasha = marriage timing"
+      },
+      {
+        "purpose": "Career Success",
+        "method": "Check 10th house SAV and Sun/Saturn ashtakavarga",
+        "interpretation": "High 10th house bindus with strong Sun/Saturn = career advancement",
+        "example": "10th house 30+ bindus, Saturn transit with high Saturn bindus = promotion"
+      },
+      {
+        "purpose": "Health Issues",
+        "method": "Check 6th and 8th house SAV, malefic planet bindus",
+        "interpretation": "Low 6th house bindus = health challenges, Low 8th = chronic issues",
+        "example": "6th house below 20 bindus, Mars with 0-1 bindus = surgery/accidents possible"
+      },
+      {
+        "purpose": "Financial Gains",
+        "method": "Check 2nd, 11th house SAV and Jupiter/Venus ashtakavarga",
+        "interpretation": "High wealth house bindus + benefic planet bindus = financial gains",
+        "example": "11th house 32+ bindus, Jupiter dasha, Jupiter transit = income increase"
+      },
+      {
+        "purpose": "Children",
+        "method": "Check 5th house SAV and Jupiter ashtakavarga",
+        "interpretation": "5th house with 28+ bindus, Jupiter 4+ bindus in 5th = children arrival",
+        "example": "Jupiter transiting 5th with high bindus in Jupiter dasha = child birth"
+      },
+      {
+        "purpose": "Remedy Determination",
+        "method": "Identify houses and planets with very low bindus",
+        "interpretation": "Houses below 20 SAV bindus need strengthening remedies",
+        "example": "Saturn with 0-1 bindus in multiple houses = Saturn remedies essential"
+      }
+    ],
+    "generalRules": [
+      "SAV above 30 = Very favorable for all activities",
+      "SAV 25-30 = Generally favorable with some effort",
+      "SAV 20-25 = Mixed results, requires care",
+      "SAV below 20 = Difficult, avoid major activities, do remedies"
+    ],
+    "vedicReferences": "Practical applications detailed in ashtakavarga treatises"
+  },
+  {
+    "name": "Special Considerations",
+    "description": "Important factors affecting Ashtakavarga interpretation",
+    "factors": [
+      {
+        "factor": "Benefic Transit vs Malefic Transit",
+        "rule": "Even low bindus can give moderate results with benefic transit (Jupiter/Venus)",
+        "note": "High bindus with malefic transit (Saturn/Mars) still challenging but manageable"
+      },
+      {
+        "factor": "Dasha-Bhukti-Transit Synchronization",
+        "rule": "Best results when dasha lord, bhukti lord, and transit all have high bindus",
+        "note": "This triple synchronization ensures major positive events"
+      },
+      {
+        "factor": "Kakshya Lord",
+        "rule": "Planet transiting its own kakshya with bindus gives excellent timing",
+        "note": "Used for precise event timing within transit period"
+      },
+      {
+        "factor": "Reduction Effects",
+        "rule": "After shodhana (reduction), actual bindus may be lower",
+        "note": "Advanced practitioners apply reductions for precise predictions"
+      },
+      {
+        "factor": "Lagna vs Moon Chart",
+        "rule": "Calculate SAV from both lagna and Moon for complete picture",
+        "note": "Moon chart SAV affects mental/emotional experiences"
+      },
+      {
+        "factor": "Natal vs Transit Bindus",
+        "rule": "Natal bindus show birth strength, transit bindus activate results",
+        "note": "Both must be considered together"
+      }
+    ],
+    "limitations": [
+      "Ashtakavarga alone insufficient - must combine with dashas and yogas",
+      "Does not replace traditional strength analysis (Shadabala, dignity)",
+      "Requires accurate birth time for correct house bindus",
+      "Reduction techniques vary among different schools"
+    ],
+    "vedicReferences": "Detailed in advanced chapters of BPHS and ashtakavarga texts"
+  }
+]

@@ -10,9 +10,9 @@ from datetime import datetime, timedelta
 from typing import cast
 
 import pytz
+from ndastro_engine.enums import Planets
 
-from ndastro.gui.models.dasha_detail import DashaTypes
-from ndastro.libs.planet_enum import Planets
+from ndastro_api.core.models.dasha_detail import DashaTypes
 
 
 @dataclass

@@ -1,0 +1,1237 @@
+{
+  "system": {
+    "name": "Medical Astrology and Health Analysis",
+    "description": "Comprehensive health prediction, disease timing, body part analysis, and healing guidance",
+    "sanskritName": "Roga Jyotisha / Ayurvedic Astrology",
+    "purpose": "Predict health issues, timing of diseases, vulnerable body parts, and remedial healing",
+    "importance": "Prevention is better than cure - astrology shows health vulnerabilities in advance",
+    "scope": "Disease prediction, organ weakness, timing, Ayurvedic constitution, healing remedies",
+    "vedicReferences": "Brihat Jataka, Prasna Marga, Jataka Parijata, Ayurvedic texts integration",
+    "modernRelevance": "Integrates with modern medicine for preventive health",
+    "disclaimer": "Astrological guidance complements but does not replace medical consultation"
+  },
+  "healthHouses": {
+    "name": "Houses Governing Health",
+    "houses": [
+      {
+        "house": "1st House (Lagna/Ascendant)",
+        "role": "Physical body, constitution, vitality, overall health",
+        "governs": [
+          "General health and vitality",
+          "Physical appearance and constitution",
+          "Head, brain, face",
+          "Immune system strength",
+          "Self-healing capacity",
+          "Body's resilience"
+        ],
+        "strongLagna": "Strong lagna lord = good health, disease resistance, recovery power",
+        "weakLagna": "Weak lagna lord = poor constitution, frequent illnesses, slow recovery",
+        "assessment": [
+          "Lagna lord strength and placement",
+          "Planets in 1st house (benefic vs malefic)",
+          "Aspects to 1st house",
+          "Lagna sign nature (fixed = stronger body)"
+        ],
+        "bodyPart": "Head, brain, facial features, overall constitution"
+      },
+      {
+        "house": "6th House (Roga Bhava)",
+        "role": "Disease house - acute illnesses, enemies, obstacles",
+        "governs": [
+          "Diseases and health problems",
+          "Digestive system",
+          "Intestines and colon",
+          "Immune response to infections",
+          "Acute illnesses",
+          "Accidents and injuries",
+          "Enemies causing health issues"
+        ],
+        "strong6th": "Benefics in 6th = overcoming diseases, good immunity, defeating health enemies",
+        "weak6th": "Malefics in 6th = frequent diseases, chronic digestive issues, weak immunity",
+        "paradox": "6th house strength is complex - too strong = creates enemies/diseases, but ability to overcome them",
+        "assessment": [
+          "6th lord placement (in 8th/12th = serious health issues)",
+          "Planets in 6th house",
+          "6th lord conjunctions",
+          "Aspects to 6th house"
+        ],
+        "bodyPart": "Intestines, digestive tract, lower abdomen"
+      },
+      {
+        "house": "8th House (Ayur Bhava)",
+        "role": "Chronic diseases, longevity, surgeries, accidents, death",
+        "governs": [
+          "Chronic and long-term illnesses",
+          "Genetic diseases",
+          "Reproductive organs",
+          "Hidden diseases",
+          "Surgeries and operations",
+          "Accidents and trauma",
+          "Longevity and life span",
+          "Sudden health crises"
+        ],
+        "strong8th": "Strong 8th house = long life, recovery from crises, research into healing",
+        "weak8th": "Afflicted 8th house = chronic issues, sudden health crises, longevity concerns",
+        "importance": "Most critical for serious health predictions",
+        "assessment": [
+          "8th lord strength and placement",
+          "Planets in 8th house (malefics dangerous)",
+          "Aspects to 8th house",
+          "8th from Moon also important"
+        ],
+        "bodyPart": "Reproductive organs, colon, chronic disease organs"
+      },
+      {
+        "house": "12th House (Vyaya Bhava)",
+        "role": "Hospitalization, bed rest, isolation due to illness, chronic issues",
+        "governs": [
+          "Hospitalization and confinement",
+          "Chronic bed-ridden conditions",
+          "Feet and sleep",
+          "Mental hospitals",
+          "Quarantine and isolation",
+          "Hidden illnesses",
+          "Expenses on health",
+          "Final release (death)"
+        ],
+        "strong12th": "Spiritual healing, isolation beneficial, moksha; but can indicate confinement",
+        "weak12th": "Afflicted = hospitalization, chronic fatigue, sleep disorders",
+        "assessment": [
+          "12th lord placement",
+          "Planets in 12th house",
+          "Relationship with 6th/8th houses"
+        ],
+        "bodyPart": "Feet, left eye, sleep, bed pleasures"
+      },
+      {
+        "house": "3rd House",
+        "role": "Shoulders, arms, courage, vitality through effort",
+        "governs": [
+          "Shoulders",
+          "Arms and hands",
+          "Lungs",
+          "Courage affecting health",
+          "Ear (right)"
+        ],
+        "bodyPart": "Shoulders, arms, lungs, right ear, thyroid"
+      },
+      {
+        "house": "4th House",
+        "role": "Chest, heart, emotional health, mother's health",
+        "governs": [
+          "Chest and breasts",
+          "Heart",
+          "Lungs",
+          "Emotional well-being",
+          "Mother's influence on health"
+        ],
+        "bodyPart": "Chest, heart, lungs, breasts"
+      },
+      {
+        "house": "5th House",
+        "role": "Stomach, emotions, children's health, intelligence affecting health",
+        "governs": [
+          "Stomach",
+          "Upper abdomen",
+          "Heart (emotions)",
+          "Spine",
+          "Past life health karma"
+        ],
+        "bodyPart": "Stomach, upper abdomen, heart (emotional), spine"
+      },
+      {
+        "house": "7th House",
+        "role": "Lower abdomen, kidneys, partnerships affecting health",
+        "governs": [
+          "Lower abdomen",
+          "Kidneys",
+          "Urinary bladder",
+          "Spouse's influence on health"
+        ],
+        "bodyPart": "Lower abdomen, kidneys, bladder, lower back"
+      },
+      {
+        "house": "9th House",
+        "role": "Thighs, hips, fortune affecting health, father's health",
+        "governs": [
+          "Thighs",
+          "Hips",
+          "Sciatic nerve",
+          "Fortune in health matters",
+          "Father's health influence"
+        ],
+        "bodyPart": "Thighs, hips, sciatic nerve, liver"
+      },
+      {
+        "house": "10th House",
+        "role": "Knees, bones, career stress health",
+        "governs": [
+          "Knees",
+          "Bones",
+          "Joints",
+          "Career stress diseases"
+        ],
+        "bodyPart": "Knees, skeletal system, joints"
+      },
+      {
+        "house": "11th House",
+        "role": "Calves, ankles, gains in health",
+        "governs": [
+          "Calves",
+          "Ankles",
+          "Left ear",
+          "Recovery and gains in health"
+        ],
+        "bodyPart": "Calves, ankles, left ear"
+      }
+    ]
+  },
+  "planetaryHealth": {
+    "name": "Planets and Their Health Significations",
+    "planets": [
+      {
+        "planet": "SU",
+        "role": "Vitality, life force, heart, bones",
+        "governs": [
+          "Heart and cardiovascular system",
+          "Bones and skeletal structure",
+          "Eyes (right eye particularly)",
+          "Vitality and life force (Prana)",
+          "Stomach and digestive fire (Agni)",
+          "Head and brain",
+          "Immune system"
+        ],
+        "diseases": [
+          "Heart diseases - cardiac issues, coronary problems",
+          "Bone diseases - osteoporosis, fractures",
+          "Eye problems - vision issues, cataracts",
+          "Fever and inflammatory conditions",
+          "Headaches and migraines",
+          "Digestive weakness - low Agni",
+          "Vitality loss and chronic fatigue",
+          "Ego-related psychosomatic issues"
+        ],
+        "afflictionIndicators": [
+          "Sun in 6th/8th/12th houses",
+          "Sun debilitated in Libra",
+          "Sun combust or with malefics",
+          "Sun aspected by Saturn (cardiac caution)",
+          "Weak Sun in D1 and health divisionals"
+        ],
+        "strengthIndicators": [
+          "Sun exalted in Aries - strong vitality",
+          "Sun in 1st/9th/10th houses - good health authority",
+          "Sun with Jupiter - blessed health",
+          "Strong Sun in Hora chart"
+        ],
+        "remedies": [
+          "Surya Namaskar (Sun Salutation)",
+          "Ruby gemstone (if suitable)",
+          "Sunday water offering to Sun",
+          "Gayatri mantra",
+          "Sunlight exposure",
+          "Wheat and jaggery donation"
+        ],
+        "ayurvedic": "Governs Pitta dosha - fire element"
+      },
+      {
+        "planet": "MO",
+        "role": "Mind, emotions, blood, fluids, mother",
+        "governs": [
+          "Mind and mental health",
+          "Emotions and psychological state",
+          "Blood and bodily fluids",
+          "Lymphatic system",
+          "Breasts and mammary glands",
+          "Stomach and digestive system",
+          "Left eye",
+          "Menstrual cycle in women",
+          "Sleep and circadian rhythm"
+        ],
+        "diseases": [
+          "Mental illnesses - depression, anxiety, mood disorders",
+          "Emotional instability",
+          "Blood disorders - anemia, blood pressure",
+          "Stomach issues - ulcers, acidity",
+          "Lymphatic problems",
+          "Breast diseases",
+          "Sleep disorders - insomnia",
+          "Fluid retention and edema",
+          "Menstrual irregularities",
+          "Psychosomatic illnesses",
+          "Mother-related health anxiety"
+        ],
+        "afflictionIndicators": [
+          "Moon in 6th/8th/12th houses",
+          "Moon debilitated in Scorpio",
+          "New Moon (dark Moon) - weak mind",
+          "Moon with Rahu/Ketu - mental confusion",
+          "Moon aspected by Saturn - depression",
+          "Afflicted Moon in Cancer/4th house"
+        ],
+        "strengthIndicators": [
+          "Full Moon - strong mind and emotions",
+          "Moon exalted in Taurus - emotional stability",
+          "Moon in 1st/4th/10th houses - mental strength",
+          "Moon with Jupiter - balanced emotions"
+        ],
+        "remedies": [
+          "Pearl gemstone (if suitable)",
+          "Monday fasting with milk/rice",
+          "Moon mantra",
+          "Mother respect and service",
+          "White clothing on Mondays",
+          "Donate milk and rice",
+          "Meditation and mind control practices"
+        ],
+        "ayurvedic": "Governs Kapha dosha - water element"
+      },
+      {
+        "planet": "MA",
+        "role": "Blood, energy, muscles, surgeries, accidents",
+        "governs": [
+          "Blood and blood circulation",
+          "Muscles and physical strength",
+          "Red blood cells and hemoglobin",
+          "Bone marrow",
+          "Surgeries and operations",
+          "Accidents and injuries",
+          "Fever and inflammation",
+          "Immune system (fighting)",
+          "Male reproductive system",
+          "Head (especially wounds)"
+        ],
+        "diseases": [
+          "Blood disorders - high BP, hemorrhage, blood loss",
+          "Accidents and injuries",
+          "Burns and wounds",
+          "Surgeries (indicates need for)",
+          "Fever and infections",
+          "Muscle inflammation and pain",
+          "Cuts and bleeding",
+          "Male reproductive issues",
+          "Aggressive behavior health impacts",
+          "Inflammation anywhere in body",
+          "Rashes and skin eruptions"
+        ],
+        "afflictionIndicators": [
+          "Mars in 6th/8th/12th houses - accident prone",
+          "Mars debilitated in Cancer - low energy",
+          "Mars with Rahu - sudden accidents",
+          "Mars-Saturn conjunction - chronic inflammation",
+          "Mars afflicting 1st house - accidents to self"
+        ],
+        "strengthIndicators": [
+          "Mars exalted in Capricorn - controlled energy",
+          "Mars in own signs (Aries/Scorpio) - strong vitality",
+          "Mars in 3rd/6th/11th houses (Upachaya) - overcoming health enemies"
+        ],
+        "remedies": [
+          "Red coral gemstone (if suitable)",
+          "Hanuman worship",
+          "Tuesday fasting",
+          "Red lentils donation",
+          "Mars mantra",
+          "Physical exercise (channel energy)",
+          "Anger management"
+        ],
+        "ayurvedic": "Governs Pitta dosha - fire element, aggressive"
+      },
+      {
+        "planet": "ME",
+        "role": "Nervous system, skin, speech, intellect",
+        "governs": [
+          "Nervous system and nerves",
+          "Brain and neural connections",
+          "Skin and complexion",
+          "Speech organs and voice",
+          "Respiratory system",
+          "Hands and manual dexterity",
+          "Intellect affecting health",
+          "Communication organs",
+          "Thyroid"
+        ],
+        "diseases": [
+          "Nervous disorders - anxiety, nervousness",
+          "Neurological issues",
+          "Skin diseases - eczema, acne, allergies",
+          "Speech defects - stammering",
+          "Respiratory problems - asthma",
+          "Mental stress and overthinking",
+          "Hand tremors",
+          "Thyroid imbalances",
+          "Communication anxiety",
+          "Digestive issues from stress"
+        ],
+        "afflictionIndicators": [
+          "Mercury in 6th/8th/12th houses",
+          "Mercury debilitated in Pisces",
+          "Mercury combust (too close to Sun)",
+          "Mercury with Rahu - nervous breakdown",
+          "Mercury retrograde - communication health issues"
+        ],
+        "strengthIndicators": [
+          "Mercury exalted in Virgo - perfect nervous system",
+          "Mercury in own signs (Gemini/Virgo) - intelligent health management",
+          "Mercury with Jupiter - wisdom in health"
+        ],
+        "remedies": [
+          "Emerald gemstone (if suitable)",
+          "Wednesday fasting",
+          "Green items donation",
+          "Mercury mantra",
+          "Feed birds (especially parrots)",
+          "Breathing exercises (Pranayama)",
+          "Reduce mental stress"
+        ],
+        "ayurvedic": "Governs Vata-Pitta combination - air-fire"
+      },
+      {
+        "planet": "JU",
+        "role": "Liver, fat, growth, wisdom affecting health",
+        "governs": [
+          "Liver and hepatic system",
+          "Fat metabolism and obesity",
+          "Pancreas and diabetes",
+          "Growth and expansion",
+          "Ears and hearing",
+          "Thighs and hips",
+          "Pituitary gland",
+          "Wisdom affecting health choices",
+          "Overall body expansion"
+        ],
+        "diseases": [
+          "Liver diseases - hepatitis, cirrhosis, fatty liver",
+          "Obesity and weight gain",
+          "Diabetes and pancreatic issues",
+          "High cholesterol",
+          "Hearing problems",
+          "Edema and fluid retention",
+          "Tumors and growths (expansion)",
+          "Over-indulgence health issues",
+          "Jaundice",
+          "Hip and thigh problems"
+        ],
+        "afflictionIndicators": [
+          "Jupiter in 6th/8th/12th houses",
+          "Jupiter debilitated in Capricorn",
+          "Jupiter with malefics",
+          "Weak Jupiter = poor health judgment",
+          "Jupiter afflicted = liver issues"
+        ],
+        "strengthIndicators": [
+          "Jupiter exalted in Cancer - excellent health wisdom",
+          "Jupiter in 1st/9th/11th houses - health blessings",
+          "Jupiter strong = good health recovery",
+          "Jupiter aspecting 1st house - protective"
+        ],
+        "remedies": [
+          "Yellow sapphire gemstone (if suitable)",
+          "Thursday fasting",
+          "Yellow clothing",
+          "Jupiter mantra",
+          "Teaching/charity",
+          "Respect teachers and elders",
+          "Turmeric in diet (liver health)"
+        ],
+        "ayurvedic": "Governs Kapha dosha - water-earth, expansion"
+      },
+      {
+        "planet": "VE",
+        "role": "Reproductive system, kidneys, sugar, diabetes",
+        "governs": [
+          "Female reproductive system",
+          "Kidneys and urinary system",
+          "Sugar metabolism and diabetes",
+          "Semen and sexual health",
+          "Skin beauty and luster",
+          "Eyes (especially beauty)",
+          "Throat and voice sweetness",
+          "Hormone balance",
+          "Facial beauty",
+          "Luxury affecting health"
+        ],
+        "diseases": [
+          "Reproductive system diseases - PCOS, infertility",
+          "Kidney diseases and stones",
+          "Diabetes (sugar metabolism)",
+          "Urinary tract infections",
+          "Sexual dysfunction",
+          "Hormonal imbalances",
+          "Throat and voice problems",
+          "Skin beauty loss",
+          "Venereal diseases",
+          "Over-indulgence in pleasures affecting health"
+        ],
+        "afflictionIndicators": [
+          "Venus in 6th/8th/12th houses",
+          "Venus debilitated in Virgo",
+          "Venus with malefics",
+          "Venus afflicted = reproductive issues",
+          "Venus combust = hormonal issues"
+        ],
+        "strengthIndicators": [
+          "Venus exalted in Pisces - excellent reproductive health",
+          "Venus in own signs (Taurus/Libra) - beauty and health",
+          "Venus strong = good hormonal balance"
+        ],
+        "remedies": [
+          "Diamond/White sapphire (if suitable)",
+          "Friday fasting",
+          "White clothing",
+          "Venus mantra",
+          "Lakshmi worship",
+          "Sugar and rice donation",
+          "Balance in pleasures"
+        ],
+        "ayurvedic": "Governs Kapha-Vata combination - water-air"
+      },
+      {
+        "planet": "SA",
+        "role": "Chronic diseases, bones, teeth, depression, aging",
+        "governs": [
+          "Bones and skeletal system",
+          "Teeth and dental health",
+          "Chronic and long-term diseases",
+          "Depression and mental health",
+          "Aging process",
+          "Knees and joints",
+          "Skin (dryness, aging)",
+          "Longevity",
+          "Suffering and karma",
+          "Paralysis and nerve issues"
+        ],
+        "diseases": [
+          "Chronic diseases - arthritis, osteoporosis",
+          "Bone and joint problems",
+          "Dental issues",
+          "Depression and melancholy",
+          "Paralysis and nerve degeneration",
+          "Skin diseases (chronic, dry)",
+          "Cancer (chronic growth)",
+          "Kidney stones",
+          "Knee problems",
+          "Constipation",
+          "Premature aging",
+          "Debility and weakness",
+          "Karmic health issues"
+        ],
+        "afflictionIndicators": [
+          "Saturn in 1st/6th/8th/12th houses",
+          "Saturn debilitated in Aries",
+          "Saturn aspecting 1st/6th/8th houses",
+          "Sade Sati period",
+          "Saturn dasha with afflictions"
+        ],
+        "strengthIndicators": [
+          "Saturn exalted in Libra - balanced health discipline",
+          "Saturn in 3rd/6th/11th houses (Upachaya) - overcoming chronic issues",
+          "Strong Saturn = longevity"
+        ],
+        "remedies": [
+          "Blue sapphire (CAUTION - expert advice essential)",
+          "Saturday fasting",
+          "Shiva worship",
+          "Saturn mantra",
+          "Serve poor, elderly, handicapped",
+          "Black sesame/iron donation",
+          "Patience and acceptance"
+        ],
+        "ayurvedic": "Governs Vata dosha - air, dryness, aging",
+        "wisdom": "Saturn's diseases teach lessons - patience, acceptance, karma clearing"
+      },
+      {
+        "planet": "RA",
+        "role": "Sudden diseases, toxins, addictions, unusual illnesses",
+        "governs": [
+          "Sudden and mysterious diseases",
+          "Toxins and poisoning",
+          "Addictions - drugs, alcohol",
+          "Phobias and fears",
+          "Pollution-related diseases",
+          "Rare and unusual illnesses",
+          "Viral infections",
+          "Epidemic diseases",
+          "Mental confusion affecting health",
+          "Foreign substances in body"
+        ],
+        "diseases": [
+          "Sudden mysterious illnesses",
+          "Food poisoning and toxins",
+          "Addictions and substance abuse",
+          "Phobias and panic attacks",
+          "Viral infections (sudden onset)",
+          "Cancer (uncontrolled growth)",
+          "Mental confusion and delusions",
+          "Skin diseases (sudden)",
+          "Allergies",
+          "Epidemic diseases",
+          "Technology-related health issues",
+          "Unexplained symptoms"
+        ],
+        "afflictionIndicators": [
+          "Rahu in 1st/6th/8th/12th houses",
+          "Rahu with Moon - mental health",
+          "Rahu with Mars - accidents",
+          "Rahu dasha with afflictions",
+          "Rahu-Ketu axis on health houses"
+        ],
+        "nature": "Unpredictable - can cause sudden issues or sudden cures",
+        "remedies": [
+          "Hessonite/Gomed (if suitable)",
+          "Rahu mantra",
+          "Durga worship",
+          "Saturday/Wednesday remedies",
+          "Donate blankets, blue items",
+          "Feed ants with sugar",
+          "Avoid addictions"
+        ],
+        "ayurvedic": "Disturbs all doshas - creates imbalance"
+      },
+      {
+        "planet": "KE",
+        "role": "Mysterious diseases, spirituality affecting health, detachment",
+        "governs": [
+          "Mysterious unexplained illnesses",
+          "Psychosomatic diseases",
+          "Spiritual healing or health issues",
+          "Karmic health issues",
+          "Lack of interest in health (detachment)",
+          "Mystical diseases",
+          "Sudden losses of function",
+          "Healing through spirituality",
+          "Past life health karma"
+        ],
+        "diseases": [
+          "Mysterious diseases hard to diagnose",
+          "Psychosomatic illnesses",
+          "Spiritual crisis affecting health",
+          "Sudden loss of functions",
+          "Accidents (detachment causing carelessness)",
+          "Karmic diseases from past lives",
+          "Lack of interest in treatment",
+          "Viral infections",
+          "Allergies (auto-immune)",
+          "Healing blocks",
+          "Isolation affecting mental health"
+        ],
+        "afflictionIndicators": [
+          "Ketu in 1st/6th/8th/12th houses",
+          "Ketu with Moon - mental detachment issues",
+          "Ketu in health houses",
+          "Weak Ketu = lack of spiritual healing"
+        ],
+        "positive": "Strong Ketu can give spontaneous healing, spiritual cure",
+        "remedies": [
+          "Cat's eye (if suitable)",
+          "Ketu mantra",
+          "Ganesha worship",
+          "Spiritual practices",
+          "Donate spiritual items",
+          "Feed dogs",
+          "Past life karma clearing"
+        ],
+        "ayurvedic": "Creates imbalances, but can also heal mysteriously"
+      }
+    ]
+  },
+  "diseaseTiming": {
+    "name": "When Diseases Manifest",
+    "principle": "Disease promised in birth chart manifests in malefic dasha-bhukti with afflicting transits",
+    "timingMethods": [
+      {
+        "method": "Dasha-Bhukti Analysis",
+        "importance": "Primary timing method",
+        "rules": [
+          {
+            "period": "6th lord Mahadasha/Antardasha",
+            "effect": "Acute diseases, digestive issues, infections, enemies causing health problems",
+            "severity": "Medium - usually treatable"
+          },
+          {
+            "period": "8th lord Mahadasha/Antardasha",
+            "effect": "Chronic diseases, surgeries, accidents, sudden health crises",
+            "severity": "High - serious health concerns"
+          },
+          {
+            "period": "12th lord Mahadasha/Antardasha",
+            "effect": "Hospitalization, bed rest, chronic fatigue, expenses on health",
+            "severity": "Medium to high - confinement"
+          },
+          {
+            "period": "Weak lagna lord dasha",
+            "effect": "Overall health weakens, vitality low, disease susceptibility",
+            "severity": "Depends on afflictions"
+          },
+          {
+            "period": "Afflicted planet dasha",
+            "effect": "Diseases related to that planet manifest",
+            "example": "Afflicted Mars dasha = blood issues, accidents"
+          },
+          {
+            "period": "Planet in 6th/8th/12th dasha",
+            "effect": "Health challenges during that planet's period",
+            "note": "Check planet's nature and house rulership"
+          },
+          {
+            "period": "Maraka period (2nd/7th lord)",
+            "effect": "Life-threatening situations possible",
+            "severity": "Very high - extreme caution"
+          }
+        ]
+      },
+      {
+        "method": "Transit Analysis",
+        "importance": "Secondary confirmation and trigger",
+        "transits": [
+          {
+            "transit": "Saturn over 1st house or Moon (Sade Sati)",
+            "effect": "Physical and mental health tests, chronic issues surface",
+            "duration": "2.5 years each phase, 7.5 years total",
+            "advice": "Preventive health checkups, maintain discipline"
+          },
+          {
+            "transit": "Saturn over 6th/8th houses",
+            "effect": "Health challenges, chronic disease activation",
+            "nature": "Testing period"
+          },
+          {
+            "transit": "Mars over 1st/6th/8th houses",
+            "effect": "Accidents, injuries, surgeries, fever",
+            "duration": "~45 days",
+            "advice": "Be careful with sharp objects, driving"
+          },
+          {
+            "transit": "Rahu-Ketu axis on 1st-7th houses",
+            "effect": "Sudden health issues, mysterious diseases",
+            "duration": "18 months",
+            "nature": "Unpredictable"
+          },
+          {
+            "transit": "Jupiter over 6th/8th/12th houses",
+            "effect": "Expansion of health issues OR healing (dual nature)",
+            "positive": "Jupiter transit can also heal if strong in chart"
+          }
+        ]
+      },
+      {
+        "method": "Combined Dasha-Transit",
+        "importance": "Most accurate timing",
+        "principle": "When malefic dasha AND afflicting transit combine = disease manifests",
+        "example": "8th lord Mars dasha + Saturn transit over 1st house = serious health crisis likely",
+        "preventive": "Knowing timing allows preventive measures"
+      }
+    ]
+  },
+  "bodyPartsZodiac": {
+    "name": "Zodiac Signs and Body Parts (Kalapurusha)",
+    "description": "Each sign governs specific body parts",
+    "signs": [
+      {
+        "sign": "AR",
+        "bodyParts": [
+          "Head",
+          "Brain",
+          "Eyes",
+          "Face"
+        ],
+        "vulnerabilities": "Headaches, migraines, eye strain, head injuries, brain fever"
+      },
+      {
+        "sign": "TA",
+        "bodyParts": [
+          "Neck",
+          "Throat",
+          "Thyroid",
+          "Voice box"
+        ],
+        "vulnerabilities": "Throat issues, thyroid disorders, neck pain, tonsillitis, voice problems"
+      },
+      {
+        "sign": "GE",
+        "bodyParts": [
+          "Shoulders",
+          "Arms",
+          "Hands",
+          "Lungs",
+          "Nervous system"
+        ],
+        "vulnerabilities": "Shoulder pain, respiratory issues, asthma, nervous disorders, hand problems"
+      },
+      {
+        "sign": "CA",
+        "bodyParts": [
+          "Chest",
+          "Breasts",
+          "Stomach",
+          "Digestive system"
+        ],
+        "vulnerabilities": "Breast diseases, stomach ulcers, digestive problems, emotional eating disorders"
+      },
+      {
+        "sign": "LE",
+        "bodyParts": [
+          "Heart",
+          "Spine",
+          "Upper back"
+        ],
+        "vulnerabilities": "Heart diseases, spine issues, back pain, cardiac problems, BP issues"
+      },
+      {
+        "sign": "VI",
+        "bodyParts": [
+          "Intestines",
+          "Digestive tract",
+          "Nervous system"
+        ],
+        "vulnerabilities": "Intestinal issues, IBS, digestive disorders, anxiety, nervousness"
+      },
+      {
+        "sign": "LI",
+        "bodyParts": [
+          "Kidneys",
+          "Lower back",
+          "Bladder",
+          "Skin"
+        ],
+        "vulnerabilities": "Kidney problems, lower back pain, UTIs, skin issues, diabetes"
+      },
+      {
+        "sign": "SC",
+        "bodyParts": [
+          "Reproductive organs",
+          "Colon",
+          "Rectum",
+          "Bladder"
+        ],
+        "vulnerabilities": "Reproductive issues, colon problems, piles, STDs, urinary issues"
+      },
+      {
+        "sign": "SA",
+        "bodyParts": [
+          "Thighs",
+          "Hips",
+          "Liver",
+          "Sciatic nerve"
+        ],
+        "vulnerabilities": "Liver problems, hip issues, thigh pain, sciatica, obesity"
+      },
+      {
+        "sign": "CP",
+        "bodyParts": [
+          "Knees",
+          "Bones",
+          "Joints",
+          "Teeth",
+          "Skin"
+        ],
+        "vulnerabilities": "Knee problems, arthritis, bone diseases, dental issues, skin dryness"
+      },
+      {
+        "sign": "AQ",
+        "bodyParts": [
+          "Calves",
+          "Ankles",
+          "Circulatory system"
+        ],
+        "vulnerabilities": "Ankle sprains, circulation problems, varicose veins, leg cramps"
+      },
+      {
+        "sign": "PI",
+        "bodyParts": [
+          "Feet",
+          "Toes",
+          "Lymphatic system"
+        ],
+        "vulnerabilities": "Feet problems, fungal infections, lymphatic issues, sleep disorders, addictions"
+      }
+    ],
+    "usage": "Check lagna sign and 6th/8th house signs for vulnerable body parts"
+  },
+  "ayurvedicIntegration": {
+    "name": "Ayurvedic Constitution (Prakriti) from Chart",
+    "principle": "Planetary dominance shows Ayurvedic constitution",
+    "doshas": [
+      {
+        "dosha": "Vata (Air/Ether)",
+        "governingPlanets": [
+          "SA",
+          "ME",
+          "RA"
+        ],
+        "signs": [
+          "GE",
+          "VI",
+          "CP",
+          "AQ"
+        ],
+        "characteristics": "Thin body, dry skin, nervous, restless, quick mind, variable digestion",
+        "imbalances": "Anxiety, insomnia, constipation, nerve disorders, dryness, joint pain",
+        "diseases": "Nervous system issues, mental disorders, joint problems, constipation, insomnia",
+        "balance": "Routine, warmth, oil massage, grounding, avoid cold and dry"
+      },
+      {
+        "dosha": "Pitta (Fire/Water)",
+        "governingPlanets": [
+          "SU",
+          "MA",
+          "KE"
+        ],
+        "signs": [
+          "AR",
+          "LE",
+          "SC",
+          "SA"
+        ],
+        "characteristics": "Medium build, warm body, sharp intellect, good digestion, competitive, ambitious",
+        "imbalances": "Anger, inflammation, acidity, skin rashes, liver issues",
+        "diseases": "Inflammatory diseases, liver problems, acidity, skin diseases, fever, hypertension",
+        "balance": "Cooling foods, avoid heat, control anger, avoid spicy food"
+      },
+      {
+        "dosha": "Kapha (Water/Earth)",
+        "governingPlanets": [
+          "MO",
+          "JU",
+          "VE"
+        ],
+        "signs": [
+          "TA",
+          "CA",
+          "LI",
+          "PI"
+        ],
+        "characteristics": "Heavy build, oily skin, slow digestion, calm mind, tendency to weight gain, stable emotions",
+        "imbalances": "Lethargy, obesity, congestion, diabetes, attachment",
+        "diseases": "Obesity, diabetes, respiratory congestion, edema, sluggish metabolism",
+        "balance": "Exercise, light food, avoid dairy, avoid lethargy, stimulation"
+      }
+    ],
+    "determination": [
+      "Check most prominent planets in chart",
+      "Check lagna lord nature",
+      "Check planets in 1st house",
+      "Usually combination of doshas (Vata-Pitta, Pitta-Kapha, etc.)"
+    ]
+  },
+  "divisionalCharts": {
+    "name": "Health Analysis in Divisional Charts",
+    "charts": [
+      {
+        "chart": "D30 (Trimsamsa)",
+        "purpose": "Primary health divisional chart - shows diseases and evil",
+        "analysis": [
+          "Planets in D30 show health vulnerabilities",
+          "Malefics in D30 1st house = health issues",
+          "D30 6th/8th houses = disease indicators",
+          "Check planetary strengths in D30",
+          "D30 lagna lord strength crucial"
+        ],
+        "importance": "Essential for detailed health prediction"
+      },
+      {
+        "chart": "D1 (Rasi/Birth Chart)",
+        "purpose": "Overall health promise",
+        "analysis": "Primary chart - shows if health issues promised"
+      },
+      {
+        "chart": "D3 (Drekkana)",
+        "purpose": "Siblings health, chest and shoulders",
+        "usage": "Check for respiratory and shoulder issues"
+      },
+      {
+        "chart": "D9 (Navamsa)",
+        "purpose": "Overall strength and marital health",
+        "analysis": "Strong D9 gives resilience; afflicted D9 shows post-marriage health changes"
+      }
+    ]
+  },
+  "remedialHealing": {
+    "name": "Astrological Health Remedies",
+    "categories": [
+      {
+        "category": "Planetary Gemstones",
+        "caution": "Must consult expert - wrong gem can harm health",
+        "gems": [
+          {
+            "planet": "SU",
+            "gem": "Ruby",
+            "healthBenefit": "Heart, vitality, bones, immune system"
+          },
+          {
+            "planet": "MO",
+            "gem": "Pearl",
+            "healthBenefit": "Mental health, emotions, blood, sleep"
+          },
+          {
+            "planet": "MA",
+            "gem": "Red Coral",
+            "healthBenefit": "Blood, energy, accidents prevention, immunity"
+          },
+          {
+            "planet": "ME",
+            "gem": "Emerald",
+            "healthBenefit": "Nervous system, skin, communication, stress"
+          },
+          {
+            "planet": "JU",
+            "gem": "Yellow Sapphire",
+            "healthBenefit": "Liver, obesity, diabetes, overall health wisdom"
+          },
+          {
+            "planet": "VE",
+            "gem": "Diamond/White Sapphire",
+            "healthBenefit": "Reproductive system, kidneys, diabetes, hormones"
+          },
+          {
+            "planet": "SA",
+            "gem": "Blue Sapphire (CAUTION)",
+            "healthBenefit": "Chronic diseases, bones, longevity - expert advice essential"
+          },
+          {
+            "planet": "RA",
+            "gem": "Hessonite/Gomed",
+            "healthBenefit": "Mysterious diseases, toxins, addictions"
+          },
+          {
+            "planet": "KE",
+            "gem": "Cat's Eye",
+            "healthBenefit": "Psychosomatic issues, spiritual healing"
+          }
+        ]
+      },
+      {
+        "category": "Mantras for Health",
+        "mantras": [
+          {
+            "mantra": "Mahamrityunjaya Mantra",
+            "purpose": "Ultimate healing mantra, overcoming death",
+            "power": "Most powerful for serious illnesses"
+          },
+          {
+            "mantra": "Dhanvantari Mantra",
+            "purpose": "God of medicine - healing mantra",
+            "usage": "General health and healing"
+          },
+          {
+            "mantra": "Gayatri Mantra",
+            "purpose": "Vitality, energy, immune system",
+            "time": "Sunrise for maximum benefit"
+          },
+          {
+            "mantra": "Planetary mantras",
+            "purpose": "Strengthen weak planet causing health issue",
+            "example": "Sun mantra for heart"
+          },
+          {
+            "mantra": "Hanuman Chalisa",
+            "purpose": "Mars-related issues, strength, accidents prevention",
+            "benefit": "Physical and mental strength"
+          }
+        ]
+      },
+      {
+        "category": "Deity Worship for Health",
+        "deities": [
+          {
+            "deity": "Dhanvantari",
+            "for": "All diseases and healing",
+            "day": "Dhanteras, full moon"
+          },
+          {
+            "deity": "Hanuman",
+            "for": "Mars diseases, strength, accidents",
+            "day": "Tuesday, Saturday"
+          },
+          {
+            "deity": "Y20",
+            "for": "Chronic diseases, Saturn issues, longevity",
+            "mantra": "Mahamrityunjaya"
+          },
+          {
+            "deity": "Durga",
+            "for": "Diseases from enemies (6th house), protection",
+            "day": "Tuesday, Friday"
+          },
+          {
+            "deity": "Ganesha",
+            "for": "Obstacle removal in healing, Ketu issues",
+            "day": "V04"
+          },
+          {
+            "deity": "Vishnu",
+            "for": "Overall protection, Jupiter-related health",
+            "day": "V05"
+          }
+        ]
+      },
+      {
+        "category": "Fasting and Dietary",
+        "remedies": [
+          "Fast on day of afflicting planet (e.g., Saturday for Saturn diseases)",
+          "Avoid foods of afflicted planet (e.g., red meat for Mars affliction)",
+          "Strengthen weak planet through diet (e.g., yellow foods for Jupiter)",
+          "Ayurvedic diet based on dosha imbalance",
+          "Sattvic food for mental health issues"
+        ]
+      },
+      {
+        "category": "Charity and Donations",
+        "principle": "Giving related items reduces planet's negative effects",
+        "donations": [
+          {
+            "planet": "SU",
+            "items": "Wheat, jaggery, copper, red items",
+            "day": "V01"
+          },
+          {
+            "planet": "MO",
+            "items": "Milk, rice, white cloth, pearls",
+            "day": "V02"
+          },
+          {
+            "planet": "MA",
+            "items": "Red lentils, red cloth, copper",
+            "day": "V03"
+          },
+          {
+            "planet": "ME",
+            "items": "Green items, birds, books",
+            "day": "V04"
+          },
+          {
+            "planet": "JU",
+            "items": "Yellow items, turmeric, gold, teaching",
+            "day": "V05"
+          },
+          {
+            "planet": "VE",
+            "items": "Sugar, rice, white items, cow",
+            "day": "V06"
+          },
+          {
+            "planet": "SA",
+            "items": "Black sesame, iron, blue/black items, serve poor",
+            "day": "V07"
+          }
+        ]
+      },
+      {
+        "category": "Yantras and Talismans",
+        "usage": [
+          "Mahamrityunjaya yantra for serious diseases",
+          "Planetary yantras for respective planet diseases",
+          "Raksha kavach for protection from accidents",
+          "Specific yantras for specific diseases"
+        ]
+      },
+      {
+        "category": "Timing-Based Remedies",
+        "strategies": [
+          "Schedule surgery during favorable dasha-transit (avoid 8th lord periods)",
+          "Start treatment during benefic periods",
+          "Hospitalize during 12th lord period if unavoidable",
+          "Avoid risky activities during Mars-Rahu transits",
+          "Health checkups during 6th house activations (catch early)"
+        ]
+      }
+    ]
+  },
+  "preventiveGuidance": {
+    "name": "Preventive Health Based on Chart",
+    "principle": "Prevention better than cure - astrology shows vulnerabilities in advance",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Identify Vulnerable Body Parts",
+        "method": "Check 6th/8th house signs, afflicted planets, weak lagna",
+        "example": "6th house in Leo = heart vulnerability, regular cardiac checkups needed"
+      },
+      {
+        "step": 2,
+        "action": "Identify Disease-Prone Periods",
+        "method": "Note upcoming 6th/8th/12th lord dashas, Saturn transits",
+        "prevention": "Schedule preventive checkups before difficult periods"
+      },
+      {
+        "step": 3,
+        "action": "Strengthen Weak Health Planets",
+        "method": "Remedies for lagna lord, afflicted planets",
+        "example": "Weak Moon = mental health care, meditation, Moon remedies"
+      },
+      {
+        "step": 4,
+        "action": "Balance Ayurvedic Constitution",
+        "method": "Identify dominant dosha, follow balancing diet/lifestyle",
+        "prevention": "Prevent dosha imbalance diseases"
+      },
+      {
+        "step": 5,
+        "action": "Lifestyle Adjustments",
+        "method": "Based on chart vulnerabilities",
+        "examples": [
+          "Weak Mars = avoid risky activities",
+          "Weak Saturn = bone density care",
+          "Weak Sun = regular sun exposure, cardiac care",
+          "Weak Moon = stress management, sleep hygiene"
+        ]
+      },
+      {
+        "step": 6,
+        "action": "Regular Monitoring",
+        "method": "Schedule checkups based on vulnerable organs",
+        "smart": "Astrology guides which organs need more attention"
+      }
+    ]
+  },
+  "practicalCaseStudy": {
+    "name": "Sample Health Analysis",
+    "case": {
+      "scenario": "Person with health concerns",
+      "chartIndicators": [
+        "Lagna: Cancer (ruled by Moon)",
+        "Moon debilitated in Scorpio in 5th house",
+        "6th house: Sagittarius with Jupiter (6th lord) debilitated in Capricorn in 7th",
+        "8th house: Aquarius with Saturn and Rahu",
+        "Mars in 8th house (accidents, surgeries)",
+        "Current dasha: Saturn Mahadasha, Rahu Antardasha"
+      ],
+      "analysis": [
+        "Lagna lord Moon debilitated = weak constitution, mental health vulnerability",
+        "Moon in Scorpio = emotional intensity, reproductive/colon issues possible",
+        "6th lord debilitated = weak immunity, digestive problems",
+        "8th house Saturn-Rahu-Mars = chronic diseases, sudden health crises, surgery indication",
+        "Mars in 8th = accidents prone, blood issues, surgery likely",
+        "Current Saturn-Rahu dasha in 8th house = serious health concern period",
+        "Ayurvedic: Moon-Saturn = Kapha-Vata imbalance"
+      ],
+      "predictions": [
+        "Mental health challenges (debilitated Moon)",
+        "Digestive and immunity issues (weak 6th lord)",
+        "Chronic disease possibility (Saturn in 8th)",
+        "Surgery or accident risk during current dasha (Mars-Saturn-Rahu in 8th)",
+        "Reproductive/colon areas vulnerable (Moon in Scorpio, 8th house activity)"
+      ],
+      "timing": [
+        "Current Saturn-Rahu period = high-risk health phase",
+        "Next 2 years critical (Saturn transit over 8th house)",
+        "Preventive action urgent"
+      ],
+      "preventive": [
+        "Immediate health checkup, especially reproductive/digestive systems",
+        "Moon remedies for mental health",
+        "Saturn remedies for chronic disease prevention",
+        "Avoid risky activities (Mars in 8th)",
+        "Mahamrityunjaya mantra daily",
+        "Strengthen immunity",
+        "Kapha-Vata balancing diet"
+      ],
+      "longTerm": [
+        "After Saturn-Rahu period, health improves",
+        "Regular monitoring of vulnerable areas",
+        "Lifestyle adjustments permanent",
+        "Spiritual practices for mental health"
+      ]
+    }
+  }
+}

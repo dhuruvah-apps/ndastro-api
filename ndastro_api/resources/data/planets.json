@@ -1,0 +1,1093 @@
+[
+  {
+    "name": "Sun",
+    "code": "SU",
+    "astronomicalCode": "sun",
+    "sanskritName": "Surya",
+    "description": "The star at the center of our solar system.",
+    "elementPanchamahabhuta": "Fire",
+    "gender": "Male",
+    "nature": "Malefic",
+    "caste": "Kshatriya",
+    "guna": "Sattvic",
+    "presidingDeity": "Agni",
+    "color": "Copper Red",
+    "gemstone": "Ruby",
+    "metal": "Gold",
+    "day": "V01",
+    "direction": "East",
+    "positedAt": "",
+    "primarySignification": "Soul, Father, Authority",
+    "bodyParts": [
+      "Heart",
+      "Right Eye",
+      "Bones"
+    ],
+    "ownSigns": [
+      "LE"
+    ],
+    "exaltation": {
+      "sign": "R01",
+      "deepExaltationDegree": 10.0
+    },
+    "debilitation": {
+      "sign": "R07",
+      "deepDebilitationDegree": 10.0
+    },
+    "moolatrikona": {
+      "sign": "R05",
+      "degreeRange": {
+        "start": 0,
+        "end": 20
+      }
+    },
+    "vargottamaStatus": null,
+    "naturalFriends": [
+      "MO",
+      "MA",
+      "JU"
+    ],
+    "naturalEnemies": [
+      "VE",
+      "SA"
+    ],
+    "naturalNeutrals": [
+      "ME"
+    ],
+    "temporaryFriends": null,
+    "temporaryEnemies": null,
+    "compoundRelationship": {
+      "bestFriend": [],
+      "friend": [
+        "MO",
+        "MA",
+        "JU"
+      ],
+      "neutral": [
+        "ME"
+      ],
+      "enemy": [
+        "VE",
+        "SA"
+      ],
+      "bitterEnemy": []
+    },
+    "functionalBenefic": null,
+    "functionalMalefic": null,
+    "marakaStatus": null,
+    "karakaFor": [
+      "Soul",
+      "Father",
+      "Authority",
+      "Government",
+      "Power",
+      "Self-esteem",
+      "Vitality",
+      "Leadership"
+    ],
+    "shadbalaTotal": null,
+    "isCombust": false,
+    "digBalaScore": null,
+    "isRetrograde": false,
+    "represents": [
+      "Government",
+      "Father",
+      "Authority",
+      "Soul",
+      "Self-confidence",
+      "Power",
+      "Leadership"
+    ],
+    "keywords": [
+      "Vitality",
+      "Ego",
+      "Power",
+      "Authority",
+      "Father",
+      "Government",
+      "Soul",
+      "Leadership",
+      "Confidence"
+    ],
+    "orbit": "Geocentric",
+    "aspects": [
+      "H07"
+    ]
+  },
+  {
+    "name": "Moon",
+    "code": "MO",
+    "astronomicalCode": "moon",
+    "sanskritName": "Chandra",
+    "description": "Earth's only natural satellite.",
+    "elementPanchamahabhuta": "Water",
+    "gender": "Female",
+    "nature": "Benefic when waxing, Malefic when waning",
+    "caste": "Vaishya",
+    "guna": "Sattvic",
+    "presidingDeity": "Varuna",
+    "color": "White",
+    "gemstone": "Pearl",
+    "metal": "Silver",
+    "day": "V02",
+    "direction": "North-West",
+    "primarySignification": "Mind, Mother, Emotions",
+    "bodyParts": [
+      "Mind",
+      "Left Eye",
+      "Blood",
+      "Chest"
+    ],
+    "ownSigns": [
+      "CA"
+    ],
+    "exaltation": {
+      "sign": "R02",
+      "deepExaltationDegree": 3.0
+    },
+    "debilitation": {
+      "sign": "R08",
+      "deepDebilitationDegree": 3.0
+    },
+    "moolatrikona": {
+      "sign": "R02",
+      "degreeRange": {
+        "start": 4,
+        "end": 20
+      }
+    },
+    "vargottamaStatus": null,
+    "naturalFriends": [
+      "SU",
+      "ME"
+    ],
+    "naturalEnemies": [],
+    "naturalNeutrals": [
+      "MA",
+      "JU",
+      "VE",
+      "SA"
+    ],
+    "temporaryFriends": null,
+    "temporaryEnemies": null,
+    "compoundRelationship": {
+      "bestFriend": [],
+      "friend": [
+        "SU",
+        "ME"
+      ],
+      "neutral": [
+        "MA",
+        "JU",
+        "VE",
+        "SA"
+      ],
+      "enemy": [],
+      "bitterEnemy": []
+    },
+    "functionalBenefic": null,
+    "functionalMalefic": null,
+    "marakaStatus": null,
+    "karakaFor": [
+      "Mind",
+      "Mother",
+      "Emotions",
+      "Public",
+      "Masses",
+      "Nourishment",
+      "Liquids"
+    ],
+    "shadbalaTotal": null,
+    "isCombust": false,
+    "digBalaScore": null,
+    "isRetrograde": false,
+    "represents": [
+      "Mother",
+      "Mind",
+      "Emotions",
+      "Public",
+      "Masses",
+      "Water",
+      "Nourishment"
+    ],
+    "keywords": [
+      "Emotions",
+      "Mind",
+      "Mother",
+      "Nurturing",
+      "Intuition",
+      "Sensitivity",
+      "Public",
+      "Popularity"
+    ],
+    "orbit": "Geocentric",
+    "aspects": [
+      "H07"
+    ]
+  },
+  {
+    "name": "Mercury",
+    "code": "ME",
+    "sanskritName": "Budha",
+    "astronomicalCode": "mercury",
+    "description": "The smallest and innermost planet in the Solar System.",
+    "elementPanchamahabhuta": "EA",
+    "gender": "Neutral",
+    "nature": "Benefic when alone, takes nature of conjunct planet",
+    "caste": "Vaishya",
+    "guna": "Rajasic",
+    "presidingDeity": "Vishnu",
+    "color": "Green",
+    "gemstone": "Emerald",
+    "metal": "Bronze",
+    "day": "V04",
+    "direction": "North",
+    "primarySignification": "Intelligence, Communication, Speech",
+    "bodyParts": [
+      "Nervous System",
+      "Speech",
+      "Skin",
+      "Hands"
+    ],
+    "ownSigns": [
+      "GE",
+      "VI"
+    ],
+    "exaltation": {
+      "sign": "R06",
+      "deepExaltationDegree": 15.0
+    },
+    "debilitation": {
+      "sign": "R12",
+      "deepDebilitationDegree": 15.0
+    },
+    "moolatrikona": {
+      "sign": "R06",
+      "degreeRange": {
+        "start": 16,
+        "end": 20
+      }
+    },
+    "vargottamaStatus": null,
+    "naturalFriends": [
+      "SU",
+      "VE"
+    ],
+    "naturalEnemies": [
+      "MO"
+    ],
+    "naturalNeutrals": [
+      "MA",
+      "JU",
+      "SA"
+    ],
+    "temporaryFriends": null,
+    "temporaryEnemies": null,
+    "compoundRelationship": {
+      "bestFriend": [],
+      "friend": [
+        "SU",
+        "VE"
+      ],
+      "neutral": [
+        "MA",
+        "JU",
+        "SA"
+      ],
+      "enemy": [
+        "MO"
+      ],
+      "bitterEnemy": []
+    },
+    "functionalBenefic": null,
+    "functionalMalefic": null,
+    "marakaStatus": null,
+    "karakaFor": [
+      "Intelligence",
+      "Communication",
+      "Speech",
+      "Business",
+      "Mathematics",
+      "Writing",
+      "Discrimination"
+    ],
+    "shadbalaTotal": null,
+    "isCombust": null,
+    "digBalaScore": null,
+    "isRetrograde": null,
+    "represents": [
+      "Communication",
+      "Intelligence",
+      "Business",
+      "Mathematics",
+      "Writing",
+      "Speech"
+    ],
+    "keywords": [
+      "Intelligence",
+      "Communication",
+      "Logic",
+      "Business",
+      "Intellect",
+      "Analysis",
+      "Writing",
+      "Speech"
+    ],
+    "orbit": "Geocentric",
+    "aspects": [
+      "H07"
+    ]
+  },
+  {
+    "name": "Venus",
+    "code": "VE",
+    "astronomicalCode": "venus",
+    "sanskritName": "Shukra",
+    "description": "The second planet from the Sun, known for its brightness.",
+    "elementPanchamahabhuta": "Water",
+    "gender": "Female",
+    "nature": "Benefic",
+    "caste": "Brahmin",
+    "guna": "Rajasic",
+    "presidingDeity": "Lakshmi",
+    "color": "White",
+    "gemstone": "Diamond",
+    "metal": "Silver",
+    "day": "V06",
+    "direction": "South-East",
+    "primarySignification": "Love, Luxury, Beauty",
+    "bodyParts": [
+      "Reproductive Organs",
+      "Face",
+      "Throat",
+      "Kidneys"
+    ],
+    "ownSigns": [
+      "TA",
+      "LI"
+    ],
+    "exaltation": {
+      "sign": "R12",
+      "deepExaltationDegree": 27.0
+    },
+    "debilitation": {
+      "sign": "R06",
+      "deepDebilitationDegree": 27.0
+    },
+    "moolatrikona": {
+      "sign": "R07",
+      "degreeRange": {
+        "start": 0,
+        "end": 15
+      }
+    },
+    "vargottamaStatus": null,
+    "naturalFriends": [
+      "ME",
+      "SA"
+    ],
+    "naturalEnemies": [
+      "SU",
+      "MO"
+    ],
+    "naturalNeutrals": [
+      "MA",
+      "JU"
+    ],
+    "temporaryFriends": null,
+    "temporaryEnemies": null,
+    "compoundRelationship": {
+      "bestFriend": [],
+      "friend": [
+        "ME",
+        "SA"
+      ],
+      "neutral": [
+        "MA",
+        "JU"
+      ],
+      "enemy": [
+        "SU",
+        "MO"
+      ],
+      "bitterEnemy": []
+    },
+    "functionalBenefic": null,
+    "functionalMalefic": null,
+    "marakaStatus": null,
+    "karakaFor": [
+      "Love",
+      "Marriage",
+      "Wife",
+      "Luxury",
+      "Beauty",
+      "Arts",
+      "Vehicles",
+      "Comforts",
+      "Reproduction"
+    ],
+    "shadbalaTotal": null,
+    "isCombust": null,
+    "digBalaScore": null,
+    "isRetrograde": null,
+    "represents": [
+      "Love",
+      "Marriage",
+      "Luxury",
+      "Beauty",
+      "Arts",
+      "Vehicles",
+      "Comforts"
+    ],
+    "keywords": [
+      "Love",
+      "Beauty",
+      "Luxury",
+      "Relationships",
+      "Arts",
+      "Pleasure",
+      "Romance",
+      "Harmony"
+    ],
+    "orbit": "Geocentric",
+    "aspects": [
+      "H07"
+    ]
+  },
+  {
+    "name": "Earth",
+    "code": "EA",
+    "astronomicalCode": "earth",
+    "sanskritName": "Prithvi",
+    "description": "The third planet from the Sun and our home planet.",
+    "elementPanchamahabhuta": "EA",
+    "gender": "Neutral",
+    "nature": "Neutral",
+    "caste": "N/A",
+    "guna": "N/A",
+    "presidingDeity": "Bhumi Devi",
+    "color": "Mixed",
+    "gemstone": "N/A",
+    "metal": "N/A",
+    "day": "N/A",
+    "direction": "Center",
+    "primarySignification": "Material World, Physical Body",
+    "bodyParts": [
+      "Physical Body"
+    ],
+    "ownSigns": [],
+    "exaltation": null,
+    "debilitation": null,
+    "moolatrikona": null,
+    "vargottamaStatus": null,
+    "naturalFriends": [],
+    "naturalEnemies": [],
+    "naturalNeutrals": [],
+    "temporaryFriends": null,
+    "temporaryEnemies": null,
+    "compoundRelationship": {
+      "bestFriend": [],
+      "friend": [],
+      "neutral": [],
+      "enemy": [],
+      "bitterEnemy": []
+    },
+    "functionalBenefic": null,
+    "functionalMalefic": null,
+    "marakaStatus": null,
+    "karakaFor": [
+      "Material World",
+      "Physical Existence",
+      "Native's Position"
+    ],
+    "shadbalaTotal": null,
+    "isCombust": false,
+    "digBalaScore": null,
+    "isRetrograde": false,
+    "represents": [
+      "Material World",
+      "Physical Existence",
+      "Native's Position"
+    ],
+    "keywords": [
+      "Ground",
+      "Material",
+      "Physical",
+      "Foundation"
+    ],
+    "orbit": "Reference Point",
+    "aspects": null
+  },
+  {
+    "name": "Mars",
+    "code": "MA",
+    "astronomicalCode": "mars barycenter",
+    "sanskritName": "Mangala",
+    "description": "The fourth planet from the Sun, often called the Red Planet.",
+    "elementPanchamahabhuta": "Fire",
+    "gender": "Male",
+    "nature": "Malefic",
+    "caste": "Kshatriya",
+    "guna": "Tamasic",
+    "presidingDeity": "Kartikeya",
+    "color": "Red",
+    "gemstone": "Red Coral",
+    "metal": "Copper",
+    "day": "V03",
+    "direction": "South",
+    "primarySignification": "Energy, Courage, Brothers",
+    "bodyParts": [
+      "Blood",
+      "Muscles",
+      "Bone Marrow",
+      "Genitals"
+    ],
+    "ownSigns": [
+      "AR",
+      "SC"
+    ],
+    "exaltation": {
+      "sign": "R10",
+      "deepExaltationDegree": 28.0
+    },
+    "debilitation": {
+      "sign": "R04",
+      "deepDebilitationDegree": 28.0
+    },
+    "moolatrikona": {
+      "sign": "R01",
+      "degreeRange": {
+        "start": 0,
+        "end": 12
+      }
+    },
+    "vargottamaStatus": null,
+    "naturalFriends": [
+      "SU",
+      "MO",
+      "JU"
+    ],
+    "naturalEnemies": [
+      "ME"
+    ],
+    "naturalNeutrals": [
+      "VE",
+      "SA"
+    ],
+    "temporaryFriends": null,
+    "temporaryEnemies": null,
+    "compoundRelationship": {
+      "bestFriend": [],
+      "friend": [
+        "SU",
+        "MO",
+        "JU"
+      ],
+      "neutral": [
+        "VE",
+        "SA"
+      ],
+      "enemy": [
+        "ME"
+      ],
+      "bitterEnemy": []
+    },
+    "functionalBenefic": null,
+    "functionalMalefic": null,
+    "marakaStatus": null,
+    "karakaFor": [
+      "Courage",
+      "Energy",
+      "Brothers",
+      "Siblings",
+      "Land",
+      "Property",
+      "Sports",
+      "Military",
+      "Passion"
+    ],
+    "shadbalaTotal": null,
+    "isCombust": null,
+    "digBalaScore": null,
+    "isRetrograde": null,
+    "represents": [
+      "Courage",
+      "Energy",
+      "Brothers",
+      "Land",
+      "Property",
+      "Sports",
+      "Military"
+    ],
+    "keywords": [
+      "Energy",
+      "Courage",
+      "Action",
+      "Aggression",
+      "Brothers",
+      "Property",
+      "Sports",
+      "War"
+    ],
+    "orbit": "Geocentric",
+    "aspects": [
+      "H04",
+      "H07",
+      "H08"
+    ]
+  },
+  {
+    "name": "Jupiter",
+    "code": "JU",
+    "astronomicalCode": "jupiter barycenter",
+    "sanskritName": "Guru",
+    "description": "The largest planet in our solar system.",
+    "elementPanchamahabhuta": "Ether",
+    "gender": "Male",
+    "nature": "Benefic",
+    "caste": "Brahmin",
+    "guna": "Sattvic",
+    "presidingDeity": "Y26",
+    "color": "Yellow",
+    "gemstone": "Yellow Sapphire",
+    "metal": "Gold",
+    "day": "V05",
+    "direction": "North-East",
+    "primarySignification": "Wisdom, Children, Fortune",
+    "bodyParts": [
+      "Liver",
+      "Fat",
+      "Hips",
+      "Arterial System"
+    ],
+    "ownSigns": [
+      "SA",
+      "PI"
+    ],
+    "exaltation": {
+      "sign": "R04",
+      "deepExaltationDegree": 5.0
+    },
+    "debilitation": {
+      "sign": "R10",
+      "deepDebilitationDegree": 5.0
+    },
+    "moolatrikona": {
+      "sign": "R09",
+      "degreeRange": {
+        "start": 0,
+        "end": 10
+      }
+    },
+    "vargottamaStatus": null,
+    "naturalFriends": [
+      "SU",
+      "MO",
+      "MA"
+    ],
+    "naturalEnemies": [
+      "ME",
+      "VE"
+    ],
+    "naturalNeutrals": [
+      "SA"
+    ],
+    "temporaryFriends": null,
+    "temporaryEnemies": null,
+    "compoundRelationship": {
+      "bestFriend": [],
+      "friend": [
+        "SU",
+        "MO",
+        "MA"
+      ],
+      "neutral": [
+        "SA"
+      ],
+      "enemy": [
+        "ME",
+        "VE"
+      ],
+      "bitterEnemy": []
+    },
+    "functionalBenefic": null,
+    "functionalMalefic": null,
+    "marakaStatus": null,
+    "karakaFor": [
+      "Wisdom",
+      "Knowledge",
+      "Guru",
+      "Children",
+      "Husband",
+      "Fortune",
+      "Religion",
+      "Teachers",
+      "Expansion"
+    ],
+    "shadbalaTotal": null,
+    "isCombust": null,
+    "digBalaScore": null,
+    "isRetrograde": null,
+    "represents": [
+      "Wisdom",
+      "Knowledge",
+      "Children",
+      "Husband",
+      "Fortune",
+      "Religion",
+      "Teachers"
+    ],
+    "keywords": [
+      "Wisdom",
+      "Expansion",
+      "Knowledge",
+      "Fortune",
+      "Children",
+      "Spirituality",
+      "Teacher",
+      "Guru"
+    ],
+    "orbit": "Geocentric",
+    "aspects": [
+      "H05",
+      "H07",
+      "H09"
+    ]
+  },
+  {
+    "name": "Saturn",
+    "code": "SA",
+    "sanskritName": "Shani",
+    "astronomicalCode": "saturn barycenter",
+    "description": "Known for its prominent ring system.",
+    "elementPanchamahabhuta": "Air",
+    "gender": "Neutral",
+    "nature": "Malefic",
+    "caste": "Shudra",
+    "guna": "Tamasic",
+    "presidingDeity": "Yama",
+    "color": "Blue/Black",
+    "gemstone": "Blue Sapphire",
+    "metal": "Iron",
+    "day": "V07",
+    "direction": "West",
+    "primarySignification": "Discipline, Karma, Delays",
+    "bodyParts": [
+      "Bones",
+      "Teeth",
+      "Knees",
+      "Joints"
+    ],
+    "ownSigns": [
+      "CP",
+      "AQ"
+    ],
+    "exaltation": {
+      "sign": "R07",
+      "deepExaltationDegree": 20.0
+    },
+    "debilitation": {
+      "sign": "R01",
+      "deepDebilitationDegree": 20.0
+    },
+    "moolatrikona": {
+      "sign": "R11",
+      "degreeRange": {
+        "start": 0,
+        "end": 20
+      }
+    },
+    "vargottamaStatus": null,
+    "naturalFriends": [
+      "ME",
+      "VE"
+    ],
+    "naturalEnemies": [
+      "SU",
+      "MO",
+      "MA"
+    ],
+    "naturalNeutrals": [
+      "JU"
+    ],
+    "temporaryFriends": null,
+    "temporaryEnemies": null,
+    "compoundRelationship": {
+      "bestFriend": [],
+      "friend": [
+        "ME",
+        "VE"
+      ],
+      "neutral": [
+        "JU"
+      ],
+      "enemy": [
+        "SU",
+        "MO",
+        "MA"
+      ],
+      "bitterEnemy": []
+    },
+    "functionalBenefic": null,
+    "functionalMalefic": null,
+    "marakaStatus": null,
+    "karakaFor": [
+      "Discipline",
+      "Karma",
+      "Delay",
+      "Obstacles",
+      "Longevity",
+      "Servants",
+      "Sorrow",
+      "Hard Work"
+    ],
+    "shadbalaTotal": null,
+    "isCombust": null,
+    "digBalaScore": null,
+    "isRetrograde": null,
+    "represents": [
+      "Discipline",
+      "Karma",
+      "Delay",
+      "Obstacles",
+      "Longevity",
+      "Servants",
+      "Sorrow"
+    ],
+    "keywords": [
+      "Discipline",
+      "Karma",
+      "Delays",
+      "Obstacles",
+      "Longevity",
+      "Responsibility",
+      "Hard Work",
+      "Sorrow"
+    ],
+    "orbit": "Geocentric",
+    "aspects": [
+      "H03",
+      "H07",
+      "H10"
+    ]
+  },
+  {
+    "name": "Rahu",
+    "code": "RA",
+    "astronomicalCode": "rahu",
+    "sanskritName": "RA",
+    "description": "A shadow planet in Vedic astrology, representing the north lunar node.",
+    "elementPanchamahabhuta": "Air",
+    "gender": "Neutral",
+    "nature": "Malefic",
+    "caste": "Outcaste",
+    "guna": "Tamasic",
+    "presidingDeity": "Durga",
+    "color": "Smoky/Mixed",
+    "gemstone": "Hessonite (Gomed)",
+    "metal": "Lead",
+    "day": "V07",
+    "direction": "South-West",
+    "primarySignification": "Illusion, Foreign Elements, Technology",
+    "bodyParts": [
+      "Head",
+      "Skin Diseases",
+      "Mental Disorders"
+    ],
+    "ownSigns": [],
+    "exaltation": {
+      "sign": "R03",
+      "deepExaltationDegree": null
+    },
+    "debilitation": {
+      "sign": "R09",
+      "deepDebilitationDegree": null
+    },
+    "moolatrikona": null,
+    "vargottamaStatus": null,
+    "naturalFriends": [
+      "ME",
+      "VE",
+      "SA"
+    ],
+    "naturalEnemies": [
+      "SU",
+      "MO",
+      "MA"
+    ],
+    "naturalNeutrals": [
+      "JU"
+    ],
+    "temporaryFriends": null,
+    "temporaryEnemies": null,
+    "compoundRelationship": {
+      "bestFriend": [],
+      "friend": [
+        "ME",
+        "VE",
+        "SA"
+      ],
+      "neutral": [
+        "JU"
+      ],
+      "enemy": [
+        "SU",
+        "MO",
+        "MA"
+      ],
+      "bitterEnemy": []
+    },
+    "functionalBenefic": null,
+    "functionalMalefic": null,
+    "marakaStatus": null,
+    "karakaFor": [
+      "Illusion",
+      "Foreign Lands",
+      "Technology",
+      "Materialism",
+      "Obsession",
+      "Innovation",
+      "Sudden Events"
+    ],
+    "shadbalaTotal": null,
+    "isCombust": false,
+    "digBalaScore": null,
+    "isRetrograde": true,
+    "represents": [
+      "Illusion",
+      "Foreign Lands",
+      "Technology",
+      "Materialism",
+      "Obsession",
+      "Innovation"
+    ],
+    "keywords": [
+      "Illusion",
+      "Foreign",
+      "Obsession",
+      "Innovation",
+      "Technology",
+      "Unconventional",
+      "Sudden Events"
+    ],
+    "orbit": "Shadow Planet (North Node)",
+    "aspects": [
+      "H05",
+      "H07",
+      "H09"
+    ]
+  },
+  {
+    "name": "Ketu",
+    "code": "KE",
+    "astronomicalCode": "kethu",
+    "sanskritName": "KE",
+    "description": "A shadow planet in Vedic astrology, representing the south lunar node.",
+    "elementPanchamahabhuta": "Fire",
+    "gender": "Neutral",
+    "nature": "Malefic",
+    "caste": "Outcaste",
+    "guna": "Tamasic",
+    "presidingDeity": "Ganesha",
+    "color": "Brown/Mixed",
+    "gemstone": "Cat's Eye",
+    "metal": "Lead",
+    "day": "V03",
+    "direction": "South-West",
+    "primarySignification": "Spirituality, Detachment, Liberation",
+    "bodyParts": [
+      "Spine",
+      "Feet",
+      "Abdomen"
+    ],
+    "ownSigns": [],
+    "exaltation": {
+      "sign": "R09",
+      "deepExaltationDegree": null
+    },
+    "debilitation": {
+      "sign": "R03",
+      "deepDebilitationDegree": null
+    },
+    "moolatrikona": null,
+    "vargottamaStatus": null,
+    "naturalFriends": [
+      "ME",
+      "VE",
+      "SA"
+    ],
+    "naturalEnemies": [
+      "SU",
+      "MO",
+      "MA"
+    ],
+    "naturalNeutrals": [
+      "JU"
+    ],
+    "temporaryFriends": null,
+    "temporaryEnemies": null,
+    "compoundRelationship": {
+      "bestFriend": [],
+      "friend": [
+        "ME",
+        "VE",
+        "SA"
+      ],
+      "neutral": [
+        "JU"
+      ],
+      "enemy": [
+        "SU",
+        "MO",
+        "MA"
+      ],
+      "bitterEnemy": []
+    },
+    "functionalBenefic": null,
+    "functionalMalefic": null,
+    "marakaStatus": null,
+    "karakaFor": [
+      "Spirituality",
+      "Liberation",
+      "Detachment",
+      "Past Life",
+      "Mysticism",
+      "Renunciation"
+    ],
+    "shadbalaTotal": null,
+    "isCombust": false,
+    "digBalaScore": null,
+    "isRetrograde": true,
+    "represents": [
+      "Spirituality",
+      "Moksha",
+      "Detachment",
+      "Past Life",
+      "Mysticism",
+      "Renunciation"
+    ],
+    "keywords": [
+      "Spirituality",
+      "Detachment",
+      "Mysticism",
+      "Liberation",
+      "Past Life",
+      "Intuition",
+      "Surrender"
+    ],
+    "orbit": "Shadow Planet (South Node)",
+    "aspects": [
+      "H05",
+      "H07",
+      "H09"
+    ]
+  },
+  {
+    "name": "Ascendant",
+    "code": "AS",
+    "astronomicalCode": "ascendant",
+    "sanskritName": "Lagna",
+    "description": "The zodiac sign rising on the eastern horizon at the time of birth.",
+    "elementPanchamahabhuta": null
+  }
+]

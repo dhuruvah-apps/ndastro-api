@@ -1,0 +1,1148 @@
+{
+  "system": {
+    "name": "Wealth Timing and Accumulation Analysis",
+    "description": "Comprehensive techniques for predicting wealth timing, sources, and accumulation patterns",
+    "sanskritName": "Dhana Yoga Phalita",
+    "purpose": "Accurate prediction of wealth acquisition, timing, sources, and magnitude",
+    "importance": "Material prosperity prediction for life planning",
+    "scope": "Covers wealth yogas, timing techniques, sources, obstacles, and remedies",
+    "vedicReferences": "Brihat Parashara Hora Shastra, Phaladeepika, Jataka Parijata, Uttara Kalamrita",
+    "mainHouses": [
+      "2nd (accumulated wealth)",
+      "11th (income/gains)",
+      "9th (fortune)",
+      "5th (speculation)",
+      "10th (career earnings)"
+    ]
+  },
+  "wealthHouses": {
+    "name": "Wealth Houses and Their Significance",
+    "description": "Understanding the wealth triangle and related houses",
+    "houses": [
+      {
+        "house": "2nd House (Dhana Bhava)",
+        "name": "House of Accumulated Wealth",
+        "significance": "Primary wealth house - savings, family wealth, assets",
+        "indicators": [
+          "Bank balance and liquid assets",
+          "Family wealth and inheritance from family",
+          "Movable assets (jewelry, stocks, bonds)",
+          "Self-worth and value systems",
+          "Speech (can create wealth)",
+          "Food and sustenance"
+        ],
+        "strongIndicators": [
+          "Benefics in 2nd house (Jupiter, Venus, Mercury, Moon)",
+          "2nd lord exalted or in kendra/trikona",
+          "2nd lord conjunct benefics",
+          "Jupiter aspecting 2nd house",
+          "Sun in 2nd gives steady income (government/authority)"
+        ],
+        "weakIndicators": [
+          "Malefics in 2nd without benefic aspect",
+          "2nd lord debilitated or in dusthana",
+          "Rahu-Ketu axis on 2nd",
+          "Saturn in 2nd delays accumulation",
+          "Empty 2nd with weak lord"
+        ],
+        "timing": "2nd lord dasha-bhukti periods bring wealth accumulation opportunities",
+        "modernInterpretation": "Savings account, investment portfolio, family support"
+      },
+      {
+        "house": "11th House (Labha Bhava)",
+        "name": "House of Gains and Income",
+        "significance": "Income, profits, fulfillment of desires, regular earnings",
+        "indicators": [
+          "Regular income and salary",
+          "Business profits and gains",
+          "Unexpected gains and windfalls",
+          "Elder siblings (who may help financially)",
+          "Large acquisitions and purchases",
+          "Fulfillment of material desires"
+        ],
+        "strongIndicators": [
+          "Multiple benefics in 11th house",
+          "11th lord exalted or strong",
+          "Jupiter in 11th (massive gains but spends too)",
+          "Venus in 11th (luxury income)",
+          "Strong planets in 11th aspect 2nd/5th"
+        ],
+        "weakIndicators": [
+          "Malefics in 11th without support",
+          "11th lord debilitated",
+          "6th/8th lords in 11th",
+          "Empty 11th with very weak lord"
+        ],
+        "timing": "11th lord dasha-bhukti periods bring income increases and gains",
+        "modernInterpretation": "Salary, bonuses, business profits, investment returns"
+      },
+      {
+        "house": "9th House (Bhagya Bhava)",
+        "name": "House of Fortune and Luck",
+        "significance": "Luck, fortune, grace, windfall gains, dharma wealth",
+        "indicators": [
+          "Natural fortune and luck",
+          "Father's wealth and blessings",
+          "Windfall gains and unexpected money",
+          "Wealth from dharmic activities",
+          "Foreign wealth and opportunities",
+          "Grace period of easy gains"
+        ],
+        "strongIndicators": [
+          "Jupiter in 9th house (best placement)",
+          "9th lord exalted with benefics",
+          "Sun in 9th (father's wealth, authority wealth)",
+          "Venus in 9th (luxury fortune)",
+          "Strong 9th lord in kendra/trikona"
+        ],
+        "relationship": "Strong 9th house brings fortune; weak 9th requires hard work for wealth",
+        "timing": "9th lord dasha-bhukti periods bring fortunate gains",
+        "modernInterpretation": "Lottery wins, inheritance, lucky breaks, fortunate opportunities"
+      },
+      {
+        "house": "5th House (Putra Bhava)",
+        "name": "House of Speculation and Intelligence",
+        "significance": "Speculation gains, stock market, gambling, investment intelligence",
+        "indicators": [
+          "Stock market and trading gains",
+          "Gambling and lottery success",
+          "Investment wisdom and returns",
+          "Intelligent wealth creation",
+          "Past life merit bringing wealth",
+          "Gains from creative pursuits"
+        ],
+        "strongIndicators": [
+          "Jupiter in 5th (wisdom in investments)",
+          "Mercury in 5th (intelligent speculation)",
+          "5th lord strong and connected to wealth houses",
+          "Venus in 5th (luxury through speculation)",
+          "Benefics in 5th aspecting 11th/2nd"
+        ],
+        "weakIndicators": [
+          "Rahu in 5th (risky speculation, losses)",
+          "Saturn in 5th (delayed or lost speculation)",
+          "Malefics in 5th (speculation losses)"
+        ],
+        "warning": "Strong 5th can give speculation success, but Rahu involvement creates addiction and eventual losses",
+        "timing": "5th lord dasha-bhukti good for calculated investments",
+        "modernInterpretation": "Stock market, crypto, options trading, venture capital"
+      },
+      {
+        "house": "10th House (Karma Bhava)",
+        "name": "House of Career and Earnings from Work",
+        "significance": "Career income, professional earnings, status-based wealth",
+        "indicators": [
+          "Salary from profession",
+          "Business income from career",
+          "Wealth from status and position",
+          "Authority-based earnings",
+          "Professional reputation creating wealth"
+        ],
+        "relationship": "Strong 10th ensures steady career income; wealth magnitude depends on 2nd/11th",
+        "timing": "10th lord dasha-bhukti periods bring career-based wealth increases"
+      },
+      {
+        "house": "8th House (Ayur Bhava)",
+        "name": "House of Sudden Gains and Hidden Wealth",
+        "significance": "Inheritance, insurance, sudden windfalls, other people's money",
+        "indicators": [
+          "Inheritance from spouse or family",
+          "Insurance payouts",
+          "Loans and mortgages (debt)",
+          "Joint resources and spouse's money",
+          "Hidden wealth and secrets",
+          "Transformation through money crisis"
+        ],
+        "dualNature": "Can give sudden gains or sudden losses - unpredictable",
+        "strongIndicators": "8th lord well-placed gives inheritance; afflicted gives losses",
+        "timing": "8th lord dasha-bhukti brings unexpected money matters (gain or loss)",
+        "modernInterpretation": "Inheritance, life insurance, joint accounts, partner's income"
+      },
+      {
+        "house": "1st House (Tanu Bhava)",
+        "name": "Self and Personal Capacity",
+        "significance": "Personal earning capacity, self-effort, physical ability to earn",
+        "indicators": "Strong lagna and lagna lord ensure ability to create wealth through personal effort"
+      }
+    ],
+    "wealthTriangle": {
+      "name": "Primary Wealth Triangle",
+      "houses": [
+        "2nd",
+        "11th",
+        "9th"
+      ],
+      "principle": "Connection between 2nd, 11th, and 9th lords creates powerful wealth yogas",
+      "formula": "2nd (accumulation) + 11th (income) + 9th (fortune) = Complete wealth picture"
+    },
+    "secondaryTriangle": {
+      "name": "Secondary Wealth Indicators",
+      "houses": [
+        "5th",
+        "10th",
+        "1st"
+      ],
+      "principle": "Intelligence (5th), Career (10th), Personal effort (1st) support wealth creation"
+    }
+  },
+  "dhanaYogas": {
+    "name": "Wealth Yogas (Dhana Yogas)",
+    "description": "Planetary combinations that create wealth",
+    "importance": "Promise of wealth must exist through yogas in birth chart",
+    "majorYogas": [
+      {
+        "name": "Basic Dhana Yoga",
+        "combination": "2nd lord and 11th lord conjunct or in mutual kendra",
+        "effect": "Strong wealth accumulation capacity",
+        "strength": "High - fundamental wealth yoga",
+        "example": "2nd lord in 11th or 11th lord in 2nd",
+        "timing": "Wealth comes in either lord's dasha-bhukti"
+      },
+      {
+        "name": "Enhanced Dhana Yoga",
+        "combination": "2nd, 11th, and 9th lords connected (conjunction, mutual aspect, exchange)",
+        "effect": "Exceptional wealth through fortune and income",
+        "strength": "Very high - triple wealth house connection",
+        "example": "2nd lord in 9th, 9th lord in 11th, 11th lord aspecting 2nd",
+        "timing": "Major wealth during any of these lords' periods"
+      },
+      {
+        "name": "Lakshmi Yoga",
+        "combination": "9th lord exalted/own sign in kendra with lagna lord strong",
+        "effect": "Fortune and wealth as if blessed by Goddess Lakshmi",
+        "strength": "Very high - divine grace for wealth",
+        "requirement": "9th lord must be very strong",
+        "timing": "9th lord and lagna lord periods bring fortune"
+      },
+      {
+        "name": "Kubera Yoga",
+        "combination": "Multiple variations - typically Jupiter in 5th/9th/11th with lord connections",
+        "effect": "Wealth like Lord Kubera (deity of wealth)",
+        "strength": "Very high when complete",
+        "variations": [
+          "Jupiter in 11th aspecting 2nd and 9th",
+          "2nd and 11th lords conjunct Jupiter",
+          "Jupiter aspecting lagna lord and 2nd lord"
+        ],
+        "timing": "Jupiter dasha brings maximum wealth"
+      },
+      {
+        "name": "Raja Dhana Yoga (Royal Wealth)",
+        "combination": "Rajayoga (9th-10th connection) + Dhana yoga (2nd-11th connection)",
+        "effect": "Wealth through high status and position",
+        "strength": "Exceptional - combines power and wealth",
+        "example": "9th and 10th lords conjunct in 2nd house",
+        "nature": "Status creates wealth, wealthy create status",
+        "timing": "9th, 10th, 2nd, or 11th lord periods"
+      },
+      {
+        "name": "Parijata Yoga",
+        "combination": "Lagna lord in kendra, benefic in 9th, Jupiter aspects 9th",
+        "effect": "Honor, wealth, and recognition",
+        "strength": "High - respected wealthy person",
+        "timing": "Lagna lord and 9th house planet periods"
+      },
+      {
+        "name": "Veshi Yoga",
+        "combination": "Planet (except Moon) in 2nd from Sun",
+        "effect": "Wealth through self-effort and communication",
+        "strength": "Medium to high depending on planet",
+        "bestPlanets": "Mercury (business), Venus (luxury), Jupiter (wisdom wealth)",
+        "timing": "That planet's dasha-bhukti"
+      },
+      {
+        "name": "Vesi Yoga",
+        "combination": "Planet (except Moon) in 12th from Sun",
+        "effect": "Wealth through behind-the-scenes work",
+        "strength": "Medium depending on planet",
+        "timing": "That planet's period"
+      },
+      {
+        "name": "Ubhayachari Yoga",
+        "combination": "Planets on both sides of Sun (2nd and 12th)",
+        "effect": "Complete wealth through various sources",
+        "strength": "High - comprehensive wealth",
+        "timing": "Both planets' periods"
+      },
+      {
+        "name": "Chandra Mangala Yoga",
+        "combination": "Moon and Mars conjunct or in mutual aspect",
+        "effect": "Wealth through real estate, property, courage",
+        "strength": "High for property wealth",
+        "bestHouses": "1st, 2nd, 4th, 11th houses",
+        "timing": "Moon or Mars dasha-bhukti, especially antardasha together",
+        "note": "One of most common wealth yogas"
+      },
+      {
+        "name": "Adhi Yoga",
+        "combination": "Benefics (Jupiter, Venus, Mercury) in 6th, 7th, 8th from Moon",
+        "effect": "Wealth, power, fame through overcoming obstacles",
+        "strength": "Very high - ministerial level wealth",
+        "requirement": "At least 2 benefics, all 3 best",
+        "timing": "Those benefic planets' dasha periods"
+      },
+      {
+        "name": "Kedara Yoga",
+        "combination": "Seven planets in four kendras",
+        "effect": "Agricultural wealth, land-based prosperity",
+        "strength": "High for landed property wealth",
+        "timing": "Throughout life with peaks in kendra lords' periods"
+      },
+      {
+        "name": "Shankha Yoga",
+        "combination": "5th and 6th lords in mutual kendras, lagna lord strong",
+        "effect": "Wealth, learning, righteous prosperity",
+        "strength": "High - dharmic wealth",
+        "timing": "5th and 6th lord periods"
+      },
+      {
+        "name": "Bheri Yoga",
+        "combination": "Venus, Jupiter, and lagna lord in mutual kendras",
+        "effect": "Immense wealth, happiness, luxury",
+        "strength": "Very high - combination of greatest benefics",
+        "timing": "Venus and Jupiter dasha-bhukti periods"
+      },
+      {
+        "name": "Parvata Yoga",
+        "combination": "Lagna lord and 12th lord exchange, or benefics in kendras",
+        "effect": "Wealth like a mountain - solid and permanent",
+        "strength": "High - stable lasting wealth",
+        "timing": "Throughout life with variations"
+      },
+      {
+        "name": "Vasumati Yoga",
+        "combination": "Benefics in 3rd, 6th, 10th, 11th (Upachaya houses)",
+        "effect": "Increasing wealth over time",
+        "strength": "High - wealth grows with age",
+        "principle": "Upachaya houses improve with time",
+        "timing": "Second half of life typically better"
+      },
+      {
+        "name": "Saraswati Yoga",
+        "combination": "Jupiter, Venus, Mercury in kendras/trikonas from lagna/Moon",
+        "effect": "Wealth through learning, education, arts",
+        "strength": "High - intellectual wealth",
+        "timing": "Jupiter, Venus, Mercury periods"
+      }
+    ],
+    "strengthFactors": {
+      "name": "Yoga Strength Determinants",
+      "factors": [
+        "Planets forming yoga should be strong (not debilitated/combust)",
+        "Yoga in kendra (1,4,7,10) or trikona (1,5,9) strongest",
+        "Multiple yogas reinforce each other",
+        "Divisional chart (D2 Hora) support essential",
+        "Dasha sequence must activate yogas",
+        "No severe malefic interference"
+      ]
+    }
+  },
+  "wealthTiming": {
+    "name": "Wealth Timing Techniques",
+    "description": "When wealth yogas will manifest",
+    "principle": "Yoga promises wealth; dasha-bhukti timing delivers it",
+    "techniques": [
+      {
+        "name": "Dasha-Based Timing",
+        "importance": "Primary timing method",
+        "rules": [
+          {
+            "rule": "Wealth lord dasha-bhukti",
+            "description": "2nd, 11th, 9th lord dasha-bhukti periods bring wealth opportunities",
+            "example": "If 2nd lord is Venus, Venus Mahadasha will focus on wealth accumulation"
+          },
+          {
+            "rule": "Yoga participating planet dashas",
+            "description": "Planets forming dhana yogas give wealth in their periods",
+            "example": "If Jupiter and Venus form yoga, Jupiter-Venus or Venus-Jupiter periods excellent"
+          },
+          {
+            "rule": "Exalted planet dashas",
+            "description": "Exalted planets in wealth houses give maximum wealth in their periods",
+            "example": "Exalted Jupiter in 2nd house - Jupiter MD brings massive wealth"
+          },
+          {
+            "rule": "Combined dasha-bhukti",
+            "description": "When Mahadasha and Antardasha both wealth related = peak wealth time",
+            "example": "Venus MD - Jupiter AD when both form dhana yoga = peak accumulation"
+          },
+          {
+            "rule": "5th lord period for speculation",
+            "description": "5th lord dasha-bhukti favorable for investments if 5th lord strong",
+            "warning": "If 5th lord weak or afflicted, avoid speculation in that period"
+          },
+          {
+            "rule": "10th lord period for career wealth",
+            "description": "10th lord periods bring career-based wealth increases",
+            "example": "Promotion, business expansion, professional recognition"
+          }
+        ],
+        "poorPeriods": [
+          "Debilitated planet dashas (unless neecha bhanga)",
+          "6th/8th/12th lord dashas without benefic support",
+          "Malefic dashas afflicting wealth houses",
+          "Rahu dasha can give sudden wealth but also losses",
+          "Saturn dasha gives delayed/hard-earned wealth"
+        ]
+      },
+      {
+        "name": "Transit-Based Timing",
+        "importance": "Secondary confirmation",
+        "transits": [
+          {
+            "planet": "Jupiter Transit",
+            "duration": "1 year per sign",
+            "wealthTransits": [
+              "Jupiter over natal Jupiter - wisdom peak, fortune",
+              "Jupiter over 2nd house - direct wealth gain",
+              "Jupiter over 11th house - income increase",
+              "Jupiter over 9th house - fortune activation",
+              "Jupiter over 5th house - speculation success (if 5th strong)",
+              "Jupiter over 10th house - career wealth boost"
+            ],
+            "principle": "Jupiter transit must support dasha for maximum wealth",
+            "example": "Venus dasha with Jupiter transiting 11th = wealth opportunity"
+          },
+          {
+            "planet": "Saturn Transit",
+            "duration": "2.5 years per sign",
+            "wealthTransits": [
+              "Saturn over 3rd/6th/11th from Moon (Sade Sati exits) - relief and gains",
+              "Saturn over 10th house - hard work rewards after testing",
+              "Saturn over 11th house - slow but steady income growth",
+              "Saturn releasing 2nd house after aspect - accumulation begins"
+            ],
+            "principle": "Saturn delays wealth but eventually rewards hard work",
+            "warning": "Saturn over 2nd/8th/12th can cause financial stress"
+          },
+          {
+            "planet": "Rahu-Ketu Transit",
+            "duration": "1.5 years per sign",
+            "wealthTransits": [
+              "Rahu over 11th house - sudden gains but unpredictable",
+              "Rahu over 2nd house - unconventional wealth sources",
+              "Ketu over 2nd/11th - detachment from wealth or losses",
+              "Rahu-Ketu axis not on 2nd-8th (releases those houses)"
+            ],
+            "principle": "Rahu gives sudden wealth but creates instability",
+            "warning": "Rahu-Ketu on 2nd-8th axis causes financial upheaval"
+          },
+          {
+            "planet": "Mars Transit",
+            "duration": "1.5 months per sign",
+            "wealthTransits": [
+              "Mars over 11th house - sudden gains",
+              "Mars over 2nd/4th house - property deals",
+              "Mars over 10th house - career action, competition"
+            ],
+            "use": "Month-level timing within dasha"
+          }
+        ],
+        "doubleTransit": "Jupiter-Saturn both transiting wealth houses = major wealth period"
+      },
+      {
+        "name": "Varshaphal (Annual Chart)",
+        "importance": "Year-specific wealth predictions",
+        "indicators": [
+          "Muntha in 2nd/11th/9th houses - wealth year",
+          "Year lord connected to wealth houses",
+          "Strong 2nd/11th houses in Varshaphal",
+          "Benefics in wealth houses of annual chart",
+          "Sahams for wealth (Punya Saham, Vidya Saham)"
+        ],
+        "principle": "Annual chart shows specific year's wealth potential",
+        "usage": "Combine with dasha and transits for year-by-year prediction"
+      },
+      {
+        "name": "Ashtakavarga Timing",
+        "importance": "Precision timing tool",
+        "method": [
+          "Check Sarvashtakavarga (SAV) points in 2nd house",
+          "High SAV (28+) in 2nd = easy wealth accumulation",
+          "Check SAV in 11th house for income potential",
+          "When Jupiter transits house with high SAV during wealth dasha = peak wealth timing"
+        ],
+        "formula": "Wealth dasha + Jupiter transit through high SAV house = precise wealth timing"
+      },
+      {
+        "name": "Divisional Chart Timing",
+        "importance": "Quality and quantum of wealth",
+        "charts": [
+          {
+            "chart": "Hora (D2)",
+            "use": "Primary wealth divisional chart",
+            "analysis": [
+              "D2 shows wealth potential magnitude",
+              "Planets in Sun's Hora (Leo) = earned wealth",
+              "Planets in Moon's Hora (Cancer) = inherited wealth",
+              "Strong Jupiter/Venus in D2 = good wealth",
+              "D2 2nd/11th houses check"
+            ]
+          },
+          {
+            "chart": "Drekkana (D3)",
+            "use": "Siblings' influence on wealth",
+            "analysis": "Strong 3rd house in D3 shows siblings helping financially"
+          },
+          {
+            "chart": "Navamsa (D9)",
+            "use": "Spouse's contribution to wealth",
+            "analysis": "D9 2nd/7th/11th houses show post-marriage wealth"
+          }
+        ],
+        "principle": "D1 shows promise, D2 shows magnitude, timing comes when D1 dasha activates D2 strength"
+      },
+      {
+        "name": "Progressive Wealth Phases",
+        "description": "Life phases for wealth accumulation",
+        "phases": [
+          {
+            "age": "0-16",
+            "phase": "Childhood - Family wealth",
+            "analysis": "2nd house (family wealth), 4th house (mother's support)",
+            "wealth": "Dependent on family, no self-earned"
+          },
+          {
+            "age": "16-32",
+            "phase": "Youth - Education and establishment",
+            "analysis": "5th house (education), 10th house (career start)",
+            "wealth": "Beginning earning, establishing foundation"
+          },
+          {
+            "age": "32-48",
+            "phase": "Prime - Peak earning years",
+            "analysis": "10th house peak, 11th house gains active",
+            "wealth": "Maximum earning capacity, wealth accumulation",
+            "note": "Most wealth yogas fructify in this period"
+          },
+          {
+            "age": "48-64",
+            "phase": "Maturity - Consolidation",
+            "analysis": "Consolidating wealth, reducing expenses",
+            "wealth": "Living off accumulated wealth, passive income"
+          },
+          {
+            "age": "64+",
+            "phase": "Elder - Wealth distribution",
+            "analysis": "12th house (donations), 9th house (dharmic use)",
+            "wealth": "Spending on family, charity, spiritual pursuits"
+          }
+        ]
+      }
+    ]
+  },
+  "wealthSources": {
+    "name": "Sources of Wealth",
+    "description": "Different paths to wealth based on planetary placements",
+    "sources": [
+      {
+        "source": "Salary/Career Income",
+        "indicators": [
+          "Strong 10th house",
+          "Sun well-placed",
+          "Saturn disciplined work"
+        ],
+        "houses": "10th house primary, 2nd and 11th for amount",
+        "timing": "10th lord dasha-bhukti periods",
+        "stability": "Most stable source",
+        "example": "Sun in 10th house gives government/authority position income"
+      },
+      {
+        "source": "Business/Entrepreneurship",
+        "indicators": [
+          "Strong Mercury",
+          "2nd-11th connection",
+          "Mars for courage",
+          "Rahu for innovation"
+        ],
+        "houses": "7th house (business), 10th house (profession)",
+        "timing": "Mercury, Mars, or Rahu dashas",
+        "risk": "Higher risk, higher reward potential",
+        "example": "Mercury in 2nd with 11th lord gives successful business"
+      },
+      {
+        "source": "Investments/Stock Market",
+        "indicators": [
+          "Strong 5th house",
+          "Mercury (intelligence)",
+          "Jupiter (wisdom)",
+          "Favorable 11th house"
+        ],
+        "houses": "5th house (speculation), 11th house (gains)",
+        "timing": "5th lord dasha-bhukti with Jupiter transit support",
+        "risk": "High risk - requires strong 5th house",
+        "warning": "Rahu in 5th creates gambling addiction",
+        "example": "Jupiter in 5th house gives wise investment success"
+      },
+      {
+        "source": "Real Estate/Property",
+        "indicators": [
+          "Strong 4th house",
+          "Mars well-placed",
+          "Chandra Mangala Yoga"
+        ],
+        "houses": "4th house (property), 11th house (gains from property)",
+        "timing": "Mars or Moon dasha-bhukti, 4th lord periods",
+        "stability": "Stable long-term wealth",
+        "example": "Mars in 4th house with Moon gives property wealth"
+      },
+      {
+        "source": "Inheritance/Family Wealth",
+        "indicators": [
+          "Strong 2nd house (family wealth)",
+          "8th house (inheritance)",
+          "9th house (father's wealth)"
+        ],
+        "houses": "2nd, 8th, 9th houses",
+        "timing": "8th lord or 9th lord dasha-bhukti periods",
+        "nature": "Passive wealth receipt",
+        "example": "Sun in 9th house gives father's wealth and blessings"
+      },
+      {
+        "source": "Spouse's Income",
+        "indicators": [
+          "Strong 7th house",
+          "Venus well-placed",
+          "Navamsa 2nd/11th houses"
+        ],
+        "houses": "7th house (spouse), 8th house (spouse's wealth)",
+        "timing": "After marriage, Venus or 7th lord periods",
+        "analysis": "Check spouse's chart for their wealth potential",
+        "example": "Venus in 7th or 8th house gives wealthy spouse"
+      },
+      {
+        "source": "Foreign Sources",
+        "indicators": [
+          "Strong 12th house",
+          "Rahu in 7th/9th/12th",
+          "9th house (long distance)"
+        ],
+        "houses": "12th house (foreign), 9th house (foreign travel)",
+        "timing": "Rahu dasha-bhukti, 12th lord periods",
+        "modern": "International business, foreign employment, global markets",
+        "example": "Rahu in 12th with strong 11th lord gives foreign income"
+      },
+      {
+        "source": "Commission/Agency",
+        "indicators": [
+          "Strong 3rd house (courage, effort)",
+          "Mercury (trade)",
+          "Mars (agency)"
+        ],
+        "houses": "3rd house (effort), 11th house (gains)",
+        "timing": "3rd lord or Mercury dasha-bhukti",
+        "example": "Mercury in 3rd house gives success in agency work"
+      },
+      {
+        "source": "Arts/Entertainment",
+        "indicators": [
+          "Strong Venus",
+          "5th house (creativity)",
+          "Rahu (entertainment)",
+          "Moon (popularity)"
+        ],
+        "houses": "5th house (creativity), 11th house (fame gains)",
+        "timing": "Venus or Moon dasha-bhukti periods",
+        "example": "Venus in 5th house with Rahu gives entertainment industry wealth"
+      },
+      {
+        "source": "Teaching/Education",
+        "indicators": [
+          "Strong Jupiter",
+          "5th house (education)",
+          "9th house (teaching)",
+          "Mercury (communication)"
+        ],
+        "houses": "5th and 9th houses",
+        "timing": "Jupiter or Mercury dasha-bhukti periods",
+        "example": "Jupiter in 9th house gives wealth through teaching"
+      },
+      {
+        "source": "Healing/Medical",
+        "indicators": [
+          "6th house strength",
+          "Mars (surgery)",
+          "Sun (vitality)",
+          "Mercury (medicine)"
+        ],
+        "houses": "6th house (healing), 10th house (profession)",
+        "timing": "6th lord or relevant planet periods",
+        "example": "Mars in 6th house with Mercury gives surgical profession wealth"
+      },
+      {
+        "source": "Spiritual/Religious",
+        "indicators": [
+          "9th house (dharma)",
+          "Jupiter (spirituality)",
+          "Ketu (moksha)",
+          "12th house (ashrams)"
+        ],
+        "houses": "9th house (dharma), 12th house (spiritual)",
+        "timing": "Jupiter or Ketu dasha-bhukti periods",
+        "nature": "Often combined with service; wealth comes as grace",
+        "example": "Jupiter in 9th gives wealth through religious activities"
+      }
+    ],
+    "multipleStreams": {
+      "name": "Multiple Income Streams",
+      "principle": "Strong wealth charts often show multiple sources",
+      "indicators": [
+        "Multiple planets in 11th house = multiple income sources",
+        "2nd lord aspects/conjuncts multiple houses = diverse sources",
+        "Several wealth yogas = wealth from various paths",
+        "Strong 3rd, 10th, 11th houses together = entrepreneurial multiple streams"
+      ]
+    }
+  },
+  "wealthObstacles": {
+    "name": "Wealth Obstacles and Loss Periods",
+    "description": "Planetary combinations causing wealth loss or obstacles",
+    "obstacles": [
+      {
+        "factor": "12th House Activation",
+        "description": "House of losses and expenses",
+        "causes": [
+          "12th lord dasha-bhukti periods = increased expenses",
+          "Malefics in 12th house = waste of resources",
+          "Planets in 12th from wealth houses",
+          "12th lord in 2nd house = expenses eat savings"
+        ],
+        "effects": "Unexpected expenses, wasteful spending, losses, donations",
+        "remedy": "Control expenses, budget carefully during 12th house periods"
+      },
+      {
+        "factor": "6th House Activation",
+        "description": "House of debts and enemies",
+        "causes": [
+          "6th lord dasha-bhukti = debts, litigation costs",
+          "Malefics in 6th aspecting 2nd/11th",
+          "6th lord in 2nd/11th houses"
+        ],
+        "effects": "Debts, legal expenses, enemy-created losses, health expenses",
+        "remedy": "Avoid loans, settle disputes, health insurance"
+      },
+      {
+        "factor": "8th House Activation",
+        "description": "House of sudden losses and obstacles",
+        "causes": [
+          "8th lord dasha-bhukti without benefic support",
+          "Malefics in 8th house",
+          "8th lord afflicting 2nd/11th houses"
+        ],
+        "effects": "Sudden losses, accidents, theft, chronic issues causing expenses",
+        "remedy": "Insurance, emergency fund, caution during 8th house periods"
+      },
+      {
+        "factor": "Saturn's Delays",
+        "description": "Saturn slows and tests wealth accumulation",
+        "manifestations": [
+          "Saturn in 2nd house = slow accumulation, delays",
+          "Saturn aspecting 2nd/11th = hard-earned wealth",
+          "Saturn dasha with weak Saturn = financial struggles",
+          "Sade Sati period = financial tests"
+        ],
+        "positive": "Saturn eventually rewards hard work and discipline",
+        "remedy": "Patience, discipline, long-term planning, Saturn remedies"
+      },
+      {
+        "factor": "Rahu's Illusions",
+        "description": "Rahu creates sudden gains and losses",
+        "manifestations": [
+          "Rahu in 2nd house = unconventional wealth but instability",
+          "Rahu in 11th house = sudden gains but erratic",
+          "Rahu dasha = risky investments, speculation losses",
+          "Rahu-Ketu axis on 2nd-8th = financial instability"
+        ],
+        "danger": "Creates greed, gambling tendency, risky decisions",
+        "remedy": "Avoid speculation during Rahu periods, seek expert advice"
+      },
+      {
+        "factor": "Ketu's Detachment",
+        "description": "Ketu creates detachment from wealth",
+        "manifestations": [
+          "Ketu in 2nd house = disinterest in wealth, losses",
+          "Ketu in 11th house = gains slip away",
+          "Ketu dasha = spiritual focus, material detachment"
+        ],
+        "nature": "Not malefic but creates indifference to wealth",
+        "remedy": "Balance spirituality with material responsibility"
+      },
+      {
+        "factor": "Weak Wealth Lords",
+        "description": "Debilitated or afflicted 2nd/11th/9th lords",
+        "effects": [
+          "Debilitated 2nd lord = poor accumulation capacity",
+          "Afflicted 11th lord = income obstacles",
+          "Weak 9th lord = lack of fortune"
+        ],
+        "remedy": "Strengthen weak lords through gems, mantras, behavior"
+      },
+      {
+        "factor": "Malefic Aspects on Wealth Houses",
+        "description": "Mars, Saturn, Rahu, Ketu aspecting 2nd/11th without benefic support",
+        "effects": "Obstacles, delays, unexpected losses in wealth accumulation",
+        "remedy": "Strengthen aspecting planets, add benefic aspects"
+      },
+      {
+        "factor": "Combustion of Wealth Lords",
+        "description": "2nd/11th lords combust (very close to Sun)",
+        "effects": "Ego issues around money, wealth burnt/hidden",
+        "remedy": "Sun remedies, wait for combustion to end by transit"
+      },
+      {
+        "factor": "Retrograde Wealth Planets",
+        "description": "Wealth significators retrograde",
+        "effects": "Delayed results, back-and-forth in financial matters, past life issues",
+        "positive": "Retrograde planets give results eventually, sometimes better",
+        "remedy": "Patience, addressing past karma"
+      }
+    ],
+    "bankruptcyIndicators": [
+      "Multiple malefics in 2nd/8th/12th houses",
+      "All wealth lords debilitated",
+      "6th, 8th, 12th lords exchanging with 2nd/11th lords",
+      "Severe Rahu afflictions to wealth houses",
+      "No benefic support to wealth houses at all",
+      "Dasha sequence activating only dusthana lords"
+    ]
+  },
+  "wealthRemedies": {
+    "name": "Wealth Enhancement Remedies",
+    "description": "Remedial measures to improve wealth prospects",
+    "categories": [
+      {
+        "category": "Deity Worship",
+        "remedies": [
+          {
+            "deity": "Goddess Lakshmi",
+            "for": "General wealth and prosperity",
+            "methods": [
+              "Friday puja",
+              "Lakshmi mantra",
+              "Keep house clean",
+              "Light lamps"
+            ]
+          },
+          {
+            "deity": "Lord Kubera",
+            "for": "Wealth accumulation and treasure",
+            "methods": [
+              "Kubera mantra",
+              "Kubera mudra",
+              "Kubera yantra"
+            ]
+          },
+          {
+            "deity": "Lord Ganesha",
+            "for": "Removing obstacles to wealth",
+            "methods": [
+              "Wednesday puja",
+              "Ganesha mantra",
+              "Modak offering"
+            ]
+          },
+          {
+            "deity": "Goddess Durga",
+            "for": "Overcoming enemies and debts (6th house)",
+            "methods": [
+              "Durga Saptashati",
+              "Tuesday/Friday puja"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Planetary Remedies",
+        "remedies": [
+          {
+            "planet": "Jupiter (Wealth, Fortune)",
+            "strengthen": [
+              "Worship Lord Vishnu",
+              "Thursday fasting",
+              "Donate yellow items",
+              "Teach others",
+              "Yellow sapphire gem"
+            ],
+            "mantra": "Om Gram Greem Graum Sah Gurave Namah"
+          },
+          {
+            "planet": "Venus (Luxury, Prosperity)",
+            "strengthen": [
+              "Worship Goddess Lakshmi",
+              "Friday fasting",
+              "White clothes",
+              "Diamond/white sapphire",
+              "Sugar donation"
+            ],
+            "mantra": "Om Shum Shukraya Namah"
+          },
+          {
+            "planet": "Mercury (Business, Intelligence)",
+            "strengthen": [
+              "Worship Lord Vishnu",
+              "Wednesday fasting",
+              "Green items",
+              "Emerald gem",
+              "Feed birds"
+            ],
+            "mantra": "Om Bum Budhaya Namah"
+          },
+          {
+            "planet": "Moon (2nd House Lord Often)",
+            "strengthen": [
+              "Monday fasting",
+              "Wear white",
+              "Pearl gem",
+              "Offer milk",
+              "Respect mother"
+            ],
+            "mantra": "Om Shram Shreem Shraum Sah Chandraya Namah"
+          },
+          {
+            "planet": "Sun (9th House Lord Often)",
+            "strengthen": [
+              "Sunday water offering",
+              "Ruby gem",
+              "Respect father",
+              "Wheat donation"
+            ],
+            "mantra": "Om Hram Hreem Hraum Sah Suryaya Namah"
+          }
+        ]
+      },
+      {
+        "category": "Specific Pujas and Homas",
+        "remedies": [
+          "Lakshmi-Kubera puja on Dhanteras/Diwali",
+          "Mahalakshmi homam on Fridays",
+          "Navgraha shanti for overall balance",
+          "Ashtalakshmi puja (8 forms of Lakshmi)",
+          "Vaibhava Lakshmi Vrat (21 Fridays)",
+          "Runa Vimochana (debt removal) homa"
+        ]
+      },
+      {
+        "category": "Gemstones",
+        "note": "Consult expert before wearing - wrong gems can harm",
+        "gems": [
+          {
+            "gem": "Yellow Sapphire",
+            "planet": "JU",
+            "benefit": "Fortune, wisdom, expansion"
+          },
+          {
+            "gem": "Diamond/White Sapphire",
+            "planet": "VE",
+            "benefit": "Luxury, prosperity"
+          },
+          {
+            "gem": "Emerald",
+            "planet": "ME",
+            "benefit": "Business success, intelligence"
+          },
+          {
+            "gem": "Pearl",
+            "planet": "MO",
+            "benefit": "Emotional stability, family wealth"
+          },
+          {
+            "gem": "Ruby",
+            "planet": "SU",
+            "benefit": "Authority, father's blessings"
+          }
+        ],
+        "caution": "Gems should be worn only if planet is beneficial in chart"
+      },
+      {
+        "category": "Behavioral Remedies",
+        "remedies": [
+          "Respect elders (11th house = elder siblings)",
+          "Donate regularly (12th house positive use)",
+          "Speak sweetly (2nd house = speech creates wealth)",
+          "Save systematically (strengthen 2nd house)",
+          "Help others financially within capacity",
+          "Avoid wasteful expenses",
+          "Maintain gratitude for current wealth",
+          "Don't display wealth (avoid jealousy/evil eye)"
+        ]
+      },
+      {
+        "category": "Vastu for Wealth",
+        "remedies": [
+          "Keep North direction (Kubera's direction) clean",
+          "Place money plant or tulsi in North",
+          "Keep cash box in North or locker in South-West",
+          "Fix leaking taps (wealth flowing away)",
+          "Remove clutter (blocks energy flow)",
+          "Good lighting in wealth areas",
+          "Lakshmi footprints at entrance on Diwali"
+        ]
+      },
+      {
+        "category": "Charity and Donations",
+        "principle": "Giving activates receiving (12th house positive use)",
+        "recommendations": [
+          "Donate on planet-specific days (Thursday for Jupiter, Friday for Venus)",
+          "Feed poor on auspicious days",
+          "Donate items of weak planet to strengthen it",
+          "Anna daan (food donation) for general prosperity",
+          "Help education of poor (strengthens Jupiter)"
+        ]
+      },
+      {
+        "category": "Timing-Based Remedies",
+        "remedies": [
+          "Start new financial ventures during Jupiter hora",
+          "Invest during benefic dashas",
+          "Make major purchases on auspicious tithis",
+          "Begin new income sources on Wednesday (Mercury) or Thursday (Jupiter)",
+          "Avoid major financial decisions during Rahu Kaal",
+          "Start saving on Pushya, Hasta, or Shravana nakshatra days"
+        ]
+      }
+    ],
+    "mostPowerful": {
+      "remedy": "Strengthen 2nd lord, 11th lord, and Jupiter",
+      "method": "Combined mantra, puja, gem, and behavioral changes",
+      "timing": "Begin on auspicious day during benefic dasha"
+    }
+  },
+  "practicalGuidance": {
+    "name": "Practical Wealth Prediction Guidance",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Check Birth Chart Promise",
+        "details": [
+          "Are there dhana yogas?",
+          "Is 2nd house strong?",
+          "Is 11th house supported?",
+          "Is 9th house fortunate?",
+          "Jupiter and Venus placements?"
+        ],
+        "conclusion": "If no wealth yogas, wealth will be limited despite efforts"
+      },
+      {
+        "step": 2,
+        "action": "Check D2 (Hora) Chart",
+        "details": [
+          "Wealth magnitude shown in D2",
+          "Which planets in Sun's Hora (earned wealth)?",
+          "Which planets in Moon's Hora (inherited wealth)?",
+          "Are wealth lords strong in D2?"
+        ],
+        "conclusion": "D2 shows HOW MUCH wealth possible"
+      },
+      {
+        "step": 3,
+        "action": "Identify Wealth Sources",
+        "details": [
+          "Strong 10th house = career income",
+          "Strong Mercury = business",
+          "Strong 5th house = investments",
+          "Strong 4th house = real estate",
+          "Multiple sources possible"
+        ],
+        "conclusion": "Guide client toward natural wealth sources shown in chart"
+      },
+      {
+        "step": 4,
+        "action": "Check Current Dasha-Bhukti",
+        "details": [
+          "Is current dasha favorable for wealth?",
+          "Which wealth yoga will activate?",
+          "When does next favorable dasha begin?",
+          "Are there difficult periods to avoid?"
+        ],
+        "conclusion": "TIME wealth activities based on dasha"
+      },
+      {
+        "step": 5,
+        "action": "Check Current Transits",
+        "details": [
+          "Where is Jupiter transiting?",
+          "Is Saturn causing delays?",
+          "Is Rahu-Ketu axis problematic?",
+          "Upcoming transit support?"
+        ],
+        "conclusion": "Short-term wealth opportunities or obstacles"
+      },
+      {
+        "step": 6,
+        "action": "Check Annual Chart (Varshaphal)",
+        "details": [
+          "Is this year favorable for wealth?",
+          "Which months are best (Patyayini dasha)?",
+          "Any specific wealth opportunities?"
+        ],
+        "conclusion": "Year-by-year planning"
+      },
+      {
+        "step": 7,
+        "action": "Identify Obstacles",
+        "details": [
+          "Any doshas affecting wealth?",
+          "Weak wealth lords?",
+          "Malefic periods?",
+          "Loss indicators?"
+        ],
+        "conclusion": "Prepare for obstacles, plan remedies"
+      },
+      {
+        "step": 8,
+        "action": "Prescribe Remedies",
+        "details": [
+          "Strengthen weak wealth lords",
+          "Lakshmi-Kubera worship",
+          "Behavioral changes",
+          "Timing-based actions"
+        ],
+        "conclusion": "Empower client to improve wealth prospects"
+      },
+      {
+        "step": 9,
+        "action": "Set Realistic Expectations",
+        "details": [
+          "Chart shows wealth range (limited, moderate, abundant)",
+          "Timing windows for wealth accumulation",
+          "Sources to focus on",
+          "Periods to be cautious"
+        ],
+        "conclusion": "Honest assessment helps proper planning"
+      }
+    ],
+    "ethics": {
+      "name": "Ethical Considerations",
+      "points": [
+        "Never guarantee specific amounts - show ranges",
+        "Don't create false hopes in limited wealth charts",
+        "Don't create fear in abundant wealth charts with temporary obstacles",
+        "Guide toward legitimate sources, never illegal",
+        "Wealth is means to security and dharma, not end goal",
+        "Emphasize karma and effort along with astrology",
+        "Remedies are aids, not magic solutions"
+      ]
+    }
+  },
+  "caseStudyFramework": {
+    "name": "Wealth Analysis Case Study Framework",
+    "example": {
+      "scenario": "Person asking about wealth timing",
+      "analysis": [
+        "Birth chart shows: Jupiter-Venus conjunction in 11th house (Bheri Yoga)",
+        "2nd lord Mercury exalted in 10th house (career wealth yoga)",
+        "D2 chart confirms: Multiple planets in Sun's Hora (self-earned wealth)",
+        "Current: Venus Mahadasha, Jupiter Antardasha (both yoga partners)",
+        "Transit: Jupiter transiting 2nd house (direct wealth activation)",
+        "Varshaphal: Muntha in 11th house this year (gains)",
+        "SAV: 2nd house has 32 points (excellent)",
+        "Obstacle: Saturn aspecting 2nd house (some delays)",
+        "Source: 10th house strength shows career-based wealth, Mercury shows business potential",
+        "Prediction: Excellent wealth period for next 3 years (Venus-Jupiter period + Jupiter transit)",
+        "Advice: Focus on career advancement and business, avoid speculation despite good 5th",
+        "Remedy: Lakshmi puja on Fridays, Yellow Sapphire for Jupiter"
+      ],
+      "confidence": "Very high - multiple factors aligned"
+    }
+  }
+}

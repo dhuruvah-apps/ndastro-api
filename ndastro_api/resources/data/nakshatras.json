@@ -1,0 +1,4613 @@
+[
+  {
+    "name": "Ashwini",
+    "code": "N01",
+    "number": 1,
+    "description": "The Horse Riders - First nakshatra representing healing and swift action",
+    "rulingPlanet": "KE",
+    "rulingDeity": "Ashwini Kumaras",
+    "symbol": "Horse's Head",
+    "animalSymbol": "Horse",
+    "yoni": "Horse (Male)",
+    "elementPanchamahabhuta": "EA",
+    "gana": "Deva",
+    "gender": "Male",
+    "caste": "Vaishya",
+    "nature": "Light/Swift",
+    "quality": "Dharma",
+    "bodyParts": [
+      "Knees",
+      "Head top"
+    ],
+    "rasiLord": "MA",
+    "startDegree": 0.0,
+    "endDegree": 13.333333,
+    "rasi": "AR",
+    "color": "Blood Red",
+    "direction": "South",
+    "gunas": "Rajas-Rajas-Rajas",
+    "primaryMotivation": "Dharma",
+    "temperament": "Fast, active, healing",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Healing",
+      "Medicine",
+      "Travel",
+      "Vehicles",
+      "Horse riding",
+      "Sports",
+      "Quick actions",
+      "Emergency treatments"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Long-term planning",
+      "Patience-requiring tasks"
+    ],
+    "specialCharacteristics": [
+      "Fastest nakshatra",
+      "Natural healers",
+      "Pioneer spirit",
+      "Quick recovery"
+    ],
+    "karmicLessons": [
+      "Learning patience",
+      "Balancing speed with wisdom",
+      "Healing self and others"
+    ],
+    "birthNakshatraTraits": [
+      "Quick thinker",
+      "Healer",
+      "Energetic",
+      "Impatient",
+      "Pioneer",
+      "Athletic"
+    ],
+    "favorableActivities": [
+      "Medical procedures",
+      "Starting journeys",
+      "Sports",
+      "Racing",
+      "Quick decisions"
+    ],
+    "unfavorableActivities": [
+      "Long commitments",
+      "Detailed work",
+      "Marriage ceremonies"
+    ],
+    "career": [
+      "Medicine",
+      "Healing",
+      "Sports",
+      "Transportation",
+      "Veterinary",
+      "Emergency services"
+    ],
+    "compatibility": [
+      "N02",
+      "N08",
+      "N13"
+    ],
+    "healthIssues": [
+      "Head injuries",
+      "Knee problems",
+      "Accidents due to speed"
+    ],
+    "vedicReferences": "Mentioned in Taittiriya Brahmana as divine physicians",
+    "keywords": [
+      "Speed",
+      "Healing",
+      "Beginning",
+      "Energy",
+      "Pioneering"
+    ],
+    "represents": [
+      "New beginnings",
+      "Healing power",
+      "Swift action",
+      "Divine physicians"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R01",
+        "navamsaLord": "MA",
+        "sound": "Chu",
+        "motivation": "Physical action",
+        "characteristics": "Most aggressive, pioneering spirit, leadership",
+        "planetaryInfluence": [
+          "MA",
+          "KE"
+        ],
+        "focus": "Self-assertion, independence",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R02",
+        "navamsaLord": "VE",
+        "sound": "Che",
+        "motivation": "Material accumulation",
+        "characteristics": "Practical healing, wealth through healing",
+        "planetaryInfluence": [
+          "VE",
+          "KE"
+        ],
+        "focus": "Material resources, practical applications",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R03",
+        "navamsaLord": "ME",
+        "sound": "Cho",
+        "motivation": "Communication",
+        "characteristics": "Intellectual healing, communication skills",
+        "planetaryInfluence": [
+          "ME",
+          "KE"
+        ],
+        "focus": "Knowledge exchange, quick learning",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R04",
+        "navamsaLord": "MO",
+        "sound": "La",
+        "motivation": "Emotional nurturing",
+        "characteristics": "Emotional healing, nurturing qualities",
+        "planetaryInfluence": [
+          "MO",
+          "KE"
+        ],
+        "focus": "Emotional care, family healing",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      }
+    ]
+  },
+  {
+    "name": "Bharani",
+    "code": "N02",
+    "number": 2,
+    "description": "The Bearer - Nakshatra of birth, death, and transformation",
+    "rulingPlanet": "VE",
+    "rulingDeity": "Yama",
+    "symbol": "Yoni (Female reproductive organ)",
+    "animalSymbol": "Elephant",
+    "yoni": "Elephant (Male)",
+    "elementPanchamahabhuta": "EA",
+    "gana": "Manushya",
+    "gender": "Female",
+    "caste": "Mleccha",
+    "nature": "Fierce/Ugra",
+    "quality": "Artha",
+    "bodyParts": [
+      "Head",
+      "Feet"
+    ],
+    "rasiLord": "MA",
+    "startDegree": 13.333333,
+    "endDegree": 26.666667,
+    "rasi": "AR",
+    "color": "Blood Red",
+    "direction": "Northwest",
+    "gunas": "Rajas-Rajas-Tamas",
+    "primaryMotivation": "Artha",
+    "temperament": "Fierce, transformative, creative",
+    "muhurtaRating": 6,
+    "auspiciousFor": [
+      "Birth",
+      "Death rituals",
+      "Transformation work",
+      "Surgery",
+      "Tantric practices",
+      "Dealing with death"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Beginning ventures"
+    ],
+    "specialCharacteristics": [
+      "Extremes of life",
+      "Creative power",
+      "Punishment and justice",
+      "Transformation"
+    ],
+    "karmicLessons": [
+      "Understanding death",
+      "Creative responsibility",
+      "Moral restraint",
+      "Transformation acceptance"
+    ],
+    "birthNakshatraTraits": [
+      "Creative",
+      "Extreme nature",
+      "Jealous",
+      "Passionate",
+      "Transformative",
+      "Ambitious"
+    ],
+    "favorableActivities": [
+      "Endings",
+      "Funerals",
+      "Surgery",
+      "Tantric work",
+      "Creative arts",
+      "Agriculture"
+    ],
+    "unfavorableActivities": [
+      "Marriage",
+      "Starting new ventures",
+      "Celebrations"
+    ],
+    "career": [
+      "Arts",
+      "Entertainment",
+      "Death care",
+      "Law enforcement",
+      "Agriculture",
+      "Childbirth services"
+    ],
+    "compatibility": [
+      "N04",
+      "N17",
+      "N20"
+    ],
+    "healthIssues": [
+      "Reproductive system",
+      "Head problems",
+      "Feet issues",
+      "Extremes in health"
+    ],
+    "vedicReferences": "Connected to Yama in Rig Veda for life-death cycle",
+    "keywords": [
+      "Birth",
+      "Death",
+      "Creativity",
+      "Restraint",
+      "Transformation"
+    ],
+    "represents": [
+      "Life-death cycle",
+      "Creative power",
+      "Divine restraint",
+      "Transformation energy"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R05",
+        "navamsaLord": "SU",
+        "sound": "Li",
+        "motivation": "Leadership in creation",
+        "characteristics": "Authoritative creativity, leadership through art",
+        "planetaryInfluence": [
+          "SU",
+          "VE"
+        ],
+        "focus": "Authority, creative leadership",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R06",
+        "navamsaLord": "ME",
+        "sound": "Lu",
+        "motivation": "Service through creation",
+        "characteristics": "Detailed creative work, service orientation",
+        "planetaryInfluence": [
+          "ME",
+          "VE"
+        ],
+        "focus": "Practical creativity, analytical approach",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R07",
+        "navamsaLord": "VE",
+        "sound": "Le",
+        "motivation": "Relationship and beauty",
+        "characteristics": "Highly creative, artistic excellence, balanced",
+        "planetaryInfluence": [
+          "VE"
+        ],
+        "focus": "Artistic perfection, relationships",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R08",
+        "navamsaLord": "MA",
+        "sound": "Lo",
+        "motivation": "Transformation through intensity",
+        "characteristics": "Most intense, transformative power, secretive",
+        "planetaryInfluence": [
+          "MA",
+          "VE"
+        ],
+        "focus": "Deep transformation, occult knowledge",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      }
+    ]
+  },
+  {
+    "name": "Krittika",
+    "code": "N03",
+    "number": 3,
+    "description": "The Cutter - Nakshatra of fire, purification, and sharp intellect",
+    "rulingPlanet": "SU",
+    "rulingDeity": "Agni",
+    "symbol": "Razor/Axe/Flame",
+    "animalSymbol": "Sheep",
+    "yoni": "Sheep (Female)",
+    "elementPanchamahabhuta": "EA",
+    "gana": "Rakshasa",
+    "gender": "Female",
+    "caste": "Brahmin",
+    "nature": "Mixed/Mishra",
+    "quality": "Kama",
+    "bodyParts": [
+      "Hips",
+      "Loins",
+      "Crown of head"
+    ],
+    "rasiLord": "Mars/Venus",
+    "startDegree": 26.666667,
+    "endDegree": 40.0,
+    "rasi": "Aries/Taurus",
+    "color": "White",
+    "direction": "North",
+    "gunas": "Rajas-Tamas-Rajas",
+    "primaryMotivation": "Kama",
+    "temperament": "Sharp, purifying, cutting",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Purification",
+      "Fire rituals",
+      "Sharp work",
+      "Cutting",
+      "Surgery",
+      "Military actions",
+      "Debating"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Lending money",
+      "Soft approaches"
+    ],
+    "specialCharacteristics": [
+      "Purification through fire",
+      "Sharp intellect",
+      "Nurturing yet sharp",
+      "Fame giving"
+    ],
+    "karmicLessons": [
+      "Controlled aggression",
+      "Purification purpose",
+      "Balancing nurture with discipline"
+    ],
+    "birthNakshatraTraits": [
+      "Sharp minded",
+      "Purifier",
+      "Famous potential",
+      "Critical",
+      "Protective",
+      "Dignified"
+    ],
+    "favorableActivities": [
+      "Fire ceremonies",
+      "Debates",
+      "Sharp decisions",
+      "Cutting away negativity",
+      "Military training"
+    ],
+    "unfavorableActivities": [
+      "Marriage",
+      "Gentle negotiations",
+      "Emotional matters"
+    ],
+    "career": [
+      "Military",
+      "Fire services",
+      "Critics",
+      "Chefs",
+      "Metallurgy",
+      "Spiritual teaching"
+    ],
+    "compatibility": [
+      "N04",
+      "N08",
+      "N12"
+    ],
+    "healthIssues": [
+      "Fever",
+      "Inflammatory conditions",
+      "Hip problems",
+      "Head issues"
+    ],
+    "vedicReferences": "Agni is praised in numerous Rig Vedic hymns as purifier",
+    "keywords": [
+      "Purification",
+      "Sharpness",
+      "Fame",
+      "Cutting",
+      "Fire"
+    ],
+    "represents": [
+      "Divine fire",
+      "Purification power",
+      "Sharp intellect",
+      "Foster mothers (Pleiades)"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R09",
+        "navamsaLord": "JU",
+        "sound": "Aa",
+        "motivation": "Dharmic purification",
+        "characteristics": "Philosophical, teaching through criticism, dharmic",
+        "planetaryInfluence": [
+          "JU",
+          "SU"
+        ],
+        "focus": "Higher knowledge, spiritual purification",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R10",
+        "navamsaLord": "SA",
+        "sound": "Ee",
+        "motivation": "Material organization",
+        "characteristics": "Disciplined, organized purification, practical",
+        "planetaryInfluence": [
+          "SA",
+          "SU"
+        ],
+        "focus": "Structured approach, material discipline",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R11",
+        "navamsaLord": "SA",
+        "sound": "Oo",
+        "motivation": "Social reform",
+        "characteristics": "Humanitarian, social purification, reformer",
+        "planetaryInfluence": [
+          "SA",
+          "SU"
+        ],
+        "focus": "Social justice, humanitarian causes",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R12",
+        "navamsaLord": "JU",
+        "sound": "Ae",
+        "motivation": "Spiritual liberation",
+        "characteristics": "Compassionate purification, spiritual depth",
+        "planetaryInfluence": [
+          "JU",
+          "SU"
+        ],
+        "focus": "Spiritual wisdom, compassionate criticism",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      }
+    ]
+  },
+  {
+    "name": "Rohini",
+    "code": "N04",
+    "number": 4,
+    "description": "The Red One - Nakshatra of growth, beauty, and material abundance",
+    "rulingPlanet": "MO",
+    "rulingDeity": "Brahma/Prajapati",
+    "symbol": "Chariot/Ox Cart",
+    "animalSymbol": "Serpent",
+    "yoni": "Serpent (Male)",
+    "elementPanchamahabhuta": "EA",
+    "gana": "Manushya",
+    "gender": "Female",
+    "caste": "Shudra",
+    "nature": "Fixed/Dhruva",
+    "quality": "Moksha",
+    "bodyParts": [
+      "Forehead",
+      "Ankles",
+      "Shins"
+    ],
+    "rasiLord": "VE",
+    "startDegree": 40.0,
+    "endDegree": 53.333333,
+    "rasi": "TA",
+    "color": "White/Light colors",
+    "direction": "East",
+    "gunas": "Rajas-Tamas-Tamas",
+    "primaryMotivation": "Moksha",
+    "temperament": "Growth-oriented, material, beautiful",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Marriage",
+      "Agriculture",
+      "Business",
+      "Beauty",
+      "Arts",
+      "Romance",
+      "Construction",
+      "Permanence"
+    ],
+    "inauspiciousFor": [
+      "Destructive acts",
+      "Endings",
+      "Travel sometimes"
+    ],
+    "specialCharacteristics": [
+      "Most auspicious nakshatra",
+      "Material abundance",
+      "Magnetic attraction",
+      "Growth and fertility"
+    ],
+    "karmicLessons": [
+      "Balancing material and spiritual",
+      "Avoiding excessive attachment",
+      "Using beauty wisely"
+    ],
+    "birthNakshatraTraits": [
+      "Beautiful",
+      "Attractive",
+      "Materialistic",
+      "Sensual",
+      "Growth-oriented",
+      "Charismatic"
+    ],
+    "favorableActivities": [
+      "Marriage",
+      "Agriculture",
+      "Business deals",
+      "Art creation",
+      "Romance",
+      "Building"
+    ],
+    "unfavorableActivities": [
+      "Travel in some traditions",
+      "Destructive work",
+      "Renunciation"
+    ],
+    "career": [
+      "Agriculture",
+      "Arts",
+      "Fashion",
+      "Business",
+      "Finance",
+      "Architecture",
+      "Food industry"
+    ],
+    "compatibility": [
+      "N05",
+      "N13",
+      "N22"
+    ],
+    "healthIssues": [
+      "Throat",
+      "Reproductive organs",
+      "Blood-related issues"
+    ],
+    "vedicReferences": "Krishna's birth nakshatra, mentioned in Mahabharata",
+    "keywords": [
+      "Growth",
+      "Beauty",
+      "Fertility",
+      "Attraction",
+      "Material abundance"
+    ],
+    "represents": [
+      "Divine creation",
+      "Material prosperity",
+      "Beauty and attraction",
+      "Fertility principle"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R01",
+        "navamsaLord": "MA",
+        "sound": "O",
+        "motivation": "Action in growth",
+        "characteristics": "Active growth, pioneering in business, energetic",
+        "planetaryInfluence": [
+          "MA",
+          "MO"
+        ],
+        "focus": "Initiating growth, active manifestation",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R02",
+        "navamsaLord": "VE",
+        "sound": "Va/Ba",
+        "motivation": "Pure material growth",
+        "characteristics": "Maximum material focus, wealth accumulation, Vargottama",
+        "planetaryInfluence": [
+          "VE",
+          "MO"
+        ],
+        "focus": "Material perfection, sensual pleasures",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R03",
+        "navamsaLord": "ME",
+        "sound": "Vi/Bee",
+        "motivation": "Intellectual growth",
+        "characteristics": "Business acumen, communication skills, versatile",
+        "planetaryInfluence": [
+          "ME",
+          "MO"
+        ],
+        "focus": "Mental growth, business communication",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R04",
+        "navamsaLord": "MO",
+        "sound": "Vu/Boo",
+        "motivation": "Emotional growth",
+        "characteristics": "Highly emotional, nurturing, family-focused, Moon vargottama",
+        "planetaryInfluence": [
+          "MO"
+        ],
+        "focus": "Emotional fulfillment, family prosperity",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      }
+    ]
+  },
+  {
+    "name": "Mrigashira",
+    "code": "N05",
+    "number": 5,
+    "description": "The Deer's Head - Nakshatra of search, curiosity, and restlessness",
+    "rulingPlanet": "MA",
+    "rulingDeity": "Soma/Chandra",
+    "symbol": "Deer's Head",
+    "animalSymbol": "Serpent",
+    "yoni": "Serpent (Female)",
+    "elementPanchamahabhuta": "EA",
+    "gana": "Deva",
+    "gender": "Neutral",
+    "caste": "Servant/Farmer",
+    "nature": "Tender/Soft/Mridu",
+    "quality": "Moksha",
+    "bodyParts": [
+      "Eyes",
+      "Eyebrows",
+      "Throat"
+    ],
+    "rasiLord": "Venus/Mercury",
+    "startDegree": 53.333333,
+    "endDegree": 66.666667,
+    "rasi": "Taurus/Gemini",
+    "color": "Silver Grey",
+    "direction": "Northwest",
+    "gunas": "Tamas-Tamas-Tamas",
+    "primaryMotivation": "Moksha",
+    "temperament": "Searching, curious, gentle",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Beginning education",
+      "Arts",
+      "Romance",
+      "Light activities",
+      "Gardening",
+      "Exploration",
+      "Travel"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Harsh actions",
+      "Conclusions",
+      "Fixed activities"
+    ],
+    "specialCharacteristics": [
+      "Search for truth",
+      "Restless nature",
+      "Gentle approach",
+      "Suspicious mind"
+    ],
+    "karmicLessons": [
+      "Finding peace in search",
+      "Overcoming suspicion",
+      "Committing to goals"
+    ],
+    "birthNakshatraTraits": [
+      "Searching",
+      "Curious",
+      "Restless",
+      "Gentle",
+      "Suspicious",
+      "Traveler",
+      "Seeker"
+    ],
+    "favorableActivities": [
+      "Exploration",
+      "Research",
+      "Travel",
+      "Light work",
+      "Arts",
+      "Romance"
+    ],
+    "unfavorableActivities": [
+      "Marriage",
+      "Harsh decisions",
+      "Permanent commitments"
+    ],
+    "career": [
+      "Research",
+      "Writing",
+      "Travel industry",
+      "Arts",
+      "Exploration",
+      "Investigation"
+    ],
+    "compatibility": [
+      "N04",
+      "N14",
+      "N23"
+    ],
+    "healthIssues": [
+      "Throat problems",
+      "Eyes issues",
+      "Nervous system",
+      "Voice problems"
+    ],
+    "vedicReferences": "Associated with Soma's pursuit in Vedic mythology",
+    "keywords": [
+      "Search",
+      "Curiosity",
+      "Restlessness",
+      "Gentleness",
+      "Exploration"
+    ],
+    "represents": [
+      "Divine search",
+      "Quest for truth",
+      "Gentle approach",
+      "Restless spirit"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R05",
+        "navamsaLord": "SU",
+        "sound": "Ve/Way",
+        "motivation": "Search for identity",
+        "characteristics": "Confident search, leadership in exploration",
+        "planetaryInfluence": [
+          "SU",
+          "MA"
+        ],
+        "focus": "Self-discovery, confident exploration",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R06",
+        "navamsaLord": "ME",
+        "sound": "Vo/Bo",
+        "motivation": "Search for perfection",
+        "characteristics": "Analytical search, detailed investigation",
+        "planetaryInfluence": [
+          "ME",
+          "MA"
+        ],
+        "focus": "Practical research, analytical approach",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R07",
+        "navamsaLord": "VE",
+        "sound": "Ka",
+        "motivation": "Search for harmony",
+        "characteristics": "Artistic search, balanced exploration, diplomatic",
+        "planetaryInfluence": [
+          "VE",
+          "MA"
+        ],
+        "focus": "Aesthetic pursuits, relationship exploration",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R08",
+        "navamsaLord": "MA",
+        "sound": "Ki/Kee",
+        "motivation": "Deep search",
+        "characteristics": "Intense investigation, occult research, Mars vargottama",
+        "planetaryInfluence": [
+          "MA"
+        ],
+        "focus": "Deep mysteries, transformative search",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      }
+    ]
+  },
+  {
+    "name": "Ardra",
+    "code": "N06",
+    "number": 6,
+    "description": "The Moist One - Nakshatra of storms, transformation, and intense emotions",
+    "rulingPlanet": "RA",
+    "rulingDeity": "Rudra",
+    "symbol": "Teardrop/Diamond/Human head",
+    "animalSymbol": "Dog",
+    "yoni": "Dog (Female)",
+    "elementPanchamahabhuta": "Water",
+    "gana": "Manushya",
+    "gender": "Female",
+    "caste": "Butcher",
+    "nature": "Sharp/Tikshna",
+    "quality": "Kama",
+    "bodyParts": [
+      "Throat",
+      "Back of head"
+    ],
+    "rasiLord": "ME",
+    "startDegree": 66.666667,
+    "endDegree": 80.0,
+    "rasi": "GE",
+    "color": "Green",
+    "direction": "Southeast",
+    "gunas": "Tamas-Rajas-Rajas",
+    "primaryMotivation": "Kama",
+    "temperament": "Stormy, emotional, transformative",
+    "muhurtaRating": 5,
+    "auspiciousFor": [
+      "Destruction of negativity",
+      "Intense work",
+      "Research",
+      "Science",
+      "Technology",
+      "Breaking barriers"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Peace-seeking activities",
+      "Ceremonies",
+      "Auspicious beginnings"
+    ],
+    "specialCharacteristics": [
+      "Emotional intensity",
+      "Destructive transformation",
+      "Sharp intellect",
+      "Storm energy"
+    ],
+    "karmicLessons": [
+      "Controlling emotions",
+      "Constructive destruction",
+      "Channeling intensity",
+      "Finding gratitude"
+    ],
+    "birthNakshatraTraits": [
+      "Intense",
+      "Emotional",
+      "Intellectual",
+      "Ungrateful tendency",
+      "Transformative",
+      "Critical"
+    ],
+    "favorableActivities": [
+      "Research",
+      "Science",
+      "Technology",
+      "Destruction of old",
+      "Intense study"
+    ],
+    "unfavorableActivities": [
+      "Marriage",
+      "Religious ceremonies",
+      "Peaceful activities",
+      "Celebrations"
+    ],
+    "career": [
+      "Science",
+      "Technology",
+      "Research",
+      "Computers",
+      "Pharmaceuticals",
+      "Surgery",
+      "Criticism"
+    ],
+    "compatibility": [
+      "N07",
+      "N15",
+      "N24"
+    ],
+    "healthIssues": [
+      "Throat infections",
+      "Mental stress",
+      "Respiratory problems",
+      "Allergies"
+    ],
+    "vedicReferences": "Rudra's fierce form mentioned in Shiva Puranas",
+    "keywords": [
+      "Storm",
+      "Intensity",
+      "Transformation",
+      "Emotion",
+      "Destruction"
+    ],
+    "represents": [
+      "Divine storm",
+      "Transformative destruction",
+      "Intense emotion",
+      "Rudra's tears"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R09",
+        "navamsaLord": "JU",
+        "sound": "Ku/Koo",
+        "motivation": "Search for meaning in chaos",
+        "characteristics": "Philosophical intensity, seeking wisdom through storm",
+        "planetaryInfluence": [
+          "JU",
+          "RA"
+        ],
+        "focus": "Higher knowledge, expansion through destruction",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R10",
+        "navamsaLord": "SA",
+        "sound": "Gha/Ghan",
+        "motivation": "Structured transformation",
+        "characteristics": "Disciplined intensity, organized destruction",
+        "planetaryInfluence": [
+          "SA",
+          "RA"
+        ],
+        "focus": "Systematic change, karmic transformation",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R11",
+        "navamsaLord": "SA",
+        "sound": "Nga",
+        "motivation": "Revolutionary transformation",
+        "characteristics": "Scientific approach, humanitarian destruction of old",
+        "planetaryInfluence": [
+          "SA",
+          "RA"
+        ],
+        "focus": "Technology, scientific revolution",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R12",
+        "navamsaLord": "JU",
+        "sound": "Chha",
+        "motivation": "Spiritual transformation",
+        "characteristics": "Compassionate intensity, spiritual destruction of ego",
+        "planetaryInfluence": [
+          "JU",
+          "RA"
+        ],
+        "focus": "Spiritual depth, dissolution of boundaries",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      }
+    ]
+  },
+  {
+    "name": "Punarvasu",
+    "code": "N07",
+    "number": 7,
+    "description": "Return of the Light - Nakshatra of renewal, restoration, and good fortune",
+    "rulingPlanet": "JU",
+    "rulingDeity": "Aditi",
+    "symbol": "Bow and Quiver/House",
+    "animalSymbol": "Cat",
+    "yoni": "Cat (Female)",
+    "elementPanchamahabhuta": "Water",
+    "gana": "Deva",
+    "gender": "Male",
+    "caste": "Vaishya",
+    "nature": "Movable/Chara",
+    "quality": "Artha",
+    "bodyParts": [
+      "Fingers",
+      "Nose",
+      "Ears"
+    ],
+    "rasiLord": "Mercury/Jupiter",
+    "startDegree": 80.0,
+    "endDegree": 93.333333,
+    "rasi": "Gemini/Cancer",
+    "color": "Lead Grey",
+    "direction": "North",
+    "gunas": "Rajas-Sattva-Sattva",
+    "primaryMotivation": "Artha",
+    "temperament": "Renewal, restoration, optimistic",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "New beginnings",
+      "Construction",
+      "Travel",
+      "Trade",
+      "Education",
+      "Restoration",
+      "Return home"
+    ],
+    "inauspiciousFor": [
+      "Endings",
+      "Destructive acts",
+      "Harsh decisions"
+    ],
+    "specialCharacteristics": [
+      "Return to goodness",
+      "Restoration power",
+      "Optimism",
+      "Maternal protection"
+    ],
+    "karmicLessons": [
+      "Resilience",
+      "Forgiveness",
+      "Return to dharma",
+      "Maternal wisdom"
+    ],
+    "birthNakshatraTraits": [
+      "Optimistic",
+      "Resilient",
+      "Forgiving",
+      "Content",
+      "Protected",
+      "Fortunate"
+    ],
+    "favorableActivities": [
+      "Starting over",
+      "Restoration",
+      "Travel",
+      "Education",
+      "Construction",
+      "Trade"
+    ],
+    "unfavorableActivities": [
+      "Endings",
+      "Harsh actions",
+      "Permanent closure"
+    ],
+    "career": [
+      "Teaching",
+      "Trade",
+      "Travel industry",
+      "Restoration",
+      "Philosophy",
+      "Writing"
+    ],
+    "compatibility": [
+      "N01",
+      "N08",
+      "N13"
+    ],
+    "healthIssues": [
+      "Respiratory",
+      "Liver problems",
+      "Fingers/hands issues"
+    ],
+    "vedicReferences": "Aditi praised in Rig Veda as mother of gods and boundlessness",
+    "keywords": [
+      "Renewal",
+      "Return",
+      "Restoration",
+      "Optimism",
+      "Protection"
+    ],
+    "represents": [
+      "Divine mother",
+      "Return to light",
+      "Restoration principle",
+      "Boundless expansion"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R01",
+        "navamsaLord": "MA",
+        "sound": "Ke",
+        "motivation": "Active restoration",
+        "characteristics": "Energetic renewal, pioneering return",
+        "planetaryInfluence": [
+          "MA",
+          "JU"
+        ],
+        "focus": "Dynamic new beginnings, assertive restoration",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R02",
+        "navamsaLord": "VE",
+        "sound": "Ko",
+        "motivation": "Material restoration",
+        "characteristics": "Material renewal, wealth restoration",
+        "planetaryInfluence": [
+          "VE",
+          "JU"
+        ],
+        "focus": "Financial recovery, material comfort",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R03",
+        "navamsaLord": "ME",
+        "sound": "Ha",
+        "motivation": "Intellectual renewal",
+        "characteristics": "Mental restoration, communication renewal, Vargottama",
+        "planetaryInfluence": [
+          "ME",
+          "JU"
+        ],
+        "focus": "Learning recovery, intellectual growth",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R04",
+        "navamsaLord": "MO",
+        "sound": "Hi",
+        "motivation": "Emotional renewal",
+        "characteristics": "Emotional restoration, nurturing return, Vargottama",
+        "planetaryInfluence": [
+          "MO",
+          "JU"
+        ],
+        "focus": "Emotional healing, family restoration",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      }
+    ]
+  },
+  {
+    "name": "Pushya",
+    "code": "N08",
+    "number": 8,
+    "description": "The Nourisher - Most auspicious nakshatra for growth and prosperity",
+    "rulingPlanet": "SA",
+    "rulingDeity": "Brihaspati",
+    "symbol": "Cow's Udder/Lotus/Arrow",
+    "animalSymbol": "Goat",
+    "yoni": "Goat (Male)",
+    "elementPanchamahabhuta": "Water",
+    "gana": "Deva",
+    "gender": "Male",
+    "caste": "Kshatriya",
+    "nature": "Light/Laghu",
+    "quality": "Dharma",
+    "bodyParts": [
+      "Mouth",
+      "Face"
+    ],
+    "rasiLord": "MO",
+    "startDegree": 93.333333,
+    "endDegree": 106.666667,
+    "rasi": "CA",
+    "color": "Blackish Red",
+    "direction": "East",
+    "gunas": "Rajas-Sattva-Tamas",
+    "primaryMotivation": "Dharma",
+    "temperament": "Nourishing, protective, auspicious",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "All auspicious activities",
+      "Marriage",
+      "Education",
+      "Construction",
+      "Starting ventures",
+      "Religious ceremonies",
+      "Buying property"
+    ],
+    "inauspiciousFor": [
+      "Harsh actions",
+      "Separation",
+      "Destructive acts"
+    ],
+    "specialCharacteristics": [
+      "Most nourishing",
+      "Highest auspiciousness",
+      "Protective energy",
+      "Guru-like wisdom"
+    ],
+    "karmicLessons": [
+      "Nurturing others",
+      "Spiritual discipline",
+      "Controlled giving",
+      "Dharmic action"
+    ],
+    "birthNakshatraTraits": [
+      "Nurturing",
+      "Spiritual",
+      "Disciplined",
+      "Protective",
+      "Lucky",
+      "Wise"
+    ],
+    "favorableActivities": [
+      "All auspicious activities",
+      "Starting anything",
+      "Ceremonies",
+      "Construction",
+      "Learning"
+    ],
+    "unfavorableActivities": [
+      "Harsh actions",
+      "Destructive work",
+      "Separation"
+    ],
+    "career": [
+      "Teaching",
+      "Counseling",
+      "Religious work",
+      "Nursing",
+      "Nutrition",
+      "Spiritual guidance"
+    ],
+    "compatibility": [
+      "N01",
+      "N04",
+      "N13"
+    ],
+    "healthIssues": [
+      "Chest",
+      "Stomach",
+      "Skin problems"
+    ],
+    "vedicReferences": "Brihaspati is the guru of gods in all Puranas",
+    "keywords": [
+      "Nourishment",
+      "Auspiciousness",
+      "Protection",
+      "Wisdom",
+      "Guru"
+    ],
+    "represents": [
+      "Divine nourishment",
+      "Guru energy",
+      "Protection",
+      "Supreme auspiciousness"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R05",
+        "navamsaLord": "SU",
+        "sound": "Hu/Hoo",
+        "motivation": "Spiritual leadership",
+        "characteristics": "Authoritative nourishment, leadership in nurturing",
+        "planetaryInfluence": [
+          "SU",
+          "SA"
+        ],
+        "focus": "Spiritual authority, dharmic leadership",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R06",
+        "navamsaLord": "ME",
+        "sound": "He",
+        "motivation": "Service and analysis",
+        "characteristics": "Practical nourishment, analytical care",
+        "planetaryInfluence": [
+          "ME",
+          "SA"
+        ],
+        "focus": "Service orientation, practical wisdom",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R07",
+        "navamsaLord": "VE",
+        "sound": "Ho",
+        "motivation": "Harmonious nourishment",
+        "characteristics": "Balanced care, diplomatic nurturing",
+        "planetaryInfluence": [
+          "VE",
+          "SA"
+        ],
+        "focus": "Relationship harmony, aesthetic care",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R08",
+        "navamsaLord": "MA",
+        "sound": "Da",
+        "motivation": "Deep transformation",
+        "characteristics": "Intense nourishment, transformative care",
+        "planetaryInfluence": [
+          "MA",
+          "SA"
+        ],
+        "focus": "Deep healing, occult wisdom",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      }
+    ]
+  },
+  {
+    "name": "Ashlesha",
+    "code": "N09",
+    "number": 9,
+    "description": "The Entwiner - Nakshatra of serpent energy, kundalini, and mystical power",
+    "rulingPlanet": "ME",
+    "rulingDeity": "Nagas (Serpents)",
+    "symbol": "Coiled Serpent",
+    "animalSymbol": "Cat",
+    "yoni": "Cat (Male)",
+    "elementPanchamahabhuta": "Water",
+    "gana": "Rakshasa",
+    "gender": "Female",
+    "caste": "Mleccha",
+    "nature": "Sharp/Tikshna",
+    "quality": "Dharma",
+    "bodyParts": [
+      "Nails",
+      "Joints"
+    ],
+    "rasiLord": "MO",
+    "startDegree": 106.666667,
+    "endDegree": 120.0,
+    "rasi": "CA",
+    "color": "Black Red",
+    "direction": "South",
+    "gunas": "Rajas-Tamas-Sattva",
+    "primaryMotivation": "Dharma",
+    "temperament": "Clinging, hypnotic, secretive",
+    "muhurtaRating": 5,
+    "auspiciousFor": [
+      "Occult practices",
+      "Tantric work",
+      "Secret activities",
+      "Kundalini practices",
+      "Strategy"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Trusting others",
+      "Open activities"
+    ],
+    "specialCharacteristics": [
+      "Hypnotic power",
+      "Kundalini energy",
+      "Strategic mind",
+      "Clinging nature"
+    ],
+    "karmicLessons": [
+      "Releasing control",
+      "Trust issues",
+      "Using power wisely",
+      "Overcoming suspicion"
+    ],
+    "birthNakshatraTraits": [
+      "Shrewd",
+      "Secretive",
+      "Hypnotic",
+      "Kundalini aware",
+      "Strategic",
+      "Suspicious"
+    ],
+    "favorableActivities": [
+      "Occult work",
+      "Strategy",
+      "Secret operations",
+      "Tantric practices",
+      "Psychology"
+    ],
+    "unfavorableActivities": [
+      "Marriage",
+      "Public ceremonies",
+      "Trust-based activities"
+    ],
+    "career": [
+      "Occult sciences",
+      "Psychology",
+      "Strategy",
+      "Politics",
+      "Secret services",
+      "Tantra"
+    ],
+    "compatibility": [
+      "N18",
+      "N27",
+      "N08"
+    ],
+    "healthIssues": [
+      "Digestive",
+      "Nervous system",
+      "Joints",
+      "Poisoning tendency"
+    ],
+    "vedicReferences": "Nagas mentioned extensively in Mahabharata and Puranas",
+    "keywords": [
+      "Serpent",
+      "Kundalini",
+      "Mystery",
+      "Control",
+      "Hypnotic"
+    ],
+    "represents": [
+      "Serpent power",
+      "Kundalini energy",
+      "Mystery",
+      "Hypnotic control"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R09",
+        "navamsaLord": "JU",
+        "sound": "Di/Dee",
+        "motivation": "Philosophical depth",
+        "characteristics": "Wisdom through mystery, philosophical serpent",
+        "planetaryInfluence": [
+          "JU",
+          "ME"
+        ],
+        "focus": "Occult wisdom, higher knowledge",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R10",
+        "navamsaLord": "SA",
+        "sound": "Du/Doo",
+        "motivation": "Material control",
+        "characteristics": "Strategic ambition, material manipulation",
+        "planetaryInfluence": [
+          "SA",
+          "ME"
+        ],
+        "focus": "Political power, material control",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R11",
+        "navamsaLord": "SA",
+        "sound": "De/Day",
+        "motivation": "Collective influence",
+        "characteristics": "Mass hypnosis, collective control",
+        "planetaryInfluence": [
+          "SA",
+          "ME"
+        ],
+        "focus": "Social manipulation, occult networks",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R12",
+        "navamsaLord": "JU",
+        "sound": "Do",
+        "motivation": "Spiritual mystery",
+        "characteristics": "Mystical depth, spiritual serpent power",
+        "planetaryInfluence": [
+          "JU",
+          "ME"
+        ],
+        "focus": "Spiritual occultism, mystical practices",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      }
+    ]
+  },
+  {
+    "name": "Magha",
+    "code": "N10",
+    "number": 10,
+    "description": "The Mighty One - Nakshatra of ancestors, royalty, and throne room",
+    "rulingPlanet": "KE",
+    "rulingDeity": "Pitrus (Ancestors)",
+    "symbol": "Throne Room/Palanquin",
+    "animalSymbol": "Rat",
+    "yoni": "Rat (Male)",
+    "elementPanchamahabhuta": "Water",
+    "gana": "Rakshasa",
+    "gender": "Female",
+    "caste": "Shudra",
+    "nature": "Fierce/Ugra",
+    "quality": "Artha",
+    "bodyParts": [
+      "Nose",
+      "Lips",
+      "Chin"
+    ],
+    "rasiLord": "SU",
+    "startDegree": 120.0,
+    "endDegree": 133.333333,
+    "rasi": "LE",
+    "color": "Ivory/Cream",
+    "direction": "West",
+    "gunas": "Tamas-Tamas-Tamas",
+    "primaryMotivation": "Artha",
+    "temperament": "Regal, ancestral, traditional",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Ancestor worship",
+      "Ceremonies",
+      "Traditional activities",
+      "Authority matters",
+      "Coronations"
+    ],
+    "inauspiciousFor": [
+      "Lending money",
+      "Starting new ventures",
+      "Modern innovations"
+    ],
+    "specialCharacteristics": [
+      "Royal nature",
+      "Ancestral connection",
+      "Traditional power",
+      "Throne consciousness"
+    ],
+    "karmicLessons": [
+      "Humility in power",
+      "Ancestor respect",
+      "Traditional wisdom",
+      "Letting go of ego"
+    ],
+    "birthNakshatraTraits": [
+      "Regal",
+      "Traditional",
+      "Ancestrally connected",
+      "Proud",
+      "Dignified",
+      "Authoritative"
+    ],
+    "favorableActivities": [
+      "Ceremonies",
+      "Ancestor worship",
+      "Traditional rituals",
+      "Authority establishment"
+    ],
+    "unfavorableActivities": [
+      "Innovations",
+      "Lending",
+      "Democratic processes"
+    ],
+    "career": [
+      "Politics",
+      "History",
+      "Genealogy",
+      "Traditional arts",
+      "Royalty-related work"
+    ],
+    "compatibility": [
+      "N11",
+      "N18",
+      "N21"
+    ],
+    "healthIssues": [
+      "Heart",
+      "Back",
+      "Stomach",
+      "Issues from pride"
+    ],
+    "vedicReferences": "Pitrus extensively mentioned in Garuda Purana",
+    "keywords": [
+      "Royalty",
+      "Ancestors",
+      "Throne",
+      "Tradition",
+      "Authority"
+    ],
+    "represents": [
+      "Divine royalty",
+      "Ancestral power",
+      "Traditional authority",
+      "Throne of consciousness"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R01",
+        "navamsaLord": "MA",
+        "sound": "Ma",
+        "motivation": "Aggressive authority",
+        "characteristics": "Warrior king, active authority",
+        "planetaryInfluence": [
+          "MA",
+          "KE"
+        ],
+        "focus": "Military leadership, ancestral warrior energy",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R02",
+        "navamsaLord": "VE",
+        "sound": "Mi/Mee",
+        "motivation": "Material throne",
+        "characteristics": "Wealthy royalty, material prosperity",
+        "planetaryInfluence": [
+          "VE",
+          "KE"
+        ],
+        "focus": "Royal wealth, ancestral property",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R03",
+        "navamsaLord": "ME",
+        "sound": "Mu/Moo",
+        "motivation": "Intellectual authority",
+        "characteristics": "Scholarly royalty, administrative skills",
+        "planetaryInfluence": [
+          "ME",
+          "KE"
+        ],
+        "focus": "Royal administration, ancestral knowledge",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R04",
+        "navamsaLord": "MO",
+        "sound": "Me",
+        "motivation": "Emotional throne",
+        "characteristics": "Nurturing royalty, family lineage focus",
+        "planetaryInfluence": [
+          "MO",
+          "KE"
+        ],
+        "focus": "Family dynasty, emotional authority",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      }
+    ]
+  },
+  {
+    "name": "Purva Phalguni",
+    "code": "N11",
+    "number": 11,
+    "description": "The Former Reddish One - Nakshatra of pleasure, creativity, and procreation",
+    "rulingPlanet": "VE",
+    "rulingDeity": "Bhaga",
+    "symbol": "Front Legs of Bed/Hammock",
+    "animalSymbol": "Rat",
+    "yoni": "Rat (Female)",
+    "elementPanchamahabhuta": "Water",
+    "gana": "Manushya",
+    "gender": "Female",
+    "caste": "Brahmin",
+    "nature": "Fierce/Ugra",
+    "quality": "Kama",
+    "bodyParts": [
+      "Lips",
+      "Sexual organs"
+    ],
+    "rasiLord": "SU",
+    "startDegree": 133.333333,
+    "endDegree": 146.666667,
+    "rasi": "LE",
+    "color": "Light Brown",
+    "direction": "North",
+    "gunas": "Rajas-Rajas-Rajas",
+    "primaryMotivation": "Kama",
+    "temperament": "Pleasure-seeking, creative, procreative",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Marriage",
+      "Romance",
+      "Entertainment",
+      "Arts",
+      "Music",
+      "Pleasure",
+      "Celebrations"
+    ],
+    "inauspiciousFor": [
+      "Harsh actions",
+      "Renunciation",
+      "Spiritual austerity"
+    ],
+    "specialCharacteristics": [
+      "Creative pleasure",
+      "Procreative power",
+      "Relaxation",
+      "Good fortune"
+    ],
+    "karmicLessons": [
+      "Balancing pleasure and duty",
+      "Creative responsibility",
+      "Luxury moderation"
+    ],
+    "birthNakshatraTraits": [
+      "Pleasure-loving",
+      "Creative",
+      "Generous",
+      "Sociable",
+      "Artistic",
+      "Procreative"
+    ],
+    "favorableActivities": [
+      "Marriage",
+      "Romance",
+      "Arts",
+      "Entertainment",
+      "Celebrations",
+      "Rest"
+    ],
+    "unfavorableActivities": [
+      "Harsh work",
+      "Renunciation",
+      "Difficult tasks"
+    ],
+    "career": [
+      "Entertainment",
+      "Arts",
+      "Music",
+      "Hospitality",
+      "Event management",
+      "Creative fields"
+    ],
+    "compatibility": [
+      "N10",
+      "N12",
+      "N15"
+    ],
+    "healthIssues": [
+      "Heart",
+      "Back",
+      "Reproductive organs",
+      "Excess-related problems"
+    ],
+    "vedicReferences": "Bhaga is mentioned in Rig Veda as god of good fortune",
+    "keywords": [
+      "Pleasure",
+      "Creativity",
+      "Procreation",
+      "Fortune",
+      "Relaxation"
+    ],
+    "represents": [
+      "Divine pleasure",
+      "Creative joy",
+      "Procreative power",
+      "Good fortune"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R05",
+        "navamsaLord": "SU",
+        "sound": "Mo",
+        "motivation": "Creative authority",
+        "characteristics": "Royal creativity, authoritative pleasure, Vargottama",
+        "planetaryInfluence": [
+          "SU",
+          "VE"
+        ],
+        "focus": "Creative leadership, royal arts",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R06",
+        "navamsaLord": "ME",
+        "sound": "Ta/Taa",
+        "motivation": "Practical creativity",
+        "characteristics": "Detailed artistic work, service through arts",
+        "planetaryInfluence": [
+          "ME",
+          "VE"
+        ],
+        "focus": "Practical arts, analytical creativity",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R07",
+        "navamsaLord": "VE",
+        "sound": "Ti/Tee",
+        "motivation": "Harmonious pleasure",
+        "characteristics": "Maximum artistic expression, relationship focus, Vargottama",
+        "planetaryInfluence": [
+          "VE"
+        ],
+        "focus": "Artistic perfection, romantic fulfillment",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R08",
+        "navamsaLord": "MA",
+        "sound": "Tu/Too",
+        "motivation": "Intense pleasure",
+        "characteristics": "Deep creative intensity, passionate nature",
+        "planetaryInfluence": [
+          "MA",
+          "VE"
+        ],
+        "focus": "Passionate creativity, intense relationships",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      }
+    ]
+  },
+  {
+    "name": "Uttara Phalguni",
+    "code": "N12",
+    "number": 12,
+    "description": "The Latter Reddish One - Nakshatra of partnership, contracts, and patronage",
+    "rulingPlanet": "SU",
+    "rulingDeity": "Aryaman",
+    "symbol": "Back Legs of Bed/Hammock",
+    "animalSymbol": "Bull",
+    "yoni": "Bull (Male)",
+    "elementPanchamahabhuta": "Fire",
+    "gana": "Manushya",
+    "gender": "Female",
+    "caste": "Kshatriya",
+    "nature": "Fixed/Dhruva",
+    "quality": "Moksha",
+    "bodyParts": [
+      "Lips",
+      "Sexual organs"
+    ],
+    "rasiLord": "Sun/Mercury",
+    "startDegree": 146.666667,
+    "endDegree": 160.0,
+    "rasi": "Leo/Virgo",
+    "color": "Bright Blue",
+    "direction": "East",
+    "gunas": "Rajas-Rajas-Tamas",
+    "primaryMotivation": "Moksha",
+    "temperament": "Partnership-oriented, contractual, generous",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Marriage",
+      "Contracts",
+      "Partnerships",
+      "Permanent alliances",
+      "Patronage",
+      "Business deals"
+    ],
+    "inauspiciousFor": [
+      "Endings",
+      "Separation",
+      "Dishonesty"
+    ],
+    "specialCharacteristics": [
+      "Partnership power",
+      "Patronage",
+      "Contractual integrity",
+      "Friendship"
+    ],
+    "karmicLessons": [
+      "Partnership balance",
+      "Keeping commitments",
+      "Generous support",
+      "Lasting bonds"
+    ],
+    "birthNakshatraTraits": [
+      "Partnership-oriented",
+      "Generous",
+      "Friendly",
+      "Loyal",
+      "Supportive",
+      "Contractual"
+    ],
+    "favorableActivities": [
+      "Marriage",
+      "Contracts",
+      "Partnerships",
+      "Business alliances",
+      "Patronage"
+    ],
+    "unfavorableActivities": [
+      "Endings",
+      "Betrayal",
+      "Breaking commitments"
+    ],
+    "career": [
+      "Business partnerships",
+      "Contracts",
+      "Law",
+      "Patronage work",
+      "Marriage counseling"
+    ],
+    "compatibility": [
+      "N11",
+      "N13",
+      "N14"
+    ],
+    "healthIssues": [
+      "Heart",
+      "Intestines",
+      "Digestive system"
+    ],
+    "vedicReferences": "Aryaman mentioned in Rig Veda as god of contracts and partnerships",
+    "keywords": [
+      "Partnership",
+      "Contracts",
+      "Patronage",
+      "Friendship",
+      "Loyalty"
+    ],
+    "represents": [
+      "Divine partnership",
+      "Contractual integrity",
+      "Patronage",
+      "Lasting bonds"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R09",
+        "navamsaLord": "JU",
+        "sound": "Te/Tay",
+        "motivation": "Philosophical partnerships",
+        "characteristics": "Dharmic alliances, wisdom in contracts",
+        "planetaryInfluence": [
+          "JU",
+          "SU"
+        ],
+        "focus": "Spiritual partnerships, dharmic contracts",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R10",
+        "navamsaLord": "SA",
+        "sound": "To",
+        "motivation": "Practical partnerships",
+        "characteristics": "Business contracts, material alliances",
+        "planetaryInfluence": [
+          "SA",
+          "SU"
+        ],
+        "focus": "Business partnerships, practical agreements",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R11",
+        "navamsaLord": "SA",
+        "sound": "Pa",
+        "motivation": "Social alliances",
+        "characteristics": "Humanitarian partnerships, social contracts",
+        "planetaryInfluence": [
+          "SA",
+          "SU"
+        ],
+        "focus": "Social reform partnerships, collective agreements",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R12",
+        "navamsaLord": "JU",
+        "sound": "Pi/Pee",
+        "motivation": "Spiritual alliances",
+        "characteristics": "Compassionate partnerships, spiritual patronage",
+        "planetaryInfluence": [
+          "JU",
+          "SU"
+        ],
+        "focus": "Spiritual alliances, compassionate support",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      }
+    ]
+  },
+  {
+    "name": "Hasta",
+    "code": "N13",
+    "number": 13,
+    "description": "The Hand - Nakshatra of skill, dexterity, and manifestation",
+    "rulingPlanet": "MO",
+    "rulingDeity": "Savitar/Surya",
+    "symbol": "Hand/Palm/Fist",
+    "animalSymbol": "Buffalo",
+    "yoni": "Buffalo (Female)",
+    "elementPanchamahabhuta": "Air",
+    "gana": "Deva",
+    "gender": "Male",
+    "caste": "Vaishya",
+    "nature": "Light/Laghu",
+    "quality": "Moksha",
+    "bodyParts": [
+      "Hands",
+      "Fingers",
+      "Bowels"
+    ],
+    "rasiLord": "ME",
+    "startDegree": 160.0,
+    "endDegree": 173.333333,
+    "rasi": "VI",
+    "color": "Light Green",
+    "direction": "South",
+    "gunas": "Rajas-Tamas-Rajas",
+    "primaryMotivation": "Moksha",
+    "temperament": "Skillful, crafty, manifesting",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Crafts",
+      "Skills",
+      "Business",
+      "Trade",
+      "Learning",
+      "Arts",
+      "Starting ventures",
+      "Healing"
+    ],
+    "inauspiciousFor": [
+      "Harsh actions",
+      "Destructive acts"
+    ],
+    "specialCharacteristics": [
+      "Manifestation power",
+      "Skillful hands",
+      "Business acumen",
+      "Humorous nature"
+    ],
+    "karmicLessons": [
+      "Using skills for dharma",
+      "Honest dealings",
+      "Serving through craft"
+    ],
+    "birthNakshatraTraits": [
+      "Skillful",
+      "Humorous",
+      "Intelligent",
+      "Business-minded",
+      "Crafty",
+      "Dexterous"
+    ],
+    "favorableActivities": [
+      "Business",
+      "Crafts",
+      "Trade",
+      "Skills training",
+      "Healing arts",
+      "Making things"
+    ],
+    "unfavorableActivities": [
+      "Harsh actions",
+      "Dishonest dealings"
+    ],
+    "career": [
+      "Business",
+      "Crafts",
+      "Trading",
+      "Healing",
+      "Manufacturing",
+      "Arts and crafts"
+    ],
+    "compatibility": [
+      "N01",
+      "N04",
+      "N08"
+    ],
+    "healthIssues": [
+      "Hands",
+      "Arms",
+      "Intestines",
+      "Digestive issues"
+    ],
+    "vedicReferences": "Savitar mentioned in Rig Veda as stimulator and activator",
+    "keywords": [
+      "Skill",
+      "Manifestation",
+      "Hands",
+      "Business",
+      "Humor"
+    ],
+    "represents": [
+      "Divine skill",
+      "Manifestation power",
+      "Craftsmanship",
+      "Hand of God"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R01",
+        "navamsaLord": "MA",
+        "sound": "Pu/Poo",
+        "motivation": "Active manifestation",
+        "characteristics": "Energetic craftsmanship, pioneering skills",
+        "planetaryInfluence": [
+          "MA",
+          "MO"
+        ],
+        "focus": "Active creation, pioneering crafts",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R02",
+        "navamsaLord": "VE",
+        "sound": "Sha",
+        "motivation": "Material skill",
+        "characteristics": "Wealth through crafts, artistic skills",
+        "planetaryInfluence": [
+          "VE",
+          "MO"
+        ],
+        "focus": "Material creation, profitable skills",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R03",
+        "navamsaLord": "ME",
+        "sound": "Tha/Na",
+        "motivation": "Intellectual skill",
+        "characteristics": "Business skills, communication through craft",
+        "planetaryInfluence": [
+          "ME",
+          "MO"
+        ],
+        "focus": "Business acumen, trading skills",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R04",
+        "navamsaLord": "MO",
+        "sound": "Pe/Pay",
+        "motivation": "Emotional craft",
+        "characteristics": "Nurturing through craft, emotional skills, Vargottama",
+        "planetaryInfluence": [
+          "MO"
+        ],
+        "focus": "Caring craftsmanship, healing hands",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      }
+    ]
+  },
+  {
+    "name": "Chitra",
+    "code": "N14",
+    "number": 14,
+    "description": "The Bright One - Nakshatra of beauty, design, and architecture",
+    "rulingPlanet": "MA",
+    "rulingDeity": "Vishwakarma/Tvashtar",
+    "symbol": "Bright Jewel/Pearl",
+    "animalSymbol": "Tiger",
+    "yoni": "Tiger (Female)",
+    "elementPanchamahabhuta": "Fire",
+    "gana": "Rakshasa",
+    "gender": "Female",
+    "caste": "Servant",
+    "nature": "Tender/Soft/Mridu",
+    "quality": "Kama",
+    "bodyParts": [
+      "Forehead",
+      "Neck"
+    ],
+    "rasiLord": "Mercury/Venus",
+    "startDegree": 173.333333,
+    "endDegree": 186.666667,
+    "rasi": "Virgo/Libra",
+    "color": "Variegated/Black",
+    "direction": "West",
+    "gunas": "Tamas-Tamas-Tamas",
+    "primaryMotivation": "Kama",
+    "temperament": "Creative, aesthetic, designing",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Architecture",
+      "Design",
+      "Jewelry",
+      "Cosmetics",
+      "Beauty",
+      "Arts",
+      "Construction"
+    ],
+    "inauspiciousFor": [
+      "Marriage sometimes",
+      "Harsh actions"
+    ],
+    "specialCharacteristics": [
+      "Divine architect",
+      "Aesthetic perfection",
+      "Magical charm",
+      "Beautiful appearance"
+    ],
+    "karmicLessons": [
+      "Inner vs outer beauty",
+      "Substance over style",
+      "Ego from beauty"
+    ],
+    "birthNakshatraTraits": [
+      "Beautiful",
+      "Creative",
+      "Designer",
+      "Magnetic",
+      "Perfectionist",
+      "Charismatic"
+    ],
+    "favorableActivities": [
+      "Design",
+      "Architecture",
+      "Beauty treatments",
+      "Arts",
+      "Jewelry making",
+      "Fashion"
+    ],
+    "unfavorableActivities": [
+      "Destructive acts",
+      "Harsh actions"
+    ],
+    "career": [
+      "Architecture",
+      "Design",
+      "Fashion",
+      "Jewelry",
+      "Cosmetics",
+      "Arts",
+      "Photography"
+    ],
+    "compatibility": [
+      "N04",
+      "N13",
+      "N16"
+    ],
+    "healthIssues": [
+      "Forehead",
+      "Kidney",
+      "Reproductive organs"
+    ],
+    "vedicReferences": "Vishwakarma praised in Rig Veda as divine architect",
+    "keywords": [
+      "Beauty",
+      "Design",
+      "Architecture",
+      "Charm",
+      "Perfection"
+    ],
+    "represents": [
+      "Divine architect",
+      "Creative beauty",
+      "Perfect design",
+      "Cosmic jewel"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R05",
+        "navamsaLord": "SU",
+        "sound": "Pe/Pay",
+        "motivation": "Authoritative creation",
+        "characteristics": "Leadership in design, authoritative beauty",
+        "planetaryInfluence": [
+          "SU",
+          "MA"
+        ],
+        "focus": "Royal architecture, authoritative aesthetics",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R06",
+        "navamsaLord": "ME",
+        "sound": "Po",
+        "motivation": "Perfectionist design",
+        "characteristics": "Detailed perfection, analytical beauty, Vargottama",
+        "planetaryInfluence": [
+          "ME",
+          "MA"
+        ],
+        "focus": "Perfect design, meticulous beauty",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R07",
+        "navamsaLord": "VE",
+        "sound": "Ra",
+        "motivation": "Harmonious beauty",
+        "characteristics": "Maximum aesthetic expression, balanced design, Vargottama",
+        "planetaryInfluence": [
+          "VE",
+          "MA"
+        ],
+        "focus": "Artistic perfection, relationship beauty",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R08",
+        "navamsaLord": "MA",
+        "sound": "Ri/Ree",
+        "motivation": "Intense beauty",
+        "characteristics": "Deep aesthetic intensity, transformative design, Mars Vargottama",
+        "planetaryInfluence": [
+          "MA"
+        ],
+        "focus": "Intense beauty, occult design",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      }
+    ]
+  },
+  {
+    "name": "Swati",
+    "code": "N15",
+    "number": 15,
+    "description": "The Independent One - Nakshatra of independence, trade, and wind",
+    "rulingPlanet": "RA",
+    "rulingDeity": "Vayu",
+    "symbol": "Coral/Sword blade moving in the wind",
+    "animalSymbol": "Buffalo",
+    "yoni": "Buffalo (Male)",
+    "elementPanchamahabhuta": "Fire",
+    "gana": "Deva",
+    "gender": "Female",
+    "caste": "Butcher",
+    "nature": "Movable/Chara",
+    "quality": "Artha",
+    "bodyParts": [
+      "Chest",
+      "Breasts",
+      "Kidneys"
+    ],
+    "rasiLord": "VE",
+    "startDegree": 186.666667,
+    "endDegree": 200.0,
+    "rasi": "LI",
+    "color": "Black",
+    "direction": "Northwest",
+    "gunas": "Tamas-Rajas-Sattva",
+    "primaryMotivation": "Artha",
+    "temperament": "Independent, flexible, trade-oriented",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Trade",
+      "Business",
+      "Travel",
+      "Independence",
+      "Flexible activities",
+      "Wind-related work"
+    ],
+    "inauspiciousFor": [
+      "Fixed activities",
+      "Permanence",
+      "Commitment"
+    ],
+    "specialCharacteristics": [
+      "Extreme independence",
+      "Flexibility",
+      "Trade mastery",
+      "Wandering nature"
+    ],
+    "karmicLessons": [
+      "Balancing independence with relationship",
+      "Commitment issues",
+      "Grounding"
+    ],
+    "birthNakshatraTraits": [
+      "Independent",
+      "Flexible",
+      "Trader",
+      "Diplomatic",
+      "Wanderer",
+      "Self-made"
+    ],
+    "favorableActivities": [
+      "Trade",
+      "Business",
+      "Travel",
+      "Flexible work",
+      "Independence seeking"
+    ],
+    "unfavorableActivities": [
+      "Marriage in some traditions",
+      "Fixed commitments",
+      "Rigid structures"
+    ],
+    "career": [
+      "Trade",
+      "Business",
+      "Diplomacy",
+      "Aviation",
+      "Wind energy",
+      "Import-export"
+    ],
+    "compatibility": [
+      "N07",
+      "N13",
+      "N24"
+    ],
+    "healthIssues": [
+      "Heart",
+      "Kidneys",
+      "Bladder",
+      "Respiratory"
+    ],
+    "vedicReferences": "Vayu extensively mentioned in Vedas as wind god and prana",
+    "keywords": [
+      "Independence",
+      "Trade",
+      "Wind",
+      "Flexibility",
+      "Self-made"
+    ],
+    "represents": [
+      "Divine wind",
+      "Independence principle",
+      "Trade energy",
+      "Flexible movement"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R09",
+        "navamsaLord": "JU",
+        "sound": "Ru/Roo",
+        "motivation": "Philosophical independence",
+        "characteristics": "Dharmic trade, ethical business",
+        "planetaryInfluence": [
+          "JU",
+          "RA"
+        ],
+        "focus": "Ethical commerce, philosophical freedom",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R10",
+        "navamsaLord": "SA",
+        "sound": "Re/Ray",
+        "motivation": "Material independence",
+        "characteristics": "Business success, material self-sufficiency",
+        "planetaryInfluence": [
+          "SA",
+          "RA"
+        ],
+        "focus": "Business empire, material freedom",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R11",
+        "navamsaLord": "SA",
+        "sound": "Ro",
+        "motivation": "Social independence",
+        "characteristics": "Humanitarian trade, social reform through business",
+        "planetaryInfluence": [
+          "SA",
+          "RA"
+        ],
+        "focus": "Social freedom, collective trade",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R12",
+        "navamsaLord": "JU",
+        "sound": "Ta/Taa",
+        "motivation": "Spiritual independence",
+        "characteristics": "Spiritual freedom, compassionate trade",
+        "planetaryInfluence": [
+          "JU",
+          "RA"
+        ],
+        "focus": "Spiritual liberation, mystical commerce",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      }
+    ]
+  },
+  {
+    "name": "Vishakha",
+    "code": "N16",
+    "number": 16,
+    "description": "The Forked Branch - Nakshatra of goal achievement, determination, and transformation",
+    "rulingPlanet": "JU",
+    "rulingDeity": "Indra-Agni",
+    "symbol": "Triumphal archway/Forked branch",
+    "animalSymbol": "Tiger",
+    "yoni": "Tiger (Male)",
+    "elementPanchamahabhuta": "Fire",
+    "gana": "Rakshasa",
+    "gender": "Female",
+    "caste": "Mleccha",
+    "nature": "Mixed/Mishra",
+    "quality": "Dharma",
+    "bodyParts": [
+      "Arms",
+      "Breasts"
+    ],
+    "rasiLord": "Venus/Jupiter",
+    "startDegree": 200.0,
+    "endDegree": 213.333333,
+    "rasi": "Libra/Scorpio",
+    "color": "Golden",
+    "direction": "East",
+    "gunas": "Tamas-Rajas-Tamas",
+    "primaryMotivation": "Dharma",
+    "temperament": "Goal-oriented, determined, transformative",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Goal achievement",
+      "Determined actions",
+      "Transformation",
+      "Competition",
+      "Marriage"
+    ],
+    "inauspiciousFor": [
+      "Peace-seeking",
+      "Rest",
+      "Gentle activities"
+    ],
+    "specialCharacteristics": [
+      "Dual nature",
+      "Goal achievement",
+      "Jealous tendencies",
+      "Transformation power"
+    ],
+    "karmicLessons": [
+      "Controlling jealousy",
+      "Single-minded focus",
+      "Ethical goal pursuit"
+    ],
+    "birthNakshatraTraits": [
+      "Goal-oriented",
+      "Determined",
+      "Jealous",
+      "Transformative",
+      "Ambitious",
+      "Powerful"
+    ],
+    "favorableActivities": [
+      "Goal setting",
+      "Competition",
+      "Achievement activities",
+      "Marriage",
+      "Transformation"
+    ],
+    "unfavorableActivities": [
+      "Rest",
+      "Gentle approaches",
+      "Contentment"
+    ],
+    "career": [
+      "Goal-oriented fields",
+      "Politics",
+      "Law",
+      "Military",
+      "Competitive fields"
+    ],
+    "compatibility": [
+      "N14",
+      "N17",
+      "N20"
+    ],
+    "healthIssues": [
+      "Arms",
+      "Breasts",
+      "Reproductive organs",
+      "Accidents from ambition"
+    ],
+    "vedicReferences": "Indra-Agni combination mentioned in Rig Veda for power and purification",
+    "keywords": [
+      "Goals",
+      "Determination",
+      "Achievement",
+      "Transformation",
+      "Jealousy"
+    ],
+    "represents": [
+      "Divine determination",
+      "Goal achievement",
+      "Transformative power",
+      "Victory arch"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R01",
+        "navamsaLord": "MA",
+        "sound": "Ti/Tee",
+        "motivation": "Aggressive achievement",
+        "characteristics": "Warrior-like determination, aggressive goals",
+        "planetaryInfluence": [
+          "MA",
+          "JU"
+        ],
+        "focus": "Militant achievement, aggressive dharma",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R02",
+        "navamsaLord": "VE",
+        "sound": "Tu/Too",
+        "motivation": "Material goals",
+        "characteristics": "Wealth accumulation, material determination",
+        "planetaryInfluence": [
+          "VE",
+          "JU"
+        ],
+        "focus": "Material success, luxury achievement",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R03",
+        "navamsaLord": "ME",
+        "sound": "Te/Tay",
+        "motivation": "Intellectual goals",
+        "characteristics": "Mental determination, communication goals",
+        "planetaryInfluence": [
+          "ME",
+          "JU"
+        ],
+        "focus": "Intellectual achievement, business success",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R04",
+        "navamsaLord": "MO",
+        "sound": "To",
+        "motivation": "Emotional transformation",
+        "characteristics": "Deep emotional goals, nurturing through achievement",
+        "planetaryInfluence": [
+          "MO",
+          "JU"
+        ],
+        "focus": "Emotional depth, family achievement",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      }
+    ]
+  },
+  {
+    "name": "Anuradha",
+    "code": "N17",
+    "number": 17,
+    "description": "Following Radha - Nakshatra of friendship, devotion, and balance",
+    "rulingPlanet": "SA",
+    "rulingDeity": "Mitra",
+    "symbol": "Lotus flower/Triumphant gateway",
+    "animalSymbol": "Deer/Hare",
+    "yoni": "Deer (Female)",
+    "elementPanchamahabhuta": "Fire",
+    "gana": "Deva",
+    "gender": "Male",
+    "caste": "Shudra",
+    "nature": "Tender/Soft/Mridu",
+    "quality": "Dharma",
+    "bodyParts": [
+      "Breast",
+      "Stomach",
+      "Womb"
+    ],
+    "rasiLord": "MA",
+    "startDegree": 213.333333,
+    "endDegree": 226.666667,
+    "rasi": "SC",
+    "color": "Reddish Brown",
+    "direction": "South",
+    "gunas": "Tamas-Rajas-Rajas",
+    "primaryMotivation": "Dharma",
+    "temperament": "Friendly, devotional, balanced",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Friendship",
+      "Devotion",
+      "Group activities",
+      "Cooperation",
+      "Travel",
+      "Balance seeking"
+    ],
+    "inauspiciousFor": [
+      "Confrontation",
+      "Independence",
+      "Solo activities"
+    ],
+    "specialCharacteristics": [
+      "Friendship power",
+      "Devotion",
+      "Balance in extremes",
+      "Organization"
+    ],
+    "karmicLessons": [
+      "True friendship",
+      "Devotion without attachment",
+      "Balance and cooperation"
+    ],
+    "birthNakshatraTraits": [
+      "Friendly",
+      "Devoted",
+      "Balanced",
+      "Organized",
+      "Cooperative",
+      "Loyal"
+    ],
+    "favorableActivities": [
+      "Friendship building",
+      "Group work",
+      "Devotional practices",
+      "Travel",
+      "Cooperation"
+    ],
+    "unfavorableActivities": [
+      "Confrontations",
+      "Selfish acts",
+      "Isolation"
+    ],
+    "career": [
+      "Counseling",
+      "Organization",
+      "HR",
+      "Social work",
+      "Devotional services",
+      "Diplomacy"
+    ],
+    "compatibility": [
+      "N02",
+      "N10",
+      "N18"
+    ],
+    "healthIssues": [
+      "Breast",
+      "Stomach",
+      "Reproductive organs",
+      "Depression"
+    ],
+    "vedicReferences": "Mitra mentioned in Rig Veda as god of friendship and contracts",
+    "keywords": [
+      "Friendship",
+      "Devotion",
+      "Balance",
+      "Cooperation",
+      "Loyalty"
+    ],
+    "represents": [
+      "Divine friendship",
+      "Devotional love",
+      "Balanced approach",
+      "Cooperative spirit"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R05",
+        "navamsaLord": "SU",
+        "sound": "Na",
+        "motivation": "Leadership in devotion",
+        "characteristics": "Authoritative friendship, leadership devotion",
+        "planetaryInfluence": [
+          "SU",
+          "SA"
+        ],
+        "focus": "Spiritual leadership, dharmic authority",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R06",
+        "navamsaLord": "ME",
+        "sound": "Ni/Nee",
+        "motivation": "Service devotion",
+        "characteristics": "Practical friendship, analytical devotion",
+        "planetaryInfluence": [
+          "ME",
+          "SA"
+        ],
+        "focus": "Service orientation, practical cooperation",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R07",
+        "navamsaLord": "VE",
+        "sound": "Nu/Noo",
+        "motivation": "Harmonious devotion",
+        "characteristics": "Balanced friendship, harmonious cooperation",
+        "planetaryInfluence": [
+          "VE",
+          "SA"
+        ],
+        "focus": "Relationship balance, diplomatic friendship",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R08",
+        "navamsaLord": "MA",
+        "sound": "Ne/Nay",
+        "motivation": "Deep devotion",
+        "characteristics": "Intense friendship, deep devotional transformation, Vargottama",
+        "planetaryInfluence": [
+          "MA",
+          "SA"
+        ],
+        "focus": "Occult friendships, transformative devotion",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      }
+    ]
+  },
+  {
+    "name": "Jyeshtha",
+    "code": "N18",
+    "number": 18,
+    "description": "The Eldest - Nakshatra of seniority, protection, and occult power",
+    "rulingPlanet": "ME",
+    "rulingDeity": "Y26",
+    "symbol": "Circular amulet/Earring/Umbrella",
+    "animalSymbol": "Deer/Hare",
+    "yoni": "Deer (Male)",
+    "elementPanchamahabhuta": "Air",
+    "gana": "Rakshasa",
+    "gender": "Female",
+    "caste": "Servant",
+    "nature": "Sharp/Tikshna",
+    "quality": "Artha",
+    "bodyParts": [
+      "Neck",
+      "Right side"
+    ],
+    "rasiLord": "MA",
+    "startDegree": 226.666667,
+    "endDegree": 240.0,
+    "rasi": "SC",
+    "color": "Cream",
+    "direction": "West",
+    "gunas": "Rajas-Sattva-Rajas",
+    "primaryMotivation": "Artha",
+    "temperament": "Protective, senior, occult",
+    "muhurtaRating": 6,
+    "auspiciousFor": [
+      "Protection",
+      "Occult practices",
+      "Seniority matters",
+      "责任 taking",
+      "Mystical work"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Trust-based activities"
+    ],
+    "specialCharacteristics": [
+      "Protective power",
+      "Occult mastery",
+      "Seniority complex",
+      "Hidden knowledge"
+    ],
+    "karmicLessons": [
+      "Responsible protection",
+      "Humility despite seniority",
+      "Using occult power wisely"
+    ],
+    "birthNakshatraTraits": [
+      "Protective",
+      "Senior mentality",
+      "Occult knowledge",
+      "Responsible",
+      "Powerful",
+      "Suspicious"
+    ],
+    "favorableActivities": [
+      "Protection work",
+      "Occult practices",
+      "Taking responsibility",
+      "Mystical studies"
+    ],
+    "unfavorableActivities": [
+      "Marriage",
+      "Trust activities",
+      "Celebrations"
+    ],
+    "career": [
+      "Occult sciences",
+      "Protection services",
+      "Military",
+      "Intelligence",
+      "Psychology",
+      "Research"
+    ],
+    "compatibility": [
+      "N09",
+      "N17",
+      "N19"
+    ],
+    "healthIssues": [
+      "Neck",
+      "Arms",
+      "Stomach",
+      "Neurological problems"
+    ],
+    "vedicReferences": "Indra praised in Rig Veda as king of gods and protector",
+    "keywords": [
+      "Protection",
+      "Seniority",
+      "Occult",
+      "Power",
+      "Responsibility"
+    ],
+    "represents": [
+      "Divine protection",
+      "Elder wisdom",
+      "Occult mastery",
+      "Responsible power"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R09",
+        "navamsaLord": "JU",
+        "sound": "No",
+        "motivation": "Philosophical protection",
+        "characteristics": "Wisdom-based protection, dharmic occultism",
+        "planetaryInfluence": [
+          "JU",
+          "ME"
+        ],
+        "focus": "Spiritual protection, philosophical occultism",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R10",
+        "navamsaLord": "SA",
+        "sound": "Ya",
+        "motivation": "Responsible protection",
+        "characteristics": "Disciplined occultism, material protection",
+        "planetaryInfluence": [
+          "SA",
+          "ME"
+        ],
+        "focus": "Organizational power, structured occultism",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R11",
+        "navamsaLord": "SA",
+        "sound": "Yi/Yee",
+        "motivation": "Social protection",
+        "characteristics": "Humanitarian occultism, collective protection",
+        "planetaryInfluence": [
+          "SA",
+          "ME"
+        ],
+        "focus": "Social responsibility, scientific occultism",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R12",
+        "navamsaLord": "JU",
+        "sound": "Yu/Yoo",
+        "motivation": "Mystical protection",
+        "characteristics": "Deep mystical power, compassionate protection",
+        "planetaryInfluence": [
+          "JU",
+          "ME"
+        ],
+        "focus": "Mystical mastery, spiritual protection",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      }
+    ]
+  },
+  {
+    "name": "Mula",
+    "code": "N19",
+    "number": 19,
+    "description": "The Root - Nakshatra of investigation, destruction, and foundations",
+    "rulingPlanet": "KE",
+    "rulingDeity": "Nirriti/Alakshmi",
+    "symbol": "Tied roots/Lion's tail",
+    "animalSymbol": "Dog",
+    "yoni": "Dog (Male)",
+    "elementPanchamahabhuta": "Air",
+    "gana": "Rakshasa",
+    "gender": "Neutral",
+    "caste": "Butcher",
+    "nature": "Sharp/Tikshna",
+    "quality": "Kama",
+    "bodyParts": [
+      "Feet",
+      "Left side of trunk"
+    ],
+    "rasiLord": "JU",
+    "startDegree": 240.0,
+    "endDegree": 253.333333,
+    "rasi": "SA",
+    "color": "Brown Yellow",
+    "direction": "Southwest",
+    "gunas": "Tamas-Rajas-Tamas",
+    "primaryMotivation": "Kama",
+    "temperament": "Investigative, destructive, foundational",
+    "muhurtaRating": 4,
+    "auspiciousFor": [
+      "Investigation",
+      "Root cause analysis",
+      "Destruction of negativity",
+      "Deep research",
+      "Occult work"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Starting ventures",
+      "Trust-based activities"
+    ],
+    "specialCharacteristics": [
+      "Root investigation",
+      "Destruction for transformation",
+      "Occult power",
+      "Breaking foundations"
+    ],
+    "karmicLessons": [
+      "Understanding roots",
+      "Constructive destruction",
+      "Truth seeking",
+      "Accepting chaos"
+    ],
+    "birthNakshatraTraits": [
+      "Investigative",
+      "Destructive tendency",
+      "Truth seeker",
+      "Occult knowledge",
+      "Root-focused",
+      "Philosophical"
+    ],
+    "favorableActivities": [
+      "Research",
+      "Investigation",
+      "Occult practices",
+      "Root cause analysis",
+      "Destruction of old"
+    ],
+    "unfavorableActivities": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Building new",
+      "Trust activities"
+    ],
+    "career": [
+      "Research",
+      "Investigation",
+      "Occult sciences",
+      "Philosophy",
+      "Root cause analysis",
+      "Destruction services"
+    ],
+    "compatibility": [
+      "N09",
+      "N18",
+      "N27"
+    ],
+    "healthIssues": [
+      "Feet",
+      "Hips",
+      "Thighs",
+      "Liver problems"
+    ],
+    "vedicReferences": "Nirriti mentioned in Atharva Veda as goddess of destruction and misfortune",
+    "keywords": [
+      "Roots",
+      "Investigation",
+      "Destruction",
+      "Truth",
+      "Foundation"
+    ],
+    "represents": [
+      "Divine destruction",
+      "Root investigation",
+      "Foundation breaking",
+      "Ultimate truth"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R01",
+        "navamsaLord": "MA",
+        "sound": "Ye/Yay",
+        "motivation": "Aggressive investigation",
+        "characteristics": "Warrior-like destruction, active research",
+        "planetaryInfluence": [
+          "MA",
+          "KE"
+        ],
+        "focus": "Militant truth-seeking, aggressive destruction",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R02",
+        "navamsaLord": "VE",
+        "sound": "Yo",
+        "motivation": "Material roots",
+        "characteristics": "Material investigation, wealth destruction for renewal",
+        "planetaryInfluence": [
+          "VE",
+          "KE"
+        ],
+        "focus": "Material foundations, financial roots",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R03",
+        "navamsaLord": "ME",
+        "sound": "Bha",
+        "motivation": "Intellectual investigation",
+        "characteristics": "Mental research, intellectual destruction",
+        "planetaryInfluence": [
+          "ME",
+          "KE"
+        ],
+        "focus": "Intellectual roots, knowledge investigation",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R04",
+        "navamsaLord": "MO",
+        "sound": "Bhi/Bhee",
+        "motivation": "Emotional roots",
+        "characteristics": "Emotional investigation, family roots exploration",
+        "planetaryInfluence": [
+          "MO",
+          "KE"
+        ],
+        "focus": "Emotional foundations, ancestral roots",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      }
+    ]
+  },
+  {
+    "name": "Purva Ashadha",
+    "code": "N20",
+    "number": 20,
+    "description": "The Invincible One - Nakshatra of invincibility, purification, and early victory",
+    "rulingPlanet": "VE",
+    "rulingDeity": "Apas (Water deity)",
+    "symbol": "Elephant tusk/Fan/Winnowing basket",
+    "animalSymbol": "Monkey",
+    "yoni": "Monkey (Male)",
+    "elementPanchamahabhuta": "Air",
+    "gana": "Manushya",
+    "gender": "Female",
+    "caste": "Brahmin",
+    "nature": "Fierce/Ugra",
+    "quality": "Moksha",
+    "bodyParts": [
+      "Thighs",
+      "Back"
+    ],
+    "rasiLord": "JU",
+    "startDegree": 253.333333,
+    "endDegree": 266.666667,
+    "rasi": "SA",
+    "color": "Black",
+    "direction": "East",
+    "gunas": "Rajas-Sattva-Tamas",
+    "primaryMotivation": "Moksha",
+    "temperament": "Invincible, purifying, victorious",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Purification",
+      "Battles",
+      "Competitions",
+      "Water rituals",
+      "Invincibility practices",
+      "Victory seeking"
+    ],
+    "inauspiciousFor": [
+      "Humility required",
+      "Defeat acceptance",
+      "Compromise"
+    ],
+    "specialCharacteristics": [
+      "Invincible nature",
+      "Purification power",
+      "Early victory",
+      "Water connection"
+    ],
+    "karmicLessons": [
+      "Humble victory",
+      "Purification purpose",
+      "Proper use of invincibility"
+    ],
+    "birthNakshatraTraits": [
+      "Invincible",
+      "Purifier",
+      "Victorious",
+      "Proud",
+      "Undefeated mindset",
+      "Water-loving"
+    ],
+    "favorableActivities": [
+      "Competitions",
+      "Battles",
+      "Purification rituals",
+      "Water ceremonies",
+      "Victory pursuits"
+    ],
+    "unfavorableActivities": [
+      "Compromise",
+      "Acceptance of defeat",
+      "Humility displays"
+    ],
+    "career": [
+      "Competition-based fields",
+      "Purification services",
+      "Water-related work",
+      "Victory-oriented professions"
+    ],
+    "compatibility": [
+      "N02",
+      "N16",
+      "N21"
+    ],
+    "healthIssues": [
+      "Thighs",
+      "Hips",
+      "Lungs",
+      "Water-related issues"
+    ],
+    "vedicReferences": "Apas mentioned in Rig Veda as purifying water deities",
+    "keywords": [
+      "Invincibility",
+      "Purification",
+      "Victory",
+      "Water",
+      "Pride"
+    ],
+    "represents": [
+      "Divine invincibility",
+      "Purification energy",
+      "Early victory",
+      "Water power"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R05",
+        "navamsaLord": "SU",
+        "sound": "Bhu/Bhoo",
+        "motivation": "Authoritative victory",
+        "characteristics": "Royal invincibility, authoritative purification",
+        "planetaryInfluence": [
+          "SU",
+          "VE"
+        ],
+        "focus": "Leadership victory, royal pride",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R06",
+        "navamsaLord": "ME",
+        "sound": "Dha",
+        "motivation": "Practical victory",
+        "characteristics": "Analytical invincibility, practical purification",
+        "planetaryInfluence": [
+          "ME",
+          "VE"
+        ],
+        "focus": "Strategic victory, practical approach",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R07",
+        "navamsaLord": "VE",
+        "sound": "Bha (Pha)",
+        "motivation": "Harmonious victory",
+        "characteristics": "Diplomatic invincibility, aesthetic purification, Vargottama",
+        "planetaryInfluence": [
+          "VE"
+        ],
+        "focus": "Artistic victory, beautiful pride",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R08",
+        "navamsaLord": "MA",
+        "sound": "Dha",
+        "motivation": "Deep victory",
+        "characteristics": "Intense invincibility, transformative purification",
+        "planetaryInfluence": [
+          "MA",
+          "VE"
+        ],
+        "focus": "Occult victory, deep transformation",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      }
+    ]
+  },
+  {
+    "name": "Uttara Ashadha",
+    "code": "N21",
+    "number": 21,
+    "description": "The Universal Star - Nakshatra of final victory, permanence, and righteousness",
+    "rulingPlanet": "SU",
+    "rulingDeity": "Vishvadevas (Universal Gods)",
+    "symbol": "Elephant tusk/Planks of bed",
+    "animalSymbol": "Mongoose",
+    "yoni": "Mongoose (Male)",
+    "elementPanchamahabhuta": "Air",
+    "gana": "Manushya",
+    "gender": "Female",
+    "caste": "Kshatriya",
+    "nature": "Fixed/Dhruva",
+    "quality": "Moksha",
+    "bodyParts": [
+      "Thighs",
+      "Waist"
+    ],
+    "rasiLord": "Jupiter/Saturn",
+    "startDegree": 266.666667,
+    "endDegree": 280.0,
+    "rasi": "Sagittarius/Capricorn",
+    "color": "Copper",
+    "direction": "North",
+    "gunas": "Rajas-Sattva-Rajas",
+    "primaryMotivation": "Moksha",
+    "temperament": "Righteous, permanent, victorious",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "All permanent activities",
+      "Marriage",
+      "Construction",
+      "Righteous acts",
+      "Final victory",
+      "Establishing foundations"
+    ],
+    "inauspiciousFor": [
+      "Unethical acts",
+      "Temporary things",
+      "Dishonesty"
+    ],
+    "specialCharacteristics": [
+      "Final victory",
+      "Permanent establishment",
+      "Righteousness",
+      "Universal support"
+    ],
+    "karmicLessons": [
+      "Permanent righteousness",
+      "Universal thinking",
+      "Final victory through dharma"
+    ],
+    "birthNakshatraTraits": [
+      "Righteous",
+      "Victorious",
+      "Permanent minded",
+      "Universal thinking",
+      "Ethical",
+      "Established"
+    ],
+    "favorableActivities": [
+      "Marriage",
+      "Construction",
+      "Permanent establishments",
+      "Righteous acts",
+      "Foundation laying"
+    ],
+    "unfavorableActivities": [
+      "Unethical acts",
+      "Temporary ventures",
+      "Dishonest dealings"
+    ],
+    "career": [
+      "Leadership",
+      "Government",
+      "Law",
+      "Ethics",
+      "Permanent establishments",
+      "Universal causes"
+    ],
+    "compatibility": [
+      "N03",
+      "N10",
+      "N20"
+    ],
+    "healthIssues": [
+      "Thighs",
+      "Stomach",
+      "Skin problems"
+    ],
+    "vedicReferences": "Vishvadevas mentioned in Vedas as universal gods ensuring cosmic order",
+    "keywords": [
+      "Final victory",
+      "Permanence",
+      "Righteousness",
+      "Universal",
+      "Establishment"
+    ],
+    "represents": [
+      "Divine righteousness",
+      "Final victory",
+      "Permanent establishment",
+      "Universal order"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R09",
+        "navamsaLord": "JU",
+        "sound": "Bhe/Bay",
+        "motivation": "Philosophical victory",
+        "characteristics": "Dharmic permanence, philosophical righteousness, Vargottama",
+        "planetaryInfluence": [
+          "JU",
+          "SU"
+        ],
+        "focus": "Spiritual victory, dharmic establishment",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R10",
+        "navamsaLord": "SA",
+        "sound": "Bo",
+        "motivation": "Material establishment",
+        "characteristics": "Practical permanence, material righteousness, Vargottama",
+        "planetaryInfluence": [
+          "SA",
+          "SU"
+        ],
+        "focus": "Material victory, practical establishment",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R11",
+        "navamsaLord": "SA",
+        "sound": "Ja",
+        "motivation": "Universal establishment",
+        "characteristics": "Humanitarian permanence, social righteousness",
+        "planetaryInfluence": [
+          "SA",
+          "SU"
+        ],
+        "focus": "Social victory, collective establishment",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R12",
+        "navamsaLord": "JU",
+        "sound": "Ji/Jee",
+        "motivation": "Spiritual establishment",
+        "characteristics": "Mystical permanence, spiritual righteousness",
+        "planetaryInfluence": [
+          "JU",
+          "SU"
+        ],
+        "focus": "Spiritual victory, liberation establishment",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      }
+    ]
+  },
+  {
+    "name": "Shravana",
+    "code": "N22",
+    "number": 22,
+    "description": "The Listener - Nakshatra of learning, listening, and knowledge transmission",
+    "rulingPlanet": "MO",
+    "rulingDeity": "Vishnu",
+    "symbol": "Ear/Three footprints",
+    "animalSymbol": "Monkey",
+    "yoni": "Monkey (Female)",
+    "elementPanchamahabhuta": "Air",
+    "gana": "Deva",
+    "gender": "Male",
+    "caste": "Mleccha",
+    "nature": "Movable/Chara",
+    "quality": "Artha",
+    "bodyParts": [
+      "Ears",
+      "Sexual organs"
+    ],
+    "rasiLord": "SA",
+    "startDegree": 280.0,
+    "endDegree": 293.333333,
+    "rasi": "CP",
+    "color": "Light Blue",
+    "direction": "Northwest",
+    "gunas": "Rajas-Tamas-Sattva",
+    "primaryMotivation": "Artha",
+    "temperament": "Listening, learning, knowledge-seeking",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Learning",
+      "Education",
+      "Listening",
+      "Knowledge transmission",
+      "Healing through sound",
+      "Music"
+    ],
+    "inauspiciousFor": [
+      "Ignoring advice",
+      "Not listening",
+      "Harsh speech"
+    ],
+    "specialCharacteristics": [
+      "Listening power",
+      "Knowledge absorption",
+      "Learning ability",
+      "Fame through learning"
+    ],
+    "karmicLessons": [
+      "True listening",
+      "Knowledge application",
+      "Teaching what learned"
+    ],
+    "birthNakshatraTraits": [
+      "Good listener",
+      "Learner",
+      "Knowledge seeker",
+      "Famous potential",
+      "Wise",
+      "Well-connected"
+    ],
+    "favorableActivities": [
+      "Education",
+      "Learning",
+      "Teaching",
+      "Music",
+      "Healing with sound",
+      "Knowledge transmission"
+    ],
+    "unfavorableActivities": [
+      "Ignoring others",
+      "Refusing to learn",
+      "Arrogance"
+    ],
+    "career": [
+      "Education",
+      "Teaching",
+      "Music",
+      "Media",
+      "Communication",
+      "Healing arts"
+    ],
+    "compatibility": [
+      "N04",
+      "N13",
+      "N26"
+    ],
+    "healthIssues": [
+      "Ears",
+      "Skin problems",
+      "Lymphatic system"
+    ],
+    "vedicReferences": "Vishnu's three steps mentioned in Rig Veda as cosmic principle",
+    "keywords": [
+      "Listening",
+      "Learning",
+      "Knowledge",
+      "Fame",
+      "Connection"
+    ],
+    "represents": [
+      "Divine listening",
+      "Knowledge transmission",
+      "Learning power",
+      "Cosmic connectivity"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R01",
+        "navamsaLord": "MA",
+        "sound": "Ju/Joo/Khi",
+        "motivation": "Active learning",
+        "characteristics": "Aggressive learning, pioneering knowledge",
+        "planetaryInfluence": [
+          "MA",
+          "MO"
+        ],
+        "focus": "Action-oriented learning, quick absorption",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R02",
+        "navamsaLord": "VE",
+        "sound": "Khe/Khay",
+        "motivation": "Material knowledge",
+        "characteristics": "Practical learning, wealth through knowledge",
+        "planetaryInfluence": [
+          "VE",
+          "MO"
+        ],
+        "focus": "Material education, practical wisdom",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R03",
+        "navamsaLord": "ME",
+        "sound": "Kho",
+        "motivation": "Intellectual learning",
+        "characteristics": "Communication learning, versatile knowledge",
+        "planetaryInfluence": [
+          "ME",
+          "MO"
+        ],
+        "focus": "Communication skills, intellectual versatility",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R04",
+        "navamsaLord": "MO",
+        "sound": "Ga",
+        "motivation": "Emotional learning",
+        "characteristics": "Intuitive learning, nurturing knowledge, Moon Vargottama",
+        "planetaryInfluence": [
+          "MO"
+        ],
+        "focus": "Emotional intelligence, intuitive wisdom",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      }
+    ]
+  },
+  {
+    "name": "Dhanishta",
+    "code": "N23",
+    "number": 23,
+    "description": "The Wealthiest - Nakshatra of music, rhythm, and prosperity",
+    "rulingPlanet": "MA",
+    "rulingDeity": "Eight Vasus",
+    "symbol": "Drum/Flute",
+    "animalSymbol": "Lion",
+    "yoni": "Lion (Female)",
+    "elementPanchamahabhuta": "Ether",
+    "gana": "Rakshasa",
+    "gender": "Female",
+    "caste": "Servant",
+    "nature": "Movable/Chara",
+    "quality": "Dharma",
+    "bodyParts": [
+      "Back of body"
+    ],
+    "rasiLord": "Saturn/Jupiter",
+    "startDegree": 293.333333,
+    "endDegree": 306.666667,
+    "rasi": "Capricorn/Aquarius",
+    "color": "Silver Grey",
+    "direction": "Northeast",
+    "gunas": "Tamas-Rajas-Sattva",
+    "primaryMotivation": "Dharma",
+    "temperament": "Musical, rhythmic, prosperous",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Music",
+      "Dance",
+      "Wealth activities",
+      "Group activities",
+      "Rhythm-based work",
+      "Real estate"
+    ],
+    "inauspiciousFor": [
+      "Marriage sometimes",
+      "Solo activities",
+      "Fixed activities"
+    ],
+    "specialCharacteristics": [
+      "Musical talent",
+      "Wealth accumulation",
+      "Group coordination",
+      "Rhythm mastery"
+    ],
+    "karmicLessons": [
+      "Using wealth wisely",
+      "Sharing prosperity",
+      "Rhythm in life"
+    ],
+    "birthNakshatraTraits": [
+      "Musical",
+      "Wealthy",
+      "Group-oriented",
+      "Rhythmic",
+      "Charitable",
+      "Fame-seeking"
+    ],
+    "favorableActivities": [
+      "Music",
+      "Dance",
+      "Wealth activities",
+      "Group work",
+      "Real estate",
+      "Celebration"
+    ],
+    "unfavorableActivities": [
+      "Solo ventures",
+      "Selfish acts",
+      "Marriage in some traditions"
+    ],
+    "career": [
+      "Music",
+      "Dance",
+      "Real estate",
+      "Wealth management",
+      "Group coordination",
+      "Entertainment"
+    ],
+    "compatibility": [
+      "N05",
+      "N14",
+      "N15"
+    ],
+    "healthIssues": [
+      "Back problems",
+      "Joint issues",
+      "Blood pressure"
+    ],
+    "vedicReferences": "Eight Vasus mentioned in Rig Veda as elemental deities of prosperity",
+    "keywords": [
+      "Music",
+      "Wealth",
+      "Rhythm",
+      "Group",
+      "Prosperity"
+    ],
+    "represents": [
+      "Divine music",
+      "Wealth principle",
+      "Rhythmic order",
+      "Group harmony"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R05",
+        "navamsaLord": "SU",
+        "sound": "Ga",
+        "motivation": "Leadership prosperity",
+        "characteristics": "Royal wealth, authoritative music",
+        "planetaryInfluence": [
+          "SU",
+          "MA"
+        ],
+        "focus": "Leadership through music, royal prosperity",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R06",
+        "navamsaLord": "ME",
+        "sound": "Gi/Gee",
+        "motivation": "Practical prosperity",
+        "characteristics": "Analytical music, practical wealth",
+        "planetaryInfluence": [
+          "ME",
+          "MA"
+        ],
+        "focus": "Business prosperity, practical rhythm",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R07",
+        "navamsaLord": "VE",
+        "sound": "Gu/Goo",
+        "motivation": "Harmonious prosperity",
+        "characteristics": "Artistic music, beautiful wealth",
+        "planetaryInfluence": [
+          "VE",
+          "MA"
+        ],
+        "focus": "Artistic prosperity, aesthetic wealth",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R08",
+        "navamsaLord": "MA",
+        "sound": "Ge/Gay",
+        "motivation": "Deep prosperity",
+        "characteristics": "Occult music, transformative wealth, Mars Vargottama",
+        "planetaryInfluence": [
+          "MA"
+        ],
+        "focus": "Hidden wealth, mystical rhythm",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      }
+    ]
+  },
+  {
+    "name": "Shatabhisha",
+    "code": "N24",
+    "number": 24,
+    "description": "The Hundred Healers - Nakshatra of healing, mystery, and solitude",
+    "rulingPlanet": "RA",
+    "rulingDeity": "Varuna",
+    "symbol": "Empty circle/Hundred flowers/Hundred physicians",
+    "animalSymbol": "Horse",
+    "yoni": "Horse (Female)",
+    "elementPanchamahabhuta": "Ether",
+    "gana": "Rakshasa",
+    "gender": "Neutral",
+    "caste": "Butcher",
+    "nature": "Movable/Chara",
+    "quality": "Dharma",
+    "bodyParts": [
+      "Right thigh",
+      "Jaw"
+    ],
+    "rasiLord": "SA",
+    "startDegree": 306.666667,
+    "endDegree": 320.0,
+    "rasi": "AQ",
+    "color": "Blue Green",
+    "direction": "South",
+    "gunas": "Tamas-Tamas-Sattva",
+    "primaryMotivation": "Dharma",
+    "temperament": "Healing, mysterious, solitary",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Healing",
+      "Medicine",
+      "Mystery work",
+      "Solitude",
+      "Research",
+      "Occult sciences",
+      "Technology"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Social activities",
+      "Group work",
+      "Public ceremonies"
+    ],
+    "specialCharacteristics": [
+      "Hundred healers",
+      "Mystery power",
+      "Solitary nature",
+      "Hidden knowledge"
+    ],
+    "karmicLessons": [
+      "Healing without attachment",
+      "Accepting solitude",
+      "Revealing mysteries",
+      "Using technology wisely"
+    ],
+    "birthNakshatraTraits": [
+      "Healer",
+      "Mysterious",
+      "Solitary",
+      "Technological",
+      "Secretive",
+      "Independent"
+    ],
+    "favorableActivities": [
+      "Healing",
+      "Research",
+      "Mystery investigation",
+      "Technology",
+      "Solitary work",
+      "Occult practices"
+    ],
+    "unfavorableActivities": [
+      "Marriage",
+      "Social gatherings",
+      "Group activities",
+      "Public events"
+    ],
+    "career": [
+      "Medicine",
+      "Healing",
+      "Research",
+      "Technology",
+      "Occult sciences",
+      "Mystery investigation"
+    ],
+    "compatibility": [
+      "N06",
+      "N15",
+      "N25"
+    ],
+    "healthIssues": [
+      "Jaw",
+      "Teeth",
+      "Thighs",
+      "Mysterious diseases"
+    ],
+    "vedicReferences": "Varuna mentioned in Rig Veda as god of cosmic order and hidden truth",
+    "keywords": [
+      "Healing",
+      "Mystery",
+      "Solitude",
+      "Technology",
+      "Secrets"
+    ],
+    "represents": [
+      "Divine healing",
+      "Mystery power",
+      "Solitary wisdom",
+      "Hidden knowledge"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R09",
+        "navamsaLord": "JU",
+        "sound": "Go",
+        "motivation": "Philosophical healing",
+        "characteristics": "Wisdom healing, philosophical mystery",
+        "planetaryInfluence": [
+          "JU",
+          "RA"
+        ],
+        "focus": "Spiritual healing, dharmic secrets",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R10",
+        "navamsaLord": "SA",
+        "sound": "Sa",
+        "motivation": "Practical healing",
+        "characteristics": "Systematic healing, organized mystery",
+        "planetaryInfluence": [
+          "SA",
+          "RA"
+        ],
+        "focus": "Medical systems, structured research",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R11",
+        "navamsaLord": "SA",
+        "sound": "Si/See",
+        "motivation": "Technological healing",
+        "characteristics": "Scientific healing, technological mystery, Vargottama",
+        "planetaryInfluence": [
+          "SA",
+          "RA"
+        ],
+        "focus": "Technology medicine, scientific secrets",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R12",
+        "navamsaLord": "JU",
+        "sound": "Su/Soo",
+        "motivation": "Mystical healing",
+        "characteristics": "Spiritual healing, mystical mystery",
+        "planetaryInfluence": [
+          "JU",
+          "RA"
+        ],
+        "focus": "Spiritual medicine, mystical secrets",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      }
+    ]
+  },
+  {
+    "name": "Purva Bhadrapada",
+    "code": "N25",
+    "number": 25,
+    "description": "The Scorching Pair - Nakshatra of transformation, intensity, and spiritual fire",
+    "rulingPlanet": "JU",
+    "rulingDeity": "Aja Ekapada (One-footed goat)",
+    "symbol": "Front legs of funeral cot/Two-faced man/Sword",
+    "animalSymbol": "Lion",
+    "yoni": "Lion (Male)",
+    "elementPanchamahabhuta": "Ether",
+    "gana": "Manushya",
+    "gender": "Male",
+    "caste": "Brahmin",
+    "nature": "Fierce/Ugra",
+    "quality": "Artha",
+    "bodyParts": [
+      "Sides of legs",
+      "Left thigh"
+    ],
+    "rasiLord": "JU",
+    "startDegree": 320.0,
+    "endDegree": 333.333333,
+    "rasi": "Aquarius/Pisces",
+    "color": "Silver Grey",
+    "direction": "West",
+    "gunas": "Rajas-Sattva-Sattva",
+    "primaryMotivation": "Artha",
+    "temperament": "Intense, transformative, dual-natured",
+    "muhurtaRating": 6,
+    "auspiciousFor": [
+      "Spiritual transformation",
+      "Tantric practices",
+      "Intensity work",
+      "Burning karma",
+      "Occult studies"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Peace-seeking",
+      "Gentle activities",
+      "Worldly pleasures"
+    ],
+    "specialCharacteristics": [
+      "Dual nature",
+      "Spiritual fire",
+      "Extreme intensity",
+      "Transformation through burning"
+    ],
+    "karmicLessons": [
+      "Balancing extremes",
+      "Controlled intensity",
+      "Spiritual transformation",
+      "Material detachment"
+    ],
+    "birthNakshatraTraits": [
+      "Intense",
+      "Dual personality",
+      "Spiritual fire",
+      "Extremist",
+      "Transformative",
+      "Cynical"
+    ],
+    "favorableActivities": [
+      "Spiritual practices",
+      "Transformation work",
+      "Occult studies",
+      "Burning old karma",
+      "Intensity pursuits"
+    ],
+    "unfavorableActivities": [
+      "Marriage",
+      "Worldly pleasures",
+      "Peaceful activities",
+      "Material pursuits"
+    ],
+    "career": [
+      "Occult sciences",
+      "Spiritual teaching",
+      "Transformation work",
+      "Intense professions",
+      "Philosophy"
+    ],
+    "compatibility": [
+      "N06",
+      "N15",
+      "N24"
+    ],
+    "healthIssues": [
+      "Liver",
+      "Thighs",
+      "Feet",
+      "Mental stress from intensity"
+    ],
+    "vedicReferences": "Aja Ekapada mentioned in Vedas as fierce form of Shiva",
+    "keywords": [
+      "Intensity",
+      "Transformation",
+      "Duality",
+      "Spiritual fire",
+      "Extremes"
+    ],
+    "represents": [
+      "Divine intensity",
+      "Transformative fire",
+      "Dual nature",
+      "Spiritual burning"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R01",
+        "navamsaLord": "MA",
+        "sound": "Se/Say",
+        "motivation": "Aggressive transformation",
+        "characteristics": "Militant spirituality, aggressive intensity",
+        "planetaryInfluence": [
+          "MA",
+          "JU"
+        ],
+        "focus": "Warrior spirituality, active transformation",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R02",
+        "navamsaLord": "VE",
+        "sound": "So",
+        "motivation": "Material transformation",
+        "characteristics": "Wealth through intensity, material burning",
+        "planetaryInfluence": [
+          "VE",
+          "JU"
+        ],
+        "focus": "Material detachment, wealth transformation",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R03",
+        "navamsaLord": "ME",
+        "sound": "Da",
+        "motivation": "Intellectual transformation",
+        "characteristics": "Mental intensity, intellectual burning",
+        "planetaryInfluence": [
+          "ME",
+          "JU"
+        ],
+        "focus": "Mental transformation, intellectual extremes",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R04",
+        "navamsaLord": "MO",
+        "sound": "Di/Dee",
+        "motivation": "Emotional transformation",
+        "characteristics": "Emotional intensity, nurturing through fire",
+        "planetaryInfluence": [
+          "MO",
+          "JU"
+        ],
+        "focus": "Emotional depth, family transformation",
+        "startDegree": 0.0,
+        "endDegree": 3.3333333333333335
+      }
+    ]
+  },
+  {
+    "name": "Uttara Bhadrapada",
+    "code": "N26",
+    "number": 26,
+    "description": "The Warrior Star - Nakshatra of depth, wisdom, and kundalini power",
+    "rulingPlanet": "SA",
+    "rulingDeity": "Ahir Budhnya (Serpent of the depths)",
+    "symbol": "Back legs of funeral cot/Twin/Snake",
+    "animalSymbol": "Cow",
+    "yoni": "Cow (Female)",
+    "elementPanchamahabhuta": "Ether",
+    "gana": "Manushya",
+    "gender": "Male",
+    "caste": "Kshatriya",
+    "nature": "Fixed/Dhruva",
+    "quality": "Kama",
+    "bodyParts": [
+      "Ankles",
+      "Soles of feet"
+    ],
+    "rasiLord": "JU",
+    "startDegree": 333.333333,
+    "endDegree": 346.666667,
+    "rasi": "PI",
+    "color": "Purple",
+    "direction": "East",
+    "gunas": "Tamas-Sattva-Sattva",
+    "primaryMotivation": "Kama",
+    "temperament": "Deep, wise, kundalini-aware",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Spiritual depth",
+      "Kundalini practices",
+      "Wisdom seeking",
+      "Long-term planning",
+      "Foundation building"
+    ],
+    "inauspiciousFor": [
+      "Superficial activities",
+      "Quick gains",
+      "Material pursuits"
+    ],
+    "specialCharacteristics": [
+      "Deep wisdom",
+      "Kundalini power",
+      "Foundation strength",
+      "Cosmic depth"
+    ],
+    "karmicLessons": [
+      "Accessing depth",
+      "Kundalini awakening",
+      "Patient wisdom",
+      "Cosmic understanding"
+    ],
+    "birthNakshatraTraits": [
+      "Deep",
+      "Wise",
+      "Patient",
+      "Kundalini aware",
+      "Foundational",
+      "Mystical"
+    ],
+    "favorableActivities": [
+      "Spiritual depth work",
+      "Kundalini practices",
+      "Wisdom cultivation",
+      "Foundation laying",
+      "Long-term planning"
+    ],
+    "unfavorableActivities": [
+      "Superficial acts",
+      "Quick ventures",
+      "Material excess"
+    ],
+    "career": [
+      "Spiritual teaching",
+      "Yoga",
+      "Mysticism",
+      "Deep research",
+      "Foundation work",
+      "Wisdom professions"
+    ],
+    "compatibility": [
+      "N04",
+      "N13",
+      "N22"
+    ],
+    "healthIssues": [
+      "Feet",
+      "Ankles",
+      "Lymphatic system",
+      "Deep-seated ailments"
+    ],
+    "vedicReferences": "Ahir Budhnya mentioned as serpent of cosmic depths in Vedas",
+    "keywords": [
+      "Depth",
+      "Wisdom",
+      "Kundalini",
+      "Foundation",
+      "Cosmic"
+    ],
+    "represents": [
+      "Divine depth",
+      "Cosmic wisdom",
+      "Kundalini energy",
+      "Foundation principle"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R05",
+        "navamsaLord": "SU",
+        "sound": "Du/Doo",
+        "motivation": "Authoritative depth",
+        "characteristics": "Leadership wisdom, authoritative spirituality",
+        "planetaryInfluence": [
+          "SU",
+          "SA"
+        ],
+        "focus": "Spiritual authority, soul depth",
+        "startDegree": 3.3333333333333335,
+        "endDegree": 6.666666666666667
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R06",
+        "navamsaLord": "ME",
+        "sound": "Tha",
+        "motivation": "Practical wisdom",
+        "characteristics": "Analytical depth, practical spirituality",
+        "planetaryInfluence": [
+          "ME",
+          "SA"
+        ],
+        "focus": "Systematic wisdom, organized depth",
+        "startDegree": 6.666666666666667,
+        "endDegree": 10.0
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R07",
+        "navamsaLord": "VE",
+        "sound": "Jha/Jna",
+        "motivation": "Harmonious depth",
+        "characteristics": "Balanced wisdom, aesthetic spirituality",
+        "planetaryInfluence": [
+          "VE",
+          "SA"
+        ],
+        "focus": "Beautiful wisdom, harmonious depth",
+        "startDegree": 10.0,
+        "endDegree": 13.333333333333334
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R08",
+        "navamsaLord": "MA",
+        "sound": "Na",
+        "motivation": "Intense depth",
+        "characteristics": "Maximum depth, occult wisdom, transformative kundalini",
+        "planetaryInfluence": [
+          "MA",
+          "SA"
+        ],
+        "focus": "Occult mastery, deepest transformation",
+        "startDegree": 13.333333333333334,
+        "endDegree": 16.666666666666668
+      }
+    ]
+  },
+  {
+    "name": "Revati",
+    "code": "N27",
+    "number": 27,
+    "description": "The Wealthy - Final nakshatra of nourishment, completion, and safe journey",
+    "rulingPlanet": "ME",
+    "rulingDeity": "Pushan",
+    "symbol": "Fish/Drum/Pair of fish",
+    "animalSymbol": "Elephant",
+    "yoni": "Elephant (Female)",
+    "elementPanchamahabhuta": "Ether",
+    "gana": "Deva",
+    "gender": "Female",
+    "caste": "Shudra",
+    "nature": "Tender/Soft/Mridu",
+    "quality": "Moksha",
+    "bodyParts": [
+      "Feet",
+      "Ankles",
+      "Abdomen"
+    ],
+    "rasiLord": "JU",
+    "startDegree": 346.666667,
+    "endDegree": 360.0,
+    "rasi": "PI",
+    "color": "Brown",
+    "direction": "North",
+    "gunas": "Rajas-Sattva-Sattva",
+    "primaryMotivation": "Moksha",
+    "temperament": "Nourishing, completing, protective",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Travel",
+      "Completion",
+      "Nourishment",
+      "Protection",
+      "Endings",
+      "Safe journeys",
+      "Spiritual liberation"
+    ],
+    "inauspiciousFor": [
+      "Starting new ventures",
+      "Harsh actions",
+      "Aggressive activities"
+    ],
+    "specialCharacteristics": [
+      "Safe journey",
+      "Completion energy",
+      "Nourishment",
+      "Spiritual liberation"
+    ],
+    "karmicLessons": [
+      "Safe completion",
+      "Nourishing conclusion",
+      "Liberation path",
+      "Protective guidance"
+    ],
+    "birthNakshatraTraits": [
+      "Nourishing",
+      "Protective",
+      "Traveler",
+      "Complete",
+      "Spiritual",
+      "Wealthy"
+    ],
+    "favorableActivities": [
+      "Travel",
+      "Completion activities",
+      "Endings",
+      "Nourishment",
+      "Protection work",
+      "Spiritual practices"
+    ],
+    "unfavorableActivities": [
+      "Starting new",
+      "Aggressive actions",
+      "Harsh beginnings"
+    ],
+    "career": [
+      "Travel industry",
+      "Nourishment services",
+      "Protection services",
+      "Completion work",
+      "Spiritual guidance"
+    ],
+    "compatibility": [
+      "N01",
+      "N07",
+      "N13"
+    ],
+    "healthIssues": [
+      "Feet",
+      "Abdomen",
+      "Intestines",
+      "Travel-related ailments"
+    ],
+    "vedicReferences": "Pushan mentioned in Rig Veda as protector of travelers and nourisher",
+    "keywords": [
+      "Completion",
+      "Nourishment",
+      "Travel",
+      "Protection",
+      "Liberation"
+    ],
+    "represents": [
+      "Divine nourishment",
+      "Safe passage",
+      "Completion principle",
+      "Spiritual liberation"
+    ],
+    "padas": [
+      {
+        "padaNumber": 1,
+        "navamsaRasi": "R09",
+        "navamsaLord": "JU",
+        "sound": "De/Day",
+        "motivation": "Philosophical completion",
+        "characteristics": "Wisdom nourishment, dharmic journey",
+        "planetaryInfluence": [
+          "JU",
+          "ME"
+        ],
+        "focus": "Spiritual travel, philosophical completion",
+        "startDegree": 16.666666666666668,
+        "endDegree": 20.0
+      },
+      {
+        "padaNumber": 2,
+        "navamsaRasi": "R10",
+        "navamsaLord": "SA",
+        "sound": "Do",
+        "motivation": "Material completion",
+        "characteristics": "Practical nourishment, organized journey",
+        "planetaryInfluence": [
+          "SA",
+          "ME"
+        ],
+        "focus": "Material completion, practical travel",
+        "startDegree": 20.0,
+        "endDegree": 23.333333333333332
+      },
+      {
+        "padaNumber": 3,
+        "navamsaRasi": "R11",
+        "navamsaLord": "SA",
+        "sound": "Cha",
+        "motivation": "Universal completion",
+        "characteristics": "Humanitarian nourishment, collective journey",
+        "planetaryInfluence": [
+          "SA",
+          "ME"
+        ],
+        "focus": "Universal welfare, collective completion",
+        "startDegree": 23.333333333333332,
+        "endDegree": 26.666666666666668
+      },
+      {
+        "padaNumber": 4,
+        "navamsaRasi": "R12",
+        "navamsaLord": "JU",
+        "sound": "Chi/Chee",
+        "motivation": "Spiritual liberation",
+        "characteristics": "Maximum spiritual completion, liberation journey, Vargottama",
+        "planetaryInfluence": [
+          "JU",
+          "ME"
+        ],
+        "focus": "Final liberation, moksha completion",
+        "startDegree": 26.666666666666668,
+        "endDegree": 30.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,664 @@
+[
+  {
+    "name": "First House",
+    "code": "H01",
+    "number": 1,
+    "description": "The Ascendant (Lagna)",
+    "symbol": "I",
+    "elementPanchamahabhuta": "Fire",
+    "trikona": "Dharma",
+    "kendra": true,
+    "upachaya": false,
+    "dusthana": false,
+    "marakaHouse": false,
+    "trikonaHouse": true,
+    "artha": false,
+    "kama": false,
+    "moksha": false,
+    "dharma": true,
+    "naturalRuler": "MA",
+    "naturalSign": "R01",
+    "bodyParts": [
+      "Head",
+      "Face",
+      "Brain",
+      "Physical Appearance"
+    ],
+    "nature": "Movable",
+    "signification": "Self",
+    "keywords": [
+      "Self",
+      "Personality",
+      "Physical Body",
+      "Appearance",
+      "Vitality",
+      "Life Path",
+      "Beginning"
+    ],
+    "represents": [
+      "Physical body",
+      "Appearance",
+      "Personality",
+      "Self",
+      "Vitality",
+      "Life direction",
+      "Birth",
+      "Head",
+      "Overall health",
+      "Longevity"
+    ],
+    "karakas": [
+      "SU"
+    ],
+    "aspects": [
+      "H07"
+    ]
+  },
+  {
+    "name": "Second House",
+    "code": "H02",
+    "number": 2,
+    "description": "House of Wealth",
+    "symbol": "II",
+    "elementPanchamahabhuta": "EA",
+    "trikona": "Artha",
+    "kendra": false,
+    "upachaya": false,
+    "dusthana": false,
+    "marakaHouse": true,
+    "trikonaHouse": false,
+    "artha": true,
+    "kama": false,
+    "moksha": false,
+    "dharma": false,
+    "naturalRuler": "VE",
+    "naturalSign": "R02",
+    "bodyParts": [
+      "Face",
+      "Right Eye",
+      "Throat",
+      "Neck",
+      "Vocal Cords"
+    ],
+    "nature": "Fixed",
+    "signification": "Wealth",
+    "keywords": [
+      "Wealth",
+      "Family",
+      "Speech",
+      "Food",
+      "Values",
+      "Possessions",
+      "Face"
+    ],
+    "represents": [
+      "Wealth",
+      "Family",
+      "Speech",
+      "Food",
+      "Accumulated wealth",
+      "Values",
+      "Early childhood",
+      "Face",
+      "Right eye",
+      "Throat",
+      "Material possessions"
+    ],
+    "karakas": [
+      "JU"
+    ],
+    "aspects": [
+      "H08"
+    ]
+  },
+  {
+    "name": "Third House",
+    "code": "H03",
+    "number": 3,
+    "description": "House of Courage",
+    "symbol": "III",
+    "elementPanchamahabhuta": "Air",
+    "trikona": "Kama",
+    "kendra": false,
+    "upachaya": true,
+    "dusthana": false,
+    "marakaHouse": false,
+    "trikonaHouse": false,
+    "artha": false,
+    "kama": true,
+    "moksha": false,
+    "dharma": false,
+    "naturalRuler": "ME",
+    "naturalSign": "R03",
+    "bodyParts": [
+      "Shoulders",
+      "Arms",
+      "Hands",
+      "Right Ear"
+    ],
+    "nature": "Dual",
+    "signification": "Courage",
+    "keywords": [
+      "Siblings",
+      "Courage",
+      "Communication",
+      "Short Travels",
+      "Skills",
+      "Efforts",
+      "Initiative"
+    ],
+    "represents": [
+      "Siblings",
+      "Courage",
+      "Communication",
+      "Short travels",
+      "Skills",
+      "Hobbies",
+      "Neighbors",
+      "Efforts",
+      "Initiative",
+      "Right ear",
+      "Hands"
+    ],
+    "karakas": [
+      "MA"
+    ],
+    "aspects": [
+      "H09"
+    ]
+  },
+  {
+    "name": "Fourth House",
+    "code": "H04",
+    "number": 4,
+    "description": "House of Mother and Happiness",
+    "symbol": "IV",
+    "elementPanchamahabhuta": "Water",
+    "trikona": "Moksha",
+    "kendra": true,
+    "upachaya": false,
+    "dusthana": false,
+    "marakaHouse": false,
+    "trikonaHouse": false,
+    "artha": false,
+    "kama": false,
+    "moksha": true,
+    "dharma": false,
+    "naturalRuler": "MO",
+    "naturalSign": "R04",
+    "bodyParts": [
+      "Chest",
+      "Heart",
+      "Lungs",
+      "Breasts"
+    ],
+    "nature": "Movable",
+    "signification": "Happiness",
+    "keywords": [
+      "Mother",
+      "Home",
+      "Happiness",
+      "Property",
+      "Vehicles",
+      "Education",
+      "Emotions"
+    ],
+    "represents": [
+      "Mother",
+      "Home",
+      "Property",
+      "Vehicles",
+      "Happiness",
+      "Comforts",
+      "Education",
+      "Land",
+      "Heart",
+      "Chest",
+      "Inner peace"
+    ],
+    "karakas": [
+      "MO"
+    ],
+    "aspects": [
+      "H10"
+    ]
+  },
+  {
+    "name": "Fifth House",
+    "code": "H05",
+    "number": 5,
+    "description": "House of Children and Intelligence",
+    "symbol": "V",
+    "elementPanchamahabhuta": "Fire",
+    "trikona": "Dharma",
+    "kendra": false,
+    "upachaya": false,
+    "dusthana": false,
+    "marakaHouse": false,
+    "trikonaHouse": true,
+    "artha": false,
+    "kama": false,
+    "moksha": false,
+    "dharma": true,
+    "naturalRuler": "SU",
+    "naturalSign": "R05",
+    "bodyParts": [
+      "Upper Abdomen",
+      "Stomach",
+      "Heart"
+    ],
+    "nature": "Fixed",
+    "signification": "Intelligence",
+    "keywords": [
+      "Children",
+      "Intelligence",
+      "Creativity",
+      "Romance",
+      "Speculation",
+      "Education",
+      "Purva Punya"
+    ],
+    "represents": [
+      "Children",
+      "Intelligence",
+      "Creativity",
+      "Romance",
+      "Past life credit",
+      "Education",
+      "Speculation",
+      "Entertainment",
+      "Mantras",
+      "Stomach"
+    ],
+    "karakas": [
+      "JU"
+    ],
+    "aspects": [
+      "H11"
+    ]
+  },
+  {
+    "name": "Sixth House",
+    "code": "H06",
+    "number": 6,
+    "description": "House of Enemies and Disease",
+    "symbol": "VI",
+    "elementPanchamahabhuta": "EA",
+    "trikona": "Artha",
+    "kendra": false,
+    "upachaya": true,
+    "dusthana": true,
+    "marakaHouse": false,
+    "trikonaHouse": false,
+    "artha": true,
+    "kama": false,
+    "moksha": false,
+    "dharma": false,
+    "naturalRuler": "ME",
+    "naturalSign": "R06",
+    "bodyParts": [
+      "Intestines",
+      "Lower Abdomen",
+      "Digestive System"
+    ],
+    "nature": "Dual",
+    "signification": "Service",
+    "keywords": [
+      "Disease",
+      "Enemies",
+      "Service",
+      "Debt",
+      "Obstacles",
+      "Competition",
+      "Maternal Uncle"
+    ],
+    "represents": [
+      "Disease",
+      "Enemies",
+      "Debts",
+      "Service",
+      "Obstacles",
+      "Maternal uncle",
+      "Competitors",
+      "Litigation",
+      "Daily work",
+      "Intestines"
+    ],
+    "karakas": [
+      "MA",
+      "SA"
+    ],
+    "aspects": [
+      "H12"
+    ]
+  },
+  {
+    "name": "Seventh House",
+    "code": "H07",
+    "number": 7,
+    "description": "House of Partnership and Marriage",
+    "symbol": "VII",
+    "elementPanchamahabhuta": "Air",
+    "trikona": "Kama",
+    "kendra": true,
+    "upachaya": false,
+    "dusthana": false,
+    "marakaHouse": true,
+    "trikonaHouse": false,
+    "artha": false,
+    "kama": true,
+    "moksha": false,
+    "dharma": false,
+    "naturalRuler": "VE",
+    "naturalSign": "R07",
+    "bodyParts": [
+      "Kidneys",
+      "Lower Back",
+      "Reproductive System"
+    ],
+    "nature": "Movable",
+    "signification": "Partnership",
+    "keywords": [
+      "Marriage",
+      "Partnership",
+      "Spouse",
+      "Business",
+      "Trade",
+      "Travel",
+      "Death"
+    ],
+    "represents": [
+      "Marriage",
+      "Spouse",
+      "Partnership",
+      "Business partners",
+      "Trade",
+      "Foreign travel",
+      "Death",
+      "Kidneys",
+      "Sexual organs"
+    ],
+    "karakas": [
+      "VE"
+    ],
+    "aspects": [
+      "H01"
+    ]
+  },
+  {
+    "name": "Eighth House",
+    "code": "H08",
+    "number": 8,
+    "description": "House of Longevity and Mysteries",
+    "symbol": "VIII",
+    "elementPanchamahabhuta": "Water",
+    "trikona": "Moksha",
+    "kendra": false,
+    "upachaya": false,
+    "dusthana": true,
+    "marakaHouse": false,
+    "trikonaHouse": false,
+    "artha": false,
+    "kama": false,
+    "moksha": true,
+    "dharma": false,
+    "naturalRuler": "MA",
+    "naturalSign": "R08",
+    "bodyParts": [
+      "Reproductive Organs",
+      "Anus",
+      "Excretory System"
+    ],
+    "nature": "Fixed",
+    "signification": "Longevity",
+    "keywords": [
+      "Longevity",
+      "Death",
+      "Transformation",
+      "Occult",
+      "Inheritance",
+      "Secrets",
+      "Research"
+    ],
+    "represents": [
+      "Longevity",
+      "Death",
+      "Transformation",
+      "Occult",
+      "Hidden things",
+      "Inheritance",
+      "Unearned wealth",
+      "Research",
+      "Mystery",
+      "Chronic diseases"
+    ],
+    "karakas": [
+      "SA"
+    ],
+    "aspects": [
+      "H02"
+    ]
+  },
+  {
+    "name": "Ninth House",
+    "code": "H09",
+    "number": 9,
+    "description": "House of Fortune and Dharma",
+    "symbol": "IX",
+    "elementPanchamahabhuta": "Fire",
+    "trikona": "Dharma",
+    "kendra": false,
+    "upachaya": false,
+    "dusthana": false,
+    "marakaHouse": false,
+    "trikonaHouse": true,
+    "artha": false,
+    "kama": false,
+    "moksha": false,
+    "dharma": true,
+    "naturalRuler": "JU",
+    "naturalSign": "R09",
+    "bodyParts": [
+      "Thighs",
+      "Hips",
+      "Legs"
+    ],
+    "nature": "Dual",
+    "signification": "Fortune",
+    "keywords": [
+      "Fortune",
+      "Father",
+      "Guru",
+      "Religion",
+      "Long Travel",
+      "Higher Learning",
+      "Dharma"
+    ],
+    "represents": [
+      "Fortune",
+      "Father",
+      "Guru",
+      "Religion",
+      "Philosophy",
+      "Higher education",
+      "Long travels",
+      "Pilgrimage",
+      "Dharma",
+      "Luck",
+      "Grandchildren"
+    ],
+    "karakas": [
+      "JU",
+      "SU"
+    ],
+    "aspects": [
+      "H03"
+    ]
+  },
+  {
+    "name": "Tenth House",
+    "code": "H10",
+    "number": 10,
+    "description": "House of Career and Status",
+    "symbol": "X",
+    "elementPanchamahabhuta": "EA",
+    "trikona": "Artha",
+    "kendra": true,
+    "upachaya": true,
+    "dusthana": false,
+    "marakaHouse": false,
+    "trikonaHouse": false,
+    "artha": true,
+    "kama": false,
+    "moksha": false,
+    "dharma": false,
+    "naturalRuler": "SA",
+    "naturalSign": "R10",
+    "bodyParts": [
+      "Knees",
+      "Bones",
+      "Joints"
+    ],
+    "nature": "Movable",
+    "signification": "Career",
+    "keywords": [
+      "Career",
+      "Status",
+      "Profession",
+      "Authority",
+      "Fame",
+      "Action",
+      "Government"
+    ],
+    "represents": [
+      "Career",
+      "Profession",
+      "Status",
+      "Fame",
+      "Authority",
+      "Government",
+      "Father",
+      "Karma",
+      "Knees",
+      "Reputation"
+    ],
+    "karakas": [
+      "SU",
+      "ME",
+      "JU",
+      "SA"
+    ],
+    "aspects": [
+      "H04"
+    ]
+  },
+  {
+    "name": "Eleventh House",
+    "code": "H11",
+    "number": 11,
+    "description": "House of Gains and Desires",
+    "symbol": "XI",
+    "elementPanchamahabhuta": "Air",
+    "trikona": "Kama",
+    "kendra": false,
+    "upachaya": true,
+    "dusthana": false,
+    "marakaHouse": false,
+    "trikonaHouse": false,
+    "artha": false,
+    "kama": true,
+    "moksha": false,
+    "dharma": false,
+    "naturalRuler": "SA",
+    "naturalSign": "R11",
+    "bodyParts": [
+      "Ankles",
+      "Calves",
+      "Left Ear"
+    ],
+    "nature": "Fixed",
+    "signification": "Gains",
+    "keywords": [
+      "Gains",
+      "Income",
+      "Friends",
+      "Desires",
+      "Elder Siblings",
+      "Fulfillment",
+      "Community"
+    ],
+    "represents": [
+      "Gains",
+      "Income",
+      "Friends",
+      "Elder siblings",
+      "Desires",
+      "Fulfillment",
+      "Community",
+      "Social groups",
+      "Left ear",
+      "Ankles"
+    ],
+    "karakas": [
+      "JU"
+    ],
+    "aspects": [
+      "H05"
+    ]
+  },
+  {
+    "name": "Twelfth House",
+    "code": "H12",
+    "number": 12,
+    "description": "House of Loss and Liberation",
+    "symbol": "XII",
+    "elementPanchamahabhuta": "Water",
+    "trikona": "Moksha",
+    "kendra": false,
+    "upachaya": false,
+    "dusthana": true,
+    "marakaHouse": false,
+    "trikonaHouse": false,
+    "artha": false,
+    "kama": false,
+    "moksha": true,
+    "dharma": false,
+    "naturalRuler": "JU",
+    "naturalSign": "R12",
+    "bodyParts": [
+      "Feet",
+      "Left Eye",
+      "Lymphatic System"
+    ],
+    "nature": "Dual",
+    "signification": "Liberation",
+    "keywords": [
+      "Loss",
+      "Expenses",
+      "Liberation",
+      "Foreign",
+      "Isolation",
+      "Spirituality",
+      "Bed Pleasures"
+    ],
+    "represents": [
+      "Loss",
+      "Expenses",
+      "Liberation",
+      "Moksha",
+      "Foreign lands",
+      "Isolation",
+      "Spirituality",
+      "Bed pleasures",
+      "Feet",
+      "Left eye",
+      "Hospitals"
+    ],
+    "karakas": [
+      "SA"
+    ],
+    "aspects": [
+      "H06"
+    ]
+  }
+]

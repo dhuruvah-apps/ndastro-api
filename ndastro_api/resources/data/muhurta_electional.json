@@ -1,0 +1,1401 @@
+{
+  "system": {
+    "name": "Muhurta - Vedic Electional Astrology",
+    "description": "Science of selecting auspicious timing for important life events",
+    "sanskritName": "Muhurta Shastra",
+    "purpose": "Choose optimal time for activities to ensure success and minimize obstacles",
+    "importance": "Right timing can make average chart successful; wrong timing can ruin good chart",
+    "principle": "Time has quality - each moment has unique energy suitable for specific activities",
+    "scope": "Marriage, business, travel, surgery, education, property, naming, all important events",
+    "vedicReferences": "Muhurta Chintamani, Brihat Samhita, Muhurta Ganapati, Muhurta Martanda",
+    "modernRelevance": "Critical for maximizing success in ventures, relationships, health procedures"
+  },
+  "muhurtaComponents": {
+    "name": "Five Components of Good Muhurta",
+    "description": "Panchanga - five limbs that create auspicious time",
+    "components": [
+      {
+        "component": "1. Vara (Weekday)",
+        "importance": "High - each day ruled by specific planet",
+        "days": [
+          {
+            "day": "Sunday (Ravivara)",
+            "lord": "SU",
+            "nature": "Authority, government, father, leadership",
+            "favorable": [
+              "Government jobs",
+              "Authority matters",
+              "Father-related",
+              "Leadership positions",
+              "Buying gold",
+              "Medical procedures (eyes, heart)"
+            ],
+            "unfavorable": [
+              "Marriage (ego clashes)",
+              "Partnership business",
+              "Submissive activities"
+            ],
+            "nakshatra": "Best with Sun's nakshatras (Krittika, Uttara Phalguni, Uttara Ashadha)"
+          },
+          {
+            "day": "Monday (Somavara)",
+            "lord": "MO",
+            "nature": "Peace, emotions, mother, mind, beauty, liquids",
+            "favorable": [
+              "Marriage",
+              "Peaceful negotiations",
+              "Water-related business",
+              "Emotional matters",
+              "Mother-related activities",
+              "Mental health treatment",
+              "Beauty/cosmetics business",
+              "House warming",
+              "Arts and creativity"
+            ],
+            "unfavorable": [
+              "Confrontations",
+              "Aggressive actions",
+              "Court cases"
+            ],
+            "nakshatra": "Best with Moon's nakshatras (Rohini, Hasta, Shravana)",
+            "speciality": "Excellent for marriage - peaceful and emotional"
+          },
+          {
+            "day": "Tuesday (Mangalavara)",
+            "lord": "MA",
+            "nature": "Courage, property, surgery, war, energy",
+            "favorable": [
+              "Property purchase",
+              "Land dealings",
+              "Surgery",
+              "Joining army/police",
+              "Sports",
+              "Competitive exams",
+              "Construction start",
+              "Demolition",
+              "Weapons purchase"
+            ],
+            "unfavorable": [
+              "Marriage (conflicts)",
+              "Partnership formation",
+              "Peace talks"
+            ],
+            "nakshatra": "Best with Mars nakshatras (Mrigashira, Chitra, Dhanishta)",
+            "caution": "Aggressive day - good for bold actions, bad for relationships"
+          },
+          {
+            "day": "Wednesday (Budhavara)",
+            "lord": "ME",
+            "nature": "Business, communication, education, travel",
+            "favorable": [
+              "Business start",
+              "Education admission",
+              "Exams",
+              "Communication ventures",
+              "Short travel",
+              "Buying vehicles",
+              "Learning new skills",
+              "Trade",
+              "Contracts signing",
+              "Technology ventures"
+            ],
+            "unfavorable": [
+              "Marriage in some traditions",
+              "Long-term commitments without planning"
+            ],
+            "nakshatra": "Best with Mercury nakshatras (Ashlesha, Jyeshtha, Revati)",
+            "speciality": "Best day for business and education"
+          },
+          {
+            "day": "Thursday (Guruvara)",
+            "lord": "JU",
+            "nature": "Wisdom, growth, children, education, expansion",
+            "favorable": [
+              "Marriage",
+              "Education",
+              "Starting school/college",
+              "Guru initiation",
+              "Religious ceremonies",
+              "Children naming",
+              "Wealth activities",
+              "Expansion projects",
+              "Teaching start",
+              "Spiritual activities"
+            ],
+            "unfavorable": [
+              "Unethical activities",
+              "Deception",
+              "Aggressive actions"
+            ],
+            "nakshatra": "Best with Jupiter nakshatras (Punarvasu, Vishakha, Purva Bhadrapada)",
+            "speciality": "Most auspicious day - Jupiter's blessings"
+          },
+          {
+            "day": "Friday (Shukravara)",
+            "lord": "VE",
+            "nature": "Love, beauty, luxury, arts, romance",
+            "favorable": [
+              "Marriage",
+              "Love matters",
+              "Arts ventures",
+              "Beauty business",
+              "Jewelry purchase",
+              "Entertainment industry",
+              "Fashion",
+              "Luxury items",
+              "Romance",
+              "Music/dance",
+              "Buying clothes"
+            ],
+            "unfavorable": [
+              "Surgery",
+              "Aggressive actions",
+              "Demolition"
+            ],
+            "nakshatra": "Best with Venus nakshatras (Bharani, Purva Phalguni, Purva Ashadha)",
+            "speciality": "Excellent for marriage and luxury matters"
+          },
+          {
+            "day": "Saturday (Shanivara)",
+            "lord": "SA",
+            "nature": "Hard work, labor, servants, iron, discipline",
+            "favorable": [
+              "Buying property (land)",
+              "Iron/steel business",
+              "Hard labor jobs",
+              "Servant hiring",
+              "Buying old items",
+              "Oil business",
+              "Starting penance/discipline",
+              "Long-term projects"
+            ],
+            "unfavorable": [
+              "Marriage",
+              "Happy occasions",
+              "Quick results needed",
+              "Children activities",
+              "Luxury purchases"
+            ],
+            "nakshatra": "Best with Saturn nakshatras (Pushya, Anuradha, Uttara Bhadrapada)",
+            "caution": "Day of delays and hard work - avoid for joyful events"
+          }
+        ]
+      },
+      {
+        "component": "2. Tithi (Lunar Day)",
+        "importance": "Very high - 30 tithis with different energies",
+        "calculation": "Based on Moon-Sun angle, changes ~19-26 hours",
+        "tithis": [
+          {
+            "number": 1,
+            "name": "Pratipada/Prathama",
+            "paksha": "Both",
+            "nature": "Beginning, mild",
+            "favorable": [
+              "Starting new ventures",
+              "Foundation laying",
+              "Purchases"
+            ],
+            "unfavorable": [
+              "Marriage (new beginning but uncertain)"
+            ],
+            "muhurta": "Good"
+          },
+          {
+            "number": 2,
+            "name": "Dwitiya",
+            "paksha": "Both",
+            "nature": "Growth, nourishment",
+            "favorable": [
+              "Marriage",
+              "Agriculture",
+              "Peaceful activities",
+              "Feeding"
+            ],
+            "unfavorable": [
+              "Aggression"
+            ],
+            "muhurta": "Very good"
+          },
+          {
+            "number": 3,
+            "name": "Tritiya",
+            "paksha": "Both",
+            "nature": "Energy, completion",
+            "favorable": [
+              "Marriage",
+              "All auspicious works",
+              "Travel",
+              "Business"
+            ],
+            "unfavorable": [
+              "None"
+            ],
+            "muhurta": "Excellent"
+          },
+          {
+            "number": 4,
+            "name": "Chaturthi",
+            "paksha": "Both",
+            "nature": "Obstacles (Ganesha)",
+            "favorable": [
+              "Ganesha worship",
+              "Removing obstacles"
+            ],
+            "unfavorable": [
+              "Marriage",
+              "New ventures",
+              "Travel"
+            ],
+            "muhurta": "Avoid (Rikta - empty)",
+            "special": "Worship Ganesha on this day"
+          },
+          {
+            "number": 5,
+            "name": "Panchami",
+            "paksha": "Both",
+            "nature": "Learning, worship",
+            "favorable": [
+              "Education start",
+              "Worship",
+              "Learning",
+              "Religious activities"
+            ],
+            "unfavorable": [
+              "None major"
+            ],
+            "muhurta": "Good"
+          },
+          {
+            "number": 6,
+            "name": "Shashthi",
+            "paksha": "Both",
+            "nature": "Enemies, war",
+            "favorable": [
+              "Defeating enemies",
+              "Court cases",
+              "Competitions"
+            ],
+            "unfavorable": [
+              "Marriage",
+              "Partnership",
+              "Peace activities"
+            ],
+            "muhurta": "Moderate"
+          },
+          {
+            "number": 7,
+            "name": "Saptami",
+            "paksha": "Both",
+            "nature": "Victory, Sun",
+            "favorable": [
+              "All auspicious works",
+              "Marriage",
+              "Travel",
+              "Important work"
+            ],
+            "unfavorable": [
+              "None"
+            ],
+            "muhurta": "Very good"
+          },
+          {
+            "number": 8,
+            "name": "Ashtami",
+            "paksha": "Both",
+            "nature": "Goddess power, intensity",
+            "favorable": [
+              "Durga worship",
+              "Power activities"
+            ],
+            "unfavorable": [
+              "Marriage",
+              "Peaceful activities"
+            ],
+            "muhurta": "Moderate - intense energy"
+          },
+          {
+            "number": 9,
+            "name": "Navami",
+            "paksha": "Both",
+            "nature": "Completion, power",
+            "favorable": [
+              "Durga worship",
+              "Completion of work"
+            ],
+            "unfavorable": [
+              "Marriage",
+              "New beginnings"
+            ],
+            "muhurta": "Avoid (Rikta - empty)"
+          },
+          {
+            "number": 10,
+            "name": "Dashami",
+            "paksha": "Both",
+            "nature": "Victory, energy",
+            "favorable": [
+              "All works",
+              "Travel",
+              "Important activities"
+            ],
+            "unfavorable": [
+              "None major"
+            ],
+            "muhurta": "Good"
+          },
+          {
+            "number": 11,
+            "name": "Ekadashi",
+            "paksha": "Both",
+            "nature": "Fasting, Vishnu",
+            "favorable": [
+              "Spiritual activities",
+              "Fasting",
+              "Worship",
+              "Meditation"
+            ],
+            "unfavorable": [
+              "Marriage",
+              "Material activities",
+              "Eating grains"
+            ],
+            "muhurta": "Spiritual only",
+            "special": "Most sacred for Vishnu worship"
+          },
+          {
+            "number": 12,
+            "name": "Dwadashi",
+            "paksha": "Both",
+            "nature": "Completion, victory",
+            "favorable": [
+              "All auspicious works",
+              "Marriage",
+              "Travel"
+            ],
+            "unfavorable": [
+              "None"
+            ],
+            "muhurta": "Very good"
+          },
+          {
+            "number": 13,
+            "name": "Trayodashi",
+            "paksha": "Both",
+            "nature": "Success, prosperity",
+            "favorable": [
+              "Business",
+              "Wealth activities",
+              "All works"
+            ],
+            "unfavorable": [
+              "None major"
+            ],
+            "muhurta": "Good"
+          },
+          {
+            "number": 14,
+            "name": "Chaturdashi",
+            "paksha": "Both",
+            "nature": "Shiva, intensity",
+            "favorable": [
+              "Shiva worship",
+              "Spiritual practices"
+            ],
+            "unfavorable": [
+              "Marriage",
+              "Happy celebrations"
+            ],
+            "muhurta": "Avoid (Rikta - empty)"
+          },
+          {
+            "number": 15,
+            "name": "Purnima/Amavasya",
+            "paksha": "Full/New Moon",
+            "nature": "Completion, power",
+            "favorable": [
+              "Worship",
+              "Spiritual activities",
+              "Completion"
+            ],
+            "unfavorable": [
+              "Marriage",
+              "New ventures (Amavasya)"
+            ],
+            "muhurta": "Mixed - Purnima good for worship, Amavasya avoid"
+          }
+        ],
+        "rikta": "Tithis 4, 9, 14 = Rikta (empty) - avoid for auspicious works",
+        "best": "Tithis 2, 3, 5, 7, 10, 11, 12, 13 considered good",
+        "paksha": "Shukla Paksha (waxing Moon) generally better than Krishna Paksha (waning Moon)"
+      },
+      {
+        "component": "3. Nakshatra (Lunar Mansion)",
+        "importance": "Very high - 27 nakshatras with unique qualities",
+        "categories": [
+          {
+            "category": "Fixed (Dhruva) Nakshatras",
+            "nakshatras": [
+              "N04",
+              "N12",
+              "N21",
+              "N26"
+            ],
+            "nature": "Stable, permanent, long-lasting",
+            "favorable": [
+              "Marriage",
+              "Foundation laying",
+              "Permanent structures",
+              "Property purchase",
+              "Long-term contracts",
+              "House construction"
+            ],
+            "principle": "Activities should be permanent and stable",
+            "best": "Rohini - most auspicious of all nakshatras"
+          },
+          {
+            "category": "Light/Swift (Laghu/Kshipra) Nakshatras",
+            "nakshatras": [
+              "N01",
+              "N08",
+              "N13"
+            ],
+            "nature": "Quick, light, fast-moving",
+            "favorable": [
+              "Travel",
+              "Quick business deals",
+              "Buying vehicles",
+              "Medicine",
+              "Sports",
+              "Quick activities",
+              "Trade"
+            ],
+            "principle": "Activities requiring speed and quick results"
+          },
+          {
+            "category": "Soft/Tender (Mridu) Nakshatras",
+            "nakshatras": [
+              "N05",
+              "N14",
+              "N17",
+              "N27"
+            ],
+            "nature": "Gentle, soft, artistic",
+            "favorable": [
+              "Arts",
+              "Music",
+              "Dance",
+              "Painting",
+              "Wearing new clothes",
+              "Ornaments",
+              "Romance",
+              "Beauty treatments"
+            ],
+            "principle": "Activities requiring gentleness and beauty"
+          },
+          {
+            "category": "Sharp/Fierce (Tikshna/Ugra) Nakshatras",
+            "nakshatras": [
+              "N06",
+              "N09",
+              "N18",
+              "N19"
+            ],
+            "nature": "Sharp, fierce, destructive",
+            "favorable": [
+              "Surgery",
+              "Exorcism",
+              "Demolition",
+              "Breaking old structures",
+              "Ending bad relationships",
+              "Court cases (to defeat enemies)",
+              "Black magic removal"
+            ],
+            "unfavorable": [
+              "Marriage",
+              "Starting new ventures",
+              "Happy occasions"
+            ],
+            "principle": "Destructive activities, ending things"
+          },
+          {
+            "category": "Cruel (Krura) Nakshatras",
+            "nakshatras": [
+              "N02",
+              "N10",
+              "N11",
+              "N20",
+              "N25"
+            ],
+            "nature": "Mixed - can be harsh",
+            "favorable": [
+              "Depends on specific nakshatra",
+              "Some good for marriage",
+              "Some for aggressive actions"
+            ],
+            "principle": "Check individual nakshatra carefully"
+          },
+          {
+            "category": "Mixed (Sadharana) Nakshatras",
+            "nakshatras": [
+              "N03",
+              "N16"
+            ],
+            "nature": "Can be used for both good and harsh activities",
+            "favorable": [
+              "Various activities depending on intent"
+            ],
+            "principle": "Flexible usage"
+          }
+        ],
+        "specialNakshatras": [
+          {
+            "nakshatra": "N04",
+            "speciality": "Most auspicious - excellent for marriage, property, vehicles, all good works"
+          },
+          {
+            "nakshatra": "N13",
+            "speciality": "Excellent for business, trade, hand-related work, crafts"
+          },
+          {
+            "nakshatra": "N08",
+            "speciality": "Highly auspicious - marriage, education, spiritual activities"
+          },
+          {
+            "nakshatra": "N22",
+            "speciality": "Learning, listening, education, travel"
+          },
+          {
+            "nakshatra": "N27",
+            "speciality": "Gentle activities, journey start, marriage, trade"
+          },
+          {
+            "nakshatra": "N01",
+            "speciality": "Travel, medicine, healing, quick activities"
+          }
+        ],
+        "avoid": "Gandanta nakshatras (junction points) - Ashlesha-Magha, Jyeshtha-Mula, Revati-Ashwini"
+      },
+      {
+        "component": "4. Yoga (Sun-Moon Combination)",
+        "importance": "Medium to high - 27 yogas based on Sun-Moon angle",
+        "auspicious": [
+          {
+            "yoga": "Y16",
+            "nature": "Success, perfection",
+            "effect": "Excellent for all works - ensures success"
+          },
+          {
+            "yoga": "Amrita",
+            "nature": "Nectar, immortality",
+            "effect": "Very auspicious - long-lasting results"
+          },
+          {
+            "yoga": "Y25",
+            "nature": "Divine, sacred",
+            "effect": "Spiritual works, wisdom activities"
+          },
+          {
+            "yoga": "Y26",
+            "nature": "Power, authority",
+            "effect": "Government, leadership, authority works"
+          },
+          {
+            "yoga": "Y04",
+            "nature": "Fortune, prosperity",
+            "effect": "Marriage, wealth activities"
+          },
+          {
+            "yoga": "Y05",
+            "nature": "Beautiful, auspicious",
+            "effect": "Arts, beauty, happy occasions"
+          },
+          {
+            "yoga": "Y07",
+            "nature": "Good deeds",
+            "effect": "Charitable, religious works"
+          },
+          {
+            "yoga": "Y12",
+            "nature": "Fixed, stable",
+            "effect": "Permanent works"
+          },
+          {
+            "yoga": "Y20",
+            "nature": "Auspicious",
+            "effect": "Spiritual, religious works"
+          },
+          {
+            "yoga": "Y21",
+            "nature": "Accomplished",
+            "effect": "Starting important projects"
+          }
+        ],
+        "inauspicious": [
+          {
+            "yoga": "Y13",
+            "nature": "Obstacle, attack",
+            "effect": "Avoid important works - obstacles arise"
+          },
+          {
+            "yoga": "Y19",
+            "nature": "Obstruction, siege",
+            "effect": "Delays and blockages"
+          },
+          {
+            "yoga": "Shoola",
+            "nature": "Spear, pain",
+            "effect": "Suffering, pain, accidents"
+          },
+          {
+            "yoga": "Vishti (Bhadra)",
+            "nature": "Unfortunate",
+            "effect": "Most inauspicious - avoid all auspicious works"
+          },
+          {
+            "yoga": "Y06",
+            "nature": "Severe obstacles",
+            "effect": "Extreme difficulties"
+          },
+          {
+            "yoga": "Y17",
+            "nature": "Calamity",
+            "effect": "Misfortune, calamities"
+          }
+        ],
+        "neutral": [
+          "Remaining yogas - check specifically for activity type"
+        ]
+      },
+      {
+        "component": "5. Karana (Half Tithi)",
+        "importance": "Medium - 11 karanas, each half of tithi",
+        "types": [
+          {
+            "type": "Movable (Chara) Karanas",
+            "karanas": [
+              "K01",
+              "K02",
+              "K03",
+              "K04",
+              "Garija",
+              "K06",
+              "Vishti (Bhadra)"
+            ],
+            "nature": "Repeat in cycle",
+            "vishti": "Vishti/Bhadra - most inauspicious, avoid all auspicious works",
+            "others": "Generally okay, check specific activity"
+          },
+          {
+            "type": "Fixed (Sthira) Karanas",
+            "karanas": [
+              "K08",
+              "K09",
+              "K10",
+              "K11"
+            ],
+            "occurrence": "Only at month end",
+            "nature": "Generally inauspicious for new ventures"
+          }
+        ],
+        "avoid": "Vishti (Bhadra) karana - most critical to avoid"
+      }
+    ],
+    "additionalFactors": [
+      {
+        "factor": "Lagna (Ascendant)",
+        "importance": "Critical - most important in muhurta",
+        "rules": [
+          "Lagna should be strong and benefic",
+          "Lagna lord should be strong, not in 6th/8th/12th",
+          "Benefics in lagna or kendras (1,4,7,10)",
+          "Malefics in 3rd/6th/11th houses (upachaya)",
+          "No planets in lagna in beginning/end degrees (sandhi)",
+          "Fixed signs as lagna for permanent works (marriage, property)",
+          "Movable signs for travel, quick activities",
+          "Dual signs for intellectual, flexible activities"
+        ],
+        "avoidRising": [
+          "Sun (ego issues)",
+          "Saturn (delays)",
+          "Mars (aggression) for gentle activities"
+        ],
+        "bestRising": [
+          "Jupiter (blessings)",
+          "Venus (beauty, marriage)",
+          "Mercury (business)",
+          "Moon (peace)"
+        ]
+      },
+      {
+        "factor": "MO",
+        "importance": "Very high - mind, emotions, success",
+        "rules": [
+          "Moon should be strong (not dark, not debilitated)",
+          "Moon in good nakshatra for activity",
+          "Moon not aspected by malefics (especially Saturn)",
+          "Moon in kendra (1,4,7,10) or trikona (5,9) from lagna",
+          "Moon waxing (Shukla Paksha) preferred over waning",
+          "Full Moon period (Shukla 10-15) excellent",
+          "Dark Moon (Krishna 11-Amavasya) avoided"
+        ],
+        "critical": "Moon's strength determines emotional success and mind's peace in activity"
+      },
+      {
+        "factor": "Benefic Planets",
+        "planets": [
+          "JU",
+          "VE",
+          "ME",
+          "Waxing Moon"
+        ],
+        "placement": "Should be in kendras (1,4,7,10) or trikonas (5,9) for maximum benefit",
+        "aspects": "Should aspect lagna, lagna lord, or activity house"
+      },
+      {
+        "factor": "Malefic Planets",
+        "planets": [
+          "SA",
+          "MA",
+          "SU",
+          "RA",
+          "KE",
+          "Waning Moon"
+        ],
+        "placement": "Should be in upachaya houses (3,6,11) - not in kendras",
+        "exception": "Mars in 10th okay for property; Saturn in 10th for discipline work"
+      },
+      {
+        "factor": "Planetary Strength",
+        "rules": [
+          "Planet in exaltation - excellent",
+          "Planet in own sign - very good",
+          "Planet in friend's sign - good",
+          "Planet debilitated - avoid",
+          "Planet combust - avoid",
+          "Planet retrograde - mixed (check context)"
+        ]
+      }
+    ]
+  },
+  "activityMuhurtas": {
+    "name": "Muhurta for Specific Activities",
+    "activities": [
+      {
+        "activity": "Marriage (Vivaha Muhurta)",
+        "importance": "Most critical muhurta - determines lifelong happiness",
+        "essentials": [
+          "Fixed nakshatra (Rohini, Uttara Phalguni, Uttara Ashadha, Uttara Bhadrapada) - most important",
+          "Benefic tithi (2,3,5,7,10,11,12,13) - avoid Rikta tithis",
+          "Benefic day (Monday, Wednesday, Thursday, Friday best)",
+          "Auspicious yoga (Siddhi, Amrita, Brahma, Saubhagya)",
+          "Avoid Vishti (Bhadra) karana",
+          "Fixed sign as lagna (Taurus, Leo, Scorpio, Aquarius)",
+          "Strong lagna lord, not in 6th/8th/12th",
+          "Jupiter and Venus strong, in kendras if possible",
+          "7th house and 7th lord strong",
+          "Moon strong, waxing, in benefic nakshatra",
+          "Benefics in kendras (1,4,7,10)",
+          "Malefics in upachaya (3,6,11)",
+          "No malefic aspects on lagna or 7th house"
+        ],
+        "avoid": [
+          "Saturn and Mars in 7th house or lagna",
+          "Sun in lagna (ego clashes)",
+          "Dark Moon (Amavasya) and days before/after",
+          "Rikta tithis (4,9,14)",
+          "Gandanta nakshatras and sandhi",
+          "Malefic yogas (Vyaghata, Vishti)",
+          "Bhadra karana",
+          "Tuesday and Saturday",
+          "Sun's transit in girl's Moon sign (vedha)",
+          "Eclipses and 3 days before/after"
+        ],
+        "months": [
+          "Best: Magha (Jan-Feb), Phalguna (Feb-Mar), Vaishakha (Apr-May), Jyeshtha (May-Jun)",
+          "Good: Margashira (Nov-Dec), Pausha (Dec-Jan)",
+          "Avoid: Ashadha (Jun-Jul), Bhadrapada (Aug-Sep), Ashwin (Sep-Oct) in some traditions"
+        ],
+        "timing": "Morning or evening ceremony traditionally; check exact lagna timing",
+        "note": "Most complex muhurta - professional consultation recommended"
+      },
+      {
+        "activity": "Business Start (Vyapara Arambha)",
+        "importance": "Critical - determines business success",
+        "essentials": [
+          "Wednesday (Mercury) or Thursday (Jupiter) best",
+          "Ashwini, Pushya, Hasta, Shravana nakshatras excellent",
+          "Benefic tithi (2,3,5,7,10,11,12,13)",
+          "Movable or dual sign as lagna (flexible business)",
+          "Mercury strong for trade, Jupiter for expansion",
+          "11th house (gains) and 10th house (career) strong",
+          "2nd house (wealth) well-placed",
+          "Avoid Saturn in kendras (delays in business)",
+          "Waxing Moon period (growth)"
+        ],
+        "avoid": [
+          "Saturday (delays)",
+          "Rikta tithis",
+          "Inauspicious yogas",
+          "Weak Mercury"
+        ],
+        "types": {
+          "retail": "Wednesday, Mercury strong, Hasta nakshatra",
+          "manufacturing": "Tuesday, Mars strong for action",
+          "service": "Thursday, Jupiter strong for expansion",
+          "technology": "Wednesday, Mercury-Rahu favorable",
+          "partnership": "Friday, Venus for harmony"
+        }
+      },
+      {
+        "activity": "Property Purchase (Griha Pravesha/Bhumi Puja)",
+        "importance": "High - determines prosperity in property",
+        "essentials": [
+          "Fixed nakshatra (Rohini, Uttara Phalguni, Uttara Ashadha)",
+          "Tuesday (Mars for property) or Thursday (expansion)",
+          "Fixed sign lagna (permanent asset)",
+          "4th house (property) and lord strong",
+          "Mars well-placed (land, property karaka)",
+          "Moon strong (mental peace in home)",
+          "Venus for beautiful home",
+          "Benefic tithi, avoid Rikta"
+        ],
+        "avoid": [
+          "Gandanta nakshatras",
+          "Malefics in 4th house",
+          "Weak Mars",
+          "Inauspicious tithis"
+        ],
+        "types": {
+          "land": "Tuesday, Mars strong, fixed nakshatra",
+          "house": "Thursday, Jupiter for prosperity, fixed lagna",
+          "apartment": "Wednesday, Mercury for good deal"
+        }
+      },
+      {
+        "activity": "Education Start (Vidyarambha)",
+        "importance": "High - determines learning success",
+        "essentials": [
+          "Thursday (Jupiter - knowledge) or Wednesday (Mercury - learning)",
+          "Pushya, Ashwini, Revati, Hasta, Shravana nakshatras",
+          "Panchami tithi (dedicated to Saraswati)",
+          "Jupiter and Mercury strong",
+          "5th house (education) and 9th house (higher knowledge) strong",
+          "Waxing Moon for growth",
+          "Morning timing better for education"
+        ],
+        "avoid": [
+          "Saturday (Saturn delays learning)",
+          "Inauspicious yogas",
+          "Weak Jupiter/Mercury"
+        ],
+        "levels": {
+          "primary": "Thursday, Jupiter dominant, Pushya nakshatra",
+          "higher": "Wednesday, Mercury strong, intellectual nakshatras",
+          "spiritual": "Thursday, Jupiter-Ketu positive, Pushya"
+        }
+      },
+      {
+        "activity": "Vehicle Purchase (Vahana Pravesha)",
+        "importance": "Medium to high - safety and longevity",
+        "essentials": [
+          "Swift nakshatras (Ashwini, Pushya, Hasta) - vehicle moves fast",
+          "Wednesday (Mercury - vehicles) best",
+          "Movable or dual sign lagna",
+          "4th house (vehicles) strong",
+          "Mars moderate strength (not too strong - accidents)",
+          "Mercury strong (intelligence in travel)",
+          "Avoid Mars-Rahu in 4th (accident prone)"
+        ],
+        "avoid": [
+          "Fierce nakshatras",
+          "Mars-Rahu conjunction",
+          "Inauspicious yogas",
+          "Tuesday (Mars too strong)"
+        ],
+        "types": {
+          "car": "Wednesday, Mercury strong, Ashwini/Pushya",
+          "bike": "Wednesday, Mars moderate, swift nakshatra",
+          "commercial": "Thursday, Jupiter for gains"
+        }
+      },
+      {
+        "activity": "Travel Start (Yatra Arambha)",
+        "importance": "Medium - safe and successful journey",
+        "essentials": [
+          "Swift nakshatras (Ashwini, Pushya, Hasta)",
+          "Movable sign lagna (moving activity)",
+          "Mercury strong (travel)",
+          "9th house (long distance) strong for long journeys",
+          "3rd house (short distance) strong for short journeys",
+          "Check favorable direction from Moon's nakshatra",
+          "Avoid Vishti karana"
+        ],
+        "avoid": [
+          "Fixed nakshatras (stuck in journey)",
+          "Malefics in 8th (accidents)",
+          "Inauspicious days"
+        ],
+        "directions": {
+          "favorable": "Check Moon's nakshatra - certain directions favorable certain days",
+          "unfavorable": "Avoid travel in opposite direction on that nakshatra"
+        },
+        "types": {
+          "pilgrimage": "Thursday, Jupiter strong, auspicious nakshatra",
+          "business": "Wednesday, Mercury strong, swift nakshatra",
+          "foreign": "Rahu favorable, 9th/12th houses strong"
+        }
+      },
+      {
+        "activity": "Surgery/Medical Procedure",
+        "importance": "Very high - health and recovery depend on timing",
+        "essentials": [
+          "Fierce/sharp nakshatras (Ardra, Ashlesha, Jyeshtha, Mula) - cutting action",
+          "Tuesday (Mars - surgery, blood) acceptable",
+          "6th house (disease) with benefic support",
+          "8th house NOT afflicted by malefics",
+          "Mars moderate strength (not too weak - no energy; not too strong - excess bleeding)",
+          "Avoid Moon in body part related sign being operated",
+          "Lagna not in sign ruling operated body part",
+          "Sun strong (vitality for recovery)"
+        ],
+        "avoid": [
+          "Moon in sign of body part (e.g., Leo for heart surgery)",
+          "Weak Sun (low vitality)",
+          "Very weak Mars (no energy)",
+          "Very strong Mars (excess bleeding)",
+          "Malefics in 1st/8th houses",
+          "Inauspicious yogas",
+          "Saturday (slow recovery)"
+        ],
+        "bodyPartSigns": {
+          "head": "AR",
+          "neck": "TA",
+          "arms": "GE",
+          "chest": "CA",
+          "heart": "LE",
+          "abdomen": "VI",
+          "kidneys": "LI",
+          "reproductive": "SC",
+          "thighs": "SA",
+          "knees": "CP",
+          "calves": "AQ",
+          "feet": "PI"
+        },
+        "note": "Avoid surgery during malefic dashas if possible; emergency overrides muhurta"
+      },
+      {
+        "activity": "Naming Ceremony (Namakarana)",
+        "importance": "High - name shapes personality",
+        "essentials": [
+          "11th day after birth traditionally",
+          "Benefic nakshatra, especially Rohini, Pushya, Hasta",
+          "Benefic tithi (2,3,5,7,10,12,13)",
+          "Thursday (Jupiter - wisdom) or Wednesday (Mercury - intellect)",
+          "Jupiter strong (child's fortune)",
+          "5th house (child) strong",
+          "Name based on Moon's nakshatra pada traditionally"
+        ],
+        "avoid": [
+          "Inauspicious tithis/yogas",
+          "Malefics aspecting 5th house",
+          "Dark Moon periods"
+        ],
+        "tradition": "Name's first letter based on Moon nakshatra pada (sound syllables)"
+      },
+      {
+        "activity": "House Warming (Griha Pravesha)",
+        "importance": "High - first entry into new home",
+        "essentials": [
+          "Fixed nakshatra (Rohini, Uttara Phalguni, Uttara Ashadha) - permanent residence",
+          "Thursday (prosperity) or Monday (peace) best",
+          "Benefic tithi, especially 2nd, 3rd, 5th",
+          "Fixed sign lagna",
+          "4th house (home) very strong",
+          "Moon strong (mental peace in home)",
+          "Mars well-placed (property)",
+          "Venus for beautiful home",
+          "Benefics in 4th/1st houses"
+        ],
+        "avoid": [
+          "Gandanta",
+          "Malefics in 4th",
+          "Inauspicious yogas",
+          "Rikta tithis"
+        ],
+        "timing": "Morning preferred, before noon traditionally"
+      },
+      {
+        "activity": "Job Joining",
+        "importance": "Medium to high - career success",
+        "essentials": [
+          "Wednesday (work), Thursday (success), or day of relevant planet",
+          "Pushya, Hasta, Shravana nakshatras",
+          "10th house (career) strong",
+          "Sun strong (authority, government)",
+          "Saturn moderate (discipline without delays)",
+          "Benefic tithi",
+          "Waxing Moon (growth in career)"
+        ],
+        "types": {
+          "government": "Sunday, Sun strong, authority nakshatras",
+          "private": "Wednesday, Mercury strong",
+          "technical": "Wednesday, Mercury-Mars good",
+          "creative": "Friday, Venus strong"
+        }
+      },
+      {
+        "activity": "Important Meeting/Interview",
+        "importance": "Medium - immediate success needed",
+        "essentials": [
+          "Day relevant to purpose (Wednesday business, Thursday wisdom)",
+          "Swift nakshatra (quick results)",
+          "Movable lagna (quick outcome)",
+          "Mercury strong (communication)",
+          "Jupiter strong (wisdom, favor)",
+          "10th house strong",
+          "Avoid malefics in 1st/10th"
+        ],
+        "timing": "Check hora - favorable planetary hora for meeting time"
+      },
+      {
+        "activity": "Loan Taking",
+        "importance": "Medium - ability to repay",
+        "essentials": [
+          "Saturday (Saturn - debts) traditionally",
+          "6th house (loans) checked",
+          "11th house (gains to repay) strong",
+          "Rikta tithi (4,9,14) okay for loans (giving away)",
+          "Dark Moon okay (taking, not giving)"
+        ],
+        "avoid": [
+          "Very auspicious days (inauspicious to take debt on auspicious day)"
+        ],
+        "paradox": "Taking loans opposite to giving - inauspicious timing actually favorable"
+      },
+      {
+        "activity": "Loan Giving/Lending",
+        "importance": "Medium - repayment assurance",
+        "essentials": [
+          "Auspicious day (money will return)",
+          "Waxing Moon (growth)",
+          "Benefic tithi",
+          "11th house (recovery) strong",
+          "2nd house (wealth) secure"
+        ],
+        "avoid": [
+          "Rikta tithis",
+          "Dark Moon",
+          "Inauspicious yogas",
+          "V07"
+        ]
+      },
+      {
+        "activity": "Spiritual Initiation (Diksha)",
+        "importance": "Very high - spiritual life direction",
+        "essentials": [
+          "Thursday (Jupiter - guru)",
+          "Pushya nakshatra (most sacred)",
+          "Ekadashi tithi (Vishnu's day) or Panchami (Saraswati)",
+          "9th house (guru) and 12th house (moksha) strong",
+          "Jupiter very strong",
+          "Ketu favorable (spiritual)",
+          "Venus in moksha houses (devotion)"
+        ],
+        "avoid": [
+          "Material yogas",
+          "Malefics afflicting 9th/12th",
+          "Inauspicious tithis"
+        ],
+        "timing": "Early morning (Brahma muhurta - 1.5 hrs before sunrise) best"
+      },
+      {
+        "activity": "Wearing New Gemstone",
+        "importance": "High - wrong timing can cause issues",
+        "essentials": [
+          "Day of planet whose gem (Sunday-Ruby, Monday-Pearl, etc.)",
+          "Hora of that planet",
+          "Planet strong in transit",
+          "Auspicious nakshatra",
+          "Waxing Moon (growing influence)",
+          "Morning timing after sunrise"
+        ],
+        "avoid": [
+          "Planet's enemy day",
+          "Inauspicious yogas",
+          "Planet weak in transit"
+        ],
+        "note": "Gemstone prescription itself requires expert consultation"
+      }
+    ]
+  },
+  "avoidancePeriods": {
+    "name": "Periods to Avoid All Auspicious Activities",
+    "periods": [
+      {
+        "period": "Rahu Kaal",
+        "duration": "~1.5 hours daily",
+        "calculation": "Varies by day and sunrise time",
+        "timing": {
+          "Monday": "7:30 AM - 9:00 AM (approximate)",
+          "Tuesday": "3:00 PM - 4:30 PM",
+          "Wednesday": "12:00 PM - 1:30 PM",
+          "Thursday": "1:30 PM - 3:00 PM",
+          "Friday": "10:30 AM - 12:00 PM",
+          "Saturday": "9:00 AM - 10:30 AM",
+          "Sunday": "4:30 PM - 6:00 PM"
+        },
+        "effect": "Inauspicious period of Rahu - obstacles and failures",
+        "exceptions": "Can be used for demolition, breaking old structures, ending things",
+        "note": "Exact timing varies by location and sunrise - calculate for your location"
+      },
+      {
+        "period": "Yamaganda Kaal",
+        "duration": "~1.5 hours daily",
+        "effect": "Period of Yama (death god) - inauspicious",
+        "avoid": "All auspicious activities",
+        "usage": "Similar to Rahu Kaal in effect"
+      },
+      {
+        "period": "Gulika Kaal",
+        "duration": "~1.5 hours daily",
+        "effect": "Saturn's sub-period - delays and obstacles",
+        "avoid": "Important activities requiring quick results"
+      },
+      {
+        "period": "Dur Muhurta",
+        "duration": "2 periods of ~48 minutes each daily",
+        "calculation": "Complex - based on day and time",
+        "effect": "Inauspicious period",
+        "avoid": "Starting new activities"
+      },
+      {
+        "period": "Eclipses (Solar/Lunar)",
+        "duration": "During eclipse + 3 days before and after",
+        "effect": "Highly inauspicious - karmic clearing time",
+        "avoid": "Marriage, business start, property purchase, all major events",
+        "exception": "Spiritual practices excellent during eclipse",
+        "note": "Most important avoidance period"
+      },
+      {
+        "period": "Amavasya (New Moon)",
+        "duration": "1 day (Dark Moon day)",
+        "effect": "Inauspicious for new beginnings",
+        "avoid": "Marriage, new ventures, happy occasions",
+        "exception": "Spiritual practices, ancestor worship favorable",
+        "note": "Day before and after also sensitive"
+      },
+      {
+        "period": "Gandanta",
+        "description": "Junction between certain nakshatras and signs",
+        "junctions": [
+          "Revati-Ashwini",
+          "Ashlesha-Magha",
+          "Jyeshtha-Mula"
+        ],
+        "duration": "Last ~48 minutes of one and first ~48 minutes of next",
+        "effect": "Karmic knot - very inauspicious",
+        "avoid": "All auspicious activities",
+        "severe": "Birth during Gandanta requires remedies"
+      },
+      {
+        "period": "Vishti (Bhadra) Karana",
+        "duration": "Half tithi (~12 hours)",
+        "frequency": "Occurs regularly in tithi cycle",
+        "effect": "Most inauspicious karana",
+        "avoid": "Absolutely all auspicious activities",
+        "check": "Must check before fixing any muhurta"
+      },
+      {
+        "period": "Kharmas (Malamas)",
+        "duration": "1 month period",
+        "occurrence": "When Sun and Moon in same sign (varies)",
+        "effect": "Inauspicious month",
+        "avoid": "Marriage, starting new ventures",
+        "exception": "Spiritual practices okay"
+      },
+      {
+        "period": "Adhik Maas (Extra Month)",
+        "duration": "~1 month every ~3 years",
+        "description": "Intercalary month in lunar calendar",
+        "effect": "Material activities avoided",
+        "favorable": "Spiritual practices highly favorable",
+        "note": "Very auspicious for spirituality, inauspicious for worldly matters"
+      },
+      {
+        "period": "Pitra Paksha",
+        "duration": "15 days in Bhadrapada month (Sep-Oct)",
+        "description": "Ancestor fortnight",
+        "avoid": "Marriage, happy occasions, new ventures",
+        "favorable": "Ancestor rituals, shraddha, charity",
+        "importance": "Respect ancestors during this period"
+      }
+    ],
+    "principle": "Better to delay than proceed in inauspicious period",
+    "emergency": "Life-threatening emergencies override muhurta rules"
+  },
+  "abhijitMuhurta": {
+    "name": "Abhijit Muhurta - Universal Auspicious Period",
+    "description": "Most powerful auspicious period - overrides most doshas",
+    "timing": "Middle 1/15th of daytime (sunrise to sunset)",
+    "calculation": "Approximately noon period, varies by location and season",
+    "duration": "~48 minutes (1 muhurta)",
+    "power": "So auspicious it can override many muhurta defects",
+    "usage": [
+      "When perfect muhurta unavailable",
+      "Emergency auspicious activity needed",
+      "Starting important work",
+      "Making important decisions",
+      "Purchasing valuable items"
+    ],
+    "limitation": "Not used for marriage - marriage needs complete muhurta",
+    "exception": "Does not override eclipse period",
+    "modern": "Approximately 11:30 AM - 12:20 PM in most locations"
+  },
+  "brahmaMuhurta": {
+    "name": "Brahma Muhurta - Spiritual Golden Hour",
+    "description": "Most auspicious time for spiritual practices",
+    "timing": "~1.5 hours before sunrise (4th quarter of night)",
+    "calculation": "Divide night (sunset to sunrise) by 8, take 7th part",
+    "duration": "~96 minutes (2 muhurtas)",
+    "favorable": [
+      "Meditation and spiritual practices",
+      "Yoga and pranayama",
+      "Mantra chanting",
+      "Scripture study",
+      "Planning day",
+      "Creative work"
+    ],
+    "power": "Mind most clear, environment most sattvic, divine connection easiest",
+    "recommendation": "Wake up during this time for spiritual growth",
+    "practical": "Approximately 4:00 AM - 5:30 AM (varies by season)"
+  },
+  "practicalGuidance": {
+    "name": "Practical Muhurta Selection Guide",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Determine Activity Type",
+        "questions": [
+          "What exactly needs to be done?",
+          "Is it permanent or temporary?",
+          "Is it material or spiritual?"
+        ]
+      },
+      {
+        "step": 2,
+        "action": "Check Major Avoidance Periods",
+        "check": [
+          "No eclipses \u00b13 days",
+          "No Gandanta",
+          "No Vishti Karana",
+          "Not during Pitra Paksha/Kharmas"
+        ],
+        "principle": "First eliminate impossible dates"
+      },
+      {
+        "step": 3,
+        "action": "Select Favorable Weekday",
+        "method": "Based on activity (Monday-marriage, Wednesday-business, etc.)",
+        "list": "Make list of possible dates with right weekday in next 2-3 months"
+      },
+      {
+        "step": 4,
+        "action": "Check Tithi",
+        "favorable": "Tithis 2,3,5,7,10,11,12,13",
+        "avoid": "Rikta tithis 4,9,14",
+        "filter": "Narrow date list to favorable tithis"
+      },
+      {
+        "step": 5,
+        "action": "Check Nakshatra",
+        "favorable": "Based on activity type (fixed/swift/soft/fierce)",
+        "best": "Rohini, Pushya, Hasta, Shravana generally good",
+        "filter": "Further narrow to favorable nakshatras"
+      },
+      {
+        "step": 6,
+        "action": "Check Yoga",
+        "favorable": "Auspicious yogas",
+        "avoid": "Vyaghata, Vishti, inauspicious yogas",
+        "filter": "Eliminate inauspicious yoga dates"
+      },
+      {
+        "step": 7,
+        "action": "Calculate Lagna Time",
+        "method": "For shortlisted dates, calculate when favorable lagna rises",
+        "favorable": "Fixed lagna for marriage/property, movable for travel, etc.",
+        "ensure": "Lagna lord strong, benefics in kendras, malefics in upachaya"
+      },
+      {
+        "step": 8,
+        "action": "Check Planetary Positions",
+        "verify": [
+          "Relevant planet strong (Jupiter for marriage, Mercury for business)",
+          "Moon strong and waxing if possible",
+          "No malefics in critical houses",
+          "Benefics well-placed"
+        ]
+      },
+      {
+        "step": 9,
+        "action": "Avoid Inauspicious Hours",
+        "check": "Selected time not in Rahu Kaal, Yamaganda, Gulika, Dur Muhurta",
+        "final": "Adjust time if needed"
+      },
+      {
+        "step": 10,
+        "action": "Final Verification",
+        "checklist": [
+          "All major factors favorable",
+          "No major doshas",
+          "Practical timing works",
+          "Emergency provisions if needed (Abhijit Muhurta)"
+        ]
+      }
+    ],
+    "simplifiedForEmergency": [
+      "If detailed muhurta impossible, use Abhijit Muhurta",
+      "Avoid eclipse periods, Gandanta, Vishti Karana at minimum",
+      "Choose benefic weekday for activity",
+      "Waxing Moon period if possible",
+      "Morning timing generally safer"
+    ],
+    "tools": [
+      "Panchanga (ephemeris) essential",
+      "Muhurta software or expert consultation recommended",
+      "Online panchanga calculators available",
+      "Learn to read traditional panchanga"
+    ]
+  },
+  "modernAdaptations": {
+    "name": "Muhurta in Modern Context",
+    "considerations": [
+      {
+        "aspect": "Work Schedule Constraints",
+        "reality": "Cannot always choose ideal day/time due to work",
+        "solution": "Find best possible window within constraints; use Abhijit Muhurta if needed",
+        "priority": "Major life events (marriage) worth taking leave for perfect muhurta"
+      },
+      {
+        "aspect": "Multiple Time Zones",
+        "reality": "Business partners in different zones",
+        "solution": "Calculate muhurta for location where activity physically happens",
+        "online": "For online activities, use initiator's location or server location"
+      },
+      {
+        "aspect": "Emergency Situations",
+        "reality": "Medical emergencies, urgent business",
+        "principle": "Life/urgent necessity overrides muhurta",
+        "remedy": "Do remedial pujas later if activity done in bad muhurta due to emergency"
+      },
+      {
+        "aspect": "Partial Muhurta",
+        "reality": "Cannot meet all muhurta criteria",
+        "approach": "Prioritize: avoid major doshas > favorable key factors > optimize secondary factors",
+        "acceptable": "Meeting 70-80% criteria with no major doshas acceptable"
+      }
+    ]
+  },
+  "note": "Muhurta is complex science - professional consultation recommended for critical life events like marriage"
+}

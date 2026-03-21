@@ -1,0 +1,1967 @@
+{
+  "system": {
+    "name": "Remedial Measures Comprehensive Database",
+    "description": "Complete guide to Vedic astrology remedies - gemstones, mantras, deity worship, charity, fasting, yantras, behavioral, and more",
+    "sanskritName": "Upaya Shastra - Graha Shanti",
+    "purpose": "Strengthen weak planets, pacify malefic planets, enhance benefic results, mitigate doshas",
+    "principle": "Remedies align your energy with planetary frequencies - like tuning a radio to right station",
+    "scope": "All planetary remedies, house-based remedies, problem-specific remedies, modern adaptations",
+    "importance": "Remedies can reduce suffering by 60-70% even with challenging chart - conscious participation in karma",
+    "criticalUnderstanding": "Remedies DON'T change chart - they help YOU navigate chart better with awareness and alignment",
+    "effectiveness": "Work best when combined - gemstone + mantra + charity + behavior = maximum impact",
+    "consistency": "Remedies require daily practice for minimum 40-90 days to show results - patience essential"
+  },
+  "remedyPhilosophy": {
+    "howRemediesWork": [
+      "Vibrational alignment - each planet has specific frequency, remedies tune you to it",
+      "Psychological - regular practice creates positive mental patterns and discipline",
+      "Karmic mitigation - good deeds (charity, service) create positive karma to balance negative",
+      "Divine grace - sincere devotion attracts planetary deity's blessings",
+      "Energy channeling - physical remedies (gemstones, colors) affect subtle body energy"
+    ],
+    "whenRemediesWork": [
+      "Chart shows POTENTIAL for improvement (planet not completely destroyed)",
+      "Done with faith, consistency, and sincerity",
+      "Combined with conscious effort and right action",
+      "Started at auspicious timing",
+      "Continued for sufficient duration (months to years)"
+    ],
+    "whenRemediesDontWork": [
+      "Planet completely destroyed (debilitated + combust + afflicted in dusthana with no benefic aspect)",
+      "Done mechanically without understanding or faith",
+      "Inconsistent or half-hearted practice",
+      "Wrong remedy for the chart (always consult expert)",
+      "Expecting miracles without effort (remedies support effort, don't replace it)",
+      "Karma too strong to mitigate in this lifetime (rare but possible)"
+    ],
+    "importantWarning": "NEVER wear gemstones without expert consultation - wrong gemstone can worsen problems severely"
+  },
+  "gemstoneRemedies": {
+    "name": "Gemstone Therapy - Ratna Shastra",
+    "principle": "Gemstones absorb and transmit specific planetary rays, strengthening planet's positive influence",
+    "caution": "MOST POWERFUL but also MOST DANGEROUS remedy - wrong gemstone can ruin life",
+    "generalRules": {
+      "consultation": "ALWAYS consult expert astrologer before wearing - this is NON-NEGOTIABLE",
+      "quality": "Must be natural, untreated, clear, without cracks or black spots - flawed gemstones harmful",
+      "weight": "Minimum weight required for effect - varies by gemstone (2-5 carats typically)",
+      "metal": "Specific metal for each gemstone - copper, silver, gold, panchdhatu",
+      "finger": "Specific finger for each planet",
+      "timing": "Wear on specific day, hora, after ritual purification",
+      "purification": "Soak in milk/Gangajal, chant mantras, energize before wearing",
+      "wearing": "Touch skin directly for maximum effect",
+      "duration": "Wear continuously - remove only for specific activities",
+      "replacement": "Replace if damaged, lost, or after 2-3 years (gems lose charge)"
+    },
+    "planets": [
+      {
+        "planet": "SU",
+        "gemstone": "Ruby (Manikya)",
+        "alternates": "Red Garnet (affordable), Red Spinel",
+        "color": "Deep red, pigeon blood color ideal",
+        "weight": "2-5 carats minimum (3 carats ideal)",
+        "metal": "Gold or copper",
+        "finger": "Ring finger (Anamika)",
+        "day": "Sunday morning",
+        "hora": "Sun hora (sunrise to ~1.5 hours after)",
+        "purification": [
+          "Soak in raw milk or Gangajal for 20-30 minutes",
+          "Chant: Om Ghrini Suryaya Namaha - 108 times",
+          "Offer red flowers to Sun God",
+          "Wear during sunrise on Sunday"
+        ],
+        "whenToWear": [
+          "Sun weak in chart (debilitated Libra, 6th/8th/12th house)",
+          "Lack of confidence and authority",
+          "Government job aspirations",
+          "Father's health issues",
+          "Heart or eye problems",
+          "Leadership role requirements"
+        ],
+        "whenNOTToWear": [
+          "Sun in enemy signs without strength",
+          "Sun causing Pitra Dosha severely",
+          "During Saturn or Rahu dasha if they afflict Sun",
+          "Ego already high and causing problems",
+          "High blood pressure (ruby increases heat)"
+        ],
+        "effects": "Increases confidence, authority, vitality, government favor, father's support, heart health, leadership",
+        "sideEffects": "If wrong - ego inflation, conflicts with authority, aggression, heart palpitations, heat-related issues",
+        "cost": "Rs. 5,000 - 5,00,000 per carat (depending on quality and origin - Burma best)",
+        "affordableAlternate": "Red Garnet (Rs. 500-5,000 per carat) - 60-70% as effective"
+      },
+      {
+        "planet": "MO",
+        "gemstone": "Pearl (Moti)",
+        "alternates": "Moonstone (affordable)",
+        "color": "Pure white, lustrous, no yellow tinge",
+        "weight": "2-7 carats minimum (5 carats ideal)",
+        "metal": "Silver only",
+        "finger": "Ring finger or little finger (Anamika or Kanishthika)",
+        "day": "Monday evening",
+        "hora": "Moon hora (check panchang)",
+        "purification": [
+          "Soak in raw milk, rose water, and Gangajal for 20-30 minutes",
+          "Chant: Om Som Somaya Namaha - 108 times",
+          "Offer white flowers to Moon",
+          "Wear on Monday evening during Shukla Paksha (waxing moon)"
+        ],
+        "whenToWear": [
+          "Moon weak (debilitated Scorpio, 6th/8th/12th, dark moon)",
+          "Mental anxiety, depression, emotional instability",
+          "Sleep disorders and insomnia",
+          "Mother's health issues",
+          "Blood or hormonal issues (women)",
+          "Public-facing career needing mental peace"
+        ],
+        "whenNOTToWear": [
+          "Moon in Capricorn or Aquarius (inimical) without strength",
+          "During Rahu or Ketu dasha if heavily afflicted",
+          "Already emotionally oversensitive",
+          "Water retention issues (pearl can increase)"
+        ],
+        "effects": "Mental peace, emotional stability, intuition, mother's wellbeing, public popularity, sleep quality, blood health",
+        "sideEffects": "If wrong - emotional volatility increases, water retention, lethargy, oversensitivity",
+        "cost": "Rs. 1,000 - 50,000 per carat (South Sea pearls most expensive)",
+        "affordableAlternate": "Moonstone (Rs. 200-2,000 per carat) - 50-60% as effective",
+        "note": "Pearl is organic gemstone - needs replacement every 2 years as it loses luster and power"
+      },
+      {
+        "planet": "MA",
+        "gemstone": "Red Coral (Moonga)",
+        "alternates": "Carnelian (affordable)",
+        "color": "Deep red to orange-red, opaque",
+        "weight": "3-6 carats minimum (5 carats ideal)",
+        "metal": "Copper, gold, or silver",
+        "finger": "Ring finger (Anamika)",
+        "day": "Tuesday morning",
+        "hora": "Mars hora (check panchang)",
+        "purification": [
+          "Soak in raw milk and Gangajal for 20-30 minutes",
+          "Chant: Om Kram Kreem Kraum Sah Bhaumaya Namaha - 108 times",
+          "Offer red flowers to Hanuman",
+          "Wear on Tuesday morning during Shukla Paksha"
+        ],
+        "whenToWear": [
+          "Mars weak (debilitated Cancer, 6th/8th/12th without strength)",
+          "Lack of courage and energy",
+          "Property disputes or obstacles",
+          "Mangal Dosha (Kuja Dosha) mitigation",
+          "Blood disorders (anemia)",
+          "Defense or technical career obstacles",
+          "Sibling relationship issues"
+        ],
+        "whenNOTToWear": [
+          "Mars already strong and causing aggression",
+          "High anger issues and violence tendency",
+          "High blood pressure or heat-related diseases",
+          "During Rahu-Ketu axis if Mars afflicted",
+          "Accidents and injuries prone"
+        ],
+        "effects": "Courage, energy, property success, victory over enemies, blood health, sibling harmony, technical skills, Mangal Dosha mitigation",
+        "sideEffects": "If wrong - anger increases, violence, accidents, blood pressure spikes, aggression, conflicts",
+        "cost": "Rs. 500 - 10,000 per carat (Italian coral best, also Japanese)",
+        "affordableAlternate": "Carnelian (Rs. 100-1,000 per carat) - 40-50% as effective",
+        "note": "Red Coral is organic - needs replacement every 3-4 years"
+      },
+      {
+        "planet": "ME",
+        "gemstone": "Emerald (Panna)",
+        "alternates": "Green Tourmaline, Peridot (affordable)",
+        "color": "Deep green, transparent, clear",
+        "weight": "3-6 carats minimum (4 carats ideal)",
+        "metal": "Gold or panchdhatu (five metals)",
+        "finger": "Little finger (Kanishthika)",
+        "day": "Wednesday morning",
+        "hora": "Mercury hora (check panchang)",
+        "purification": [
+          "Soak in raw milk and Gangajal for 20-30 minutes",
+          "Chant: Om Bram Breem Braum Sah Budhaya Namaha - 108 times",
+          "Offer green items to Lord Vishnu",
+          "Wear on Wednesday morning during Shukla Paksha"
+        ],
+        "whenToWear": [
+          "Mercury weak (debilitated Pisces, combust, 6th/8th/12th)",
+          "Business losses and poor decisions",
+          "Communication anxiety or speech problems",
+          "Nervous disorders and anxiety",
+          "Learning difficulties",
+          "Skin diseases",
+          "Multiple ventures failing"
+        ],
+        "whenNOTToWear": [
+          "Mercury enemy to lagna lord (check compatibility)",
+          "During Saturn dasha if Mercury-Saturn inimical in chart",
+          "Overthinking and mental stress already high",
+          "Very young children (Mercury makes them overactive)"
+        ],
+        "effects": "Business success, communication skills, intelligence, learning ability, nervous system health, skin health, versatility",
+        "sideEffects": "If wrong - mental stress, overthinking, anxiety increases, communication problems worsen, business losses",
+        "cost": "Rs. 3,000 - 5,00,000 per carat (Colombian emeralds most expensive, Zambian good quality)",
+        "affordableAlternate": "Peridot (Rs. 500-5,000 per carat) - 50-60% as effective",
+        "note": "Emerald is delicate - handle carefully, avoid hard impacts"
+      },
+      {
+        "planet": "JU",
+        "gemstone": "Yellow Sapphire (Pukhraj)",
+        "alternates": "Yellow Topaz, Citrine (affordable)",
+        "color": "Deep golden yellow, transparent",
+        "weight": "3-5 carats minimum (4 carats ideal)",
+        "metal": "Gold only",
+        "finger": "Index finger (Tarjani)",
+        "day": "Thursday morning",
+        "hora": "Jupiter hora (check panchang)",
+        "purification": [
+          "Soak in raw milk, turmeric water, and Gangajal for 20-30 minutes",
+          "Chant: Om Gram Greem Graum Sah Gurave Namaha - 108 times",
+          "Offer yellow flowers to Lord Vishnu",
+          "Wear on Thursday morning during Shukla Paksha"
+        ],
+        "whenToWear": [
+          "Jupiter weak (debilitated Capricorn, 6th/8th/12th without strength)",
+          "Financial difficulties and lack of growth",
+          "Children's problems or delay in children",
+          "Marriage delays",
+          "Lack of wisdom and poor decisions",
+          "Liver or obesity issues",
+          "Education obstacles"
+        ],
+        "whenNOTToWear": [
+          "Jupiter functional malefic for your lagna (check astrologer)",
+          "Already overweight and Jupiter will increase more",
+          "Diabetes if Jupiter in watery signs (increases sugar)",
+          "Over-optimism already causing problems"
+        ],
+        "effects": "Wealth expansion, wisdom, children's wellbeing, marriage, higher education, spiritual growth, liver health, fortune",
+        "sideEffects": "If wrong - over-expansion and debt, weight gain, diabetes, false optimism, poor judgment",
+        "cost": "Rs. 5,000 - 2,00,000 per carat (Ceylon/Sri Lankan best, also Kashmir)",
+        "affordableAlternate": "Citrine (Rs. 500-3,000 per carat) - 40-50% as effective",
+        "note": "Generally safe gemstone if Jupiter not severely afflicted - most benefic planet"
+      },
+      {
+        "planet": "VE",
+        "gemstone": "Diamond (Heera)",
+        "alternates": "White Sapphire, Clear Zircon (affordable)",
+        "color": "Colorless, brilliant sparkle, D-E-F grade ideal",
+        "weight": "0.5-1.5 carats minimum (1 carat ideal)",
+        "metal": "Gold, silver, or platinum",
+        "finger": "Middle finger (Madhyama)",
+        "day": "Friday morning",
+        "hora": "Venus hora (check panchang)",
+        "purification": [
+          "Soak in rose water, raw milk, and Gangajal for 20-30 minutes",
+          "Chant: Om Dram Dreem Draum Sah Shukraya Namaha - 108 times",
+          "Offer white flowers to Goddess Lakshmi",
+          "Wear on Friday morning during Shukla Paksha"
+        ],
+        "whenToWear": [
+          "Venus weak (debilitated Virgo, 6th/8th/12th without strength)",
+          "Marriage delays or marital problems",
+          "Lack of comforts and luxuries",
+          "Creative blocks",
+          "Reproductive health issues (especially women)",
+          "Kidney or urinary problems",
+          "Diabetes (Venus rules sugar metabolism)",
+          "Lack of charm and social skills"
+        ],
+        "whenNOTToWear": [
+          "Venus functional malefic for your lagna",
+          "Already too indulgent in luxuries and sensual pleasures",
+          "Multiple affairs causing relationship chaos",
+          "During Mars or Sun dasha if Venus heavily afflicted"
+        ],
+        "effects": "Marriage success, luxury, beauty, artistic abilities, reproductive health, kidney health, charm, relationship harmony",
+        "sideEffects": "If wrong - relationship problems, over-indulgence, debt from luxury, reproductive issues, diabetes",
+        "cost": "Rs. 2,00,000 - 50,00,000+ per carat (natural diamond - most expensive gemstone)",
+        "affordableAlternate": "White Sapphire (Rs. 3,000-30,000 per carat) - 70-80% as effective",
+        "note": "Most expensive remedy - white sapphire excellent affordable alternative with nearly equal effect"
+      },
+      {
+        "planet": "SA",
+        "gemstone": "Blue Sapphire (Neelam)",
+        "alternates": "Amethyst (affordable, much safer)",
+        "color": "Deep blue, transparent, cornflower blue ideal",
+        "weight": "3-5 carats minimum (4 carats ideal)",
+        "metal": "Gold, silver, or panchdhatu",
+        "finger": "Middle finger (Madhyama)",
+        "day": "Saturday evening",
+        "hora": "Saturn hora (check panchang)",
+        "purification": [
+          "Soak in mustard oil, raw milk, and Gangajal for 20-30 minutes",
+          "Chant: Om Pram Preem Praum Sah Shanaischaraya Namaha - 108 times",
+          "Offer black sesame and mustard oil to Shani Dev",
+          "Wear on Saturday evening during Shukla Paksha"
+        ],
+        "whenToWear": [
+          "Saturn YOGAKARAKA for your lagna (Taurus, Libra ONLY - expert must confirm)",
+          "Saturn in 3rd/6th/11th giving positive results",
+          "Saturn Mahadasha with strong Saturn",
+          "Chronic delays need to be cleared (but ONLY if Saturn favorable)"
+        ],
+        "whenNOTToWear": [
+          "Saturn weak or afflicted (NEVER wear in these conditions)",
+          "Saturn in 1st/4th/7th/8th/12th houses",
+          "Saturn causing Sade Sati pain",
+          "Depression, chronic illness, or severe obstacles",
+          "Not yogakaraka for your lagna",
+          "Expert astrologer doesn't strongly recommend"
+        ],
+        "WARNING": "MOST DANGEROUS GEMSTONE - Blue Sapphire can backfire severely if wrong. Can cause sudden accidents, job loss, depression, illness within days if unsuitable. TRIPLE CHECK with expert before wearing. TEST PERIOD: Keep under pillow for 7 nights - if bad dreams, nightmares, accidents, health issues occur = UNSUITABLE, don't wear.",
+        "testingPeriod": "MANDATORY 7-day testing before wearing - keep under pillow, carry in pocket, observe any negative effects",
+        "effects": "If suitable - rapid success, obstacles removed overnight, discipline rewarded, justice, longevity, career stability",
+        "sideEffects": "If wrong - SEVERE: sudden accidents, job loss, depression, chronic illness, bone problems, complete life collapse",
+        "cost": "Rs. 5,000 - 5,00,000 per carat (Kashmir sapphires most expensive, Ceylon good)",
+        "affordableAlternate": "Amethyst (Rs. 500-5,000 per carat) - MUCH SAFER, 30-40% as effective, recommended instead of Blue Sapphire",
+        "critical": "When in doubt, DON'T wear Blue Sapphire - opt for Hanuman Chalisa instead (safest Saturn remedy)"
+      },
+      {
+        "planet": "RA",
+        "gemstone": "Hessonite Garnet (Gomed)",
+        "alternates": "Spessartite Garnet",
+        "color": "Honey-colored, brownish-yellow to orange, transparent",
+        "weight": "4-7 carats minimum (5 carats ideal)",
+        "metal": "Silver or panchdhatu",
+        "finger": "Middle finger (Madhyama)",
+        "day": "Saturday evening",
+        "hora": "Rahu kala (inauspicious period - check panchang)",
+        "purification": [
+          "Soak in raw milk and Gangajal for 20-30 minutes",
+          "Chant: Om Bhram Bhreem Bhraum Sah Rahave Namaha - 108 times",
+          "Offer to Goddess Durga",
+          "Wear on Saturday evening"
+        ],
+        "whenToWear": [
+          "Rahu in 3rd/6th/10th/11th giving positive results",
+          "Rahu Mahadasha with Rahu well-placed",
+          "Foreign settlement or technology career with Rahu support",
+          "Mysterious illnesses that don't diagnose",
+          "Obsessions need to be channeled positively"
+        ],
+        "whenNOTToWear": [
+          "Rahu in 1st/4th/5th/7th/12th houses",
+          "Rahu causing severe illusions or addictions",
+          "Mental instability or confusion",
+          "Ethical compromises already happening",
+          "Expert doesn't recommend strongly"
+        ],
+        "effects": "Foreign success, technology field success, unconventional career rise, mysterious illness healing, mass popularity, political success",
+        "sideEffects": "If wrong - illusions increase, mental confusion, sudden falls, fraud involvement, addiction tendencies, mysterious problems worsen",
+        "cost": "Rs. 500 - 10,000 per carat (relatively affordable)",
+        "affordableAlternate": "Same gemstone is already affordable",
+        "note": "Durga worship more effective than Hessonite for Rahu - gemstone secondary remedy for Rahu"
+      },
+      {
+        "planet": "KE",
+        "gemstone": "Cat's Eye (Lehsunia)",
+        "alternates": "Chrysoberyl Cat's Eye",
+        "color": "Yellowish-brown to greenish with clear eye effect (chatoyancy)",
+        "weight": "3-6 carats minimum (5 carats ideal)",
+        "metal": "Silver or gold",
+        "finger": "Middle finger or ring finger (Madhyama or Anamika)",
+        "day": "Tuesday or Thursday evening",
+        "hora": "Ketu hora (check panchang)",
+        "purification": [
+          "Soak in raw milk and Gangajal for 20-30 minutes",
+          "Chant: Om Kem Ketave Namaha - 108 times",
+          "Offer to Lord Ganesha",
+          "Wear on Tuesday or Thursday evening"
+        ],
+        "whenToWear": [
+          "Ketu in 3rd/6th/10th/11th/12th giving positive results",
+          "Ketu Mahadasha with Ketu well-placed and Jupiter aspect",
+          "Spiritual practices need enhancement",
+          "Mysterious illnesses affecting life",
+          "Past life karma clearing needed"
+        ],
+        "whenNOTToWear": [
+          "Ketu in 1st/4th/5th/7th causing problems",
+          "Complete detachment from world (can't function)",
+          "Spiritual crisis without guidance",
+          "Mental confusion extreme",
+          "Children's problems (Ketu in 5th)"
+        ],
+        "effects": "Spiritual enlightenment, moksha progress, past life wisdom, mystical abilities, healing powers, detachment from material, liberation",
+        "sideEffects": "If wrong - extreme detachment, life dysfunction, mysterious illness worsens, children's problems, mental confusion increases",
+        "cost": "Rs. 1,000 - 50,000 per carat (chrysoberyl cat's eye most expensive)",
+        "affordableAlternate": "Same - relatively moderate pricing",
+        "note": "Ganesha worship more effective than Cat's Eye for Ketu - gemstone secondary remedy"
+      }
+    ],
+    "gemstoneWearingProcess": [
+      "Step 1: Consult expert astrologer - get confirmation on suitability",
+      "Step 2: Purchase natural, untreated gemstone from reputable source with certificate",
+      "Step 3: Get it set in correct metal and finger setting (touch skin)",
+      "Step 4: Choose auspicious day and hora (check panchang or ask astrologer)",
+      "Step 5: Purification ritual - soak in milk/Gangajal, chant mantras",
+      "Step 6: Wear during specified hora on specified day",
+      "Step 7: For Saturn (Blue Sapphire) - TEST for 7 days before permanent wearing",
+      "Step 8: Observe effects for 40 days - positive changes should start appearing",
+      "Step 9: Wear continuously - remove only for specific activities (surgery, childbirth, funeral)",
+      "Step 10: Replace if damaged, lost, or after 2-3 years (re-energize)"
+    ],
+    "costEffectiveStrategy": "If budget limited - prioritize MOST afflicted planet OR current dasha planet gemstone. One correct gemstone better than multiple wrong ones."
+  },
+  "mantraRemedies": {
+    "name": "Mantra Therapy - Sound Vibration Healing",
+    "principle": "Each planet resonates with specific sound frequencies - chanting mantras tunes consciousness to planetary energy",
+    "effectiveness": "Second most powerful remedy after gemstones - FREE and accessible to all",
+    "consistency": "Must chant daily for minimum 40 days (one mandala) - 90 days or 120 days even better",
+    "count": "108 times minimum (one mala) - can do multiples: 108, 216, 324, 432, 540 for stronger effect",
+    "timing": "Best during planet's hora and on planet's day - but anytime is better than not doing",
+    "method": "Use rudraksha or tulsi mala for counting, sit facing relevant direction, focused mind, correct pronunciation",
+    "planets": [
+      {
+        "planet": "SU",
+        "beejaMantra": "Om Ghrini Suryaya Namaha",
+        "pronunciation": "Om Ghree-nee Soor-yaa-ya Na-ma-ha",
+        "meaning": "Salutations to the Sun God",
+        "count": "108 times daily (7000 times in 40 days for major effect)",
+        "timing": "Sunday morning during sunrise, Sun hora",
+        "direction": "Face East",
+        "benefits": "Authority, confidence, vitality, government favor, father's wellbeing, heart health, leadership",
+        "additionalMantras": {
+          "gayatriMantra": "Om Bhur Bhuvah Svaha, Tat Savitur Varenyam, Bhargo Devasya Dhimahi, Dhiyo Yo Nah Prachodayat",
+          "meaning": "Most powerful universal mantra - Sun's essence - removes all sins",
+          "timing": "Sunrise, noon, sunset (Trisandhya) - but sunrise most important",
+          "adityaHridayam": "Long stotra - chant on Sundays for major Sun problems - very powerful",
+          "suryaAshtakam": "Eight verses praising Sun - quick daily option"
+        },
+        "duration": "Minimum 40 days, ideal 90 days for chronic Sun problems",
+        "fasting": "Fast on Sundays (no salt after sunset) while chanting - amplifies effect"
+      },
+      {
+        "planet": "MO",
+        "beejaMantra": "Om Som Somaya Namaha",
+        "pronunciation": "Om Som So-maa-ya Na-ma-ha",
+        "meaning": "Salutations to the Moon God",
+        "count": "108 times daily (11000 times in 40 days for major effect)",
+        "timing": "Monday evening during moon rise, Moon hora, Shukla Paksha (waxing moon) preferred",
+        "direction": "Face North-West",
+        "benefits": "Mental peace, emotional stability, intuition, mother's wellbeing, public popularity, sleep quality, blood health",
+        "additionalMantras": {
+          "chandraGayatri": "Om Kshira Putraya Vidmahe, Amrita Tattvaya Dhimahi, Tanno Chandra Prachodayat",
+          "meaning": "Moon Gayatri - for mental peace",
+          "chandraStotra": "Om Dadhi Shankha Tushara Bham... - Moon prayer for mental disorders",
+          "changraAshtakam": "Eight verses praising Moon"
+        },
+        "duration": "Minimum 40 days, continue longer for mental health issues (90-120 days)",
+        "fasting": "Fast on Mondays (milk and fruits allowed) while chanting",
+        "note": "Chant during waxing moon (Shukla Paksha) for building energy, during waning moon (Krishna Paksha) for removing mental problems"
+      },
+      {
+        "planet": "MA",
+        "beejaMantra": "Om Kram Kreem Kraum Sah Bhaumaya Namaha",
+        "pronunciation": "Om Kram Kreem Kraum Sah Bhau-maa-ya Na-ma-ha",
+        "meaning": "Salutations to Mars God",
+        "count": "108 times daily (10000 times in 40 days for major effect)",
+        "timing": "Tuesday morning or evening, Mars hora",
+        "direction": "Face South",
+        "benefits": "Courage, energy, property success, victory over enemies, blood health, sibling harmony, Mangal Dosha mitigation",
+        "additionalMantras": {
+          "hanumanChalisa": "MOST POWERFUL Mars remedy - 40 verses praising Hanuman - controls Mars completely",
+          "effectiveness": "Better than Mars gemstone - Hanuman is Mars deity",
+          "chanting": "Daily once (takes 10-15 minutes) - Tuesdays twice for extra power",
+          "for": "Anger control, Mangal Dosha, property disputes, courage, protection from accidents",
+          "marsStotra": "Om Dharani Garbha Sambhutam... - Mars prayer",
+          "mangalaAshtakam": "Eight verses praising Mars"
+        },
+        "duration": "Minimum 40 days for anger control, 90 days for Mangal Dosha mitigation",
+        "fasting": "Fast on Tuesdays while chanting - consume only red lentil soup or red food",
+        "critical": "HANUMAN CHALISA is ultimate Mars remedy - memorize and chant daily for life transformation"
+      },
+      {
+        "planet": "ME",
+        "beejaMantra": "Om Bram Breem Braum Sah Budhaya Namaha",
+        "pronunciation": "Om Bram Breem Braum Sah Boo-dhaa-ya Na-ma-ha",
+        "meaning": "Salutations to Mercury God",
+        "count": "108 times daily (9000 times in 40 days for major effect)",
+        "timing": "Wednesday morning, Mercury hora",
+        "direction": "Face North",
+        "benefits": "Business success, communication skills, intelligence, learning ability, nervous system health, skin health",
+        "additionalMantras": {
+          "vishnuSahasranama": "1000 names of Vishnu - Mercury's deity - very powerful for business",
+          "chanting": "Once weekly on Wednesdays or daily for major Mercury problems",
+          "ganeshaMantra": "Om Gam Ganapataye Namaha - Ganesha removes Mercury obstacles - business success",
+          "budhaGayatri": "Om Gajakarnakaya Vidmahe, Shukadhwajaya Dhimahi, Tanno Budha Prachodayat",
+          "budhaAshtakam": "Eight verses praising Mercury"
+        },
+        "duration": "Minimum 40 days for business improvement, 90 days for learning difficulties",
+        "fasting": "Fast on Wednesdays (green vegetables and fruits allowed) while chanting"
+      },
+      {
+        "planet": "JU",
+        "beejaMantra": "Om Gram Greem Graum Sah Gurave Namaha",
+        "pronunciation": "Om Gram Greem Graum Sah Gu-ra-ve Na-ma-ha",
+        "meaning": "Salutations to Jupiter God (Guru)",
+        "count": "108 times daily (19000 times in 40 days for major effect)",
+        "timing": "Thursday morning, Jupiter hora",
+        "direction": "Face North-East",
+        "benefits": "Wealth, wisdom, children's wellbeing, marriage, higher education, spiritual growth, liver health, fortune",
+        "additionalMantras": {
+          "guruStotra": "Om Devanam Cha Rishinam Cha... - Jupiter prayer - for wealth and wisdom",
+          "vishnuMantra": "Om Namo Bhagavate Vasudevaya - Jupiter's deity Vishnu - very powerful",
+          "lakshmiMantra": "Om Shreem Mahalakshmiyei Namaha - for wealth aspect of Jupiter",
+          "brihaspatiGayatri": "Om Vrishabha Dwajaya Vidmahe, Kruni Hasthaya Dhimahi, Tanno Guru Prachodayat",
+          "guruAshtakam": "Eight verses praising Jupiter"
+        },
+        "duration": "Minimum 40 days, 90 days for children/marriage issues, 120 days for major wealth problems",
+        "fasting": "Fast on Thursdays (yellow food like banana, turmeric milk allowed) while chanting",
+        "note": "Jupiter mantras generally safe and beneficial for everyone - most benevolent planet"
+      },
+      {
+        "planet": "VE",
+        "beejaMantra": "Om Dram Dreem Draum Sah Shukraya Namaha",
+        "pronunciation": "Om Dram Dreem Draum Sah Shoo-kraa-ya Na-ma-ha",
+        "meaning": "Salutations to Venus God (Shukra)",
+        "count": "108 times daily (16000 times in 40 days for major effect)",
+        "timing": "Friday morning, Venus hora",
+        "direction": "Face East or South-East",
+        "benefits": "Marriage success, luxury, beauty, artistic abilities, reproductive health, kidney health, charm, relationship harmony",
+        "additionalMantras": {
+          "lakshmiStotra": "Om Shreem Hreem Shreem Kamale Kamal... - Goddess Lakshmi - Venus deity - wealth and beauty",
+          "effectiveness": "Most powerful for Venus - brings wealth, beauty, marital harmony",
+          "mahalakshmiAshtakam": "Eight verses praising Lakshmi - Fridays",
+          "shukraGayatri": "Om Aswa Dwajaya Vidmahe, Dhanur Hasthaya Dhimahi, Tanno Shukra Prachodayat",
+          "shukraStotra": "Om Hima Kunda Mrina Labham... - Venus prayer for marriage and luxury"
+        },
+        "duration": "Minimum 40 days for relationship issues, 90 days for marriage manifestation or marital harmony",
+        "fasting": "Fast on Fridays (white food like milk, rice, sugar allowed) while chanting"
+      },
+      {
+        "planet": "SA",
+        "beejaMantra": "Om Pram Preem Praum Sah Shanaischaraya Namaha",
+        "pronunciation": "Om Pram Preem Praum Sah Sha-nai-sha-raa-ya Na-ma-ha",
+        "meaning": "Salutations to Saturn God (Shani Dev)",
+        "count": "108 times daily (23000 times in 40 days for major effect)",
+        "timing": "Saturday evening, Saturn hora",
+        "direction": "Face West",
+        "benefits": "Obstacle removal, discipline rewarded, justice, career stability, chronic illness relief, depression mitigation",
+        "additionalMantras": {
+          "hanumanChalisa": "MOST POWERFUL and SAFEST Saturn remedy - chant daily - better than Blue Sapphire",
+          "effectiveness": "Hanuman is most powerful for Saturn control - zero side effects",
+          "recommendation": "For Sade Sati, Saturn Dasha, any Saturn problems - Hanuman Chalisa is BEST remedy",
+          "shaniStotra": "Nilanjana Samabhasam... - Saturn prayer - for Sade Sati relief",
+          "shaniGayatri": "Om Kaka Dwajaya Vidmahe, Khadga Hasthaya Dhimahi, Tanno Mandah Prachodayat",
+          "dashaMahavidya": "Ten great wisdom goddesses - powerful for Saturn - advanced practice",
+          "shanidevaAshtakam": "Eight verses praising Saturn"
+        },
+        "duration": "Throughout Saturn Dasha or Sade Sati (7.5 years or 2.5 years) - minimum 90 days for acute problems",
+        "fasting": "Fast on Saturdays (black food like black sesame allowed, no oil) while chanting",
+        "critical": "HANUMAN CHALISA daily is ultimate Saturn remedy - safer and often more effective than Blue Sapphire"
+      },
+      {
+        "planet": "RA",
+        "beejaMantra": "Om Bhram Bhreem Bhraum Sah Rahave Namaha",
+        "pronunciation": "Om Bhram Bhreem Bhraum Sah Raa-ha-ve Na-ma-ha",
+        "meaning": "Salutations to Rahu (North Node)",
+        "count": "108 times daily (18000 times in 40 days for major effect)",
+        "timing": "Saturday evening, Rahu kala (inauspicious period daily - check panchang)",
+        "direction": "Face South-West",
+        "benefits": "Foreign success, technology career, unconventional success, mysterious illness healing, addiction control, illusion clarity",
+        "additionalMantras": {
+          "durgaChalisa": "40 verses praising Goddess Durga - MOST POWERFUL Rahu remedy",
+          "durgaSaptashati": "700 verses praising Durga - ultimate Rahu control - chant on Tuesdays/Fridays",
+          "effectiveness": "Durga worship is most effective for Rahu - better than Hessonite gemstone",
+          "mahamrityunjayaMantra": "Om Tryambakam Yajamahe... - Shiva mantra - powerful for Rahu-caused diseases",
+          "rahuGayatri": "Om Naga Dwajaya Vidmahe, Padma Hasthaya Dhimahi, Tanno Rahu Prachodayat",
+          "rahuStotra": "Om Ardha Kayam Maha Viryam... - Rahu prayer"
+        },
+        "duration": "Throughout Rahu Dasha (18 years) or minimum 90 days for acute obsessions/addictions",
+        "fasting": "Fast on Saturdays while chanting - donate to poor and outcasts",
+        "critical": "DURGA worship essential for Rahu control - especially Durga Chalisa daily or Durga Saptashati weekly"
+      },
+      {
+        "planet": "KE",
+        "beejaMantra": "Om Kem Ketave Namaha",
+        "pronunciation": "Om Kem Ke-ta-ve Na-ma-ha",
+        "meaning": "Salutations to Ketu (South Node)",
+        "count": "108 times daily (7000 times in 40 days for major effect)",
+        "timing": "Tuesday or Thursday evening, Ketu hora",
+        "direction": "Face South",
+        "benefits": "Spiritual enlightenment, moksha progress, past life wisdom, mystical abilities, mysterious illness healing, detachment wisdom",
+        "additionalMantras": {
+          "ganeshaMantra": "Om Gam Ganapataye Namaha - MOST POWERFUL Ketu remedy - Ganesha removes Ketu obstacles",
+          "effectiveness": "Ganesha worship is best for Ketu - brings clarity and removes confusion",
+          "ganeshaChalisa": "40 verses praising Ganesha - for Ketu problems",
+          "ganeshaSahasranama": "1000 names of Ganesha - powerful for major Ketu afflictions",
+          "ketuGayatri": "Om Ashwa Dwajaya Vidmahe, Shoola Hasthaya Dhimahi, Tanno Ketu Prachodayat",
+          "ketuStotra": "Om Palasha Pushpa Sankasham... - Ketu prayer",
+          "mahamrityunjayaMantra": "For Ketu-caused mysterious diseases and spiritual crisis"
+        },
+        "duration": "Throughout Ketu Dasha (7 years) or minimum 90 days for spiritual crisis resolution",
+        "fasting": "Fast on Tuesdays while chanting - feed and help dogs",
+        "critical": "GANESHA worship essential for Ketu - removes obstacles to spiritual progress and brings mental clarity"
+      }
+    ],
+    "mantraChantingGuidelines": {
+      "preparation": [
+        "Bath and clean clothes preferred (but not mandatory if not possible)",
+        "Sit in quiet place facing correct direction",
+        "Use rudraksha or tulsi mala for counting",
+        "Light lamp (ghee diya) and incense",
+        "Keep image or idol of deity/planet if available"
+      ],
+      "chantingMethod": [
+        "Sit in comfortable position (Sukhasana or chair)",
+        "Close eyes or soft gaze on deity image",
+        "Chant with clear pronunciation - neither too fast nor too slow",
+        "Focus mind on meaning or simply on sound vibration",
+        "Complete one mala (108 repetitions) minimum",
+        "Don't cross the head bead (meru) - reverse direction if doing multiple malas"
+      ],
+      "consistency": [
+        "Same time daily preferred - builds power",
+        "Same place preferred - energy accumulates",
+        "If miss a day, continue next day - don't restart count",
+        "Minimum 40 days (one mandala) for results",
+        "90 days better, 120 days even more powerful",
+        "Some continue lifelong for major problems or spiritual growth"
+      ],
+      "pronounciation": "Correct pronunciation important but sincere devotion more important - God sees intention",
+      "modernAdaptations": [
+        "Can listen to recorded mantras in commute (less effective but better than nothing)",
+        "Use mobile app for mala counting if needed",
+        "Short on time - do 27 or 54 instead of 108 (but 108 is ideal)",
+        "Traveling - can do mentally (Mansik Japa) - 30-40% as effective"
+      ]
+    },
+    "mantraEffectiveness": "Mantras are FREE, zero side effects, highly effective - should be first remedy for everyone regardless of financial status"
+  },
+  "deityWorship": {
+    "name": "Deity Worship - Graha Devata Upasana",
+    "principle": "Each planet is overseen by a deity - worshiping the deity pleases the planet and brings grace",
+    "effectiveness": "Very powerful when combined with mantras and charity - creates devotional energy",
+    "method": "Daily puja at home, weekly temple visits, special worship on planet's day",
+    "planets": [
+      {
+        "planet": "SU",
+        "primaryDeity": "Lord Surya (Sun God)",
+        "secondaryDeities": [
+          "Lord Shiva (as Aditya)",
+          "Lord Rama"
+        ],
+        "worship": [
+          "Surya Namaskar - 12 rounds daily facing East at sunrise",
+          "Offer Arghya (water) to rising Sun with red flowers in copper vessel",
+          "Visit Sun temple or Surya Mandir on Sundays",
+          "Light ghee lamp facing East on Sundays",
+          "Offer red flowers, wheat, jaggery to Surya"
+        ],
+        "temples": "Konark Sun Temple (Odisha), Modhera Sun Temple (Gujarat), Surya Pahar (Assam)",
+        "fasts": "Fast on Sundays - no salt after sunset, break fast after sunset",
+        "vratSpecial": "Chhath Puja (Bihar/UP festival) - very powerful Sun worship - October/November",
+        "benefits": "Authority, vitality, government favor, father's blessings, recognition"
+      },
+      {
+        "planet": "MO",
+        "primaryDeity": "Lord Shiva (Moon on his head) and Goddess Parvati",
+        "secondaryDeities": [
+          "Lord Chandra (Moon God)",
+          "Divine Mother aspect"
+        ],
+        "worship": [
+          "Monday fasts for Lord Shiva - drink milk and water only",
+          "Visit Shiva temple on Mondays - offer milk, water, Bel leaves",
+          "Pradosh Vrat - fast on 13th day (Trayodashi) of each lunar fortnight",
+          "Chant Om Namah Shivaya on Mondays",
+          "Offer white flowers and rice to Moon deity"
+        ],
+        "temples": "Any Shiva temple, especially Jyotirlingas (12 sacred Shiva temples)",
+        "fasts": "Monday fasts - fruits and milk allowed, or complete water fast",
+        "vratSpecial": "Pradosh Vrat (13th lunar day) twice monthly - very powerful for Moon",
+        "benefits": "Mental peace, emotional stability, mother's wellbeing, public popularity"
+      },
+      {
+        "planet": "MA",
+        "primaryDeity": "Lord Hanuman (Bajrang Bali)",
+        "secondaryDeities": [
+          "Lord Kartikeya (Murugan)",
+          "Goddess Durga (as Chamunda)"
+        ],
+        "worship": [
+          "Hanuman Chalisa daily - MOST POWERFUL Mars remedy",
+          "Visit Hanuman temple every Tuesday",
+          "Light red oil lamp at Hanuman temple on Tuesdays",
+          "Offer red flowers, sindoor (vermillion), and jasmine oil to Hanuman",
+          "Chant Hanuman mantras: Om Hum Hanumate Namaha"
+        ],
+        "temples": "Any Hanuman temple - very common in India, also Murugan temples in South India",
+        "fasts": "Tuesday fasts - red lentil soup or red food allowed",
+        "vratSpecial": "Tuesday Hanuman worship for 40 consecutive Tuesdays - life transformation for Mars issues",
+        "benefits": "Courage, anger control, property success, Mangal Dosha mitigation, protection",
+        "critical": "Hanuman worship is ULTIMATE Mars remedy - more powerful than any other"
+      },
+      {
+        "planet": "ME",
+        "primaryDeity": "Lord Vishnu (Preserver)",
+        "secondaryDeities": [
+          "Lord Ganesha (remover of obstacles)",
+          "Lord Buddha"
+        ],
+        "worship": [
+          "Vishnu Sahasranama (1000 names) on Wednesdays",
+          "Ganesha worship - Om Gam Ganapataye Namaha",
+          "Visit Vishnu temple or Ganesha temple on Wednesdays",
+          "Offer green items, tulsi leaves to Vishnu",
+          "Offer modak (sweet) to Ganesha"
+        ],
+        "temples": "Vishnu temples, Ganesha temples (very common), Tirupati Balaji, Padmanabhaswamy",
+        "fasts": "Wednesday fasts - green vegetables allowed",
+        "vratSpecial": "Ganesh Chaturthi - annual Ganesha festival in August/September - very auspicious",
+        "benefits": "Business success, communication skills, intelligence, obstacle removal"
+      },
+      {
+        "planet": "JU",
+        "primaryDeity": "Lord Vishnu (especially as Guru/Teacher)",
+        "secondaryDeities": [
+          "Lord Dakshinamurthy (Shiva as teacher)",
+          "Lord Brahma",
+          "Brihaspati Dev"
+        ],
+        "worship": [
+          "Vishnu worship on Thursdays - Om Namo Bhagavate Vasudevaya",
+          "Visit Vishnu temple on Thursdays",
+          "Satyanarayan Puja - special Jupiter worship at home monthly",
+          "Offer yellow flowers, turmeric, yellow items to Vishnu",
+          "Feed Brahmins and cows on Thursdays"
+        ],
+        "temples": "Vishnu temples, especially Tirupati, Guruvayoor, Padmanabhaswamy",
+        "fasts": "Thursday fasts - yellow food like banana, turmeric milk allowed",
+        "vratSpecial": "Satyanarayan Puja monthly on Purnima (full moon) - brings Jupiter blessings for wealth and children",
+        "benefits": "Wealth, wisdom, children, marriage, education, spiritual growth"
+      },
+      {
+        "planet": "VE",
+        "primaryDeity": "Goddess Lakshmi (Wealth and Beauty)",
+        "secondaryDeities": [
+          "Goddess Parvati",
+          "Lord Shukracharya",
+          "Goddess Annapurna"
+        ],
+        "worship": [
+          "Lakshmi puja on Fridays - Om Shreem Mahalakshmiyei Namaha",
+          "Light ghee lamp facing North on Fridays",
+          "Offer white flowers, sugar, rice, kheer to Lakshmi",
+          "Keep house clean and beautiful (Lakshmi likes cleanliness)",
+          "Visit Lakshmi temple or any Devi temple on Fridays"
+        ],
+        "temples": "Lakshmi temples, Devi temples, Mahalakshmi temples (Mumbai, Kolhapur)",
+        "fasts": "Friday fasts - white food like milk, rice, sugar allowed",
+        "vratSpecial": "Varalakshmi Vrat - annual Friday in Shravana month (July-August) - very powerful for Venus",
+        "benefits": "Marriage, wealth, beauty, luxury, artistic abilities, relationship harmony",
+        "note": "Keep house clean and organized - Lakshmi enters clean beautiful homes"
+      },
+      {
+        "planet": "SA",
+        "primaryDeity": "Lord Hanuman (controls Saturn) and Lord Shani Dev",
+        "secondaryDeities": [
+          "Lord Shiva",
+          "Goddess Kali",
+          "Lord Yama"
+        ],
+        "worship": [
+          "Hanuman Chalisa daily - SAFEST and MOST EFFECTIVE Saturn remedy",
+          "Hanuman temple visit every Saturday",
+          "Shani temple visit on Saturdays - offer mustard oil lamp",
+          "Pour mustard oil on Shani idol (never directly on Shanidev, only at base)",
+          "Offer black sesame, black cloth, iron to Shani Dev",
+          "Light mustard oil lamp under Peepal tree on Saturdays"
+        ],
+        "temples": "Hanuman temples, Shani temples (Shingnapur, Tirunallar), Kala Bhairava temples",
+        "fasts": "Saturday fasts - black sesame allowed, no oil",
+        "vratSpecial": "Hanuman worship for 40 Saturdays during Sade Sati - maximum protection",
+        "benefits": "Obstacle removal, Sade Sati relief, career stability, justice, patience",
+        "critical": "HANUMAN worship is safest Saturn remedy - protects from Shani's harsh effects",
+        "caution": "Never offer alcohol or non-veg to Shani - he is strict deity requiring cleanliness"
+      },
+      {
+        "planet": "RA",
+        "primaryDeity": "Goddess Durga (Maha Shakti)",
+        "secondaryDeities": [
+          "Goddess Kali",
+          "Lord Bhairava",
+          "Goddess Chamunda"
+        ],
+        "worship": [
+          "Durga Chalisa daily - MOST POWERFUL Rahu remedy",
+          "Durga Saptashati path on Tuesdays or Fridays - 700 verses",
+          "Visit Durga/Shakti temple on Tuesdays and Saturdays",
+          "Offer red flowers, sindoor, red cloth to Durga",
+          "Light ghee lamp to Durga on Tuesdays"
+        ],
+        "temples": "Durga temples, Shakti Peethas (51 sacred Devi temples), Kali temples",
+        "fasts": "Tuesday or Saturday fasts for Durga",
+        "vratSpecial": "Navratri (nine nights) twice yearly - March-April and September-October - very powerful for Rahu control",
+        "benefits": "Rahu control, addiction removal, foreign success, illusion clarity, protection",
+        "critical": "Durga worship essential for Rahu Dasha - brings divine protection from Rahu's illusions"
+      },
+      {
+        "planet": "KE",
+        "primaryDeity": "Lord Ganesha (Obstacle Remover)",
+        "secondaryDeities": [
+          "Lord Matsya (Fish incarnation of Vishnu)",
+          "Lord Shiva",
+          "Goddess Durga (as Skandamata)"
+        ],
+        "worship": [
+          "Ganesha puja daily - Om Gam Ganapataye Namaha",
+          "Ganesh Chaturthi celebration with devotion",
+          "Visit Ganesha temple on Tuesdays and Wednesdays",
+          "Offer modak (Ganesha's favorite sweet) and Durva grass",
+          "Light ghee lamp to Ganesha"
+        ],
+        "temples": "Ganesha temples (very common), Ashtavinayak (8 sacred Ganesha temples in Maharashtra)",
+        "fasts": "Tuesday or Wednesday fasts for Ganesha",
+        "vratSpecial": "Sankashti Chaturthi - monthly 4th day after full moon - fast and Ganesha worship for Ketu problems",
+        "benefits": "Spiritual clarity, obstacle removal, moksha progress, mysterious illness healing, mental clarity",
+        "critical": "Ganesha worship removes Ketu's confusion and brings spiritual progress with clarity"
+      }
+    ],
+    "generalWorshipGuidelines": {
+      "homeAlt ar": [
+        "Create small altar at home - East or North-East corner ideal",
+        "Keep pictures/idols of your Ishta Devata (chosen deity) and planets needing remedies",
+        "Light lamp daily - ghee lamp best, oil lamp okay",
+        "Offer fresh flowers and water daily",
+        "Incense and bell optional but recommended",
+        "Keep altar clean and sacred"
+      ],
+      "templeVisits": [
+        "Visit relevant planet's temple on planet's day weekly",
+        "Offer appropriate items to deity",
+        "Do pradakshina (circumambulation) 3, 7, or 11 times",
+        "Sit in temple and meditate or chant mantras",
+        "Donate to temple or feed temple priests"
+      ],
+      "consistency": "Regular worship daily at home + weekly temple visit more powerful than occasional elaborate pujas",
+      "attitude": "Devotion and sincerity more important than elaborate rituals - simple heartfelt worship is enough"
+    }
+  },
+  "charityRemedies": {
+    "name": "Daan (Charity) - Karmic Balancing Through Giving",
+    "principle": "Giving away planet's items reduces planet's negative karma - like paying a debt before it's demanded",
+    "effectiveness": "Very powerful for karmic mitigation - creates positive karma to balance negative",
+    "timing": "Donate on planet's day during planet's hora for maximum effect",
+    "attitude": "Give with humility and compassion - not for show or ego - intention matters most",
+    "recipients": "Give to appropriate recipients - poor, needy, specific people associated with planet",
+    "planets": [
+      {
+        "planet": "SU",
+        "day": "V01",
+        "timing": "Morning during Sun hora (sunrise to ~1.5 hours after)",
+        "itemsToDonate": [
+          "Wheat grains (1-2 kg)",
+          "Jaggery (gur)",
+          "Red cloth or red items",
+          "Copper vessel or copper items",
+          "Ruby (if affordable) or red gemstone",
+          "Gold (if affordable)",
+          "Medicines for heart diseases",
+          "Red lentils (Masoor dal)",
+          "Red flowers"
+        ],
+        "recipients": "Father figures, government servants, poor people, temples, old age homes",
+        "special": "Feed wheat bread to cows on Sundays - very powerful Sun remedy",
+        "duration": "Every Sunday for 40 weeks for major Sun problems",
+        "benefits": "Reduces ego problems, improves authority, helps father, strengthens heart, removes Sun afflictions"
+      },
+      {
+        "planet": "MO",
+        "day": "V02",
+        "timing": "Evening during Moon hora, preferably Shukla Paksha (waxing moon)",
+        "itemsToDonate": [
+          "White rice (chawal)",
+          "White cloth or white items",
+          "Milk or milk products",
+          "Silver items or silver coins",
+          "Pearls (if affordable)",
+          "White flowers",
+          "Sugar or white sweets",
+          "Water to thirsty",
+          "Camphor (kapoor)"
+        ],
+        "recipients": "Mothers, women, widows, mentally ill, orphans, poor families",
+        "special": "Donate milk to poor families or feed milk-rice (kheer) to poor on Mondays",
+        "duration": "Every Monday for 40 weeks for major Moon problems (depression, mental issues)",
+        "benefits": "Mental peace, emotional stability, mother's wellbeing, removes mental disorders, improves public image"
+      },
+      {
+        "planet": "MA",
+        "day": "V03",
+        "timing": "Morning or evening during Mars hora",
+        "itemsToDonate": [
+          "Red lentils (Masoor dal)",
+          "Red cloth or red items",
+          "Copper items",
+          "Jaggery (gur)",
+          "Red Coral (if affordable)",
+          "Wheat",
+          "Knives or sharp instruments (to temples, not individuals)",
+          "Red flowers",
+          "Blood donation (excellent Mars remedy)"
+        ],
+        "recipients": "Brothers, soldiers, police, young men, poor people, Hanuman temples",
+        "special": "Blood donation every 3 months - excellent Mars remedy, channels Mars energy positively",
+        "duration": "Every Tuesday for 40 weeks for Mangal Dosha or major Mars problems",
+        "benefits": "Controls anger, helps siblings, property success, removes Mangal Dosha, reduces accidents, improves courage",
+        "note": "Blood donation is one of best Mars remedies - donating Mars element (blood) reduces negative Mars"
+      },
+      {
+        "planet": "ME",
+        "day": "V04",
+        "timing": "Morning during Mercury hora",
+        "itemsToDonate": [
+          "Green vegetables and green items",
+          "Green cloth",
+          "Emerald (if affordable)",
+          "Books, notebooks, pens, stationery",
+          "Educational materials to students",
+          "Money to students or schools",
+          "Green moong dal",
+          "Durva grass (Bermuda grass)",
+          "Tulsi plant"
+        ],
+        "recipients": "Students, teachers, scholars, poor students needing education, schools, libraries",
+        "special": "Donate educational materials to poor students - books, uniforms, fees - very powerful Mercury remedy",
+        "duration": "Every Wednesday for 40 weeks for business losses or communication problems",
+        "benefits": "Business success, communication improvement, intelligence boost, skin health, nervous system healing, helps children's education"
+      },
+      {
+        "planet": "JU",
+        "day": "V05",
+        "timing": "Morning during Jupiter hora",
+        "itemsToDonate": [
+          "Yellow items - turmeric, yellow cloth, yellow flowers",
+          "Gram dal (chana dal - yellow lentils)",
+          "Gold (if affordable)",
+          "Yellow Sapphire (if affordable)",
+          "Books - especially religious texts",
+          "Donate to education - schools, students",
+          "Donate to temples and priests",
+          "Honey",
+          "Banana or yellow fruits",
+          "Saffron"
+        ],
+        "recipients": "Priests (Brahmins), teachers, gurus, poor Brahmins, scholars, temples, schools",
+        "special": "Feed Brahmins and scholars on Thursdays - cook meal or give money - traditional Jupiter remedy",
+        "duration": "Every Thursday for 40 weeks for children/marriage/wealth problems",
+        "benefits": "Wealth increase, children's wellbeing, marriage prospects, education success, spiritual growth, wisdom, liver health",
+        "note": "Feeding cows yellow items (turmeric, gram dal) on Thursdays also very effective"
+      },
+      {
+        "planet": "VE",
+        "day": "V06",
+        "timing": "Morning during Venus hora",
+        "itemsToDonate": [
+          "White items - rice, sugar, white cloth, white flowers",
+          "Cow's milk or ghee",
+          "Silver items",
+          "Diamond or white gemstones (if affordable)",
+          "Perfumes and fragrances",
+          "Beautiful clothes to poor women",
+          "Sweets - especially white or cream sweets",
+          "Curd or yogurt",
+          "White sesame seeds"
+        ],
+        "recipients": "Women, young girls, poor brides, widows, female orphans, women's shelters",
+        "special": "Help poor girls' marriages - donate for wedding expenses - very powerful Venus remedy for own marriage",
+        "duration": "Every Friday for 40 weeks for marriage delays or marital problems",
+        "benefits": "Marriage success, luxury increase, relationship harmony, beauty enhancement, reproductive health, artistic abilities",
+        "note": "Feed white food to cows on Fridays - milk, rice, white bread"
+      },
+      {
+        "planet": "SA",
+        "day": "V07",
+        "timing": "Evening during Saturn hora (sunset time)",
+        "itemsToDonate": [
+          "Black sesame seeds (til)",
+          "Black cloth or black items",
+          "Mustard oil",
+          "Iron items",
+          "Black gram (urad dal)",
+          "Blue Sapphire (if affordable and suitable)",
+          "Leather items or shoes to poor",
+          "Food to crows, dogs, ants",
+          "Warm clothes to poor in winter",
+          "Walking stick to elderly"
+        ],
+        "recipients": "Poor people, elderly, handicapped, servants, laborers, beggars, outcasts, crows, dogs, ants",
+        "special": "Serve poor and elderly consistently - feed them, help them - Saturn's people - very powerful remedy",
+        "duration": "Every Saturday throughout Sade Sati (7.5 years) or Saturn Dasha (19 years) - or minimum 40 weeks for acute problems",
+        "benefits": "Sade Sati relief, obstacle removal, career stability, chronic illness improvement, depression relief, patience development",
+        "critical": "Feed crows and dogs on Saturdays - Saturn's creatures - very effective and easy remedy",
+        "note": "Lighting mustard oil lamp under Peepal tree on Saturdays - traditional Saturn remedy"
+      },
+      {
+        "planet": "RA",
+        "day": "V07",
+        "timing": "Evening during Saturn hora or Rahu Kaal",
+        "itemsToDonate": [
+          "Multi-colored blankets or cloth",
+          "Coconut",
+          "Black and blue items",
+          "Hessonite (Gomed) if affordable",
+          "Mustard oil",
+          "Lead or iron items",
+          "Food to dogs (Rahu's animal)",
+          "Help to outcasts and foreigners",
+          "Black sesame"
+        ],
+        "recipients": "Outcasts, foreigners, mentally ill, addicts, dogs, poor people, lepers",
+        "special": "Feed dogs regularly (daily if possible) - bread, rice, biscuits - powerful Rahu remedy",
+        "duration": "Every Saturday throughout Rahu Dasha (18 years) or minimum 40 weeks for obsessions/addictions",
+        "benefits": "Rahu control, addiction removal, foreign success, obsession healing, mental clarity, mysterious illness healing",
+        "critical": "Help outcasts and downtrodden - Rahu represents those rejected by society - serving them pacifies Rahu"
+      },
+      {
+        "planet": "KE",
+        "day": "Tuesday or Thursday",
+        "timing": "Morning or evening during Ketu hora",
+        "itemsToDonate": [
+          "Multi-colored cloth or blankets",
+          "Gray or smoky colored items",
+          "Cat's Eye (if affordable and suitable)",
+          "Flag or banner to temple",
+          "Spiritual books",
+          "Help to dogs (Ketu's animal)",
+          "Black and white sesame mixed",
+          "Food to spiritual seekers"
+        ],
+        "recipients": "Spiritual seekers, saints, sadhus, dogs, orphans, people in isolation",
+        "special": "Feed and care for dogs regularly - Ketu's animal - powerful remedy for Ketu problems",
+        "duration": "Throughout Ketu Dasha (7 years) or minimum 40 weeks for spiritual crisis or mysterious illness",
+        "benefits": "Spiritual clarity, moksha progress, mysterious illness healing, detachment wisdom, past life insight",
+        "note": "Donate to spiritual causes - ashrams, meditation centers, spiritual seekers - Ketu appreciates spiritual charity"
+      }
+    ],
+    "generalCharityGuidelines": {
+      "attitude": [
+        "Give with humility and compassion - not for show",
+        "Don't expect thanks or recognition",
+        "Give to those who truly need - not just anyone",
+        "Intention matters more than quantity",
+        "Regular small charity better than rare large charity"
+      ],
+      "timing": "Planet's day and hora most powerful, but anytime is better than not doing",
+      "consistency": "Weekly charity for 40 weeks creates significant karmic shift",
+      "affordability": "Give according to capacity - Rs. 10 with pure heart more powerful than Rs. 10,000 with ego"
+    }
+  },
+  "fastingRemedies": {
+    "name": "Upavasa (Fasting) - Self-Discipline and Planetary Appeasement",
+    "principle": "Fasting shows planet you're willing to sacrifice - demonstrates sincerity and self-control",
+    "effectiveness": "Powerful when combined with mantras and charity - creates physical and energetic cleansing",
+    "types": "Complete fast (water only), partial fast (fruits/milk), specific food avoidance",
+    "planets": [
+      {
+        "planet": "SU",
+        "day": "V01",
+        "method": "No salt after sunset OR complete fast until sunset",
+        "allowed": "Water, fruits (without salt)",
+        "breakFast": "After sunset with simple sattvic food",
+        "duration": "Every Sunday for 40 weeks",
+        "benefits": "Strengthens Sun, improves authority, helps father, reduces ego conflicts",
+        "combination": "Fast + Surya Arghya (water offering) + Gayatri mantra = maximum effect"
+      },
+      {
+        "planet": "MO",
+        "day": "V02",
+        "method": "Fruits and milk fast OR complete fast",
+        "allowed": "Milk, fruits, water, fruit juice",
+        "breakFast": "After moonrise with rice-milk (kheer) or white food",
+        "duration": "Every Monday for 40 weeks, especially during Shukla Paksha (waxing moon)",
+        "benefits": "Mental peace, emotional stability, mother's wellbeing, good sleep",
+        "combination": "Fast + Moon mantra + donate milk = maximum effect",
+        "special": "Fasting on Mondays during Sawan month (July-August) - very powerful for Moon"
+      },
+      {
+        "planet": "MA",
+        "day": "V03",
+        "method": "Complete fast OR one meal (lunch or dinner)",
+        "allowed": "Water, red lentil soup if partial fast",
+        "breakFast": "After sunset with simple food",
+        "duration": "Every Tuesday for 40 weeks for Mangal Dosha or major Mars problems",
+        "benefits": "Controls anger, removes Mangal Dosha, helps property matters, protects from accidents",
+        "combination": "Fast + Hanuman Chalisa + visit Hanuman temple = maximum effect",
+        "note": "Hanuman Chalisa more important than fasting for Mars - if can't fast, prioritize Chalisa"
+      },
+      {
+        "planet": "ME",
+        "day": "V04",
+        "method": "Green vegetables and fruits fast OR complete fast",
+        "allowed": "Green vegetables, green fruits, spinach, water",
+        "breakFast": "Evening with green moong dal and vegetables",
+        "duration": "Every Wednesday for 40 weeks for business or communication problems",
+        "benefits": "Business success, communication improvement, intelligence boost, skin health",
+        "combination": "Fast + Mercury mantra + donate green items = maximum effect"
+      },
+      {
+        "planet": "JU",
+        "day": "V05",
+        "method": "Yellow food fast OR complete fast OR besan (gram flour) items only",
+        "allowed": "Banana, yellow fruits, turmeric milk, besan items, water",
+        "breakFast": "Evening with yellow foods - dal, turmeric, banana",
+        "duration": "Every Thursday for 40 weeks for children/marriage/wealth problems",
+        "benefits": "Wealth increase, children's wellbeing, marriage prospects, wisdom, good fortune",
+        "combination": "Fast + Jupiter mantra + feed Brahmins = maximum effect",
+        "note": "Jupiter fasting generally easy and pleasant - yellow foods allowed"
+      },
+      {
+        "planet": "VE",
+        "day": "V06",
+        "method": "White food fast (milk, rice, sugar) OR complete fast",
+        "allowed": "Milk, white rice, curd, sugar, white sweets, fruits, water",
+        "breakFast": "Evening with white sweet (kheer, rice pudding)",
+        "duration": "Every Friday for 40 weeks for marriage delays or relationship problems",
+        "benefits": "Marriage success, luxury, relationship harmony, beauty, reproductive health",
+        "combination": "Fast + Venus mantra + Lakshmi worship = maximum effect",
+        "special": "Fasting 16 Fridays continuously - traditional for marriage manifestation"
+      },
+      {
+        "planet": "SA",
+        "day": "V07",
+        "method": "Complete fast OR one meal (no oil) OR only black sesame items",
+        "allowed": "Water, black sesame items if partial, no oil in food",
+        "breakFast": "After sunset with simple sattvic food (no oil)",
+        "duration": "Every Saturday throughout Sade Sati (7.5 years) OR minimum 40 weeks",
+        "benefits": "Sade Sati relief, obstacle removal, career stability, disease healing, patience",
+        "combination": "Fast + Hanuman Chalisa + serve poor + feed crows = maximum effect",
+        "critical": "Saturn fasting difficult but very effective - even partial fast helps significantly",
+        "note": "If can't do complete fast, avoid oil on Saturdays - significant effect"
+      },
+      {
+        "planet": "RA",
+        "day": "V07",
+        "method": "Complete fast OR simple food fast (no luxury items)",
+        "allowed": "Water, simple food if partial",
+        "breakFast": "After sunset with simple sattvic food",
+        "duration": "Every Saturday throughout Rahu Dasha (18 years) OR minimum 40 weeks",
+        "benefits": "Rahu control, addiction removal, mental clarity, foreign success, obsession healing",
+        "combination": "Fast + Durga Chalisa + feed dogs + serve outcasts = maximum effect"
+      },
+      {
+        "planet": "KE",
+        "day": "Tuesday or Thursday",
+        "method": "Complete fast OR simple sattvic food only",
+        "allowed": "Water, fruits, simple food if partial",
+        "breakFast": "Evening with simple sattvic meal",
+        "duration": "Throughout Ketu Dasha (7 years) OR minimum 40 weeks",
+        "benefits": "Spiritual clarity, moksha progress, mysterious illness healing, detachment wisdom",
+        "combination": "Fast + Ganesha worship + feed dogs + meditation = maximum effect"
+      }
+    ],
+    "fastingGuidelines": {
+      "preparation": "Light dinner previous night, don't overeat before fast",
+      "during": "Drink plenty of water, rest if needed, avoid strenuous activity",
+      "breaking": "Break fast with light food, don't overeat immediately",
+      "health": "Consult doctor if health issues - diabetes, pregnancy, chronic illness",
+      "modernAdaptation": "If complete fast impossible, do partial fast or avoid specific items",
+      "consistency": "Regular weekly fast for 40 weeks more powerful than occasional fasting"
+    }
+  },
+  "yantraRemedies": {
+    "name": "Yantra - Sacred Geometric Energy Tools",
+    "principle": "Yantras are geometric representations of planetary energy - act as energy antennas attracting planetary vibrations",
+    "effectiveness": "Powerful when energized properly and worshiped regularly - visual focal point for meditation",
+    "material": "Copper (best), silver, gold, or Bhojpatra (sacred bark paper)",
+    "planets": [
+      {
+        "planet": "SU",
+        "yantra": "Surya Yantra",
+        "geometry": "6x6 magic square with numbers totaling 111 in each direction",
+        "placement": "East wall or altar facing East",
+        "worship": "Light ghee lamp, offer red flowers, chant Sun mantra 108 times daily",
+        "benefits": "Authority, vitality, government favor, father's health, confidence"
+      },
+      {
+        "planet": "MO",
+        "yantra": "Chandra Yantra",
+        "geometry": "9x9 magic square with numbers totaling 369 in each direction",
+        "placement": "North-West wall or altar facing North-West",
+        "worship": "Light ghee lamp, offer white flowers, chant Moon mantra 108 times daily",
+        "benefits": "Mental peace, emotional stability, mother's wellbeing, intuition"
+      },
+      {
+        "planet": "MA",
+        "yantra": "Mangal Yantra",
+        "geometry": "5x5 magic square with numbers totaling 65 in each direction",
+        "placement": "South wall or altar facing South",
+        "worship": "Light ghee lamp, offer red flowers, chant Mars mantra 108 times daily",
+        "benefits": "Courage, property success, Mangal Dosha removal, victory over enemies"
+      },
+      {
+        "planet": "ME",
+        "yantra": "Budh Yantra",
+        "geometry": "4x4 magic square with numbers totaling 34 in each direction",
+        "placement": "North wall or altar facing North",
+        "worship": "Light ghee lamp, offer green items, chant Mercury mantra 108 times daily",
+        "benefits": "Business success, intelligence, communication, nervous health"
+      },
+      {
+        "planet": "JU",
+        "yantra": "Brihaspati Yantra (Guru Yantra)",
+        "geometry": "4x4 magic square with numbers totaling 34 in each direction",
+        "placement": "North-East wall or altar facing North-East",
+        "worship": "Light ghee lamp, offer yellow flowers, chant Jupiter mantra 108 times daily",
+        "benefits": "Wealth, wisdom, children, marriage, education, fortune"
+      },
+      {
+        "planet": "VE",
+        "yantra": "Shukra Yantra",
+        "geometry": "7x7 magic square with numbers totaling 175 in each direction",
+        "placement": "East or South-East wall or altar",
+        "worship": "Light ghee lamp, offer white flowers, chant Venus mantra 108 times daily",
+        "benefits": "Marriage, luxury, beauty, artistic abilities, relationship harmony"
+      },
+      {
+        "planet": "SA",
+        "yantra": "Shani Yantra",
+        "geometry": "3x3 magic square with numbers totaling 15 in each direction",
+        "placement": "West wall or altar facing West",
+        "worship": "Light mustard oil lamp, offer black sesame, chant Saturn mantra 108 times daily",
+        "benefits": "Obstacle removal, Sade Sati relief, career stability, justice"
+      },
+      {
+        "planet": "RA",
+        "yantra": "Rahu Yantra",
+        "geometry": "4x4 magic square with specific Rahu numbers",
+        "placement": "South-West wall or altar",
+        "worship": "Light ghee lamp, offer multi-color flowers, chant Rahu mantra 108 times daily",
+        "benefits": "Rahu control, foreign success, addiction removal, mental clarity"
+      },
+      {
+        "planet": "KE",
+        "yantra": "Ketu Yantra",
+        "geometry": "3x3 magic square with specific Ketu numbers",
+        "placement": "South wall or altar",
+        "worship": "Light ghee lamp, offer multi-color flowers, chant Ketu mantra 108 times daily",
+        "benefits": "Spiritual progress, moksha, mysterious illness healing, detachment wisdom"
+      }
+    ],
+    "yantraUsageGuidelines": {
+      "purchase": "Buy from authentic source - copper yantras best, avoid cheap prints",
+      "energization": "Get yantra energized by priest or astrologer with mantras (Prana Pratishtha)",
+      "installation": "Install on auspicious day (Thursday or Friday or planet's day)",
+      "dailyWorship": "Light lamp daily, offer flowers, chant mantra, focus on yantra for 5-10 minutes",
+      "maintenance": "Keep clean, don't let dust accumulate, regular worship essential",
+      "effectiveness": "Yantra + Mantra + Worship = maximum power - yantra alone without worship has limited effect"
+    },
+    "navagrahYantra": {
+      "name": "Navagraha Yantra - Nine Planets Combined",
+      "description": "Single yantra with all nine planetary yantras in 3x3 grid",
+      "benefit": "Balances all planetary energies together - comprehensive remedy",
+      "placement": "Puja room or altar facing East or North",
+      "worship": "Chant all nine planetary mantras daily OR at least Om Navagraha Devaya Namaha",
+      "ideal": "If can't have individual yantras, one Navagraha yantra provides balanced energy",
+      "cost": "More affordable than nine separate yantras - good comprehensive option"
+    }
+  },
+  "behavioralRemedies": {
+    "name": "Behavioral and Lifestyle Modifications",
+    "principle": "Align your behavior with planetary principles - embody positive qualities of planets",
+    "effectiveness": "Often more powerful than external remedies - changes you from within",
+    "planets": [
+      {
+        "planet": "SU",
+        "positiveQualities": [
+          "Develop confidence and self-esteem",
+          "Take leadership roles responsibly",
+          "Be punctual and disciplined",
+          "Respect authority figures and father",
+          "Speak truth courageously",
+          "Help others with authority (mentor, guide)",
+          "Practice Surya Namaskar daily",
+          "Wake up early and watch sunrise"
+        ],
+        "avoid": [
+          "Don't let ego become arrogant",
+          "Don't disrespect authority unnecessarily",
+          "Don't be lazy or undisciplined",
+          "Don't avoid leadership responsibilities"
+        ],
+        "lifestyle": "Regular exercise, outdoor activities, cardiovascular health focus, confident posture"
+      },
+      {
+        "planet": "MO",
+        "positiveQualities": [
+          "Practice emotional regulation and mindfulness",
+          "Develop empathy and compassion",
+          "Take care of mother and nurture others",
+          "Create peaceful home environment",
+          "Spend time near water (ocean, lake, river)",
+          "Practice gratitude and contentment",
+          "Meditate daily for mental peace",
+          "Help women and children in need"
+        ],
+        "avoid": [
+          "Don't be overly emotional or moody",
+          "Don't isolate emotionally",
+          "Don't neglect mother or family",
+          "Don't engage in public conflicts"
+        ],
+        "lifestyle": "Regular sleep schedule (Moon rules sleep), stay near water, white/light colored clothes, calming environment"
+      },
+      {
+        "planet": "MA",
+        "positiveQualities": [
+          "Channel energy into exercise and sports",
+          "Practice anger management and patience",
+          "Be courageous but not reckless",
+          "Support siblings and help them",
+          "Work with hands - technical, mechanical work",
+          "Practice martial arts or yoga for energy channeling",
+          "Stand up for justice and defend weak",
+          "Volunteer for social causes requiring courage"
+        ],
+        "avoid": [
+          "DON'T let anger control you - count to 10",
+          "Don't engage in violence or fights",
+          "Don't drive recklessly",
+          "Don't be aggressive in relationships",
+          "Don't ignore blood pressure"
+        ],
+        "lifestyle": "Regular intense physical exercise, avoid alcohol (increases aggression), cooling foods, avoid red meat"
+      },
+      {
+        "planet": "ME",
+        "positiveQualities": [
+          "Develop clear communication skills",
+          "Practice honesty in all dealings",
+          "Study and learn continuously",
+          "Teach others and share knowledge",
+          "Keep accounts organized and clean",
+          "Read books regularly",
+          "Practice mental exercises - puzzles, chess",
+          "Help students and education causes"
+        ],
+        "avoid": [
+          "Don't lie or deceive in business",
+          "Don't scatter energy in too many directions",
+          "Don't neglect education",
+          "Don't gossip or spread rumors"
+        ],
+        "lifestyle": "Mental activity, reading, learning, green foods, organized environment, clear communication"
+      },
+      {
+        "planet": "JU",
+        "positiveQualities": [
+          "Practice wisdom and ethical behavior",
+          "Teach, guide, and mentor others",
+          "Respect teachers, gurus, and elders",
+          "Study scriptures and philosophy",
+          "Practice generosity and sharing",
+          "Maintain optimism and faith",
+          "Support education and religious causes",
+          "Be fair and just in dealings"
+        ],
+        "avoid": [
+          "Don't over-expand financially",
+          "Don't be over-optimistic ignoring reality",
+          "Don't ignore health (weight, liver, diabetes)",
+          "Don't give wrong advice or mislead others"
+        ],
+        "lifestyle": "Moderate eating, avoid obesity, yellow clothing on Thursdays, temple visits, study scriptures, mentor role"
+      },
+      {
+        "planet": "VE",
+        "positiveQualities": [
+          "Maintain harmony in relationships",
+          "Develop artistic and creative expression",
+          "Create beauty around you - home, dress, environment",
+          "Practice diplomacy and tact",
+          "Support women's causes and help women",
+          "Appreciate art, music, beauty",
+          "Maintain cleanliness and hygiene (Venus loves cleanliness)",
+          "Practice moderation in pleasures"
+        ],
+        "avoid": [
+          "Don't over-indulge in luxuries beyond means",
+          "Don't engage in multiple affairs if committed",
+          "Don't be superficial in relationships",
+          "Don't neglect reproductive health"
+        ],
+        "lifestyle": "Beautiful surroundings, artistic hobbies, white/pastel clothing, good hygiene, relationship focus, moderate sensual pleasures"
+      },
+      {
+        "planet": "SA",
+        "positiveQualities": [
+          "Develop patience and persistence",
+          "Work hard consistently without complaining",
+          "Serve poor, elderly, and handicapped",
+          "Practice discipline and time management",
+          "Accept delays gracefully",
+          "Develop maturity and responsibility",
+          "Help laborers and servants",
+          "Practice delayed gratification"
+        ],
+        "avoid": [
+          "DON'T be impatient or give up easily",
+          "Don't ignore elderly family members",
+          "Don't avoid responsibilities",
+          "Don't complain constantly about delays"
+        ],
+        "lifestyle": "Early to bed, early to rise, simple living, black/blue clothing on Saturdays, bone health focus, patience practice"
+      },
+      {
+        "planet": "RA",
+        "positiveQualities": [
+          "MAINTAIN ETHICS strictly in all dealings",
+          "Channel obsessions positively - career, creativity",
+          "Embrace technology and innovation constructively",
+          "Help outcasts and downtrodden",
+          "Practice grounding - meditation, nature, simplicity",
+          "Verify everything - trust but verify",
+          "Use unconventional talents for good",
+          "Reality-check desires regularly"
+        ],
+        "avoid": [
+          "DON'T take shortcuts or unethical means",
+          "Don't get addicted - substances, gambling, obsessions",
+          "Don't trust blindly without verification",
+          "Don't chase illusions ignoring reality",
+          "Don't betray trust or deceive others"
+        ],
+        "lifestyle": "Grounding practices daily, ethical vigilance, avoid addictions STRICTLY, reality checks, service to outcasts"
+      },
+      {
+        "planet": "KE",
+        "positiveQualities": [
+          "Develop spiritual practices - meditation, yoga",
+          "Practice detachment from material possessions",
+          "Embrace isolation and solitude for inner work",
+          "Study mystical and spiritual subjects",
+          "Help spiritual seekers and saints",
+          "Accept impermanence and change",
+          "Develop intuition and inner guidance",
+          "Simplify life materially"
+        ],
+        "avoid": [
+          "Don't detach completely from responsibilities",
+          "Don't isolate unhealthily (maintain basic connections)",
+          "Don't fight spiritual pull",
+          "Don't ignore mysterious health symptoms"
+        ],
+        "lifestyle": "Meditation daily, simple living, spiritual study, solitude time, minimal material focus, mystical practices"
+      }
+    ],
+    "general": {
+      "colorTherapy": "Wear planet's colors on planet's day - subtle energy influence",
+      "directionTherapy": "Sleep with head in favorable direction based on chart",
+      "foodTherapy": "Eat foods associated with planets needing strengthening",
+      "attitudeChange": "Most powerful remedy - align thoughts and behavior with planetary principles"
+    }
+  },
+  "problemSpecificRemedies": {
+    "name": "Remedies by Life Problem",
+    "principle": "Different problems require different planetary remedy combinations",
+    "problems": [
+      {
+        "problem": "Career Problems - Job Loss, No Promotion, Business Failure",
+        "planets": "Sun (authority), Saturn (career stability), Mercury (business), Jupiter (growth), 10th house lord",
+        "remedies": [
+          "Strengthen Sun: Ruby (if suitable), Surya Namaskar, Gayatri mantra, donate wheat on Sundays",
+          "Strengthen Saturn: Hanuman Chalisa daily (MOST important), serve poor on Saturdays, feed crows",
+          "Strengthen Mercury (for business): Emerald (if suitable), Mercury mantra, donate green items Wednesdays",
+          "Strengthen Jupiter: Yellow Sapphire (if suitable), Jupiter mantra, feed Brahmins Thursdays",
+          "Worship relevant deity: Surya for govt jobs, Hanuman for all career, Vishnu for business, Lakshmi for wealth"
+        ],
+        "duration": "Minimum 6 months of consistent remedies for career turnaround",
+        "critical": "Hanuman Chalisa daily is single most powerful career remedy - controls Saturn and Mars"
+      },
+      {
+        "problem": "Marriage Delays - Not Getting Married",
+        "planets": "Venus (marriage), Jupiter (marriage for women), 7th house lord",
+        "remedies": [
+          "Strengthen Venus: Diamond/White Sapphire (if suitable), Venus mantra, Lakshmi worship Fridays",
+          "Strengthen Jupiter (women): Yellow Sapphire (if suitable), Jupiter mantra, feed Brahmins Thursdays",
+          "Fast 16 Fridays continuously for marriage manifestation - traditional powerful remedy",
+          "Donate to poor girls' marriages - help wedding expenses of needy",
+          "Worship Lakshmi and Parvati - goddesses of marriage and family",
+          "Visit Tirupati Balaji or powerful Vishnu temples",
+          "Varalakshmi Vrat - annual Friday in Shravana month"
+        ],
+        "duration": "Minimum 1 year (48-52 weeks) consistent remedies - marriage manifestation takes time",
+        "special": "Helping poor girls' marriage is most powerful remedy for own marriage"
+      },
+      {
+        "problem": "Marital Problems - Conflicts, Divorce Risk, Unhappy Marriage",
+        "planets": "Venus (love), Mars (conflict), Moon (emotions), 7th house lord",
+        "remedies": [
+          "Strengthen Venus: Venus mantra, Lakshmi worship, white items donation Fridays",
+          "Control Mars: Hanuman Chalisa daily for anger control, Mars mantra, donate red items Tuesdays",
+          "Strengthen Moon: Moon mantra, Shiva worship Mondays, donate milk, mental peace practices",
+          "Couple together: Visit Shiva-Parvati temples together, pray together, worship together",
+          "Behavioral: Practice patience, communication, anger management, compromise",
+          "Counseling: Seek professional marital counseling along with remedies"
+        ],
+        "duration": "6 months to 2 years depending on severity - consistency crucial",
+        "note": "Remedies help but both partners must make effort - can't force love through astrology alone"
+      },
+      {
+        "problem": "Children Issues - No Children, Children's Health Problems",
+        "planets": "Jupiter (children), 5th house lord, Moon (fertility for women)",
+        "remedies": [
+          "Strengthen Jupiter: Yellow Sapphire (if suitable), Jupiter mantra 108x daily, Vishnu worship Thursdays",
+          "Strengthen 5th lord based on planet",
+          "Worship Santana Gopala (Krishna as child-giver) - special form for children",
+          "Visit temples famous for children blessings: Tirupati, Guruvayoor, Tiruvannamalai",
+          "Feed Brahmins and donate to children's causes",
+          "Fast on Thursdays for 16 weeks for children",
+          "Medical consultation: Combine remedies with medical treatment - not either/or"
+        ],
+        "duration": "1-2 years consistent remedies - children manifestation needs patience",
+        "medical": "MUST combine with medical consultation - remedies support medical treatment"
+      },
+      {
+        "problem": "Financial Problems - Debt, Losses, Poverty",
+        "planets": "Jupiter (wealth), Venus (luxury), 2nd and 11th house lords, Mercury (business wealth)",
+        "remedies": [
+          "Strengthen Jupiter: Yellow Sapphire (if suitable), Jupiter mantra, donate yellow items Thursdays",
+          "Strengthen Venus: Venus mantra, Lakshmi worship Fridays, maintain cleanliness (Lakshmi loves clean homes)",
+          "Lakshmi Puja: Every Friday - light lamp, keep house clean, worship with devotion",
+          "Kuber Mantra: Om Yakshaya Kuberaya Vaishravanaya... - for wealth deity",
+          "Behavioral: Stop wasteful spending, organize finances, create budget",
+          "Donate according to capacity: Even Rs. 10 regularly creates positive karma"
+        ],
+        "duration": "1 year minimum for financial turnaround - patience required",
+        "attitude": "Contentment and gratitude while doing remedies - not greed or desperation"
+      },
+      {
+        "problem": "Health Issues - Chronic Illness, Surgery, Serious Disease",
+        "planets": "Depends on disease - 1st house (body), 6th house (disease), 8th house (chronic/surgery), planets involved",
+        "remedies": [
+          "Identify afflicted planet causing health issue",
+          "Strengthen 1st house lord and ascendant",
+          "Mahamrityunjaya Mantra: Om Tryambakam Yajamahe... - most powerful for health - 108x daily",
+          "Worship relevant deity: Dhanvantari (medicine god), Shiva (Mahamrityunjaya), Hanuman (strength)",
+          "Donate medicines and help sick people",
+          "Visit healing temples: Vaitheeswaran Koil (Tamil Nadu), Gundicha Temple (Puri)",
+          "Combine with medical treatment: Remedies SUPPORT medical treatment, don't replace it"
+        ],
+        "duration": "Throughout illness until recovery - consistent practice",
+        "critical": "NEVER abandon medical treatment for remedies - use BOTH together",
+        "mahamrityunjaya": "Most powerful healing mantra - chant 108 times daily or more for serious illness"
+      },
+      {
+        "problem": "Mental Health - Depression, Anxiety, Mental Disorders",
+        "planets": "Moon (mind), Mercury (nervous system), afflictions to 1st or 4th house",
+        "remedies": [
+          "Strengthen Moon: Pearl (if suitable), Moon mantra, Shiva worship Mondays, donate milk",
+          "Meditation and mindfulness: ESSENTIAL for mental health - 20 minutes daily minimum",
+          "Mahamrityunjaya Mantra: For severe mental suffering",
+          "Hanuman Chalisa: For depression and mental strength",
+          "Spend time near water: Ocean, lake, river - calms Moon",
+          "Professional help: MUST seek therapy/psychiatry along with remedies - not either/or",
+          "Medication if prescribed: Take medicines prescribed by doctor - remedies complement them"
+        ],
+        "duration": "Long-term consistent practice - mental health needs ongoing care",
+        "critical": "Mental health REQUIRES professional help - remedies are SUPPLEMENT not replacement",
+        "emergency": "If suicidal thoughts - seek immediate professional help - call helpline"
+      },
+      {
+        "problem": "Legal Problems - Court Cases, Litigation",
+        "planets": "Jupiter (justice), Saturn (law), 6th house (litigation), 7th house (opponents)",
+        "remedies": [
+          "Strengthen Jupiter: Jupiter mantra, Vishnu worship, donate yellow items Thursdays",
+          "Strengthen Saturn: Hanuman Chalisa daily, serve poor Saturdays, Saturn mantra",
+          "Worship Hanuman: Most powerful for victory in legal matters",
+          "Worship Goddess Durga: For defeating enemies/opponents",
+          "Behavioral: Maintain ethics, tell truth, proper legal representation",
+          "Donate to justice causes: Help poor with legal aid"
+        ],
+        "duration": "Throughout legal case until resolution",
+        "note": "Proper legal representation ESSENTIAL - remedies support legal efforts"
+      },
+      {
+        "problem": "Enemy Problems - Opposition, Competition, Jealousy",
+        "planets": "Mars (enemies), 6th house (enemies), Saturn (obstacles)",
+        "remedies": [
+          "Hanuman Chalisa daily: Most powerful protection from enemies",
+          "Durga Chalisa: For defeating enemies through divine power",
+          "Baglamukhi Mantra: Specialized for stopping enemies (advanced practice)",
+          "Mars remedies: Control your own aggression first",
+          "Saturn remedies: Patience and service - Saturn brings justice eventually",
+          "Behavioral: Don't engage in negativity yourself - maintain high ground"
+        ],
+        "duration": "Until enemy situation resolves",
+        "wisdom": "Best remedy for enemies is to make them irrelevant through your success and high character"
+      },
+      {
+        "problem": "Addiction - Alcohol, Drugs, Gambling, Other Obsessions",
+        "planets": "Rahu (addictions), weak Moon (mental instability), afflicted Mercury or Venus",
+        "remedies": [
+          "Control Rahu: Durga Chalisa daily (ESSENTIAL), feed dogs, serve outcasts, Durga Saptashati",
+          "Strengthen Moon: Moon mantra, mental peace practices, Shiva worship",
+          "Mahamrityunjaya Mantra: For severe addictions",
+          "Behavioral: Remove all substances, change friend circle, avoid triggers",
+          "Professional help: MUST seek addiction counseling/rehab - remedies alone insufficient",
+          "Support groups: AA, NA, etc. - combine with remedies"
+        ],
+        "duration": "Lifelong practice - addiction is lifelong battle requiring vigilance",
+        "critical": "Addiction requires PROFESSIONAL TREATMENT - rehab, therapy, support groups ESSENTIAL - remedies are support",
+        "durga": "Durga worship is most powerful for addiction control - daily Chalisa minimum"
+      }
+    ]
+  },
+  "doshaRemedies": {
+    "name": "Remedies for Major Doshas",
+    "doshas": [
+      {
+        "dosha": "Mangal Dosha (Kuja Dosha)",
+        "description": "Mars in 1st/4th/7th/8th/12th houses from lagna/Moon/Venus - causes marriage delays and conflicts",
+        "severity": "Check exact placement and aspects - not all Mangal Doshas equally severe",
+        "remedies": [
+          "Hanuman Chalisa daily - MOST POWERFUL Mangal Dosha remedy",
+          "Visit Hanuman temple every Tuesday for 40 consecutive Tuesdays",
+          "Red Coral gemstone (only if Mars otherwise favorable and expert recommends)",
+          "Mars mantra 10,000 times in 40 days",
+          "Fast on Tuesdays for 40 weeks",
+          "Donate red items, red lentils on Tuesdays",
+          "Marry another Manglik person (doshas cancel out)",
+          "Kumbh Vivah (ritual marriage to tree/idol before actual marriage - advanced practice)"
+        ],
+        "duration": "6 months to 1 year before marriage - start early",
+        "effectiveness": "Can reduce severity by 60-80% with consistent practice",
+        "note": "Not all Mangal Doshas cause problems - check with expert astrologer first"
+      },
+      {
+        "dosha": "Sade Sati (Saturn's 7.5 Year Transit)",
+        "description": "Saturn transiting 12th, 1st, and 2nd houses from Moon - 2.5 years each = 7.5 years total",
+        "phases": "First 2.5 years worst, middle 2.5 years adjustment, last 2.5 years if lessons learned brings rewards",
+        "remedies": [
+          "Hanuman Chalisa daily - MOST EFFECTIVE and SAFEST Sade Sati remedy",
+          "Visit Hanuman temple every Saturday",
+          "Shani temple visits on Saturdays - offer mustard oil lamp",
+          "Saturn mantra 23,000 times in 90 days",
+          "Fast on Saturdays throughout Sade Sati",
+          "Serve poor, elderly, handicapped consistently",
+          "Feed crows and ants on Saturdays",
+          "Donate black items, iron, mustard oil on Saturdays",
+          "Blue Sapphire (ONLY if Saturn yogakaraka and expert strongly recommends - otherwise avoid)",
+          "Behavioral: Practice patience, accept delays, work hard without complaining"
+        ],
+        "duration": "Throughout 7.5 years - consistency is key",
+        "effectiveness": "Can make Sade Sati manageable - reduces suffering by 50-70%",
+        "critical": "Hanuman Chalisa daily throughout Sade Sati is most important remedy - more important than any gemstone",
+        "attitude": "Accept it as life's lesson period - resist and suffer more, accept and grow"
+      },
+      {
+        "dosha": "Pitra Dosha (Ancestor Affliction)",
+        "description": "Afflicted Sun or 9th house or Rahu-Ketu in certain positions - indicates unresolved ancestor karma",
+        "symptoms": "Repeated miscarriages, childlessness, family conflicts, sudden problems",
+        "remedies": [
+          "Shradh rituals: Perform ancestors' death anniversary rituals properly",
+          "Pitra Paksha (15-day ancestor fortnight): Perform Shradh during this period annually in September",
+          "Gaya Shradh: Visit Gaya (Bihar) and perform Pind Daan ritual (most powerful Pitra Dosha remedy)",
+          "Tripindi Shradh: Special elaborate Shradh for severe Pitra Dosha",
+          "Feed Brahmins and crows regularly (crows represent ancestors)",
+          "Donate to ancestors' causes",
+          "Visit ancestor pilgrimage sites: Gaya, Haridwar, Varanasi, Rameswaram",
+          "Strengthen Sun: Sun remedies help Pitra Dosha",
+          "Family harmony: Resolve conflicts with family members - very important"
+        ],
+        "duration": "Annual Shradh throughout life, one-time Gaya pilgrimage recommended",
+        "effectiveness": "Gaya Shradh considered most effective - clears ancestor karma significantly",
+        "note": "Pitra Dosha affects whole family - remedies benefit entire family"
+      },
+      {
+        "dosha": "Kaal Sarp Dosha",
+        "description": "All seven planets between Rahu and Ketu axis - considered highly afflictive",
+        "controversy": "Some astrologers don't recognize this dosha - consult multiple experts",
+        "remedies": [
+          "Mahamrityunjaya Mantra daily - 108 times",
+          "Visit Kaal Sarp Dosha temples: Trimbakeshwar (Maharashtra), Kukke Subramanya (Karnataka)",
+          "Perform Kaal Sarp Dosha Puja at these temples",
+          "Rahu-Ketu remedies: Control Rahu (Durga worship) and Ketu (Ganesha worship)",
+          "Feed snakes (carefully) or donate to snake conservation",
+          "Shiva worship - especially Rudra Abhishekam",
+          "Naga Panchami worship (annual snake festival)"
+        ],
+        "duration": "One-time temple visit + ongoing daily practices",
+        "effectiveness": "Debated - some say very effective, others say dosha overblown",
+        "note": "Verify existence in chart with multiple astrologers before extensive remedies"
+      },
+      {
+        "dosha": "Nadi Dosha",
+        "description": "Marriage compatibility issue - same Nadi in couple's charts causes problems",
+        "impact": "Health issues, childlessness, conflicts - but only if exact Nadi match problem",
+        "remedies": [
+          "Mahamrityunjaya Mantra by both partners - 108 times daily",
+          "Nadi Dosha Nivarana Puja at temples",
+          "Strengthen health planets: Sun (vitality), Moon (mind), Jupiter (children)",
+          "Regular health check-ups: Medical approach important",
+          "Behavioral: Extra care for each other's health, communication"
+        ],
+        "duration": "Initial Puja + ongoing health planet remedies",
+        "note": "Many couples with Nadi Dosha live happily - not always problematic - check overall chart"
+      }
+    ]
+  },
+  "remedySelectionGuide": {
+    "name": "How to Select Right Remedies for Your Chart",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Get Your Chart Analyzed by Expert Astrologer",
+        "details": "Don't self-diagnose - expert analysis essential to identify actual problems and suitable remedies",
+        "warning": "Wrong remedies (especially gemstones) can worsen problems - expert consultation NON-NEGOTIABLE"
+      },
+      {
+        "step": 2,
+        "action": "Identify Most Afflicted Planet or Current Dasha Lord",
+        "details": "Prioritize - can't do remedies for all planets - focus on most problematic or current dasha planet",
+        "strategy": "One planet done well better than all planets done poorly"
+      },
+      {
+        "step": 3,
+        "action": "Choose Remedies Within Your Capacity",
+        "financial": "Expensive gemstone vs free mantra - both work if done sincerely",
+        "time": "30 minutes daily possible? Choose accordingly",
+        "lifestyle": "Fasting possible with your health? Choose appropriately",
+        "realistic": "Choose what you'll ACTUALLY DO consistently - not what sounds impressive"
+      },
+      {
+        "step": 4,
+        "action": "Combine Multiple Remedy Types",
+        "combination": "Gemstone + Mantra + Charity + Behavioral = Maximum effect",
+        "minimum": "At minimum: Mantra (free) + Charity (affordable) + Behavioral (conscious)",
+        "ideal": "All remedy types if possible - multiplicative effect not additive"
+      },
+      {
+        "step": 5,
+        "action": "Start on Auspicious Day",
+        "timing": "Planet's day, planet's hora, Shukla Paksha (waxing moon) ideal",
+        "pragmatic": "But starting immediately better than waiting forever for perfect timing"
+      },
+      {
+        "step": 6,
+        "action": "Commit to Minimum Duration",
+        "duration": "Minimum 40 days (one mandala), ideally 90-120 days",
+        "mandalas": "One mandala = 40 days, traditional unit for results",
+        "patience": "Results appear after consistent practice - not immediately"
+      },
+      {
+        "step": 7,
+        "action": "Track and Observe Results",
+        "observation": "Note changes after 40 days - subtle shifts in luck, circumstances, attitude",
+        "journaling": "Keep remedy journal - when started, what doing, changes observed",
+        "assessment": "After 90 days, assess effectiveness - continue or adjust"
+      },
+      {
+        "step": 8,
+        "action": "Continue Beneficial Remedies Long-Term",
+        "maintenance": "Some remedies (mantras, worship) can continue lifelong",
+        "dasha": "Continue throughout challenging dasha periods",
+        "integration": "Make remedies part of daily routine - not separate effort"
+      }
+    ],
+    "budgetWiseRemedyPlan": {
+      "zeroToRs1000Monthly": [
+        "Focus on FREE remedies: Mantras, deity worship at home, charity within means",
+        "Hanuman Chalisa daily (FREE - most powerful)",
+        "Home altar with pictures (Rs. 500 one-time)",
+        "Small donations to temples/poor (Rs. 50-100 weekly)",
+        "Fasting (FREE)",
+        "Behavioral changes (FREE)",
+        "Tulsi mala for chanting (Rs. 100-500)",
+        "Effectiveness: 70-80% of expensive remedies if done with devotion"
+      ],
+      "Rs1000ToRs5000Monthly": [
+        "Add semi-precious gemstones: Red Garnet, Moonstone, Amethyst, Peridot, Citrine (Rs. 2000-5000)",
+        "Copper yantras (Rs. 500-1500 each)",
+        "Temple pujas and donations (Rs. 1000-2000)",
+        "Charity expanded (Rs. 500-1000 weekly)",
+        "Books and courses on spiritual practices",
+        "Effectiveness: 80-85% of most expensive remedies"
+      ],
+      "Rs5000ToRs20000Monthly": [
+        "Add better quality semi-precious stones or small precious stones",
+        "Multiple yantras for different planets",
+        "Regular temple visits and elaborate pujas",
+        "Larger charity amounts",
+        "Pilgrimage to important temples",
+        "Consider precious stones (small carats)",
+        "Effectiveness: 85-90%"
+      ],
+      "aboveRs20000Monthly": [
+        "High quality precious gemstones: Ruby, Pearl, Red Coral, Emerald, Yellow Sapphire, Diamond (2-5 carats)",
+        "Silver/Gold yantras",
+        "Major pilgrimages (Gaya, Varanasi, Tirupati, etc.)",
+        "Large-scale charity (help multiple families, fund temple construction, etc.)",
+        "Personal pujari/priest for regular elaborate rituals",
+        "Effectiveness: 90-100% if done with right attitude"
+      ],
+      "critical": "MONEY DOESN'T DETERMINE EFFECTIVENESS - DEVOTION AND CONSISTENCY DO. Free remedies done with pure heart often more powerful than expensive remedies done mechanically."
+    }
+  },
+  "modernAdaptations": {
+    "name": "Remedies for Modern Busy Lifestyle",
+    "principle": "Traditional remedies can be adapted to modern life - sincerity matters more than elaborate rituals",
+    "adaptations": [
+      {
+        "challenge": "No Time for Long Pujas",
+        "solution": [
+          "5-minute altar worship daily: Light lamp, offer flower, chant mantra 11 times minimum",
+          "Recorded mantras during commute: Listen in car/train - less effective than self-chanting but better than nothing",
+          "Mobile apps: Mantra counting apps, puja reminder apps, panchang apps",
+          "Weekend temple visits: If daily not possible, weekly comprehensive worship"
+        ]
+      },
+      {
+        "challenge": "Can't Fast Due to Work/Health",
+        "solution": [
+          "Partial fasting: Skip one meal or eat only fruits",
+          "Avoid specific items: No oil, no non-veg, no salt on planet's day",
+          "Reduced portions: Eat less on fasting day even if can't skip meals",
+          "Fasting on off-days: Fast on weekends when you have more control"
+        ]
+      },
+      {
+        "challenge": "Living Abroad - No Temples Nearby",
+        "solution": [
+          "Home altar with deity pictures/idols - equally powerful",
+          "Online temple darshan: Many temples offer live streaming",
+          "Online pujas: Some temples offer online puja booking",
+          "Connect with local temple: Even non-Hindu temples can be used for prayer and worship",
+          "Nature worship: Rivers, sunrise, trees - divine presence everywhere"
+        ]
+      },
+      {
+        "challenge": "Gemstones Too Expensive",
+        "solution": [
+          "Semi-precious alternatives: 40-80% as effective at 10% cost",
+          "Smaller carats: 2 carat instead of 5 carat",
+          "Focus on mantras and charity instead: FREE and highly effective",
+          "Save gradually: Buy one important gemstone after saving rather than multiple wrong ones"
+        ]
+      },
+      {
+        "challenge": "Modern Skeptical Mindset",
+        "solution": [
+          "Try for 40 days with open mind: Observe effects yourself",
+          "Understand as energy/vibration: Scientific framework if traditional explanation doesn't resonate",
+          "Focus on psychological benefits: Even if don't believe in astrology, mantras are meditation, charity is kindness, etc.",
+          "Start small: One simple practice to test before committing fully"
+        ]
+      },
+      {
+        "challenge": "Family/Partner Not Supportive of Remedies",
+        "solution": [
+          "Personal practice: Do your practices privately",
+          "Don't preach: Do your remedies, let results speak",
+          "Find middle ground: Activities both can agree on - charity, meditation, etc.",
+          "Respect differences: Your remedies, your choice - no need for approval"
+        ]
+      }
+    ],
+    "minimalDailyPractice": {
+      "name": "10-Minute Daily Remedy Routine for Busy People",
+      "morning5minutes": [
+        "Light lamp at home altar (1 minute)",
+        "Chant main planet mantra 27 times (3 minutes) - if no time for 108",
+        "Quick prayer/gratitude (1 minute)"
+      ],
+      "throughout Day": [
+        "Behavioral remedy: Conscious embodiment of planetary quality (ongoing)",
+        "Listen to recorded mantra in commute if possible (15-30 minutes)"
+      ],
+      "evening5minutes": [
+        "Small charity: Even Rs. 10-20 to needy person (2 minutes)",
+        "Quick temple visit if on way home OR home altar worship (3 minutes)"
+      ],
+      "weekly": [
+        "Longer temple visit on planet's day (30-60 minutes)",
+        "Larger charity donation (10 minutes)",
+        "Review and adjust practice (10 minutes)"
+      ],
+      "effectiveness": "This minimal practice, if done CONSISTENTLY, provides 60-70% benefit of elaborate full-day practices"
+    }
+  },
+  "remedyEffectivenessFactors": {
+    "name": "What Makes Remedies Work or Not Work",
+    "factorsThatIncrease": [
+      "Sincerity and devotion - most important factor",
+      "Consistency - daily practice more powerful than occasional elaborate rituals",
+      "Faith - belief in process enhances effectiveness",
+      "Right remedy for right planet - chart-specific",
+      "Proper timing - planet's day, hora, auspicious muhurta",
+      "Combination approach - multiple remedy types together",
+      "Sufficient duration - minimum 40 days, ideally 90-120 days",
+      "Behavioral alignment - living the planetary qualities",
+      "Selfless charity - giving without expectation",
+      "Expert guidance - astrologer consultation ensures suitability"
+    ],
+    "factorsThatDecrease": [
+      "Mechanical practice without devotion or understanding",
+      "Inconsistency - sporadic practice",
+      "Wrong remedy - unsuitable gemstone, inappropriate mantra",
+      "Insufficient duration - doing for few days and stopping",
+      "Expectation of instant miracles - impatience",
+      "Ego in practice - doing for show or pride",
+      "Ignoring behavioral aspect - remedy without life change",
+      "Not addressing root cause - remedy for symptom without fixing core issue"
+    ],
+    "whenRemediesCannotHelp": [
+      "Karma too strong to mitigate in this lifetime - rare but possible",
+      "Planet completely destroyed in chart - no promise of good results exists",
+      "Person not willing to make any effort - wanting astrology magic without work",
+      "Unethical lifestyle - living wrongly and expecting remedies to fix it",
+      "Medical emergency - physical health needs medical treatment, not just remedies",
+      "Mental health crisis - needs professional therapy/psychiatry along with remedies",
+      "Free will choices - if person keeps making wrong choices, remedies can't override free will"
+    ],
+    "understanding": "Remedies help you navigate karma better - they DON'T change destiny completely. Remedies + Effort + Time = Results"
+  },
+  "importantCautions": {
+    "name": "Critical Warnings and Precautions",
+    "cautions": [
+      {
+        "caution": "NEVER Wear Gemstones Without Expert Consultation",
+        "reason": "Wrong gemstone can severely worsen problems - Blue Sapphire especially dangerous",
+        "consequence": "Job loss, accidents, depression, health issues within days if wrong gemstone",
+        "recommendation": "Always consult multiple expert astrologers before wearing gemstones - especially Ruby, Blue Sapphire, Red Coral"
+      },
+      {
+        "caution": "Don't Abandon Medical Treatment for Remedies",
+        "reason": "Remedies SUPPORT medical treatment, don't REPLACE it",
+        "critical": "For serious illness, surgery needed, mental health crisis - MUST have medical treatment + remedies together",
+        "example": "Cancer, heart disease, diabetes, mental illness - medical treatment essential, remedies supplementary"
+      },
+      {
+        "caution": "Don't Expect Miracles Instantly",
+        "reason": "Remedies work gradually over weeks to months - not overnight magic",
+        "patience": "Minimum 40 days needed to see initial results, 90-120 days for significant changes",
+        "warning": "Impatience leads to stopping remedies prematurely before they work"
+      },
+      {
+        "caution": "Don't Rely Solely on Remedies Without Effort",
+        "reason": "Remedies support your efforts - they don't do the work for you",
+        "example": "Business remedy won't help if you don't work on business - remedy + effort = results",
+        "understanding": "Astrology provides timing and support - YOU create success through action"
+      },
+      {
+        "caution": "Verify Astrologer Credentials",
+        "reason": "Many fake astrologers giving wrong advice for money",
+        "recommendation": "Consult reputed astrologers with proven track record, multiple consultations for important decisions",
+        "redFlags": "Astrologer demands large sums for 'special pujas', creates excessive fear, guarantees miracles"
+      },
+      {
+        "caution": "Don't Do Advanced Practices Without Guidance",
+        "reason": "Some practices (certain tantric mantras, Baglamukhi sadhana, etc.) need guru guidance",
+        "safe": "Basic mantras, charity, fasting, worship safe for all - advanced practices need teacher",
+        "warning": "Advanced practices done wrong can backfire"
+      }
+    ]
+  },
+  "conclusion": {
+    "understanding": "Remedies are tools for conscious participation in your karma - not magic wands to avoid karma",
+    "effectiveness": "With right remedies, consistency, and effort - can reduce suffering by 60-80% and enhance positive results by similar percentage",
+    "combination": "Best approach: Gemstone (if affordable and suitable) + Mantra (must) + Charity (must) + Deity Worship (recommended) + Behavioral change (essential) + Effort (critical) = Maximum Results",
+    "affordability": "Don't let money stop you - FREE remedies (mantras, charity within means, behavioral changes) provide 70-80% effectiveness of expensive remedies if done with devotion",
+    "consistency": "Key to all remedies - daily small practice for months better than occasional grand rituals",
+    "attitude": "Devotion, sincerity, and humility more important than elaborate rituals or expensive items",
+    "realism": "Remedies help navigate life better - they don't eliminate all problems or override free will",
+    "integration": "Make remedies part of life - not separate 'astrology practice' but integrated spiritual living",
+    "wisdom": "Best remedy is right living: truthfulness, compassion, hard work, service, devotion - planetary remedies support this foundation",
+    "hope": "No matter how difficult your chart - sincere consistent remedies combined with effort CAN transform life significantly"
+  }
+}

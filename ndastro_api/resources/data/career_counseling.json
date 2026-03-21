@@ -1,0 +1,1158 @@
+{
+  "system": {
+    "name": "Career Counseling through Vedic Astrology",
+    "description": "Professional guidance and career selection based on birth chart analysis",
+    "sanskritName": "Karma Bhava Vishleshan",
+    "purpose": "Identify suitable professions, timing for career changes, success potential",
+    "importance": "Right career brings satisfaction, wealth, and life purpose fulfillment",
+    "principle": "Chart reveals natural talents, career karma, and timing for success",
+    "scope": "Profession selection, job vs business, industry choice, promotion timing, career changes",
+    "modernRelevance": "Critical for career decisions, job changes, entrepreneurship, skill development"
+  },
+  "careerHouses": {
+    "name": "Houses Indicating Career",
+    "houses": [
+      {
+        "house": "10th House (Karma Bhava)",
+        "importance": "Primary career house - MOST IMPORTANT",
+        "signifies": [
+          "Profession",
+          "Public reputation",
+          "Status",
+          "Authority",
+          "Career success",
+          "Government recognition",
+          "Public image",
+          "Professional achievements"
+        ],
+        "analysis": [
+          "Sign in 10th shows career nature (fire-leadership, earth-practical, air-intellectual, water-caring)",
+          "Lord of 10th house placement shows career source and success area",
+          "Planets in 10th directly influence profession",
+          "Strength of 10th lord determines career success level",
+          "Aspects to 10th show support or obstacles"
+        ],
+        "strong10th": "Excellent career success, recognition, authority, promotions",
+        "weak10th": "Career struggles, frequent changes, lack of recognition, obstacles"
+      },
+      {
+        "house": "2nd House (Dhana Bhava)",
+        "importance": "High - income from profession",
+        "signifies": [
+          "Earnings",
+          "Salary",
+          "Family business",
+          "Financial status from career",
+          "Speech profession",
+          "Food industry",
+          "Face/voice-related work"
+        ],
+        "connection": "Strong 2nd with 10th = good income from career",
+        "planets": "Benefics in 2nd = good earnings; Jupiter = wealth from wisdom; Venus = luxury income"
+      },
+      {
+        "house": "6th House (Shatru/Roga Bhava)",
+        "importance": "Medium - service, job, daily work",
+        "signifies": [
+          "Service sector",
+          "Employment",
+          "Subordinates",
+          "Daily routine work",
+          "Health profession",
+          "Litigation",
+          "Enemies/competition",
+          "Hard work"
+        ],
+        "connection": "Strong 6th = good in service, defeating competition",
+        "planets": "Malefics good in 6th (Saturn-hard work, Mars-surgery/defense)"
+      },
+      {
+        "house": "1st House (Lagna)",
+        "importance": "High - personality, self-employment",
+        "signifies": [
+          "Self-representation",
+          "Personal initiative",
+          "Self-employment potential",
+          "Leadership",
+          "Overall capability",
+          "Confidence"
+        ],
+        "analysis": "Strong lagna = self-employment possible; weak lagna = better in job under others"
+      },
+      {
+        "house": "11th House (Labha Bhava)",
+        "importance": "High - gains, income fulfillment",
+        "signifies": [
+          "Total income",
+          "Gains from profession",
+          "Network",
+          "Large organizations",
+          "Ambition fulfillment",
+          "Profit"
+        ],
+        "connection": "10th-11th connection = career brings good income"
+      },
+      {
+        "house": "7th House (Kalatra Bhava)",
+        "importance": "Medium - partnership business",
+        "signifies": [
+          "Business partnerships",
+          "Public dealing",
+          "Trade",
+          "Foreign business",
+          "Client interaction"
+        ],
+        "connection": "Strong 7th = good for partnership business, public-facing careers"
+      },
+      {
+        "house": "5th House (Putra Bhava)",
+        "importance": "Medium - intelligence, creativity",
+        "signifies": [
+          "Creativity",
+          "Speculation",
+          "Intelligence work",
+          "Entertainment",
+          "Children education",
+          "Investments"
+        ],
+        "careers": "Creative fields, stock market, teaching, entertainment"
+      },
+      {
+        "house": "9th House (Dharma Bhava)",
+        "importance": "Medium - fortune, higher learning",
+        "signifies": [
+          "Higher education",
+          "Teaching",
+          "Philosophy",
+          "Law",
+          "Religion",
+          "Foreign connections",
+          "Publishing",
+          "Father's influence"
+        ],
+        "careers": "Teaching, law, religious work, publishing, foreign assignments"
+      }
+    ]
+  },
+  "planetarySignifications": {
+    "name": "Career Significations by Planets",
+    "description": "Each planet governs specific professions",
+    "planets": [
+      {
+        "planet": "SU",
+        "nature": "Authority, government, leadership, soul, father",
+        "professions": [
+          "Government service (IAS, IPS, bureaucracy)",
+          "Politics and political leadership",
+          "Administration and management",
+          "Medicine (especially cardiac, eyes)",
+          "Pharmacy and drugs",
+          "Gold and jewelry business",
+          "Father's profession continuation",
+          "Leadership positions in any field",
+          "Public relations",
+          "Forestry and wood business",
+          "Temples and religious institutions management"
+        ],
+        "strong": "High authority position, government recognition, leadership roles, administrative success",
+        "weak": "Ego issues in career, conflicts with authority, lack of recognition, frequent job changes due to pride",
+        "in10th": "Government job, authority position, father's profession, leadership role - EXCELLENT for govt service",
+        "aspects10th": "Gives authority and recognition in profession"
+      },
+      {
+        "planet": "MO",
+        "nature": "Mind, emotions, mother, public, liquids, care",
+        "professions": [
+          "Nursing and healthcare",
+          "Psychology and counseling",
+          "Hotel and hospitality industry",
+          "Food and beverage industry",
+          "Dairy products and milk business",
+          "Water-related business (shipping, fisheries)",
+          "Pearls and gems business",
+          "Public relations and mass communication",
+          "Fashion and garments",
+          "Mother and child care",
+          "Agriculture (water crops)",
+          "Travel and tourism",
+          "Real estate (land with water)",
+          "Occult sciences (if afflicted)"
+        ],
+        "strong": "Public popularity, emotional connection with work, caring professions, good public dealing",
+        "weak": "Mental instability in career, frequent changes due to mood, emotional issues affecting work",
+        "in10th": "Public-facing career, caring profession, frequent changes, mother's profession influence",
+        "aspects10th": "Popular profession, emotional fulfillment from work"
+      },
+      {
+        "planet": "MA",
+        "nature": "Energy, courage, property, surgery, war, fire",
+        "professions": [
+          "Military and defense (army, navy, air force)",
+          "Police and law enforcement",
+          "Surgery and surgical instruments",
+          "Engineering (especially mechanical, civil)",
+          "Real estate and property business",
+          "Construction and builders",
+          "Sports and athletics",
+          "Fire-related work (welding, furnaces)",
+          "Metallurgy and iron/steel industry",
+          "Weapons and defense equipment",
+          "Butchers and meat business",
+          "Gym and fitness training",
+          "Adventure sports",
+          "Automobile and machines",
+          "Land dealings"
+        ],
+        "strong": "Courage in profession, technical excellence, property success, competitive edge, sports achievement",
+        "weak": "Aggression in workplace, accidents, conflicts with colleagues, hasty career decisions, job losses due to anger",
+        "in10th": "Technical career, defense services, surgery, property business, sports - needs courage and energy",
+        "aspects10th": "Gives energy and technical skill to profession"
+      },
+      {
+        "planet": "ME",
+        "nature": "Intelligence, communication, business, mathematics",
+        "professions": [
+          "Business and commerce",
+          "Accountancy and CA/Finance",
+          "Mathematics and statistics",
+          "Teaching and education",
+          "Writing and journalism",
+          "Publishing and printing",
+          "Astrology and occult (calculation)",
+          "Information Technology and computers",
+          "Communication and media",
+          "Sales and marketing",
+          "Trading and stock market",
+          "Public speaking",
+          "Consultancy services",
+          "Advertising and PR",
+          "Gemstones and small business",
+          "Travel agency",
+          "Insurance and agents"
+        ],
+        "strong": "Excellent business acumen, communication skills, multi-tasking, mathematical ability, quick learning",
+        "weak": "Mental scattered in work, indecisive, too many career interests, communication issues in profession",
+        "in10th": "Business career, intellectual work, communication-based profession, multiple income sources",
+        "aspects10th": "Gives intelligence and business sense to career",
+        "note": "BEST planet for business and commerce"
+      },
+      {
+        "planet": "JU",
+        "nature": "Wisdom, teaching, expansion, law, children, growth",
+        "professions": [
+          "Teaching and professorship",
+          "Law and judiciary (judges, advocates)",
+          "Finance and banking (especially senior positions)",
+          "Religious and spiritual work (priests, gurus)",
+          "Advisory and consultancy (senior advisor)",
+          "Philosophy and higher education",
+          "Children education and pedagogy",
+          "Counseling and guidance",
+          "Research and academics",
+          "Publishing (especially religious/educational)",
+          "Charitable organizations management",
+          "Diplomacy and foreign service",
+          "Gold and precious items",
+          "Expansion businesses",
+          "Administrative positions (senior)"
+        ],
+        "strong": "Wisdom in profession, respect and honor, ethical success, teaching ability, good judgment, expansion in career",
+        "weak": "Over-optimism in career, expansion beyond capacity, judgment errors, ethical dilemmas",
+        "in10th": "Teaching, law, advisory, religious work, respected profession, fortune in career - EXCELLENT for teaching/law",
+        "aspects10th": "Blesses profession with wisdom, growth, and ethical success"
+      },
+      {
+        "planet": "VE",
+        "nature": "Luxury, beauty, arts, entertainment, relationships",
+        "professions": [
+          "Arts and entertainment (music, dance, drama)",
+          "Fashion and beauty industry",
+          "Hotel and hospitality (luxury)",
+          "Jewelry and ornaments",
+          "Interior decoration and design",
+          "Perfumes and cosmetics",
+          "Film and cinema",
+          "Modeling and glamour",
+          "Photography and videography",
+          "Event management (weddings, parties)",
+          "Relationship counseling",
+          "Luxury goods and brands",
+          "Textile and garments",
+          "Vehicles (luxury cars)",
+          "Sugar and sweets business",
+          "Marriage bureau",
+          "Advertising (creative)"
+        ],
+        "strong": "Success in luxury fields, artistic talent, creative career, good income from beauty/arts, pleasant work environment",
+        "weak": "Over-indulgence affecting work, relationship issues impacting career, lack of discipline, too much pleasure focus",
+        "in10th": "Arts, entertainment, luxury business, beauty industry, creative career, diplomatic work",
+        "aspects10th": "Brings creativity, luxury, and artistic success to profession"
+      },
+      {
+        "planet": "SA",
+        "nature": "Hard work, discipline, labor, servants, delays, longevity",
+        "professions": [
+          "Labor and manual work",
+          "Mining and underground work",
+          "Oil and petroleum industry",
+          "Iron and steel industry",
+          "Leather and shoe industry",
+          "Servants and service class work",
+          "Old age care and nursing homes",
+          "Death-related services (mortuary)",
+          "Agriculture (hard labor)",
+          "Construction labor",
+          "Discipline-requiring jobs (security, watchman)",
+          "Machinery and heavy equipment",
+          "Research (long-term, patient)",
+          "Judiciary (judges - Saturn's justice)",
+          "Social service and NGOs",
+          "Geology and earth sciences",
+          "Real estate (old properties)"
+        ],
+        "strong": "Career longevity, patience in profession, disciplined work ethic, success after hard work, respected in old age",
+        "weak": "Career delays, obstacles, underpayment, hard work with less recognition, depression from work, late career start",
+        "in10th": "Hard work career, labor work, service, delays but eventual success, disciplined profession, long-term career",
+        "aspects10th": "Delays career, requires hard work, but gives longevity and respect eventually",
+        "note": "Delays success but ensures longevity - 'slow and steady wins race'"
+      },
+      {
+        "planet": "RA",
+        "nature": "Foreign, unconventional, sudden, technology, illusion, masses",
+        "professions": [
+          "Foreign assignments and MNCs",
+          "Technology and IT (especially cutting-edge)",
+          "Mass media and social media",
+          "Politics (manipulative)",
+          "Gambling and speculation",
+          "Drugs and pharmaceuticals (especially anesthesia)",
+          "Import-export business",
+          "Unconventional careers",
+          "Research (unconventional)",
+          "Aerospace and aeronautics",
+          "Electrical and electronics",
+          "Photography and cinema (illusion)",
+          "Petroleum and gas",
+          "Occult sciences (Tantric, especially)",
+          "Detectives and spies",
+          "Poisons and chemicals"
+        ],
+        "strong": "Foreign opportunities, unconventional success, sudden rise, technical expertise, mass reach, innovative career",
+        "weak": "Career instability, sudden job losses, fraudulent means, ethical issues, obsession with career, illusions about success",
+        "in10th": "Foreign career, unconventional profession, sudden changes, technology field, mass media - highly fluctuating",
+        "aspects10th": "Brings foreign element, technology, sudden events to career"
+      },
+      {
+        "planet": "KE",
+        "nature": "Spirituality, detachment, research, mysticism, computers",
+        "professions": [
+          "Spiritual teaching and guidance",
+          "Occult sciences (astrology, Vedic)",
+          "Research (deep, isolated)",
+          "Computer programming (backend, systems)",
+          "Mathematics (pure, abstract)",
+          "Mysticism and tantra",
+          "Healing (spiritual, alternative)",
+          "Philosophy",
+          "Isolation-requiring work",
+          "Secret services",
+          "Detachment professions (renunciation)",
+          "Tail-end of processes",
+          "Behind-the-scenes work",
+          "Technical expertise (narrow focus)"
+        ],
+        "strong": "Deep expertise, spiritual career success, research excellence, intuitive work, detached professionalism",
+        "weak": "Career detachment, lack of ambition, frequent job leaving, dissatisfaction with worldly career, spiritual crisis affecting work",
+        "in10th": "Spiritual career, research, isolated work, sudden breaks in career, technical backend work, dissatisfaction with worldly success",
+        "aspects10th": "Brings spiritual element, sudden breaks, research orientation to profession",
+        "note": "Often indicates dissatisfaction with worldly career - spiritual pull"
+      }
+    ]
+  },
+  "signSignifications": {
+    "name": "Career by 10th House Sign",
+    "description": "Sign in 10th house indicates career nature",
+    "signs": [
+      {
+        "sign": "AR",
+        "element": "Fire",
+        "nature": "Cardinal/Movable",
+        "careers": [
+          "Leadership",
+          "Military",
+          "Sports",
+          "Engineering",
+          "Surgery",
+          "Entrepreneurship"
+        ],
+        "quality": "Independent, pioneering, action-oriented work"
+      },
+      {
+        "sign": "TA",
+        "element": "EA",
+        "nature": "Fixed",
+        "careers": [
+          "Banking",
+          "Finance",
+          "Agriculture",
+          "Food industry",
+          "Luxury goods",
+          "Real estate",
+          "Music"
+        ],
+        "quality": "Stable career, wealth accumulation, artistic touch"
+      },
+      {
+        "sign": "GE",
+        "element": "Air",
+        "nature": "Dual",
+        "careers": [
+          "Media",
+          "Communication",
+          "Writing",
+          "Sales",
+          "Teaching",
+          "IT",
+          "Multiple careers"
+        ],
+        "quality": "Communication-based, multiple interests, versatile"
+      },
+      {
+        "sign": "CA",
+        "element": "Water",
+        "nature": "Cardinal/Movable",
+        "careers": [
+          "Nursing",
+          "Psychology",
+          "Hotels",
+          "Food",
+          "Public dealing",
+          "Care services",
+          "Real estate"
+        ],
+        "quality": "Caring professions, public dealing, emotional work"
+      },
+      {
+        "sign": "LE",
+        "element": "Fire",
+        "nature": "Fixed",
+        "careers": [
+          "Government",
+          "Politics",
+          "Administration",
+          "Management",
+          "Entertainment",
+          "Authority positions"
+        ],
+        "quality": "Leadership, authority, recognition-seeking career"
+      },
+      {
+        "sign": "VI",
+        "element": "EA",
+        "nature": "Dual",
+        "careers": [
+          "Accountancy",
+          "Analysis",
+          "Healthcare",
+          "Service sector",
+          "Publishing",
+          "Research"
+        ],
+        "quality": "Detail-oriented, service, analytical professions"
+      },
+      {
+        "sign": "LI",
+        "element": "Air",
+        "nature": "Cardinal/Movable",
+        "careers": [
+          "Law",
+          "Arts",
+          "Diplomacy",
+          "Design",
+          "Luxury business",
+          "Partnerships"
+        ],
+        "quality": "Partnership-based, artistic, balanced approach"
+      },
+      {
+        "sign": "SC",
+        "element": "Water",
+        "nature": "Fixed",
+        "careers": [
+          "Surgery",
+          "Research",
+          "Occult",
+          "Investigation",
+          "Insurance",
+          "Mining",
+          "Transformative work"
+        ],
+        "quality": "Deep, investigative, transformative professions"
+      },
+      {
+        "sign": "SA",
+        "element": "Fire",
+        "nature": "Dual",
+        "careers": [
+          "Teaching",
+          "Law",
+          "Philosophy",
+          "Religion",
+          "Foreign assignments",
+          "Sports",
+          "Higher education"
+        ],
+        "quality": "Wisdom-based, ethical, expansive career"
+      },
+      {
+        "sign": "CP",
+        "element": "EA",
+        "nature": "Cardinal/Movable",
+        "careers": [
+          "Business",
+          "Administration",
+          "Real estate",
+          "Construction",
+          "Serious professions",
+          "Long-term projects"
+        ],
+        "quality": "Ambitious, structured, practical career path"
+      },
+      {
+        "sign": "AQ",
+        "element": "Air",
+        "nature": "Fixed",
+        "careers": [
+          "Technology",
+          "Social work",
+          "Unconventional fields",
+          "Science",
+          "Research",
+          "Humanitarian work"
+        ],
+        "quality": "Unconventional, humanitarian, scientific approach"
+      },
+      {
+        "sign": "PI",
+        "element": "Water",
+        "nature": "Dual",
+        "careers": [
+          "Spirituality",
+          "Arts",
+          "Film",
+          "Healing",
+          "Charity",
+          "Hospitals",
+          "Multiple careers"
+        ],
+        "quality": "Spiritual, creative, compassionate professions"
+      }
+    ]
+  },
+  "jobVsBusiness": {
+    "name": "Job vs Business Indicators",
+    "description": "Chart shows whether suited for employment or entrepreneurship",
+    "jobIndicators": [
+      "Strong 6th house and 6th lord - service orientation",
+      "Saturn strong - discipline suits job structure",
+      "Sun strong - government service indicated",
+      "Weak or afflicted 1st house - lack confidence for self-employment",
+      "10th lord in 6th/12th - service to others",
+      "Fixed signs dominant - prefer stability of job",
+      "Moon strong but lagna weak - emotional stability in job structure",
+      "Benefic planets in 6th house",
+      "10th lord weak for self-reliance"
+    ],
+    "businessIndicators": [
+      "Strong 1st house and lagna lord - self-confidence",
+      "Strong 10th house - career independence",
+      "Mercury strong - business acumen",
+      "7th house strong - partnership business",
+      "2nd and 11th houses strong - income generation ability",
+      "Movable signs dominant - entrepreneurial flexibility",
+      "Mars strong - courage for business risks",
+      "Weak 6th house - dislike of service",
+      "Jupiter in 2nd/11th - expansion business",
+      "Rahu in 10th/11th - unconventional business, foreign"
+    ],
+    "partnershipBusiness": [
+      "Strong 7th house - partnership business",
+      "Venus strong - diplomatic partnerships",
+      "Multiple planets in 7th - multiple partnerships possible",
+      "Moon in 7th - emotional partnerships"
+    ],
+    "soleProprietorship": [
+      "Strong 1st house - independent business",
+      "Sun strong - authority in own business",
+      "Mars in 10th - self-made entrepreneur"
+    ],
+    "timing": [
+      "Start business in dasha of 2nd/10th/11th lord",
+      "Jupiter dasha/transit favorable for business expansion",
+      "Rahu dasha - foreign business, unconventional ventures",
+      "Avoid Saturn dasha for business start (delays) unless Saturn is yogakaraka"
+    ]
+  },
+  "divisionalCharts": {
+    "name": "Divisional Charts for Career",
+    "charts": [
+      {
+        "chart": "D10 (Dashamsha)",
+        "purpose": "PRIMARY career chart - most important",
+        "divisions": "10 divisions of each sign",
+        "analysis": [
+          "See which planets are strong in D10",
+          "D10 lagna and lord show career nature",
+          "Planets in D10 10th house directly influence profession",
+          "Benefics in D10 kendras = career success",
+          "Malefics in D10 upachaya = overcoming competition",
+          "Exalted planets in D10 = excellence in that planet's profession",
+          "Debilitated planets in D10 = struggle in that profession"
+        ],
+        "importance": "D10 can override D1 for career matters - very important",
+        "strength": "Planet strong in both D1 and D10 = definitely that profession"
+      },
+      {
+        "chart": "D1 (Rashi - Birth Chart)",
+        "purpose": "Overall career promise",
+        "analysis": "10th house, 10th lord, planets in 10th, aspects to 10th",
+        "importance": "Foundation - shows overall career direction"
+      },
+      {
+        "chart": "D9 (Navamsha)",
+        "purpose": "Strength of planets for career",
+        "analysis": "Planets exalted in D9 gain strength for career; debilitated lose strength",
+        "importance": "Shows whether career promises of D1 will manifest"
+      },
+      {
+        "chart": "D24 (Chaturvimsamsha)",
+        "purpose": "Education and learning",
+        "analysis": "Shows educational capabilities supporting career",
+        "importance": "Good education supports career success"
+      }
+    ],
+    "integration": "Check D1 for promise, D10 for specific career, D9 for strength, D24 for education"
+  },
+  "careerTiming": {
+    "name": "Timing Career Events",
+    "description": "When career changes, promotions, job changes occur",
+    "methods": [
+      {
+        "method": "Dasha System (Primary)",
+        "principle": "Career events happen in dashas of career-related planets",
+        "careerDashas": [
+          "10th lord Mahadasha/Antardasha - career peak, promotions, recognition",
+          "2nd lord dasha - income increase, salary hike",
+          "11th lord dasha - gains, ambition fulfillment, promotions",
+          "9th lord dasha - fortune in career, foreign assignments, higher positions",
+          "1st lord dasha - self-employment, career independence",
+          "6th lord dasha - job changes, competition, service sector work",
+          "Sun dasha - government opportunities, authority, recognition",
+          "Jupiter dasha - teaching, advisory, expansion, ethical career growth",
+          "Mercury dasha - business opportunities, communication careers, trading",
+          "Mars dasha - technical career, property business, courage-requiring work",
+          "Saturn dasha - hard work pays off, slow promotions, discipline required"
+        ],
+        "changeDashas": [
+          "8th lord dasha - sudden career changes, transformations",
+          "12th lord dasha - foreign assignments OR job losses (check strength)",
+          "Rahu dasha - unconventional career, foreign work, sudden changes",
+          "Ketu dasha - spiritual career OR detachment from worldly career"
+        ],
+        "antardasha": "Specific events occur in antardasha - e.g., 10th lord Mahadasha, 2nd lord Antardasha = promotion with salary hike"
+      },
+      {
+        "method": "Transits (Secondary)",
+        "principle": "Dasha shows readiness, transit triggers event",
+        "transits": [
+          "Jupiter transit over 10th house/10th lord - career opportunities, expansion, promotions (stays ~1 year)",
+          "Jupiter transit over 2nd/11th - income increase, financial gains from career",
+          "Saturn transit over 10th house - career restructuring, hard work, responsibilities, can be promotion or pressure (stays ~2.5 years)",
+          "Saturn transit over 6th/11th - overcoming obstacles, gains after hard work",
+          "Rahu-Ketu axis on 10th-4th - career upheaval, major changes, foreign (~1.5 years)",
+          "Mars transit 10th - short energy burst, interview success, aggressive career moves (~45 days)"
+        ],
+        "combined": "Best results when favorable dasha + favorable transit combine"
+      },
+      {
+        "method": "Ashtakavarga",
+        "principle": "Transit through high SAV points triggers good events",
+        "application": "Jupiter/Saturn transit through 10th house with high SAV (28+) = excellent career year",
+        "timing": "Precise year identification"
+      },
+      {
+        "method": "Varshaphal (Annual Chart)",
+        "principle": "Year lord and Muntha placement show year's career",
+        "analysis": "Muntha in 10th = career focus year; Year lord in 10th = career changes/opportunities"
+      }
+    ],
+    "jobChange": {
+      "indicators": [
+        "8th lord dasha (transformation)",
+        "12th lord dasha (leaving current place)",
+        "6th lord dasha (new service)",
+        "Rahu dasha/antardasha (sudden changes)",
+        "Saturn transit 10th (restructuring)",
+        "Jupiter transit 10th (new opportunities)"
+      ],
+      "timing": "Job change when multiple factors combine"
+    },
+    "promotion": {
+      "indicators": [
+        "10th lord dasha (career recognition)",
+        "11th lord dasha (gains)",
+        "Sun dasha (authority increase)",
+        "Jupiter transit 10th (elevation)",
+        "2nd lord antardasha in 10th/11th lord MD (salary with position)"
+      ],
+      "timing": "Promotion when dasha-transit both favorable"
+    },
+    "businessStart": {
+      "indicators": [
+        "1st lord dasha (self-reliance)",
+        "10th lord dasha (career independence)",
+        "Mercury dasha (business)",
+        "Jupiter dasha (expansion)",
+        "2nd-11th lord dashas (wealth generation)"
+      ],
+      "avoid": "Saturn dasha start (delays unless yogakaraka); Ketu dasha (detachment)"
+    },
+    "foreignCareer": {
+      "indicators": [
+        "12th lord dasha (foreign settlement)",
+        "9th lord dasha (foreign assignments)",
+        "Rahu dasha (foreign, unconventional)",
+        "7th lord dasha (foreign partnerships)",
+        "Jupiter transit 9th/12th (foreign opportunities)"
+      ]
+    }
+  },
+  "careerObstacles": {
+    "name": "Career Obstacles and Solutions",
+    "obstacles": [
+      {
+        "obstacle": "Weak 10th House",
+        "indicators": "Malefics in 10th without benefic aspects; 10th lord debilitated/combust; no planets aspecting 10th",
+        "effects": "Career struggles, lack of recognition, frequent changes, no stable career",
+        "remedies": [
+          "Strengthen 10th lord through gemstone (after expert consultation)",
+          "Worship deity of 10th lord's planet",
+          "Chant mantra of 10th lord 108 times daily",
+          "Donate items related to 10th lord planet on its day",
+          "Fast on 10th lord's planet day",
+          "Do career-related charity (help others in career)"
+        ]
+      },
+      {
+        "obstacle": "Saturn in 10th House",
+        "indicators": "Saturn placed in 10th house",
+        "effects": "Career delays, hard work with less reward, late career success, obstacles from seniors, responsibility burden",
+        "positives": "Career longevity, respect in old age, disciplined work, eventual success",
+        "remedies": [
+          "Saturn remedies: Blue sapphire (EXPERT consultation MUST), black sesame donation",
+          "Hanuman Chalisa daily (Hanuman controls Saturn)",
+          "Serve poor and elderly",
+          "Accept delays with patience - Saturn tests patience",
+          "Hard work without complaint - Saturn rewards sincere effort",
+          "Oil lamp to Shani on Saturdays"
+        ],
+        "note": "Saturn in 10th is not purely bad - gives longevity and respect eventually"
+      },
+      {
+        "obstacle": "Mars in 10th House",
+        "indicators": "Mars placed in 10th house",
+        "effects": "Aggression in career, conflicts with authority, impulsive job changes, accident-prone in work",
+        "positives": "Technical excellence, courage, leadership, property career success",
+        "remedies": [
+          "Control anger and aggression at workplace",
+          "Mars remedies: Red coral (consultation), Hanuman worship",
+          "Channel aggression into sports or technical work",
+          "Avoid confrontations with seniors"
+        ]
+      },
+      {
+        "obstacle": "Rahu in 10th House",
+        "indicators": "Rahu placed in 10th house",
+        "effects": "Career instability, sudden changes, obsession with career, ethical compromises, unconventional path",
+        "positives": "Foreign career, sudden rise, unconventional success, technology field",
+        "remedies": [
+          "Rahu remedies: Hessonite/Gomed (consultation), Durga worship",
+          "Maintain ethics in career - Rahu tempts shortcuts",
+          "Donate to poor on Saturdays",
+          "Chant Durga mantras for protection"
+        ]
+      },
+      {
+        "obstacle": "Ketu in 10th House",
+        "indicators": "Ketu placed in 10th house",
+        "effects": "Career detachment, lack of ambition, sudden job leaving, dissatisfaction with worldly success, spiritual pull",
+        "positives": "Spiritual career success, technical expertise, research",
+        "remedies": [
+          "Accept spiritual nature - pursue spiritual career if persistent dissatisfaction",
+          "Ketu remedies: Cat's eye (consultation), Ganesha worship",
+          "Research or technical backend work suits",
+          "Balance material and spiritual - don't completely abandon career"
+        ]
+      },
+      {
+        "obstacle": "6th/8th/12th Lords in 10th",
+        "indicators": "Dusthana lords in career house",
+        "effects": "Service under difficult conditions (6th), sudden changes/transformations (8th), foreign work or losses (12th)",
+        "remedies": [
+          "Strengthen 10th lord to overcome dusthana influence",
+          "Accept service nature if 6th lord (not bad, just service)",
+          "Be prepared for changes if 8th lord",
+          "Foreign career if 12th lord (can be positive)"
+        ]
+      },
+      {
+        "obstacle": "Combust 10th Lord",
+        "indicators": "10th lord too close to Sun (within ~7-10 degrees)",
+        "effects": "Ego issues in career, lack of recognition despite work, authority conflicts, hidden efforts",
+        "remedies": [
+          "Sun remedies to reduce combustion",
+          "Reduce ego in workplace",
+          "Accept lack of recognition temporarily",
+          "Work behind scenes where ego not involved"
+        ]
+      },
+      {
+        "obstacle": "Retrograde 10th Lord",
+        "indicators": "10th lord in retrograde motion",
+        "effects": "Career delays, unconventional path, going back to past careers, internal career focus",
+        "positives": "Deep expertise, unconventional success",
+        "remedies": [
+          "Accept unconventional career path",
+          "Patience with delays",
+          "May need to revisit past career areas"
+        ]
+      },
+      {
+        "obstacle": "Malefic Aspects on 10th",
+        "indicators": "Saturn/Mars/Rahu aspect 10th house without benefic relief",
+        "effects": "Career obstacles, competition, delays, struggles",
+        "remedies": [
+          "Strengthen 10th house/lord",
+          "Remedies for aspecting malefic planet",
+          "Accept hard work as path to success"
+        ]
+      }
+    ]
+  },
+  "careerChangeGuidance": {
+    "name": "Career Change Decision Framework",
+    "whenToChange": [
+      "Dasha of 8th/12th lord beginning (transformation/leaving)",
+      "Persistent dissatisfaction for 1-2 years minimum",
+      "New skill set developed matching other career indicators",
+      "Health issues from current career",
+      "Ethical compromises required",
+      "Stagnation with no growth for extended period",
+      "Better opportunity matching chart indicators"
+    ],
+    "whenNotToChange": [
+      "Temporary dissatisfaction (few months)",
+      "Only for salary (check if increment due in current job)",
+      "During unfavorable dasha (Saturn/Rahu without support)",
+      "No clear alternative vision",
+      "Frequent changes already (stability needed)",
+      "Just before favorable period in current career"
+    ],
+    "process": [
+      {
+        "step": 1,
+        "action": "Analyze Chart for Natural Careers",
+        "method": "Check 10th house, 10th lord, planets in 10th, D10 chart, planetary strengths"
+      },
+      {
+        "step": 2,
+        "action": "Check Current Career Alignment",
+        "question": "Does current career match chart indicators?",
+        "aligned": "Consider staying, work on promotions",
+        "misaligned": "Career change more justified"
+      },
+      {
+        "step": 3,
+        "action": "Check Timing",
+        "method": "Analyze current dasha, upcoming dashas, transits",
+        "favorable": "Proceed with change",
+        "unfavorable": "Wait or proceed with caution"
+      },
+      {
+        "step": 4,
+        "action": "Identify Target Career",
+        "method": "Match strongest planets and houses to professions",
+        "skill": "Ensure skills align or can be developed"
+      },
+      {
+        "step": 5,
+        "action": "Plan Transition",
+        "safe": "If possible, transition gradually (part-time, freelance)",
+        "risky": "If complete switch needed, ensure financial buffer"
+      },
+      {
+        "step": 6,
+        "action": "Execute in Favorable Timing",
+        "use": "Abhijit Muhurta or full career muhurta for joining new job/starting business"
+      }
+    ]
+  },
+  "practicalCaseStudy": {
+    "name": "Career Counseling Case Study",
+    "scenario": "Person seeking career guidance, currently in unsatisfying IT job",
+    "chartIndicators": [
+      "Lagna: Libra (Venus ruled - artistic, diplomatic)",
+      "10th House: Cancer (Moon ruled - caring, public, food, emotions)",
+      "10th Lord Moon: Exalted in Taurus 8th house (strong but transformation)",
+      "Jupiter in 10th house Cancer (own sign - teaching, wisdom, counseling)",
+      "Venus (lagna lord) in 5th house Aquarius (creativity, intellect)",
+      "Mercury in 6th house Pisces (debilitated - struggling in communication work)",
+      "D10 Chart: Jupiter dominant, 10th lord in 5th (teaching/counseling)"
+    ],
+    "currentSituation": [
+      "Working in IT company as programmer for 5 years",
+      "Persistent dissatisfaction despite good salary",
+      "Strong pull towards counseling/helping people",
+      "Good at giving advice to friends",
+      "Current Dasha: Jupiter Mahadasha, Venus Antardasha"
+    ],
+    "analysis": {
+      "naturalCareer": [
+        "Jupiter in 10th Cancer = TEACHING, COUNSELING, WISDOM WORK",
+        "Moon as 10th lord = Public dealing, caring profession, emotional work",
+        "Venus as lagna lord in 5th = Creative, intellectual, advisory work",
+        "D10 Jupiter dominant = Teaching/wisdom career primary indicator"
+      ],
+      "currentCareerMismatch": [
+        "Mercury debilitated in 6th = Struggling in communication/IT work",
+        "IT/programming is Mercury-dominated, but Mercury weak",
+        "No fulfillment despite good technical skills",
+        "Chart clearly indicates wisdom/counseling, not technical coding"
+      ],
+      "timingAnalysis": [
+        "Jupiter Mahadasha (current) = EXCELLENT for career change to teaching/counseling",
+        "Jupiter in 10th = Career peak period in Jupiter dasha",
+        "Venus Antardasha = Creative change, artistic touch to work",
+        "Perfect timing for transition to Jupiter-related career"
+      ],
+      "recommendation": "CHANGE TO COUNSELING/TEACHING CAREER"
+    },
+    "actionPlan": [
+      {
+        "immediate": "Start counseling/life coaching certification alongside job (next 6 months)",
+        "rationale": "Jupiter dasha supports learning wisdom fields"
+      },
+      {
+        "shortTerm": "Begin part-time counseling practice (weekends/evenings) for 6-12 months",
+        "rationale": "Test waters, build confidence, safe transition"
+      },
+      {
+        "mediumTerm": "Transition to full-time counseling when client base stable (12-18 months)",
+        "rationale": "Jupiter-Venus period until end of Venus Antardasha excellent"
+      },
+      {
+        "timing": "Join counseling practice or start independent practice during Jupiter-Sun Antardasha (next after Venus)",
+        "rationale": "Sun will give authority and recognition to new career"
+      },
+      {
+        "longTerm": "May combine counseling with teaching workshops/courses",
+        "rationale": "Jupiter in 10th excellent for teaching-counseling combination"
+      }
+    ],
+    "expectedOutcome": [
+      "Deep career satisfaction - alignment with chart",
+      "Good income - Jupiter in 10th ensures prosperity in wisdom fields",
+      "Public recognition - Moon as 10th lord gives popularity",
+      "Emotional fulfillment - Cancer 10th house caring profession",
+      "Success timeline: 2-3 years to establish, 5+ years major success"
+    ],
+    "remedies": [
+      "Continue Jupiter remedies: Yellow sapphire (if consulted), Thursday fasting, Jupiter mantra",
+      "Strengthen Moon: Pearl (consultation), Monday fasting, Moon worship",
+      "Worship Guru (Jupiter deity) for wisdom career success",
+      "Donate to educational causes during transition"
+    ],
+    "caution": [
+      "Ensure financial buffer for transition period",
+      "Don't quit IT job immediately - transition gradually",
+      "Build counseling credentials and experience first",
+      "Network in counseling field before full switch"
+    ]
+  },
+  "remediesForCareerSuccess": {
+    "name": "Remedies for Career Growth",
+    "universal": [
+      "Strengthen 10th lord through its planet remedies",
+      "Worship on relevant weekday for career planet",
+      "Donate items related to career planets",
+      "Chant career planet mantras",
+      "Gemstones (ALWAYS consult expert before wearing)"
+    ],
+    "specificRemedies": [
+      {
+        "for": "Government Job",
+        "planet": "SU",
+        "remedies": [
+          "Surya mantra: Om Ghrini Suryaya Namaha (108 times Sunday morning)",
+          "Offer water to rising Sun daily",
+          "Ruby gemstone (expert consultation)",
+          "Donate wheat, jaggery, copper on Sundays",
+          "Fast on Sundays",
+          "Visit Sun temple"
+        ]
+      },
+      {
+        "for": "Business Success",
+        "planet": "ME",
+        "remedies": [
+          "Budha mantra: Om Braam Breem Braum Sah Budhaya Namaha",
+          "Emerald gemstone (consultation)",
+          "Donate green items, books on Wednesdays",
+          "Worship Lord Vishnu",
+          "Feed green vegetables to cows on Wednesday",
+          "Business account books organized and clean"
+        ]
+      },
+      {
+        "for": "Teaching/Advisory Career",
+        "planet": "JU",
+        "remedies": [
+          "Guru mantra: Om Gram Greem Graum Sah Gurave Namaha",
+          "Yellow sapphire (consultation)",
+          "Donate yellow items, turmeric, gold on Thursdays",
+          "Fast on Thursdays",
+          "Respect teachers and elders",
+          "Donate to educational causes",
+          "Teach someone for free"
+        ]
+      },
+      {
+        "for": "Career Delays (Saturn Issues)",
+        "planet": "SA",
+        "remedies": [
+          "Shani mantra: Om Praam Preem Praum Sah Shanaischaraya Namaha",
+          "Hanuman Chalisa daily (most powerful for Saturn)",
+          "Blue sapphire (ONLY with expert consultation - can backfire)",
+          "Donate black sesame, iron, black cloth on Saturdays",
+          "Serve poor, elderly, handicapped",
+          "Oil lamp to Shani on Saturday evening",
+          "Patience and hard work - Saturn's test"
+        ]
+      },
+      {
+        "for": "Technical Career",
+        "planet": "MA",
+        "remedies": [
+          "Mangal mantra: Om Kraam Kreem Kraum Sah Bhaumaya Namaha",
+          "Red coral (consultation)",
+          "Hanuman worship (Tuesday)",
+          "Donate red lentils, red cloth on Tuesdays",
+          "Control anger in workplace"
+        ]
+      },
+      {
+        "for": "Foreign Career",
+        "planet": "RA",
+        "remedies": [
+          "Rahu mantra: Om Bhraam Bhreem Bhraum Sah Rahave Namaha",
+          "Hessonite/Gomed (consultation)",
+          "Durga worship for Rahu control",
+          "Donate to poor on Saturdays",
+          "Keep ethics despite temptations"
+        ]
+      },
+      {
+        "for": "Promotion/Authority",
+        "planets": [
+          "SU",
+          "JU"
+        ],
+        "remedies": [
+          "Surya and Guru mantras daily",
+          "Respect seniors and authority figures",
+          "Build leadership skills",
+          "Donate to charity from position of authority"
+        ]
+      }
+    ],
+    "timing": "Start remedies at least 3-6 months before desired career event for maximum effect"
+  },
+  "modernCareerFields": {
+    "name": "Modern Career Fields - Astrological Indicators",
+    "fields": [
+      {
+        "field": "Software Development",
+        "planets": "Mercury + Ketu/Rahu",
+        "houses": "3rd (coding) + 10th",
+        "signs": "Gemini, Virgo, Aquarius"
+      },
+      {
+        "field": "Data Science/AI",
+        "planets": "Mercury + Jupiter + Rahu",
+        "houses": "5th (analysis) + 10th",
+        "signs": "Virgo, Aquarius"
+      },
+      {
+        "field": "Digital Marketing",
+        "planets": "Mercury + Venus + Rahu",
+        "houses": "3rd (communication) + 11th (network)",
+        "signs": "GE"
+      },
+      {
+        "field": "Content Creation/YouTube",
+        "planets": "Venus + Rahu + Mercury",
+        "houses": "5th (creativity) + 11th (income)",
+        "signs": "Leo, Gemini"
+      },
+      {
+        "field": "Cryptocurrency/Blockchain",
+        "planets": "Rahu + Mercury + Saturn",
+        "houses": "8th (hidden) + 11th (gains)",
+        "signs": "AQ"
+      },
+      {
+        "field": "E-commerce",
+        "planets": "Mercury + Rahu",
+        "houses": "2nd-11th (wealth)",
+        "signs": "Gemini, Virgo"
+      },
+      {
+        "field": "Startup Founder",
+        "planets": "Mars + Mercury + Rahu",
+        "houses": "1st (self) + 10th",
+        "signs": "Aries, Aquarius"
+      },
+      {
+        "field": "UX/UI Design",
+        "planets": "Venus + Mercury",
+        "houses": "5th (creativity)",
+        "signs": "Libra, Gemini"
+      },
+      {
+        "field": "Cybersecurity",
+        "planets": "Saturn + Ketu + Mars",
+        "houses": "8th (hidden) + 10th",
+        "signs": "SC"
+      },
+      {
+        "field": "Biotechnology",
+        "planets": "Jupiter + Mercury + Mars",
+        "houses": "8th (genetics) + 10th",
+        "signs": "SC"
+      },
+      {
+        "field": "Environmental Science",
+        "planets": "Saturn + Jupiter",
+        "houses": "4th (earth) + 10th",
+        "signs": "Earth signs"
+      },
+      {
+        "field": "Social Media Influencer",
+        "planets": "Venus + Rahu + Moon",
+        "houses": "11th (network) + 5th (creativity)",
+        "signs": "Leo, Libra"
+      }
+    ]
+  },
+  "note": "Career counseling through Vedic astrology provides direction, not destiny. Free will, effort, skill development, and timing all contribute to career success. Chart shows natural inclinations and favorable periods - use as guidance, not absolute prediction."
+}

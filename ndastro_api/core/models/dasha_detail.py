@@ -10,7 +10,7 @@ from enum import Enum
 from typing import TYPE_CHECKING
 
 if TYPE_CHECKING:
-    from ndastro.libs.planet_enum import Planets
+    from ndastro_engine.enums import Planets
 
 
 class Dashas(Enum):

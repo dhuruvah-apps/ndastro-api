@@ -1,0 +1,428 @@
+[
+    {
+        "name": "Special Lagnas Overview",
+        "description": "Additional ascendants calculated for specific life areas beyond birth lagna",
+        "purpose": "Supplement main lagna analysis with specialized perspectives",
+        "totalTypes": 10,
+        "importance": "High for comprehensive analysis",
+        "usage": "Check planets and lords in relation to these special lagnas for specific predictions",
+        "vedicReferences": "Described in Jataka Parijata, Brihat Parashara Hora Shastra, and other classics",
+        "note": "Each special lagna acts as an alternative ascendant for its specific area"
+    },
+    {
+        "name": "Hora Lagna",
+        "sanskritName": "Hora Lagna",
+        "category": "Wealth Lagna",
+        "importance": "Very high",
+        "significations": ["Wealth", "Money", "Financial prosperity", "Material gains", "Income sources"],
+        "description": "Special ascendant for wealth and financial matters - most important for money analysis",
+        "calculationMethod": "Based on sunrise and elapsed ghatis since sunrise",
+        "calculationFormula": "Lagna + (Ghatis elapsed from sunrise × 15°) ÷ 2.5",
+        "alternateFormula": "Lagna + (Hours from sunrise × 15°) ÷ 2.5",
+        "calculation": {
+            "step1": "Calculate ghatis (24 minutes) elapsed from sunrise to birth",
+            "step2": "Multiply ghatis by 15 degrees",
+            "step3": "Divide by 2.5",
+            "step4": "Add result to birth lagna longitude",
+            "step5": "The sign falling at this longitude is Hora Lagna"
+        },
+        "usage": "Primary lagna for wealth predictions and financial analysis",
+        "interpretation": {
+            "planets": "Planets in relation to Hora Lagna show wealth sources",
+            "lord": "Hora Lagna lord's position shows how wealth comes",
+            "aspects": "Benefic aspects to Hora Lagna indicate wealth gains",
+            "malefics": "Malefic influences reduce wealth potential"
+        },
+        "strengthFactors": [
+            "Strong Hora Lagna lord indicates good wealth",
+            "Benefics in Hora Lagna give financial gains",
+            "2nd and 11th from Hora Lagna show income and gains",
+            "Dhana yogas from Hora Lagna enhance wealth"
+        ],
+        "examples": {
+            "strong": "Jupiter in Hora Lagna with strong lord - excellent wealth through righteous means",
+            "moderate": "Venus aspecting Hora Lagna - good wealth through beauty/arts",
+            "weak": "Saturn afflicting Hora Lagna with weak lord - financial struggles"
+        },
+        "vedicReferences": "Hora Lagna extensively used in Jataka Parijata for wealth",
+        "keywords": ["Wealth", "Money", "Financial", "Income", "Prosperity"]
+    },
+    {
+        "name": "Ghati Lagna",
+        "sanskritName": "Ghati Lagna",
+        "category": "Life Force Lagna",
+        "importance": "High",
+        "significations": ["Life events", "General fortune", "Overall strength", "Life direction", "Vitality"],
+        "description": "Based on ghatis elapsed since sunrise - shows general life strength and direction",
+        "calculationMethod": "Direct ghati count from sunrise",
+        "calculationFormula": "Aries 0° + (Ghatis elapsed from sunrise × 6°)",
+        "calculation": {
+            "step1": "Calculate ghatis elapsed from sunrise to birth",
+            "step2": "Multiply ghatis by 6 degrees",
+            "step3": "Add to Aries 0° (starting point)",
+            "step4": "The sign at this longitude is Ghati Lagna"
+        },
+        "usage": "General life strength and major life event timing",
+        "interpretation": {
+            "planets": "Planets with Ghati Lagna show life themes",
+            "lord": "Ghati Lagna lord indicates life direction",
+            "strength": "Strong Ghati Lagna gives overall life strength",
+            "weakness": "Weak Ghati Lagna creates life challenges"
+        },
+        "strengthFactors": [
+            "Strong Ghati Lagna lord gives good life direction",
+            "Benefics with Ghati Lagna support life",
+            "Kendras from Ghati Lagna should be strong",
+            "No malefic afflictions preferred"
+        ],
+        "examples": {
+            "strong": "Sun in Ghati Lagna - strong life force, clear direction, vitality",
+            "moderate": "Moon aspecting Ghati Lagna - emotional life direction",
+            "weak": "Rahu-Ketu axis on Ghati Lagna - confusing life direction"
+        },
+        "vedicReferences": "Ghati Lagna used in classical texts for life assessment",
+        "keywords": ["Life force", "Vitality", "Direction", "Fortune", "Strength"]
+    },
+    {
+        "name": "Bhava Lagna",
+        "sanskritName": "Bhava Madhya Lagna",
+        "category": "House Center Lagna",
+        "importance": "Medium to high",
+        "significations": ["Physical body", "Life experiences", "Tangible results", "Material manifestation"],
+        "description": "Mid-point of first house - represents physical manifestation and tangible results",
+        "calculationMethod": "Middle point of the first house",
+        "calculationFormula": "Midpoint between 1st house cusp and 2nd house cusp",
+        "calculation": {
+            "step1": "Find longitude of lagna (1st house cusp)",
+            "step2": "Find longitude of 2nd house cusp",
+            "step3": "Calculate midpoint between these two",
+            "step4": "The sign at this midpoint is Bhava Lagna"
+        },
+        "usage": "Physical body, tangible life results, material manifestation",
+        "interpretation": {
+            "planets": "Planets near Bhava Lagna affect physical body directly",
+            "lord": "Bhava Lagna lord shows how body manifests life",
+            "health": "Health issues seen from Bhava Lagna",
+            "material": "Material results seen from this lagna"
+        },
+        "strengthFactors": [
+            "Strong Bhava Lagna lord gives good health",
+            "Benefics near Bhava Lagna protect body",
+            "6th and 8th from Bhava Lagna show health issues",
+            "Strong connection to birth lagna enhances effects"
+        ],
+        "examples": {
+            "strong": "Mars in Bhava Lagna - strong physical body, energetic manifestation",
+            "moderate": "Jupiter aspecting Bhava Lagna - healthy body, wisdom manifests",
+            "weak": "Saturn afflicting Bhava Lagna - weak body, delayed manifestation"
+        },
+        "vedicReferences": "Bhava Lagna for physical manifestation in classics",
+        "keywords": ["Physical", "Tangible", "Material", "Body", "Manifestation"]
+    },
+    {
+        "name": "Vighati Lagna",
+        "sanskritName": "Vighati Lagna",
+        "category": "Precise Life Lagna",
+        "importance": "Medium",
+        "significations": ["Precise life events", "Detailed timing", "Subtle influences", "Refined predictions"],
+        "description": "More precise than Ghati Lagna - based on vighatis (smaller time units)",
+        "calculationMethod": "Based on vighatis elapsed since sunrise",
+        "calculationFormula": "Aries 0° + (Vighatis elapsed × 0.1°)",
+        "calculation": {
+            "step1": "Calculate vighatis elapsed from sunrise (1 ghati = 60 vighatis)",
+            "step2": "Multiply vighatis by 0.1 degrees",
+            "step3": "Add to Aries 0°",
+            "step4": "The sign at this longitude is Vighati Lagna"
+        },
+        "usage": "Precise event timing and detailed predictions",
+        "interpretation": {
+            "timing": "Very precise for event timing",
+            "subtle": "Shows subtle life influences",
+            "detailed": "Detailed predictions possible",
+            "refinement": "Refines Ghati Lagna results"
+        },
+        "strengthFactors": [
+            "Used for very precise predictions",
+            "Requires accurate birth time (within minutes)",
+            "Best for timing specific events",
+            "Complements Ghati Lagna analysis"
+        ],
+        "vedicReferences": "Advanced texts on precise timing",
+        "keywords": ["Precise", "Detailed", "Timing", "Subtle", "Refined"]
+    },
+    {
+        "name": "Pranapada Lagna",
+        "sanskritName": "Pranapada Lagna",
+        "category": "Life Breath Lagna",
+        "importance": "High",
+        "significations": ["Life breath", "Prana", "Vitality", "Life force", "Longevity", "Health"],
+        "description": "Breath of life - shows vitality, longevity, and life force strength",
+        "calculationMethod": "Complex calculation based on lagna, Moon, and special factors",
+        "calculationFormula": "Based on distance between lagna and Moon, with special adjustments",
+        "calculation": {
+            "step1": "Calculate distance from lagna to Moon in navamsa",
+            "step2": "Apply special rules based on odd/even sign",
+            "step3": "Convert back to rasi position",
+            "step4": "This gives Pranapada Lagna"
+        },
+        "usage": "Longevity, vitality, life force analysis, health predictions",
+        "interpretation": {
+            "longevity": "Strong Pranapada indicates long life",
+            "health": "Health issues seen from this lagna",
+            "vitality": "Shows overall life force strength",
+            "prana": "Connection to breath and vital energy"
+        },
+        "strengthFactors": [
+            "Strong Pranapada lord gives longevity",
+            "Benefics with Pranapada protect life",
+            "Malefics afflicting reduce vitality",
+            "8th house from Pranapada shows life threats"
+        ],
+        "examples": {
+            "strong": "Jupiter in Pranapada with strong lord - excellent longevity, strong vitality",
+            "moderate": "Venus aspecting Pranapada - good health, decent longevity",
+            "weak": "Saturn-Mars on Pranapada - health challenges, vitality issues"
+        },
+        "vedicReferences": "Pranapada important for longevity in Jataka Parijata",
+        "keywords": ["Longevity", "Vitality", "Life force", "Prana", "Health"]
+    },
+    {
+        "name": "Indu Lagna",
+        "sanskritName": "Indu Lagna",
+        "category": "Wealth Lagna",
+        "importance": "Very high for wealth",
+        "significations": ["Wealth", "Prosperity", "Financial success", "Accumulated riches", "Material abundance"],
+        "description": "Special wealth ascendant - shows accumulated wealth and prosperity potential",
+        "calculationMethod": "Based on specific planetary positions and mathematical calculations",
+        "calculationFormula": "Complex calculation involving lagna lord, 9th lord, and other factors",
+        "calculation": {
+            "step1": "Determine position of lagna lord and 9th lord",
+            "step2": "Apply mathematical formula based on specific rules",
+            "step3": "Calculate final position",
+            "step4": "This gives Indu Lagna"
+        },
+        "usage": "Wealth accumulation, prosperity analysis, financial success predictions",
+        "interpretation": {
+            "wealth": "Strong Indu Lagna indicates great wealth",
+            "accumulation": "Shows ability to accumulate riches",
+            "prosperity": "Overall financial prosperity potential",
+            "sources": "Planets show wealth sources"
+        },
+        "strengthFactors": [
+            "Strong Indu Lagna lord brings wealth",
+            "Jupiter/Venus with Indu excellent for prosperity",
+            "2nd and 11th from Indu show wealth gains",
+            "Dhana yogas from Indu multiply wealth"
+        ],
+        "examples": {
+            "strong": "Jupiter-Venus in Indu with strong lord - exceptional wealth, great prosperity",
+            "moderate": "Mercury in Indu - good business wealth, trade success",
+            "weak": "Saturn afflicting Indu with weak lord - financial struggles"
+        },
+        "vedicReferences": "Indu Lagna detailed in wealth chapters of classics",
+        "keywords": ["Wealth", "Prosperity", "Riches", "Accumulation", "Financial success"]
+    },
+    {
+        "name": "Sree Lagna",
+        "sanskritName": "Sree Lagna/Sri Lagna",
+        "category": "Prosperity Lagna",
+        "importance": "Very high",
+        "significations": ["Prosperity", "Fortune", "Comfort", "Luxury", "Overall well-being", "Blessings"],
+        "description": "Goddess Lakshmi's blessing - shows overall prosperity, comfort, and fortune",
+        "calculationMethod": "Based on Moon's longitude and specific calculations",
+        "calculationFormula": "Calculated from Moon's position with special adjustments",
+        "calculation": {
+            "step1": "Take Moon's longitude",
+            "step2": "Add specific degrees based on calculation method",
+            "step3": "Apply adjustments for day/night birth",
+            "step4": "Result gives Sree Lagna"
+        },
+        "usage": "Overall prosperity, comfort, fortune, and divine blessings assessment",
+        "interpretation": {
+            "prosperity": "Shows overall prosperity level",
+            "fortune": "Divine grace and fortune",
+            "comfort": "Life comfort and luxury",
+            "blessings": "Lakshmi's blessings and grace"
+        },
+        "strengthFactors": [
+            "Strong Sree Lagna lord brings prosperity",
+            "Jupiter/Venus with Sree gives divine blessings",
+            "Benefics aspecting Sree enhance fortune",
+            "Connection to 9th and 11th houses multiplies prosperity"
+        ],
+        "examples": {
+            "strong": "Venus-Jupiter in Sree Lagna - exceptional prosperity, divine grace, luxury life",
+            "moderate": "Moon in Sree - emotional prosperity, comfortable life",
+            "weak": "Rahu-Saturn afflicting Sree - prosperity challenges, comfort lacking"
+        },
+        "vedicReferences": "Sree Lagna for Lakshmi's blessings in Jataka texts",
+        "keywords": ["Prosperity", "Fortune", "Lakshmi", "Comfort", "Blessings"]
+    },
+    {
+        "name": "Varnada Lagna",
+        "sanskritName": "Varnada Lagna",
+        "category": "Status Lagna",
+        "importance": "Medium to high",
+        "significations": ["Social status", "Complexion", "External appearance", "Reputation", "Public image"],
+        "description": "Shows external appearance, social status, and public reputation",
+        "calculationMethod": "Based on hora lord and specific calculations",
+        "calculationFormula": "Calculated from hora divisions and lagna",
+        "calculation": {
+            "step1": "Determine hora lord of lagna",
+            "step2": "Apply calculation based on odd/even hora",
+            "step3": "Calculate final position",
+            "step4": "This gives Varnada Lagna"
+        },
+        "usage": "Social status, public image, complexion, and reputation analysis",
+        "interpretation": {
+            "status": "Shows social status level",
+            "appearance": "External appearance and complexion",
+            "reputation": "Public image and reputation",
+            "impression": "How others perceive the native"
+        },
+        "strengthFactors": [
+            "Strong Varnada lord gives good status",
+            "Benefics with Varnada enhance reputation",
+            "10th from Varnada shows public status",
+            "Connection to lagna improves public image"
+        ],
+        "examples": {
+            "strong": "Sun in Varnada with strong lord - high social status, good reputation",
+            "moderate": "Venus in Varnada - pleasant appearance, decent status",
+            "weak": "Saturn afflicting Varnada - poor reputation, dark complexion"
+        },
+        "vedicReferences": "Varnada for status in classical texts",
+        "keywords": ["Status", "Reputation", "Complexion", "Image", "Public"]
+    },
+    {
+        "name": "Dhooma Lagna",
+        "sanskritName": "Dhooma Lagna",
+        "category": "Malefic Sub-point",
+        "importance": "Medium",
+        "significations": ["Hidden enemies", "Obstacles", "Smoke-like confusion", "Unclear situations", "Difficulties"],
+        "description": "Smoke point - shows hidden obstacles and unclear situations",
+        "calculationMethod": "Based on Sun's position",
+        "calculationFormula": "Sun's longitude + 133°20'",
+        "calculation": {
+            "step1": "Take Sun's exact longitude",
+            "step2": "Add 133 degrees 20 minutes",
+            "step3": "Result gives Dhooma Lagna"
+        },
+        "usage": "Hidden obstacles, unclear situations, secret enemies analysis",
+        "interpretation": {
+            "obstacles": "Shows hidden obstacles",
+            "confusion": "Smoke-like unclear situations",
+            "enemies": "Secret enemies and hidden opponents",
+            "difficulties": "Unclear difficulties"
+        },
+        "strengthFactors": [
+            "Malefics near Dhooma create strong obstacles",
+            "Benefics can reduce Dhooma's negative effects",
+            "Houses affected by Dhooma face confusion",
+            "Remedies needed for strong Dhooma afflictions"
+        ],
+        "examples": {
+            "afflicted": "Mars on Dhooma - hidden anger issues, secret conflicts",
+            "benefic": "Jupiter aspecting Dhooma - wisdom dispels confusion",
+            "severe": "Rahu-Dhooma conjunction - extreme confusion, deception"
+        },
+        "vedicReferences": "Dhooma as upagraha in classical texts",
+        "keywords": ["Hidden", "Obstacles", "Confusion", "Smoke", "Enemies"]
+    },
+    {
+        "name": "Kala Lagna",
+        "sanskritName": "Kala Lagna",
+        "category": "Time Lagna",
+        "importance": "Medium",
+        "significations": ["Time effects", "Temporal influences", "Period-specific results", "Timing matters"],
+        "description": "Time-based ascendant showing temporal influences on life",
+        "calculationMethod": "Based on birth time and specific calculations",
+        "calculationFormula": "Complex time-based calculation",
+        "calculation": {
+            "step1": "Calculate time elapsed from sunrise",
+            "step2": "Apply specific time conversion formula",
+            "step3": "Add to starting reference point",
+            "step4": "Result gives Kala Lagna"
+        },
+        "usage": "Time-based predictions, period analysis, temporal effects",
+        "interpretation": {
+            "timing": "Shows time-based effects",
+            "periods": "Different life periods influence",
+            "temporal": "Temporal patterns in life",
+            "phases": "Life phase characteristics"
+        },
+        "strengthFactors": [
+            "Strong Kala Lagna lord supports timing",
+            "Benefics with Kala enhance time effects",
+            "Used for period-specific predictions",
+            "Complements dasha timing analysis"
+        ],
+        "vedicReferences": "Time-based lagnas in advanced texts",
+        "keywords": ["Time", "Periods", "Temporal", "Timing", "Phases"]
+    },
+    {
+        "name": "Practical Application Guide",
+        "description": "How to use special lagnas in chart analysis",
+        "methodology": [
+            {
+                "step": 1,
+                "focus": "Calculate all special lagnas",
+                "action": "Use software or manual calculation for each special lagna",
+                "importance": "Foundation for analysis"
+            },
+            {
+                "step": 2,
+                "focus": "Identify relevant lagnas for question",
+                "action": "Wealth query? Use Hora, Indu, Sree. Health? Use Pranapada, Bhava. Status? Use Varnada",
+                "importance": "Targeted analysis"
+            },
+            {
+                "step": 3,
+                "focus": "Check planets in relation to special lagna",
+                "action": "Note planets conjunct, aspecting, or ruling the special lagna",
+                "importance": "Direct influences"
+            },
+            {
+                "step": 4,
+                "focus": "Assess special lagna lord",
+                "action": "Find lord of special lagna sign, check its strength and position",
+                "importance": "Primary indicator"
+            },
+            {
+                "step": 5,
+                "focus": "Check houses from special lagna",
+                "action": "Relevant houses from special lagna (2nd, 11th for wealth lagnas, 8th for longevity, etc.)",
+                "importance": "Secondary influences"
+            },
+            {
+                "step": 6,
+                "focus": "Synthesize with birth lagna",
+                "action": "Combine special lagna analysis with main birth chart analysis",
+                "importance": "Complete picture"
+            }
+        ],
+        "bestPractices": [
+            "Never use special lagnas alone - always combine with birth lagna",
+            "Hora and Indu most reliable for wealth",
+            "Pranapada crucial for longevity",
+            "Sree Lagna for overall prosperity assessment",
+            "Multiple special lagnas showing same theme strengthen predictions",
+            "Require accurate birth time for precision",
+            "Use for specific questions, not general readings"
+        ],
+        "commonMistakes": [
+            "Relying only on special lagnas ignoring birth chart",
+            "Using too many special lagnas causing confusion",
+            "Not checking special lagna lord strength",
+            "Ignoring aspects to special lagnas",
+            "Wrong calculations from inaccurate birth time"
+        ],
+        "realExamples": {
+            "wealthQuery": "Check Hora, Indu, Sree Lagnas + their lords + 2nd/11th houses from each + Jupiter/Venus positions relative to these",
+            "healthQuery": "Check Pranapada, Bhava Lagnas + their lords + 6th/8th houses from each + malefic influences",
+            "marriageQuery": "Check regular 7th house primarily, Sree Lagna for marital prosperity, Venus position from special lagnas",
+            "careerQuery": "Check regular 10th house primarily, Varnada for status, Sun position from special lagnas"
+        },
+        "vedicReferences": "Jataka Parijata, Brihat Parashara Hora Shastra chapters on special ascendants"
+    }
+]

@@ -1,0 +1,944 @@
+{
+  "system": {
+    "name": "Relationship Synastry - Deep Partner Compatibility Analysis",
+    "description": "Inter-chart analysis revealing relationship dynamics, strengths, challenges, and evolution",
+    "sanskritName": "Jataka Bandhan Vishleshan",
+    "beyondBasic": "Goes far beyond Ashtakoot matching - analyzes actual day-to-day relationship dynamics",
+    "purpose": "Understand how two charts interact in real relationship scenarios",
+    "importance": "Reveals practical compatibility, conflict areas, growth potential, long-term sustainability",
+    "principle": "Two charts create third energy field - synastry analyzes this interaction",
+    "scope": "Romantic, marriage, business partnership, friendship, family relationships",
+    "modernRelevance": "Essential for relationship counseling, pre-marriage guidance, partnership decisions"
+  },
+  "layersOfCompatibility": {
+    "name": "Multiple Layers of Relationship Analysis",
+    "description": "Compatibility exists at many levels - all must be checked",
+    "layers": [
+      {
+        "layer": "1. Physical/Sexual Compatibility",
+        "houses": "7th house (partnership), 8th house (sexual intimacy), 12th house (bed pleasures)",
+        "planets": "Mars (sexual energy), Venus (romantic/sensual)",
+        "vedic": "Yoni matching (animal compatibility)",
+        "analysis": [
+          "Mars placement both charts - sexual energy compatibility",
+          "Venus placement - romantic style compatibility",
+          "8th house lord and planets - sexual expression",
+          "Mars-Mars aspect between charts - physical attraction or aggression",
+          "Venus-Mars between charts - romantic-sexual attraction",
+          "Yoni match (14 animals) - instinctual physical compatibility"
+        ],
+        "importance": "Foundation level - if completely mismatched, other areas suffer"
+      },
+      {
+        "layer": "2. Emotional Compatibility",
+        "houses": "4th house (emotional security), Moon (emotions)",
+        "planets": "Moon (primary emotional indicator)",
+        "vedic": "Tara matching (nakshatra compatibility)",
+        "analysis": [
+          "Moon sign compatibility - emotional wavelength",
+          "Moon-Moon aspect between charts - emotional understanding",
+          "Moon nakshatra compatibility - emotional needs alignment",
+          "4th house comparison - home/security needs",
+          "Moon-Venus between charts - emotional love expression",
+          "Water element compatibility (Cancer, Scorpio, Pisces)"
+        ],
+        "importance": "Determines emotional safety and understanding in relationship"
+      },
+      {
+        "layer": "3. Mental/Intellectual Compatibility",
+        "houses": "3rd house (communication), 5th house (intelligence)",
+        "planets": "Mercury (mind, communication)",
+        "vedic": "Graha Maitri (planetary friendship)",
+        "analysis": [
+          "Mercury sign compatibility - thinking styles",
+          "Mercury-Mercury aspect - communication ease",
+          "3rd house comparison - communication patterns",
+          "5th house - intellectual interests",
+          "Mercury-Moon between charts - mind-emotion understanding",
+          "Air element compatibility (Gemini, Libra, Aquarius)"
+        ],
+        "importance": "Daily communication, shared interests, intellectual stimulation"
+      },
+      {
+        "layer": "4. Spiritual/Value Compatibility",
+        "houses": "9th house (dharma/values), 12th house (spirituality)",
+        "planets": "Jupiter (philosophy), Ketu (spirituality)",
+        "vedic": "Varna matching (spiritual evolution stage)",
+        "analysis": [
+          "9th house comparison - life philosophy and values",
+          "Jupiter placement - belief systems",
+          "Ketu placement - spiritual orientation",
+          "Jupiter-Jupiter aspect - philosophical alignment",
+          "12th house - spiritual practices compatibility",
+          "Dharma compatibility - life purpose alignment"
+        ],
+        "importance": "Long-term direction, meaning, shared life purpose"
+      },
+      {
+        "layer": "5. Practical/Material Compatibility",
+        "houses": "2nd house (wealth/family values), 10th house (career/status)",
+        "planets": "Saturn (practical reality), Venus (values)",
+        "vedic": "Vashya matching (control/influence)",
+        "analysis": [
+          "2nd house comparison - money attitudes, family values",
+          "10th house - career ambitions, status needs",
+          "Saturn placement - practical approach to life",
+          "Venus-Saturn between charts - values-reality balance",
+          "Material goals alignment",
+          "Earth element compatibility (Taurus, Virgo, Capricorn)"
+        ],
+        "importance": "Practical life management, financial harmony, career support"
+      },
+      {
+        "layer": "6. Ego/Identity Compatibility",
+        "houses": "1st house (self), Sun (ego/soul)",
+        "planets": "Sun (identity, ego)",
+        "vedic": "Gana matching (temperament)",
+        "analysis": [
+          "Sun sign compatibility - ego expression",
+          "Sun-Sun aspect - ego clashes or mutual respect",
+          "1st house comparison - self-identity needs",
+          "Lagna lord compatibility - life approach",
+          "Fire element compatibility (Aries, Leo, Sagittarius)",
+          "Gana match (Deva/Manushya/Rakshasa) - temperament"
+        ],
+        "importance": "Mutual respect, ego boundaries, identity preservation in union"
+      },
+      {
+        "layer": "7. Karmic/Destiny Compatibility",
+        "houses": "7th house (partnership karma), Rahu-Ketu axis",
+        "planets": "Rahu-Ketu (karmic nodes)",
+        "vedic": "Nadi matching (genetic/karmic), Bhakoot (health/destiny)",
+        "analysis": [
+          "Rahu-Ketu axis comparison - karmic lessons together",
+          "7th house detailed analysis - partnership destiny",
+          "Darakaraka (spouse indicator) analysis",
+          "Upapada lagna (marriage circumstances)",
+          "Navamsha (D9) compatibility - soul level",
+          "Past life connection indicators"
+        ],
+        "importance": "Why relationship exists, karmic purpose, destiny fulfillment"
+      }
+    ],
+    "integration": "ALL layers must be analyzed - strength in some areas compensates for weakness in others, but complete mismatch in multiple layers = fundamental incompatibility"
+  },
+  "interChartPlanetaryAspects": {
+    "name": "Planet-to-Planet Aspects Between Charts (Synastry Aspects)",
+    "description": "Most important synastry technique - how planets in one chart aspect planets in partner's chart",
+    "principle": "Your planets activate partner's planetary energies - aspects show how",
+    "aspects": [
+      "Conjunction (0\u00b0)",
+      "Opposition (180\u00b0)",
+      "Trine (120\u00b0)",
+      "Square (90\u00b0)",
+      "Sextile (60\u00b0)"
+    ],
+    "orb": "Use 5-8 degree orb for major aspects",
+    "keyAspects": [
+      {
+        "aspect": "Sun-Moon Between Charts",
+        "importance": "VERY HIGH - ego-emotion harmony",
+        "harmonious": [
+          "Person A Sun conjunct Person B Moon = Strong attraction, A illuminates B's emotions, natural understanding",
+          "Person A Sun trine Person B Moon = Easy harmony, A supports B emotionally, comfortable relationship",
+          "Person A Sun sextile Person B Moon = Positive support, growth together"
+        ],
+        "challenging": [
+          "Person A Sun square Person B Moon = Ego-emotion conflict, A's identity challenges B's emotional needs",
+          "Person A Sun opposition Person B Moon = Tension, opposite expressions, can be complementary or conflicting"
+        ],
+        "effect": "Most important for basic harmony - if very afflicted, daily friction inevitable"
+      },
+      {
+        "aspect": "Moon-Moon Between Charts",
+        "importance": "VERY HIGH - emotional understanding",
+        "harmonious": [
+          "Moons in same element (fire/earth/air/water) = Natural emotional understanding",
+          "Moons in trine = Deep emotional connection, instinctive understanding",
+          "Moons in sextile = Supportive emotional expression"
+        ],
+        "challenging": [
+          "Moons in square = Emotional needs conflict, different emotional languages",
+          "Moons in opposition = Opposite emotional responses, can feel emotionally alien"
+        ],
+        "effect": "Determines emotional safety and understanding - critical for long-term happiness"
+      },
+      {
+        "aspect": "Venus-Mars Between Charts",
+        "importance": "VERY HIGH - romantic and sexual attraction",
+        "harmonious": [
+          "Person A Venus conjunct Person B Mars = Strong sexual attraction, A attracts B intensely",
+          "Person A Venus trine Person B Mars = Passionate harmony, satisfying sexual chemistry",
+          "Person A Venus sextile Person B Mars = Romantic attraction, playful energy"
+        ],
+        "challenging": [
+          "Person A Venus square Person B Mars = Sexual tension, A's love style clashes with B's sexual expression",
+          "Person A Venus opposition Person B Mars = Intense attraction but potential conflict"
+        ],
+        "effect": "Primary indicator of romantic/sexual chemistry - if absent, relationship may feel platonic"
+      },
+      {
+        "aspect": "Mars-Mars Between Charts",
+        "importance": "HIGH - energy and conflict dynamics",
+        "harmonious": [
+          "Mars in trine = Energies complement, good teamwork, sexual compatibility",
+          "Mars in sextile = Supportive actions, motivate each other"
+        ],
+        "challenging": [
+          "Mars conjunction = Intense energy, can be explosive, competition or powerful teamwork",
+          "Mars square = Conflict, aggression, power struggles, different action styles",
+          "Mars opposition = Confrontational, competitive, sexual tension"
+        ],
+        "effect": "Determines conflict style and energy compatibility - challenging aspects need conscious management"
+      },
+      {
+        "aspect": "Mercury-Mercury Between Charts",
+        "importance": "HIGH - communication compatibility",
+        "harmonious": [
+          "Mercury in same element = Think alike, easy communication",
+          "Mercury trine = Intellectual stimulation, understand each other's thinking",
+          "Mercury sextile = Good conversation, mental compatibility"
+        ],
+        "challenging": [
+          "Mercury square = Miscommunication, different thinking styles, mental friction",
+          "Mercury opposition = Opposite viewpoints, debates, can be stimulating or exhausting"
+        ],
+        "effect": "Daily communication ease - if afflicted, constant misunderstandings"
+      },
+      {
+        "aspect": "Jupiter-Jupiter Between Charts",
+        "importance": "MEDIUM-HIGH - growth and expansion together",
+        "harmonious": [
+          "Jupiter trine = Mutual growth, shared philosophy, optimism together",
+          "Jupiter sextile = Support each other's expansion, fortunate together"
+        ],
+        "challenging": [
+          "Jupiter square = Different philosophies, over-expansion together, excess",
+          "Jupiter opposition = Opposite beliefs, can be complementary"
+        ],
+        "effect": "Long-term growth potential and shared meaning"
+      },
+      {
+        "aspect": "Saturn-Saturn Between Charts",
+        "importance": "MEDIUM-HIGH - commitment and structure",
+        "harmonious": [
+          "Saturn trine = Mutual responsibility, stable structure, long-term commitment natural",
+          "Saturn sextile = Support each other's discipline and goals"
+        ],
+        "challenging": [
+          "Saturn conjunction = Heavy responsibility, karmic bond, can feel burdensome or deeply committed",
+          "Saturn square = Restrictive, different boundaries, discipline conflicts",
+          "Saturn opposition = Opposite approaches to responsibility"
+        ],
+        "effect": "Determines relationship stability and commitment potential - Saturn hard aspects can keep together through difficulty or create burden"
+      },
+      {
+        "aspect": "Person A Venus - Person B Saturn",
+        "importance": "HIGH - love meeting structure",
+        "harmonious": [
+          "Venus trine Saturn = Stable love, B provides security to A, loyal relationship",
+          "Venus sextile Saturn = Reliable affection, mature love"
+        ],
+        "challenging": [
+          "Venus conjunct Saturn = A feels restricted by B, coldness vs warmth, age gap indicator",
+          "Venus square Saturn = A's love expression blocked by B's restrictions, criticism",
+          "Venus opposition Saturn = A feels B is too serious, B thinks A is frivolous"
+        ],
+        "effect": "Critical aspect - hard aspects create 'cold shower' effect where one feels unloved/restricted"
+      },
+      {
+        "aspect": "Person A Sun - Person B Saturn",
+        "importance": "HIGH - authority and restriction",
+        "harmonious": [
+          "Sun trine Saturn = B provides discipline to A, mentor-student dynamic, stable",
+          "Sun sextile Saturn = Mutual respect, B grounds A positively"
+        ],
+        "challenging": [
+          "Sun conjunct Saturn = A feels suppressed by B, B is critical of A's identity",
+          "Sun square Saturn = Authority conflict, A's ego clashes with B's restrictions",
+          "Sun opposition Saturn = Father-child dynamic (unhealthy), A resents B's control"
+        ],
+        "effect": "Hard aspects create power imbalance and resentment - needs conscious work"
+      },
+      {
+        "aspect": "Rahu-Ketu Between Charts",
+        "importance": "MEDIUM - karmic connection",
+        "harmonious": [
+          "Person A Rahu conjunct Person B Sun/Moon/Venus = Magnetic attraction, karmic pull, obsessive quality",
+          "Rahu-Ketu axis alignment = Past life connection, intense karmic bond"
+        ],
+        "challenging": [
+          "Rahu aspects can be obsessive, illusory, unstable",
+          "Ketu aspects can be detached, spiritual, dissolution of ego"
+        ],
+        "effect": "Indicates karmic relationship - intensity doesn't equal healthy; often lessons to learn"
+      }
+    ],
+    "interpretation": "Count harmonious vs challenging aspects - 60%+ harmonious = generally compatible; many hard aspects = relationship requires conscious work"
+  },
+  "houseOverlays": {
+    "name": "House Overlays - Partner's Planets in Your Houses",
+    "description": "Where partner's planets fall in your chart shows what areas they activate",
+    "principle": "Partner's planet in your house = They bring that planet's energy to that life area",
+    "overlays": [
+      {
+        "overlay": "Partner's Sun in Your 1st House",
+        "effect": "They illuminate your self-identity, boost confidence, you feel seen by them",
+        "positive": "Mutual recognition, strong presence in your life",
+        "negative": "Can overshadow you, their ego dominates your identity"
+      },
+      {
+        "overlay": "Partner's Moon in Your 4th House",
+        "effect": "They feel like home, emotional security together, domestic harmony",
+        "positive": "Deep emotional safety, want to live together, family feeling",
+        "negative": "Over-dependency, emotional fusion"
+      },
+      {
+        "overlay": "Partner's Venus in Your 5th House",
+        "effect": "Romance, fun, creativity together, they bring joy and pleasure",
+        "positive": "Romantic, playful, passionate, enjoy each other's company",
+        "negative": "Too much fun, not serious enough for long-term"
+      },
+      {
+        "overlay": "Partner's Venus in Your 7th House",
+        "effect": "EXCELLENT for marriage, they are ideal partner archetype for you",
+        "positive": "Natural partnership, balance, harmony, marriage potential high",
+        "negative": "Can be too idealized, not seeing real person"
+      },
+      {
+        "overlay": "Partner's Mars in Your 1st House",
+        "effect": "They energize you, sexual attraction, but can be aggressive",
+        "positive": "Vitality, passion, motivation from them",
+        "negative": "Conflicts, they trigger your anger, pushy"
+      },
+      {
+        "overlay": "Partner's Mars in Your 8th House",
+        "effect": "INTENSE sexual attraction, transformative, power dynamics",
+        "positive": "Deep sexual chemistry, transformative intimacy",
+        "negative": "Power struggles, possessiveness, control issues"
+      },
+      {
+        "overlay": "Partner's Saturn in Your 7th House",
+        "effect": "Serious relationship, commitment, long-term potential, but heavy",
+        "positive": "Stable, committed, mature relationship, marriage binding",
+        "negative": "Feel burdened, restricted, they are too serious/critical"
+      },
+      {
+        "overlay": "Partner's Saturn in Your 5th House",
+        "effect": "Dampens romance and fun, they are serious about love/children",
+        "positive": "Serious about children together, responsible love",
+        "negative": "Kills spontaneity, you feel they're 'no fun,' age gap feeling"
+      },
+      {
+        "overlay": "Partner's Jupiter in Your 2nd/11th House",
+        "effect": "They bring financial growth, prosperity, abundance together",
+        "positive": "Wealth increases, fortunate together, generous",
+        "negative": "Overspending together, unrealistic financial optimism"
+      },
+      {
+        "overlay": "Partner's Rahu in Your 1st/7th House",
+        "effect": "Obsessive attraction, magnetic pull, karmic intensity",
+        "positive": "Irresistible attraction, transformative relationship",
+        "negative": "Obsession, illusion, instability, hard to leave even if toxic"
+      },
+      {
+        "overlay": "Partner's Ketu in Your 1st/7th House",
+        "effect": "Spiritual connection, but detachment and dissolution",
+        "positive": "Past life connection, spiritual growth together, ego-less love",
+        "negative": "Lack of interest, detachment, relationship dissolves easily"
+      },
+      {
+        "overlay": "Partner's Planets in Your 12th House",
+        "effect": "Hidden relationship, self-undoing, or spiritual bonding",
+        "positive": "Spiritual connection, transcendent love, past life bond",
+        "negative": "Secret affair, self-sacrifice, loss of self, codependency"
+      },
+      {
+        "overlay": "Partner's Planets in Your 6th/8th House",
+        "effect": "Service, crisis, or transformation in relationship",
+        "positive": "Transform together through challenges (8th), serve each other (6th)",
+        "negative": "Health issues connected, constant crises, servitude feeling"
+      }
+    ],
+    "method": "Place partner's planets in your chart - see which houses they activate - those areas become prominent in relationship"
+  },
+  "compositChart": {
+    "name": "Composite Chart - The Relationship Itself",
+    "description": "Midpoint chart showing relationship as its own entity",
+    "calculation": "Midpoint of each planet pair creates composite chart",
+    "example": "Your Sun 10\u00b0 Aries + Partner Sun 10\u00b0 Libra = Composite Sun 10\u00b0 Cancer",
+    "purpose": "Shows relationship's inherent nature, independent of individuals",
+    "analysis": [
+      {
+        "factor": "Composite Sun",
+        "shows": "Relationship's core identity and purpose",
+        "houses": {
+          "1st": "Relationship defines both identities strongly",
+          "4th": "Home and family-centered relationship",
+          "5th": "Creative, romantic, child-centered relationship",
+          "7th": "Partnership is central focus, balanced",
+          "10th": "Public, career-oriented relationship, social status",
+          "12th": "Spiritual, hidden, or karmic relationship"
+        }
+      },
+      {
+        "factor": "Composite Moon",
+        "shows": "Emotional climate of relationship",
+        "strong": "Well-placed Moon = emotional security together",
+        "weak": "Afflicted Moon = emotional instability in relationship"
+      },
+      {
+        "factor": "Composite Venus",
+        "shows": "Love expression in relationship",
+        "strong": "Harmony, affection, enjoyment together",
+        "weak": "Love difficulties, value conflicts"
+      },
+      {
+        "factor": "Composite Mars",
+        "shows": "Energy, sexuality, conflict in relationship",
+        "strong": "Passionate, energetic, active together",
+        "weak": "Conflicts, aggression, sexual issues"
+      },
+      {
+        "factor": "Composite Saturn",
+        "shows": "Structure, commitment, challenges in relationship",
+        "strong": "Stable, committed, lasting relationship",
+        "weak": "Heavy burdens, restrictions, separation anxiety"
+      }
+    ],
+    "houses": "Composite house placements show relationship's focus areas",
+    "aspects": "Composite aspects show internal relationship dynamics"
+  },
+  "navamshaCompatibility": {
+    "name": "Navamsha (D9) Compatibility - Soul Level",
+    "importance": "MORE IMPORTANT than birth chart (D1) for marriage",
+    "principle": "D9 shows soul nature and marriage reality",
+    "analysis": [
+      {
+        "factor": "Both D9 Charts Strong",
+        "indicators": "Exalted planets, benefics in kendras, strong lagna lord",
+        "effect": "Both mature souls, good marriage potential individually",
+        "marriage": "Two strong D9s = strong marriage possibility"
+      },
+      {
+        "factor": "One D9 Strong, One Weak",
+        "effect": "Imbalanced - strong partner compensates for weak",
+        "marriage": "Can work if strong partner supportive"
+      },
+      {
+        "factor": "Both D9 Charts Weak",
+        "effect": "Both have marriage difficulties, immature souls",
+        "marriage": "Challenging marriage, growth through difficulties"
+      },
+      {
+        "factor": "D9 7th House Comparison",
+        "analysis": "Compare 7th house, 7th lord, planets in 7th in both D9 charts",
+        "compatible": "Similar indications = compatible marriage approach"
+      },
+      {
+        "factor": "D9 Venus Comparison",
+        "analysis": "Venus placement in both D9 charts",
+        "compatible": "Strong Venus in both = love and harmony in marriage"
+      },
+      {
+        "factor": "D9 Lagna Lord Exchange",
+        "special": "Person A's D9 lagna lord in Person B's D9 lagna or vice versa",
+        "effect": "VERY STRONG marriage bond, souls intertwined"
+      }
+    ],
+    "critical": "Never marry without checking D9 compatibility - D1 can show attraction but D9 shows marriage reality"
+  },
+  "darakarakaAnalysis": {
+    "name": "Darakaraka - Spouse Significator",
+    "description": "Planet with lowest degree (except Rahu) indicates spouse nature",
+    "finding": "Calculate degrees of all planets, lowest degree = Darakaraka",
+    "compatibility": [
+      {
+        "analysis": "Compare Darakaraka Planets",
+        "compatible": "Same planet as Darakaraka in both charts = similar spouse needs",
+        "example": "Both have Venus as Darakaraka = both need beautiful, artistic, harmonious spouse"
+      },
+      {
+        "analysis": "Darakaraka Placement in Partner's Chart",
+        "method": "Check where your Darakaraka falls in partner's birth chart",
+        "favorable": "Your DK in partner's 1st/5th/7th/9th house = they embody spouse qualities you need",
+        "unfavorable": "Your DK in partner's 6th/8th/12th = spouse qualities blocked or troubled"
+      },
+      {
+        "analysis": "Darakaraka Sign Compatibility",
+        "method": "Check if partner's lagna/Moon is in your Darakaraka sign or vice versa",
+        "effect": "Strong indication they fulfill spouse role perfectly"
+      }
+    ]
+  },
+  "upapadaLagna": {
+    "name": "Upapada Lagna - Marriage Circumstances",
+    "calculation": "Complex calculation from Arudha Pada of 12th house",
+    "shows": "Not spouse nature, but marriage circumstances and quality",
+    "compatibility": [
+      {
+        "analysis": "Upapada Sign Compatibility",
+        "method": "Compare both Upapada signs",
+        "favorable": "Trine or sextile signs = harmonious marriage circumstances",
+        "challenging": "Square or opposition signs = different marriage expectations"
+      },
+      {
+        "analysis": "Planets in Upapada",
+        "benefics": "Jupiter, Venus, Mercury in Upapada = happy marriage circumstances",
+        "malefics": "Saturn, Rahu, Ketu = marriage challenges, separations indicated"
+      },
+      {
+        "analysis": "Upapada Lord Strength",
+        "strong": "Marriage circumstances favorable",
+        "weak": "Marriage circumstances challenging"
+      }
+    ]
+  },
+  "conflictDynamics": {
+    "name": "Understanding Conflict Patterns in Relationship",
+    "description": "Every relationship has conflicts - synastry shows patterns",
+    "patterns": [
+      {
+        "pattern": "Mars-Mars Square/Opposition",
+        "conflict": "Power struggles, both want to lead, aggression",
+        "trigger": "Decision-making, sex, action items",
+        "management": "Divide leadership areas, channel energy into joint projects, avoid ego battles"
+      },
+      {
+        "pattern": "Sun-Sun Square/Opposition",
+        "conflict": "Ego clashes, identity conflicts, shine competition",
+        "trigger": "Recognition, authority, being right",
+        "management": "Mutual respect, celebrate each other's achievements, separate identity spaces"
+      },
+      {
+        "pattern": "Moon-Moon Square/Opposition",
+        "conflict": "Emotional incompatibility, different emotional needs",
+        "trigger": "Emotional expression, mood changes, home matters",
+        "management": "Understand different emotional languages, give space, don't take personally"
+      },
+      {
+        "pattern": "Mercury-Mercury Square",
+        "conflict": "Communication breakdown, different thinking styles",
+        "trigger": "Conversations, decisions, daily planning",
+        "management": "Active listening, clarify assumptions, accept different perspectives"
+      },
+      {
+        "pattern": "Venus-Mars Square",
+        "conflict": "Love vs lust tension, affection style mismatch",
+        "trigger": "Romantic expectations, sexual initiation, affection display",
+        "management": "Communicate needs explicitly, compromise on frequency/style, keep romance alive"
+      },
+      {
+        "pattern": "Saturn Aspects to Personal Planets",
+        "conflict": "Restriction, criticism, coldness from Saturn person",
+        "trigger": "Spontaneity blocked, feel judged, burden feeling",
+        "management": "Saturn person: reduce criticism, show warmth; Other: don't rebel, appreciate stability"
+      }
+    ],
+    "resolution": "Awareness of patterns prevents destructive cycles - use synastry insights for conscious relationship work"
+  },
+  "relationshipEvolution": {
+    "name": "How Relationship Evolves Over Time",
+    "description": "Relationship doesn't stay static - evolves through planetary periods",
+    "stages": [
+      {
+        "stage": "Initial Attraction Phase (0-1 year)",
+        "dominantEnergy": "Venus-Mars aspects, Rahu influence, 5th house",
+        "characteristics": "Passion, idealization, blind spots, chemistry",
+        "synastry": "Venus-Mars contacts strongest, overlook challenging aspects",
+        "advice": "Enjoy but don't commit without checking deeper compatibility"
+      },
+      {
+        "stage": "Reality Check Phase (1-3 years)",
+        "dominantEnergy": "Saturn influence begins, 7th house, Moon aspects",
+        "characteristics": "See real person, conflicts arise, emotional tests",
+        "synastry": "Challenging aspects become apparent, must address or separate",
+        "advice": "Work through conflicts, don't run at first difficulty"
+      },
+      {
+        "stage": "Commitment Phase (3-7 years)",
+        "dominantEnergy": "Saturn, Jupiter, 7th house solidifies",
+        "characteristics": "Decide to commit or separate, marriage, children",
+        "synastry": "Saturn aspects show commitment potential, Jupiter shows growth",
+        "advice": "Check D9 before marriage, ensure commitment indicators present"
+      },
+      {
+        "stage": "Deep Partnership Phase (7-14 years)",
+        "dominantEnergy": "8th house, Jupiter, Saturn maturity",
+        "characteristics": "Deep intimacy or power struggles, shared resources, transformation",
+        "synastry": "8th house overlays, Pluto aspects (if using), deep bonding or crisis",
+        "advice": "Navigate power dynamics consciously, maintain individual identity"
+      },
+      {
+        "stage": "Mature Partnership Phase (14+ years)",
+        "dominantEnergy": "Jupiter wisdom, Saturn stability, 9th house meaning",
+        "characteristics": "Companionship, shared life purpose, acceptance",
+        "synastry": "Overall compatibility more important than individual aspects",
+        "advice": "Appreciate journey together, support each other's evolution"
+      }
+    ],
+    "dashas": "Check both partners' dashas - difficult dasha periods challenge relationship, supportive dashas strengthen"
+  },
+  "redFlagsInSynastry": {
+    "name": "Serious Red Flags - Relationship Warning Signs",
+    "description": "Some synastry patterns indicate serious problems - not just challenges",
+    "flags": [
+      {
+        "flag": "Multiple Saturn Hard Aspects to Personal Planets",
+        "pattern": "Saturn squares/opposes Sun, Moon, Venus, Mars in partner's chart",
+        "effect": "Chronic feeling of restriction, criticism, coldness, depression in relationship",
+        "severity": "HIGH - creates toxic dynamic over time",
+        "action": "Reconsider relationship or intensive couples therapy required"
+      },
+      {
+        "flag": "Mars-Saturn Hard Aspects Between Charts",
+        "pattern": "Mars square/conjunct/opposition Saturn between charts",
+        "effect": "Chronic frustration, anger-depression cycle, violence potential",
+        "severity": "HIGH - dangerous pattern",
+        "action": "Absolutely requires conscious management, therapy, or avoid"
+      },
+      {
+        "flag": "Moon-Saturn Hard Aspects",
+        "pattern": "Person A Moon square/opposition Person B Saturn",
+        "effect": "Emotional coldness, A never feels emotionally safe, depression",
+        "severity": "HIGH - emotional suffering",
+        "action": "Saturn person must consciously provide emotional warmth, difficult to sustain"
+      },
+      {
+        "flag": "Multiple Planets in Partner's 12th House",
+        "pattern": "3+ of your planets in partner's 12th house",
+        "effect": "Self-undoing, loss of identity, hidden relationship, or spiritual bond",
+        "severity": "MEDIUM-HIGH - context dependent",
+        "action": "If spiritual connection, okay; if losing self, dangerous"
+      },
+      {
+        "flag": "Rahu on Partner's Sun/Moon/Venus",
+        "pattern": "Person A Rahu conjunct Person B's personal planets",
+        "effect": "Obsession, illusion, instability, addictive quality",
+        "severity": "MEDIUM-HIGH - karmic but unstable",
+        "action": "Awareness of obsessive quality, ground relationship in reality"
+      },
+      {
+        "flag": "No Positive Venus Aspects",
+        "pattern": "Venus has only challenging aspects or no aspects between charts",
+        "effect": "Lack of affection, love not flowing, feeling unloved",
+        "severity": "HIGH for romantic relationship",
+        "action": "May work as friendship but difficult as romantic partnership"
+      },
+      {
+        "flag": "Both D9 Charts Very Weak",
+        "pattern": "Debilitated planets, malefics dominant in both D9 charts",
+        "effect": "Marriage difficulties inevitable, soul immaturity",
+        "severity": "HIGH - marriage challenges guaranteed",
+        "action": "Delay marriage, do spiritual work, or accept challenging marriage as growth"
+      },
+      {
+        "flag": "8th House Stellium in Composite",
+        "pattern": "4+ planets in composite 8th house",
+        "effect": "Relationship consumed by power, control, crisis, jealousy",
+        "severity": "MEDIUM-HIGH - intense but exhausting",
+        "action": "Transform through crisis together or destroy each other"
+      }
+    ],
+    "note": "One red flag = caution; multiple red flags = serious reconsideration needed"
+  },
+  "strengthsInSynastry": {
+    "name": "Excellent Synastry Indicators - Relationship Strengths",
+    "strengths": [
+      {
+        "strength": "Sun-Moon Trine/Sextile",
+        "effect": "Natural harmony, ego-emotion balance, complementary",
+        "power": "Foundation of easy relationship, daily harmony"
+      },
+      {
+        "strength": "Venus-Jupiter Aspects",
+        "effect": "Love and fortune together, generosity, growth, optimism",
+        "power": "Relationship feels blessed, abundant, joyful"
+      },
+      {
+        "strength": "Moon-Moon Trine",
+        "effect": "Deep emotional understanding, instinctive attunement",
+        "power": "Emotional safety, feel 'home' together"
+      },
+      {
+        "strength": "Venus in Partner's 7th House",
+        "effect": "Ideal partner archetype, natural marriage indicator",
+        "power": "Relationship feels 'meant to be,' easy partnership"
+      },
+      {
+        "strength": "Jupiter in Partner's 7th/11th House",
+        "effect": "Blessing on partnership, fortune together",
+        "power": "Relationship expands both lives positively"
+      },
+      {
+        "strength": "Multiple Trine Aspects",
+        "effect": "Easy flow, natural compatibility, effortless",
+        "power": "Relationship doesn't require constant work, flows naturally"
+      },
+      {
+        "strength": "D9 Lagna Lord Exchange",
+        "effect": "Souls intertwined, deep marriage bond",
+        "power": "Strongest soul-level compatibility indicator"
+      },
+      {
+        "strength": "Composite Sun/Moon in 1st/7th/10th",
+        "effect": "Relationship has clear identity and purpose",
+        "power": "Relationship itself is strong entity"
+      },
+      {
+        "strength": "Double-Whammy Aspects",
+        "description": "Same aspect repeated: A Venus trine B Mars AND B Venus trine A Mars",
+        "effect": "Mutually reinforcing, very strong bond",
+        "power": "Most powerful synastry aspect type"
+      },
+      {
+        "strength": "Darakaraka Alignment",
+        "description": "Partner's lagna/Moon in your Darakaraka sign",
+        "effect": "They embody exactly what you need in spouse",
+        "power": "Fulfills deep spouse archetype"
+      }
+    ],
+    "integration": "Relationship with multiple strengths can weather challenges much better"
+  },
+  "businessPartnershipSynastry": {
+    "name": "Synastry for Business Partnerships (Non-Romantic)",
+    "description": "Different factors emphasized for business vs romantic",
+    "keyFactors": [
+      {
+        "factor": "Mercury-Mercury Aspects",
+        "importance": "VERY HIGH - must communicate well",
+        "favorable": "Trine or sextile - think alike, easy communication",
+        "unfavorable": "Square - constant miscommunication, friction"
+      },
+      {
+        "factor": "Sun-Sun Aspects",
+        "importance": "HIGH - ego compatibility in leadership",
+        "favorable": "Trine - mutual respect, complementary leadership",
+        "unfavorable": "Square/opposition - power struggles, ego clashes"
+      },
+      {
+        "factor": "Saturn Aspects",
+        "importance": "HIGH - commitment and stability",
+        "favorable": "Trine to partner's Sun/Mercury - provides structure without restriction",
+        "unfavorable": "Square to personal planets - feels restricted, controlled"
+      },
+      {
+        "factor": "10th House Overlays",
+        "importance": "HIGH - career and public image",
+        "favorable": "Partner's Jupiter/Sun in your 10th - they elevate your career",
+        "unfavorable": "Partner's Saturn in your 10th - they restrict career"
+      },
+      {
+        "factor": "2nd and 11th House Overlays",
+        "importance": "HIGH - finances and gains",
+        "favorable": "Partner's Jupiter in your 2nd/11th - financial fortune together",
+        "unfavorable": "Partner's Saturn/Rahu in your 2nd/11th - financial instability"
+      },
+      {
+        "factor": "Mars-Mars Aspects",
+        "importance": "MEDIUM - energy and drive",
+        "favorable": "Trine - complementary action, good teamwork",
+        "unfavorable": "Square - compete instead of collaborate"
+      }
+    ],
+    "lessImportant": "Venus aspects, 5th house overlays, romantic chemistry - nice but not essential",
+    "dealBreaker": "Multiple challenging Mercury/Sun/Saturn aspects = business partnership very difficult"
+  },
+  "practicalCaseStudy": {
+    "name": "Complete Synastry Analysis Example",
+    "scenario": "Couple considering marriage after 2 years dating",
+    "person_A": {
+      "name": "Person A (Woman)",
+      "birthChart": {
+        "lagna": "Cancer (Moon ruled)",
+        "sun": "Taurus 11th house",
+        "moon": "Pisces 9th house (exalted)",
+        "venus": "Aries 10th house",
+        "mars": "Gemini 12th house",
+        "mercury": "Taurus 11th house",
+        "jupiter": "Sagittarius 6th house",
+        "saturn": "Aquarius 8th house"
+      },
+      "D9": {
+        "lagna": "LI",
+        "venus": "Exalted in Pisces",
+        "7thLord": "Mars in Aries (own sign)"
+      },
+      "darakaraka": "MA"
+    },
+    "person_B": {
+      "name": "Person B (Man)",
+      "birthChart": {
+        "lagna": "Scorpio (Mars ruled)",
+        "sun": "Leo 10th house",
+        "moon": "Cancer 9th house (own sign)",
+        "venus": "Virgo 11th house",
+        "mars": "Aries 6th house (exalted)",
+        "mercury": "Leo 10th house",
+        "jupiter": "Sagittarius 2nd house (own sign)",
+        "saturn": "Aquarius 4th house (own sign)"
+      },
+      "D9": {
+        "lagna": "CP",
+        "venus": "Taurus (own sign)",
+        "7thLord": "Moon in Cancer (own sign)"
+      },
+      "darakaraka": "VE"
+    },
+    "synastryAnalysis": {
+      "layerByLayer": {
+        "physical": {
+          "analysis": "A Mars in Gemini, B Mars in Aries exalted - B has strong sexual energy, A more mental",
+          "venusMarsBetween": "A Venus Aries sextile B Mars Aries - compatible sexual chemistry",
+          "yoni": "Would need nakshatra check",
+          "score": "GOOD - 7/10 - compatible but different intensity levels"
+        },
+        "emotional": {
+          "analysis": "A Moon Pisces exalted, B Moon Cancer own sign - BOTH very strong Moons, water signs",
+          "moonMoonAspect": "A Moon Pisces trine B Moon Cancer - EXCELLENT emotional compatibility",
+          "4thHouse": "B Saturn in 4th - emotionally cautious but stable home",
+          "score": "EXCELLENT - 9/10 - deep emotional understanding, both emotionally mature"
+        },
+        "mental": {
+          "analysis": "A Mercury Taurus, B Mercury Leo - earth vs fire thinking",
+          "mercuryAspect": "A Mercury Taurus square B Mercury Leo - some communication friction",
+          "3rdHouse": "Communication challenges but manageable",
+          "score": "MODERATE - 6/10 - different communication styles, requires effort"
+        },
+        "spiritual": {
+          "analysis": "A Moon in 9th (dharma), B Moon in 9th - BOTH spiritual/philosophical",
+          "jupiter": "A Jupiter Sagittarius 6th, B Jupiter Sagittarius 2nd - same sign, different houses",
+          "9thHouse": "Both have strong 9th house emphasis - shared values likely",
+          "score": "EXCELLENT - 9/10 - spiritual alignment, shared life philosophy"
+        },
+        "practical": {
+          "analysis": "A Sun 11th house (gains), B Sun 10th house (career) - both ambitious",
+          "saturn": "Both have Saturn in Aquarius - same generation, similar discipline approach",
+          "2nd10thHouses": "B strong 10th house career focus, A strong 11th house income focus - complementary",
+          "score": "VERY GOOD - 8/10 - practical compatibility, career support"
+        },
+        "ego": {
+          "analysis": "A Sun Taurus 11th, B Sun Leo 10th - A more material focus, B more authority focus",
+          "sunAspect": "A Sun Taurus square B Sun Leo - ego friction, both want recognition different ways",
+          "lagna": "A Cancer (emotional), B Scorpio (intense) - water signs, compatible",
+          "score": "MODERATE - 6/10 - ego adjustments needed, but water lagnas help"
+        },
+        "karmic": {
+          "analysis": "Need Rahu-Ketu positions (not given) but DK analysis shows:",
+          "darakaraka": "A DK Mars, B actual Mars exalted in Aries 6th - B embodies warrior spouse A needs",
+          "darakaraka2": "B DK Venus, A actual Venus in Aries 10th - A embodies passionate independent spouse B needs",
+          "score": "EXCELLENT - 9/10 - mutual Darakaraka fulfillment"
+        }
+      },
+      "keyAspects": {
+        "sunMoon": "A Sun square B Sun (challenging), but A Moon trine B Moon (excellent) - compensates",
+        "venusMars": "A Venus sextile B Mars - good romantic/sexual chemistry",
+        "moonMoon": "A Moon trine B Moon - STRONGEST positive aspect, emotional foundation solid",
+        "mercuryMercury": "A Mercury square B Mercury - communication requires work",
+        "saturnSaturn": "Both Saturn in Aquarius - same generation, shared discipline"
+      },
+      "houseOverlays": {
+        "BMoonInA9th": "B Moon Cancer falls in A's 9th house - B brings emotional security to A's philosophy/spirituality - EXCELLENT",
+        "AVenusInB6th": "A Venus Aries falls in B's 6th house - A brings service/healing to B's daily life - supportive",
+        "BJupiterInA8th": "B Jupiter Sagittarius falls in A's 8th house - B brings wisdom to A's transformation/intimacy - GOOD",
+        "BMarsInA10th": "B Mars Aries falls in A's 10th house - B energizes A's career - supportive"
+      },
+      "D9Analysis": {
+        "bothStrong": "A Venus exalted in D9, B Venus in own sign - BOTH have strong marriage indicators",
+        "7thLords": "A 7th lord Mars strong, B 7th lord Moon strong - both capable of good marriage",
+        "overall": "EXCELLENT D9 compatibility - marriage likely to be fulfilling"
+      }
+    },
+    "overallAssessment": {
+      "strengths": [
+        "Moon-Moon trine = STRONGEST emotional compatibility indicator",
+        "Both D9 charts strong = good marriage potential individually",
+        "Darakaraka mutual fulfillment = karmic spouse match",
+        "Water sign lagnas = emotional compatibility",
+        "Both spiritual (9th house emphasis) = shared meaning",
+        "Practical complementarity = career and finance harmony"
+      ],
+      "challenges": [
+        "Sun-Sun square = ego adjustments needed, recognition competition",
+        "Mercury-Mercury square = communication styles differ, requires conscious effort",
+        "Different intensities (A mental, B intense) = some friction"
+      ],
+      "dealBreakers": "NONE - no red flags present",
+      "recommendation": "FAVORABLE FOR MARRIAGE - 75-80% compatibility",
+      "reasoning": "Excellent emotional foundation (Moon trine), strong D9s, karmic fit (DK), spiritual alignment compensate for ego/communication challenges. These challenges are workable with awareness.",
+      "advice": [
+        "Acknowledge ego differences - A needs material recognition, B needs authority recognition - support each other's paths",
+        "Work on communication - different styles (earth vs fire) require patience and clarity",
+        "Leverage emotional strength - when conflicts arise, return to emotional understanding (water signs)",
+        "Marriage timing - check current dashas, Jupiter transit over 7th for both would be excellent timing"
+      ]
+    },
+    "predictedDynamics": {
+      "dailyLife": "Emotionally close, spiritually aligned, some communication friction, practical support",
+      "conflicts": "Recognition needs (Sun square), communication misunderstandings (Mercury square)",
+      "strengths": "Deep emotional bond, shared values, career support, karmic connection",
+      "longTerm": "Strong marriage potential with conscious work on ego and communication"
+    }
+  },
+  "synastryChecklist": {
+    "name": "Complete Synastry Analysis Checklist",
+    "checklist": [
+      {
+        "step": 1,
+        "action": "Analyze 7 layers of compatibility",
+        "detail": "Physical, Emotional, Mental, Spiritual, Practical, Ego, Karmic - score each"
+      },
+      {
+        "step": 2,
+        "action": "Check key inter-chart aspects",
+        "detail": "Sun-Moon, Moon-Moon, Venus-Mars, Mars-Mars, Mercury-Mercury, Saturn aspects"
+      },
+      {
+        "step": 3,
+        "action": "Analyze house overlays",
+        "detail": "Where partner's planets fall in your houses - especially 1st, 4th, 5th, 7th, 8th, 12th"
+      },
+      {
+        "step": 4,
+        "action": "D9 (Navamsha) compatibility",
+        "detail": "Compare both D9 charts, strength, 7th house, Venus, lagna lord exchange"
+      },
+      {
+        "step": 5,
+        "action": "Darakaraka analysis",
+        "detail": "Mutual Darakaraka fulfillment, DK placement in partner's chart"
+      },
+      {
+        "step": 6,
+        "action": "Check for red flags",
+        "detail": "Multiple Saturn hard aspects, Mars-Saturn, Moon-Saturn, 12th house stellium, no Venus aspects"
+      },
+      {
+        "step": 7,
+        "action": "Check for strengths",
+        "detail": "Sun-Moon harmony, Venus-Jupiter, Moon-Moon trine, favorable overlays, D9 exchange"
+      },
+      {
+        "step": 8,
+        "action": "Calculate composite chart (optional)",
+        "detail": "Relationship's own identity, composite Sun/Moon/Venus placement"
+      },
+      {
+        "step": 9,
+        "action": "Assess conflict patterns",
+        "detail": "Identify likely conflict triggers from challenging aspects"
+      },
+      {
+        "step": 10,
+        "action": "Overall integration",
+        "detail": "Strengths vs challenges ratio, dealbreakers present?, workable challenges?"
+      },
+      {
+        "step": 11,
+        "action": "Provide recommendations",
+        "detail": "Favorable/Unfavorable/Conditional, advice for growth, timing for marriage"
+      }
+    ]
+  },
+  "note": "Synastry is art and science - no relationship is perfect. Goal is awareness of dynamics, leveraging strengths, consciously managing challenges. 70%+ compatibility with no dealbreakers = good marriage potential with conscious work."
+}

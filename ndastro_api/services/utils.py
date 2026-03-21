@@ -6,22 +6,12 @@ and filtering planetary positions by rasi, using constants and models from ndast
 
 from __future__ import annotations
 
-import pathlib
 from typing import TYPE_CHECKING, Any, cast
 
-from fastapi_babel import _
-from skyfield.api import Loader
-
 from ndastro_api.core.constants import DEGREE_MAX, TOTAL_RAASI
-from ndastro_api.services.ayanamsa import get_lahiri_ayanamsa
 
 if TYPE_CHECKING:
-    from datetime import datetime
-
-
-load = Loader(pathlib.Path(__file__).parent.parent / "resources" / "data")
-eph = load("de440s.bsp")
-ts = load.timescale()
+    from ndastro_api.core.models.kattam import Kattam
 
 
 def sign(num: int) -> int:
@@ -86,24 +76,6 @@ def normalize_rasi_house(position: int) -> int:
     return position
 
 
-def get_ayanamsa_value(ayanamsa: str, date: datetime) -> float:
-    """Convert the ayanamsa string to a float value.
-
-    Args:
-        ayanamsa (str): The ayanamsa string to convert.
-        date (datetime): The date for which to calculate the ayanamsa.
-
-    Returns:
-        float: The float value of the ayanamsa.
-
-    """
-    match ayanamsa.lower():
-        case "lahiri":
-            return get_lahiri_ayanamsa(date)
-        case _:
-            return 0.0  # Default to 0.0 if no match found
-
-
 def compute_offset(page: int, items_per_page: int) -> int:
     """Compute the offset for pagination based on page and items per page."""
     return max((page - 1) * items_per_page, 0)
@@ -141,7 +113,7 @@ def paginated_response(*, crud_data: Any, page: int, items_per_page: int) -> dic
     }
 
 
-def convert_kattams_to_response_format(kattams: list, kattam_response_class: type, planet_detail_response_class: type) -> list:
+def convert_kattams_to_response_format(kattams: list[Kattam], kattam_response_class: type, planet_detail_response_class: type) -> list:
     """Convert kattams service response to KattamResponse format.
 
     This utility function handles the conversion of raw kattam data from the service
@@ -160,32 +132,11 @@ def convert_kattams_to_response_format(kattams: list, kattam_response_class: typ
         kattam_response_class(
             order=k.order,
             is_ascendant=k.is_ascendant,
-            asc_longitude=cast("float", k.asc_longitude.degrees) if k.asc_longitude is not None else 0.0,
+            asc_longitude=cast("float", k.asc_longitude) if k.asc_longitude is not None else 0.0,
             owner=k.owner,
             rasi=k.rasi.value,
             house=k.house.value,
-            planets=[
-                planet_detail_response_class(
-                    name=p.name,
-                    short_name=p.short_name,
-                    display_name=_(p.short_name[:2]),
-                    latitude=cast("float", p.latitude.degrees),
-                    longitude=cast("float", p.longitude.degrees),
-                    rasi_occupied=p.rasi_occupied.value,
-                    house_posited_at=p.house_posited_at.value,
-                    planet=p.planet.value,
-                    distance=cast("float", p.distance.km) if p.distance else 0.0,
-                    nirayana_longitude=cast("float", p.nirayana_longitude.degrees) if p.nirayana_longitude else 0.0,
-                    advanced_by=cast("float", p.advanced_by.degrees) if p.advanced_by else 0.0,
-                    retrograde=p.retrograde,
-                    is_ascendant=p.is_ascendant,
-                    natchaththiram=p.natchaththiram.value if p.natchaththiram else 0,
-                    paatham=p.paatham if p.paatham else 0,
-                )
-                for p in k.planets or []
-            ]
-            if k.planets
-            else None,
+            planets=k.planets,
         )
         for k in kattams
     ]

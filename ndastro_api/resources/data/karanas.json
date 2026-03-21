@@ -1,0 +1,649 @@
+[
+  {
+    "name": "Bava",
+    "code": "K01",
+    "number": 1,
+    "type": "Movable",
+    "description": "Air/Wind - First movable karana",
+    "nature": "Auspicious",
+    "quality": "Movable",
+    "elementPanchamahabhuta": "Air",
+    "deity": "Y26",
+    "guna": "Rajasic",
+    "effect": "Movement",
+    "occurrences": 8,
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Travel",
+      "Movement",
+      "Change",
+      "Air-related work",
+      "Flexibility activities"
+    ],
+    "inauspiciousFor": [
+      "Fixed activities",
+      "Permanence",
+      "Immovable construction"
+    ],
+    "specialCharacteristics": [
+      "Promotes movement",
+      "Change",
+      "Flexibility",
+      "Air-like nature"
+    ],
+    "karmicEffects": [
+      "Movement in life",
+      "Changes",
+      "Flexible outcomes"
+    ],
+    "birthKaranaTraits": [
+      "Movable nature",
+      "Flexible",
+      "Changeable",
+      "Air-like",
+      "Adaptable"
+    ],
+    "healthEffects": "Good for respiratory system",
+    "astrologySignificance": "Good for movable and flexible activities",
+    "vedicReferences": "Indra's karana for movement in Muhurta texts",
+    "keywords": [
+      "Movement",
+      "Air",
+      "Flexibility",
+      "Change"
+    ],
+    "represents": [
+      "Divine movement",
+      "Air principle",
+      "Change energy"
+    ]
+  },
+  {
+    "name": "Balava",
+    "code": "K02",
+    "number": 2,
+    "type": "Movable",
+    "description": "Strong/Powerful - Second movable karana",
+    "nature": "Auspicious",
+    "quality": "Movable",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Y25",
+    "guna": "Rajasic",
+    "effect": "Strength",
+    "occurrences": 8,
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Strength building",
+      "Powerful actions",
+      "Starting ventures",
+      "Energy work"
+    ],
+    "inauspiciousFor": [
+      "Weak positions",
+      "Gentle activities"
+    ],
+    "specialCharacteristics": [
+      "Brings strength",
+      "Power",
+      "Energy",
+      "Force"
+    ],
+    "karmicEffects": [
+      "Strong outcomes",
+      "Powerful results",
+      "Energetic experiences"
+    ],
+    "birthKaranaTraits": [
+      "Strong",
+      "Powerful",
+      "Energetic",
+      "Forceful",
+      "Bold"
+    ],
+    "healthEffects": "Good strength and vitality",
+    "astrologySignificance": "Excellent for strength and power",
+    "vedicReferences": "Brahma's strong karana praised",
+    "keywords": [
+      "Strength",
+      "Power",
+      "Energy",
+      "Force"
+    ],
+    "represents": [
+      "Divine strength",
+      "Power principle",
+      "Energy manifestation"
+    ]
+  },
+  {
+    "name": "Kaulava",
+    "code": "K03",
+    "number": 3,
+    "type": "Movable",
+    "description": "Family/Community - Third movable karana",
+    "nature": "Auspicious",
+    "quality": "Movable",
+    "elementPanchamahabhuta": "Water",
+    "deity": "Mitra",
+    "guna": "Sattvic",
+    "effect": "Unity",
+    "occurrences": 8,
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Family matters",
+      "Community work",
+      "Social gatherings",
+      "Relationships",
+      "Friendships"
+    ],
+    "inauspiciousFor": [
+      "Isolation",
+      "Separation",
+      "Individual pursuits"
+    ],
+    "specialCharacteristics": [
+      "Promotes unity",
+      "Family bonding",
+      "Community",
+      "Social harmony"
+    ],
+    "karmicEffects": [
+      "Family harmony",
+      "Community connections",
+      "Social bonds"
+    ],
+    "birthKaranaTraits": [
+      "Family-oriented",
+      "Social",
+      "Community-minded",
+      "United",
+      "Friendly"
+    ],
+    "healthEffects": "Good emotional health",
+    "astrologySignificance": "Excellent for family and community",
+    "vedicReferences": "Mitra's karana for friendship",
+    "keywords": [
+      "Family",
+      "Community",
+      "Unity",
+      "Social"
+    ],
+    "represents": [
+      "Divine unity",
+      "Family principle",
+      "Community energy"
+    ]
+  },
+  {
+    "name": "Taitila",
+    "code": "K04",
+    "number": 4,
+    "type": "Movable",
+    "description": "Sharp/Keen - Fourth movable karana",
+    "nature": "Mixed",
+    "quality": "Movable",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Aryaman",
+    "guna": "Rajasic",
+    "effect": "Sharpness",
+    "occurrences": 8,
+    "muhurtaRating": 6,
+    "auspiciousFor": [
+      "Sharp actions",
+      "Cutting",
+      "Keen decisions",
+      "Intellectual work",
+      "Analysis"
+    ],
+    "inauspiciousFor": [
+      "Gentle activities",
+      "Blunt approaches",
+      "Soft work"
+    ],
+    "specialCharacteristics": [
+      "Sharp nature",
+      "Keen intellect",
+      "Cutting edge",
+      "Analytical"
+    ],
+    "karmicEffects": [
+      "Sharp experiences",
+      "Keen insights",
+      "Cutting outcomes"
+    ],
+    "birthKaranaTraits": [
+      "Sharp minded",
+      "Keen",
+      "Analytical",
+      "Cutting",
+      "Intellectual"
+    ],
+    "healthEffects": "Sharp mental faculties",
+    "astrologySignificance": "Good for sharp and analytical work",
+    "vedicReferences": "Aryaman's sharp karana mentioned",
+    "keywords": [
+      "Sharpness",
+      "Keenness",
+      "Analysis",
+      "Intellect"
+    ],
+    "represents": [
+      "Divine sharpness",
+      "Keen principle",
+      "Analytical energy"
+    ]
+  },
+  {
+    "name": "Garaja",
+    "code": "K05",
+    "number": 5,
+    "type": "Movable",
+    "description": "Thunderous/Roaring - Fifth movable karana",
+    "nature": "Mixed",
+    "quality": "Movable",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Agni",
+    "guna": "Tamasic",
+    "effect": "Thunder",
+    "occurrences": 8,
+    "muhurtaRating": 5,
+    "auspiciousFor": [
+      "Loud activities",
+      "Announcements",
+      "Warfare",
+      "Breaking silence",
+      "Thunder-like actions"
+    ],
+    "inauspiciousFor": [
+      "Quiet activities",
+      "Peace",
+      "Gentle work",
+      "Silence"
+    ],
+    "specialCharacteristics": [
+      "Thunderous nature",
+      "Roaring",
+      "Loud",
+      "Forceful sound"
+    ],
+    "karmicEffects": [
+      "Loud experiences",
+      "Thunderous outcomes",
+      "Forceful results"
+    ],
+    "birthKaranaTraits": [
+      "Loud",
+      "Thunderous",
+      "Forceful",
+      "Roaring nature",
+      "Announcing"
+    ],
+    "healthEffects": "May be loud or forceful",
+    "astrologySignificance": "Mixed for loud and forceful activities",
+    "vedicReferences": "Agni's thunderous karana",
+    "keywords": [
+      "Thunder",
+      "Loud",
+      "Roaring",
+      "Force"
+    ],
+    "represents": [
+      "Divine thunder",
+      "Loud principle",
+      "Forceful energy"
+    ]
+  },
+  {
+    "name": "Vanija",
+    "code": "K06",
+    "number": 6,
+    "type": "Movable",
+    "description": "Merchant/Trade - Sixth movable karana",
+    "nature": "Auspicious",
+    "quality": "Movable",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Bhaga",
+    "guna": "Rajasic",
+    "effect": "Commerce",
+    "occurrences": 8,
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Trade",
+      "Business",
+      "Commerce",
+      "Buying/selling",
+      "Negotiations",
+      "Wealth activities"
+    ],
+    "inauspiciousFor": [
+      "Non-commercial activities",
+      "Spiritual renunciation"
+    ],
+    "specialCharacteristics": [
+      "Promotes trade",
+      "Commerce",
+      "Business acumen",
+      "Wealth"
+    ],
+    "karmicEffects": [
+      "Commercial success",
+      "Trade prosperity",
+      "Business growth"
+    ],
+    "birthKaranaTraits": [
+      "Merchant nature",
+      "Business-minded",
+      "Trader",
+      "Commercial",
+      "Wealthy"
+    ],
+    "healthEffects": "Good material prosperity",
+    "astrologySignificance": "Excellent for trade and commerce",
+    "vedicReferences": "Bhaga's merchant karana praised",
+    "keywords": [
+      "Trade",
+      "Commerce",
+      "Business",
+      "Merchant"
+    ],
+    "represents": [
+      "Divine commerce",
+      "Trade principle",
+      "Business energy"
+    ]
+  },
+  {
+    "name": "Vishti",
+    "code": "K07",
+    "number": 7,
+    "type": "Movable",
+    "description": "Inauspicious/Bhadra - Seventh movable karana",
+    "nature": "Inauspicious",
+    "quality": "Movable",
+    "elementPanchamahabhuta": "Air",
+    "deity": "Yama",
+    "guna": "Tamasic",
+    "effect": "Obstruction",
+    "occurrences": 8,
+    "alternativeName": "Bhadra",
+    "muhurtaRating": 2,
+    "auspiciousFor": [
+      "Destruction of enemies",
+      "Tantric practices",
+      "Dark work",
+      "Negative karma clearing"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "All auspicious activities",
+      "Starting ventures",
+      "Travel",
+      "Ceremonies"
+    ],
+    "specialCharacteristics": [
+      "Most inauspicious karana",
+      "Obstruction",
+      "Difficulties",
+      "Dangerous"
+    ],
+    "karmicEffects": [
+      "Obstacles",
+      "Inauspicious outcomes",
+      "Difficulties"
+    ],
+    "birthKaranaTraits": [
+      "Faces obstacles",
+      "Difficult life",
+      "Struggle",
+      "Inauspicious tendency"
+    ],
+    "healthEffects": "May face health obstacles",
+    "astrologySignificance": "Most inauspicious karana, avoid all good works",
+    "vedicReferences": "Yama's karana strongly warned in all texts",
+    "keywords": [
+      "Inauspicious",
+      "Obstruction",
+      "Difficulty",
+      "Bhadra"
+    ],
+    "represents": [
+      "Divine obstruction",
+      "Inauspicious principle",
+      "Obstacle energy"
+    ]
+  },
+  {
+    "name": "Shakuni",
+    "code": "K08",
+    "number": 8,
+    "type": "Fixed",
+    "description": "Bird/Cunning - First fixed karana",
+    "nature": "Inauspicious",
+    "quality": "Fixed",
+    "elementPanchamahabhuta": "Air",
+    "deity": "Prajapati",
+    "guna": "Tamasic",
+    "effect": "Cunning",
+    "occurrences": 1,
+    "muhurtaRating": 3,
+    "auspiciousFor": [
+      "Strategy",
+      "Cunning work",
+      "Bird-related activities",
+      "Intelligence work"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Honesty-required activities",
+      "Trust-based work"
+    ],
+    "specialCharacteristics": [
+      "Cunning nature",
+      "Strategic",
+      "Bird-like",
+      "Clever but inauspicious"
+    ],
+    "karmicEffects": [
+      "Cunning outcomes",
+      "Strategic results",
+      "Clever experiences"
+    ],
+    "birthKaranaTraits": [
+      "Cunning",
+      "Strategic",
+      "Clever",
+      "Bird-like nature",
+      "Manipulative tendency"
+    ],
+    "healthEffects": "May face trust issues",
+    "astrologySignificance": "Inauspicious fixed karana",
+    "vedicReferences": "Prajapati's cunning karana warned",
+    "keywords": [
+      "Cunning",
+      "Strategy",
+      "Bird",
+      "Clever"
+    ],
+    "represents": [
+      "Divine cunning",
+      "Strategy principle",
+      "Clever energy"
+    ]
+  },
+  {
+    "name": "Chatushpada",
+    "code": "K09",
+    "number": 9,
+    "type": "Fixed",
+    "description": "Four-footed - Second fixed karana",
+    "nature": "Inauspicious",
+    "quality": "Fixed",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Ahi (Serpent)",
+    "guna": "Tamasic",
+    "effect": "Stability",
+    "occurrences": 1,
+    "muhurtaRating": 4,
+    "auspiciousFor": [
+      "Animal-related work",
+      "Four-footed animals",
+      "Stability seeking",
+      "Grounding"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Human-focused activities"
+    ],
+    "specialCharacteristics": [
+      "Four-footed nature",
+      "Animal connection",
+      "Stable but inauspicious",
+      "Grounded"
+    ],
+    "karmicEffects": [
+      "Stable but difficult outcomes",
+      "Animal connections",
+      "Grounded experiences"
+    ],
+    "birthKaranaTraits": [
+      "Animal-like nature",
+      "Stable",
+      "Grounded",
+      "Four-footed connection"
+    ],
+    "healthEffects": "Stable but may face challenges",
+    "astrologySignificance": "Inauspicious fixed karana",
+    "vedicReferences": "Serpent's karana for stability",
+    "keywords": [
+      "Four-footed",
+      "Animal",
+      "Stability",
+      "Grounded"
+    ],
+    "represents": [
+      "Divine animal nature",
+      "Stability principle",
+      "Grounded energy"
+    ]
+  },
+  {
+    "name": "Naga",
+    "code": "K10",
+    "number": 10,
+    "type": "Fixed",
+    "description": "Serpent - Third fixed karana",
+    "nature": "Inauspicious",
+    "quality": "Fixed",
+    "elementPanchamahabhuta": "Water",
+    "deity": "Nagas (Serpents)",
+    "guna": "Tamasic",
+    "effect": "Serpent energy",
+    "occurrences": 1,
+    "muhurtaRating": 4,
+    "auspiciousFor": [
+      "Serpent worship",
+      "Kundalini practices",
+      "Naga puja",
+      "Occult work"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Open activities",
+      "Trust work"
+    ],
+    "specialCharacteristics": [
+      "Serpent nature",
+      "Kundalini energy",
+      "Hidden power",
+      "Mysterious"
+    ],
+    "karmicEffects": [
+      "Serpent-like outcomes",
+      "Hidden results",
+      "Kundalini experiences"
+    ],
+    "birthKaranaTraits": [
+      "Serpent-like",
+      "Mysterious",
+      "Kundalini aware",
+      "Hidden nature",
+      "Occult"
+    ],
+    "healthEffects": "Kundalini and nerve related",
+    "astrologySignificance": "Inauspicious but good for serpent worship",
+    "vedicReferences": "Naga karana for serpent energy",
+    "keywords": [
+      "Serpent",
+      "Kundalini",
+      "Mystery",
+      "Hidden"
+    ],
+    "represents": [
+      "Divine serpent",
+      "Kundalini principle",
+      "Hidden energy"
+    ]
+  },
+  {
+    "name": "Kimstughna",
+    "code": "K11",
+    "number": 11,
+    "type": "Fixed",
+    "description": "What is killed - Fourth fixed karana",
+    "nature": "Most Inauspicious",
+    "quality": "Fixed",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Yama",
+    "guna": "Tamasic",
+    "effect": "Destruction",
+    "occurrences": 1,
+    "muhurtaRating": 1,
+    "auspiciousFor": [
+      "Destruction of extreme negativity",
+      "Death rituals",
+      "Ending cycles",
+      "Tantric practices"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "All auspicious activities",
+      "Starting anything",
+      "Life-giving activities",
+      "Everything good"
+    ],
+    "specialCharacteristics": [
+      "Most destructive",
+      "Death energy",
+      "Ending",
+      "Extreme inauspiciousness"
+    ],
+    "karmicEffects": [
+      "Destructive outcomes",
+      "Endings",
+      "Death-like experiences"
+    ],
+    "birthKaranaTraits": [
+      "Destructive tendency",
+      "Ending-focused",
+      "Death awareness",
+      "Extreme challenges"
+    ],
+    "healthEffects": "May face extreme health challenges",
+    "astrologySignificance": "Most inauspicious karana, avoid all activities",
+    "vedicReferences": "Yama's destructive karana extremely warned",
+    "keywords": [
+      "Destruction",
+      "Death",
+      "Ending",
+      "Inauspicious"
+    ],
+    "represents": [
+      "Divine destruction",
+      "Death principle",
+      "Ending energy"
+    ]
+  }
+]

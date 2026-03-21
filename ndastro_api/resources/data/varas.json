@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Sunday",
+    "code": "V01",
+    "number": 1,
+    "description": "Day of the Sun",
+    "rulingPlanet": "SU",
+    "planetaryLord": "SU",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Cruel/Fierce",
+    "quality": "Royal",
+    "guna": "Sattvic",
+    "color": "Red/Orange",
+    "metal": "Gold",
+    "gem": "Ruby",
+    "direction": "East",
+    "deity": "Surya",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Government work",
+      "Authority matters",
+      "Father-related activities",
+      "Leadership roles",
+      "Medical procedures",
+      "Buying gold"
+    ],
+    "inauspiciousFor": [
+      "Borrowing money",
+      "Humility required tasks",
+      "Subservient work"
+    ],
+    "specialCharacteristics": [
+      "Enhances dignity",
+      "Promotes authority",
+      "Increases vitality"
+    ],
+    "karmicEffects": [
+      "Leadership development",
+      "Authority recognition",
+      "Soul evolution",
+      "Father karma"
+    ],
+    "birthDayTraits": [
+      "Natural leader",
+      "Authoritative",
+      "Dignified",
+      "Strong constitution",
+      "Soul-focused"
+    ],
+    "nakshatraCompatibility": [
+      "N03",
+      "N12",
+      "N21"
+    ],
+    "bestHoursRuled": "Sunrise hour and every 8th hour thereafter",
+    "agriculturalSignificance": "Planting crops requiring vitality and heat",
+    "specificRituals": [
+      "Surya namaskar",
+      "Aditya Hridayam recitation",
+      "Ruby wearing",
+      "Red flower offerings"
+    ],
+    "vedicReferences": "Praised in Surya Upanishad and Aditya Hridaya Stotra",
+    "healthFocus": "Heart, eyes, bones, general vitality",
+    "careersAuspicious": [
+      "Government service",
+      "Politics",
+      "Medicine",
+      "Authority positions"
+    ],
+    "fasting": "Beneficial for Sun strengthening and soul development",
+    "keywords": [
+      "Authority",
+      "Leadership",
+      "Soul",
+      "Father",
+      "Vitality"
+    ],
+    "represents": [
+      "Divine authority",
+      "Soul consciousness",
+      "Leadership",
+      "Father principle"
+    ]
+  },
+  {
+    "name": "Monday",
+    "code": "V02",
+    "number": 2,
+    "description": "Day of the Moon",
+    "rulingPlanet": "MO",
+    "planetaryLord": "MO",
+    "elementPanchamahabhuta": "Water",
+    "nature": "Gentle/Mild",
+    "quality": "Nurturing",
+    "guna": "Sattvic",
+    "color": "White/Silver",
+    "metal": "Silver",
+    "gem": "Pearl",
+    "direction": "Northwest",
+    "deity": "Chandra/Parvati",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Emotional matters",
+      "Mother-related activities",
+      "Water bodies work",
+      "Agriculture",
+      "Food business",
+      "Buying silver",
+      "Mental health",
+      "Public relations"
+    ],
+    "inauspiciousFor": [
+      "Surgery",
+      "Confrontations",
+      "Legal battles"
+    ],
+    "specialCharacteristics": [
+      "Enhances emotions",
+      "Promotes nurturing",
+      "Increases intuition"
+    ],
+    "karmicEffects": [
+      "Emotional healing",
+      "Mother karma resolution",
+      "Mind purification",
+      "Intuition development"
+    ],
+    "birthDayTraits": [
+      "Emotional",
+      "Nurturing",
+      "Intuitive",
+      "Changeable",
+      "Caring",
+      "Mind-focused"
+    ],
+    "nakshatraCompatibility": [
+      "N04",
+      "N13",
+      "N22"
+    ],
+    "bestHoursRuled": "First hour after sunrise and every 8th hour thereafter",
+    "agriculturalSignificance": "Best for watering, planting water-loving crops",
+    "specificRituals": [
+      "Chandra puja",
+      "Pearl wearing",
+      "White flower offerings",
+      "Milk offerings",
+      "Meditation"
+    ],
+    "vedicReferences": "Mentioned in Chandra Upanishad for mind control",
+    "healthFocus": "Mind, emotions, stomach, fluids, breasts",
+    "careersAuspicious": [
+      "Psychology",
+      "Nursing",
+      "Food industry",
+      "Public relations",
+      "Hospitality"
+    ],
+    "fasting": "Beneficial for Moon strengthening and emotional balance",
+    "keywords": [
+      "Emotions",
+      "Mind",
+      "Mother",
+      "Nurturing",
+      "Intuition"
+    ],
+    "represents": [
+      "Divine mother",
+      "Mind consciousness",
+      "Emotions",
+      "Nurturing principle"
+    ]
+  },
+  {
+    "name": "Tuesday",
+    "code": "V03",
+    "number": 3,
+    "description": "Day of Mars",
+    "rulingPlanet": "MA",
+    "planetaryLord": "MA",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Cruel/Fierce",
+    "quality": "Aggressive",
+    "guna": "Tamasic",
+    "color": "Red/Maroon",
+    "metal": "Copper/Iron",
+    "gem": "Red Coral",
+    "direction": "South",
+    "deity": "Hanuman/Kartikeya",
+    "muhurtaRating": 6,
+    "auspiciousFor": [
+      "Property purchase",
+      "Vehicles",
+      "Weapons",
+      "Military matters",
+      "Surgery",
+      "Physical training",
+      "Competition",
+      "Courage-requiring tasks"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Peace negotiations",
+      "Diplomacy",
+      "Borrowing money"
+    ],
+    "specialCharacteristics": [
+      "Enhances courage",
+      "Promotes action",
+      "Increases energy"
+    ],
+    "karmicEffects": [
+      "Courage development",
+      "Brother karma",
+      "Warrior spirit",
+      "Overcoming enemies"
+    ],
+    "birthDayTraits": [
+      "Courageous",
+      "Aggressive",
+      "Energetic",
+      "Direct",
+      "Competitive",
+      "Action-oriented"
+    ],
+    "nakshatraCompatibility": [
+      "N05",
+      "N14",
+      "N23"
+    ],
+    "bestHoursRuled": "Second hour after sunrise and every 8th hour thereafter",
+    "agriculturalSignificance": "Clearing land, cutting, removing obstacles",
+    "specificRituals": [
+      "Hanuman Chalisa",
+      "Kartikeya worship",
+      "Red coral wearing",
+      "Red flower offerings",
+      "Physical exercise"
+    ],
+    "vedicReferences": "Mentioned in Skanda Purana for courage and victory",
+    "healthFocus": "Blood, muscles, energy, accidents, head injuries",
+    "careersAuspicious": [
+      "Military",
+      "Sports",
+      "Surgery",
+      "Engineering",
+      "Real estate",
+      "Police"
+    ],
+    "fasting": "Beneficial for Mars strengthening and courage development",
+    "keywords": [
+      "Courage",
+      "Action",
+      "Energy",
+      "Brothers",
+      "Competition"
+    ],
+    "represents": [
+      "Divine warrior",
+      "Action principle",
+      "Courage",
+      "Energy manifestation"
+    ]
+  },
+  {
+    "name": "Wednesday",
+    "code": "V04",
+    "number": 4,
+    "description": "Day of Mercury",
+    "rulingPlanet": "ME",
+    "planetaryLord": "ME",
+    "elementPanchamahabhuta": "EA",
+    "nature": "Gentle/Mixed",
+    "quality": "Intellectual",
+    "guna": "Rajasic",
+    "color": "Green",
+    "metal": "Bronze/Brass",
+    "gem": "Emerald",
+    "direction": "North",
+    "deity": "Vishnu/Ganesha",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Education",
+      "Business",
+      "Communication",
+      "Writing",
+      "Travel",
+      "Accounting",
+      "Learning",
+      "Trade",
+      "Examinations"
+    ],
+    "inauspiciousFor": [
+      "Marriage in some traditions",
+      "Emotional matters"
+    ],
+    "specialCharacteristics": [
+      "Enhances intelligence",
+      "Promotes communication",
+      "Increases adaptability"
+    ],
+    "karmicEffects": [
+      "Intellectual development",
+      "Communication mastery",
+      "Business acumen",
+      "Skill acquisition"
+    ],
+    "birthDayTraits": [
+      "Intelligent",
+      "Communicative",
+      "Adaptable",
+      "Youthful",
+      "Curious",
+      "Versatile"
+    ],
+    "nakshatraCompatibility": [
+      "N09",
+      "N18",
+      "N27"
+    ],
+    "bestHoursRuled": "Third hour after sunrise and every 8th hour thereafter",
+    "agriculturalSignificance": "Planning, accounting, trading agricultural products",
+    "specificRituals": [
+      "Vishnu Sahasranama",
+      "Ganesha puja",
+      "Emerald wearing",
+      "Green offerings",
+      "Study and learning"
+    ],
+    "vedicReferences": "Mentioned in Budha Stotra for intelligence enhancement",
+    "healthFocus": "Nervous system, speech, hands, lungs, skin",
+    "careersAuspicious": [
+      "Business",
+      "Writing",
+      "Teaching",
+      "Accounting",
+      "IT",
+      "Communications"
+    ],
+    "fasting": "Beneficial for Mercury strengthening and intellectual clarity",
+    "keywords": [
+      "Intelligence",
+      "Communication",
+      "Business",
+      "Learning",
+      "Adaptability"
+    ],
+    "represents": [
+      "Divine intelligence",
+      "Communication principle",
+      "Commerce",
+      "Knowledge exchange"
+    ]
+  },
+  {
+    "name": "Thursday",
+    "code": "V05",
+    "number": 5,
+    "description": "Day of Jupiter",
+    "rulingPlanet": "JU",
+    "planetaryLord": "JU",
+    "elementPanchamahabhuta": "Ether",
+    "nature": "Gentle/Benefic",
+    "quality": "Auspicious",
+    "guna": "Sattvic",
+    "color": "Yellow",
+    "metal": "Gold",
+    "gem": "Yellow Sapphire",
+    "direction": "Northeast",
+    "deity": "Brihaspati/Vishnu",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Marriage",
+      "Education",
+      "Religious ceremonies",
+      "Spiritual practices",
+      "Starting new ventures",
+      "Guru worship",
+      "Children matters",
+      "Buying gold"
+    ],
+    "inauspiciousFor": [
+      "Negative actions",
+      "Unethical activities"
+    ],
+    "specialCharacteristics": [
+      "Enhances wisdom",
+      "Promotes expansion",
+      "Increases fortune"
+    ],
+    "karmicEffects": [
+      "Wisdom development",
+      "Guru karma",
+      "Children blessings",
+      "Dharmic progress",
+      "Fortune accumulation"
+    ],
+    "birthDayTraits": [
+      "Wise",
+      "Expansive",
+      "Optimistic",
+      "Religious",
+      "Teacher-like",
+      "Fortunate"
+    ],
+    "nakshatraCompatibility": [
+      "N07",
+      "N16",
+      "N25"
+    ],
+    "bestHoursRuled": "Fourth hour after sunrise and every 8th hour thereafter",
+    "agriculturalSignificance": "Expansion activities, planning for growth",
+    "specificRituals": [
+      "Brihaspati puja",
+      "Guru worship",
+      "Yellow sapphire wearing",
+      "Yellow flower offerings",
+      "Vedic study",
+      "Charity"
+    ],
+    "vedicReferences": "Extensively praised in Brihaspati Kavacham and Guru Stotra",
+    "healthFocus": "Liver, fat, thighs, growth, expansion",
+    "careersAuspicious": [
+      "Teaching",
+      "Priesthood",
+      "Law",
+      "Finance",
+      "Counseling",
+      "Philosophy"
+    ],
+    "fasting": "Highly beneficial for Jupiter strengthening and wisdom",
+    "keywords": [
+      "Wisdom",
+      "Expansion",
+      "Guru",
+      "Fortune",
+      "Dharma"
+    ],
+    "represents": [
+      "Divine wisdom",
+      "Guru principle",
+      "Expansion",
+      "Fortune and blessings"
+    ]
+  },
+  {
+    "name": "Friday",
+    "code": "V06",
+    "number": 6,
+    "description": "Day of Venus",
+    "rulingPlanet": "VE",
+    "planetaryLord": "VE",
+    "elementPanchamahabhuta": "Water",
+    "nature": "Gentle/Benefic",
+    "quality": "Luxurious",
+    "guna": "Rajasic",
+    "color": "White/Pink",
+    "metal": "Silver",
+    "gem": "Diamond",
+    "direction": "Southeast",
+    "deity": "Lakshmi/Shukra",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Marriage",
+      "Romance",
+      "Art",
+      "Music",
+      "Beauty treatments",
+      "Buying clothes/jewelry",
+      "Entertainment",
+      "Luxury items",
+      "Vehicle purchase"
+    ],
+    "inauspiciousFor": [
+      "Fasting",
+      "Austerities",
+      "Renunciation activities"
+    ],
+    "specialCharacteristics": [
+      "Enhances beauty",
+      "Promotes love",
+      "Increases comfort"
+    ],
+    "karmicEffects": [
+      "Relationship development",
+      "Wife karma",
+      "Artistic expression",
+      "Material comfort",
+      "Pleasure refinement"
+    ],
+    "birthDayTraits": [
+      "Artistic",
+      "Romantic",
+      "Beautiful",
+      "Comfort-loving",
+      "Diplomatic",
+      "Aesthetic"
+    ],
+    "nakshatraCompatibility": [
+      "N02",
+      "N11",
+      "N20"
+    ],
+    "bestHoursRuled": "Fifth hour after sunrise and every 8th hour thereafter",
+    "agriculturalSignificance": "Planting flowering plants, aesthetic arrangements",
+    "specificRituals": [
+      "Lakshmi puja",
+      "Shukra worship",
+      "Diamond wearing",
+      "White/pink flower offerings",
+      "Art and music"
+    ],
+    "vedicReferences": "Mentioned in Shukra Stotra for relationship harmony",
+    "healthFocus": "Reproductive system, kidneys, throat, face, beauty",
+    "careersAuspicious": [
+      "Arts",
+      "Entertainment",
+      "Fashion",
+      "Beauty industry",
+      "Hospitality",
+      "Diplomacy"
+    ],
+    "fasting": "Not traditionally recommended on Venus day",
+    "keywords": [
+      "Love",
+      "Beauty",
+      "Art",
+      "Luxury",
+      "Romance"
+    ],
+    "represents": [
+      "Divine beauty",
+      "Love principle",
+      "Comfort",
+      "Artistic expression"
+    ]
+  },
+  {
+    "name": "Saturday",
+    "code": "V07",
+    "number": 7,
+    "description": "Day of Saturn",
+    "rulingPlanet": "SA",
+    "planetaryLord": "SA",
+    "elementPanchamahabhuta": "Air",
+    "nature": "Cruel/Malefic",
+    "quality": "Restrictive",
+    "guna": "Tamasic",
+    "color": "Black/Dark Blue",
+    "metal": "Iron",
+    "gem": "Blue Sapphire",
+    "direction": "West",
+    "deity": "Shani/Hanuman",
+    "muhurtaRating": 5,
+    "auspiciousFor": [
+      "Hard work",
+      "Labor",
+      "Discipline",
+      "Dealing with servants",
+      "Iron work",
+      "Oil business",
+      "Spiritual practices",
+      "Karmic clearing"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "New ventures",
+      "Celebrations"
+    ],
+    "specialCharacteristics": [
+      "Enhances discipline",
+      "Promotes patience",
+      "Increases karmic awareness"
+    ],
+    "karmicEffects": [
+      "Karmic lessons",
+      "Discipline development",
+      "Servant karma",
+      "Patience cultivation",
+      "Old age preparation"
+    ],
+    "birthDayTraits": [
+      "Disciplined",
+      "Patient",
+      "Karmic awareness",
+      "Hard-working",
+      "Serious",
+      "Enduring"
+    ],
+    "nakshatraCompatibility": [
+      "N08",
+      "N17",
+      "N26"
+    ],
+    "bestHoursRuled": "Sixth hour after sunrise and every 8th hour thereafter",
+    "agriculturalSignificance": "Hard labor, dealing with difficulties, pest control",
+    "specificRituals": [
+      "Shani puja",
+      "Hanuman worship",
+      "Blue sapphire wearing (with caution)",
+      "Black/blue offerings",
+      "Charity to poor",
+      "Oil lamp lighting"
+    ],
+    "vedicReferences": "Extensively mentioned in Shani Mahatmya for karmic understanding",
+    "healthFocus": "Bones, teeth, joints, chronic diseases, aging",
+    "careersAuspicious": [
+      "Labor",
+      "Mining",
+      "Oil industry",
+      "Social work",
+      "Elderly care",
+      "Spirituality"
+    ],
+    "fasting": "Highly beneficial for Saturn appeasement and karmic clearing",
+    "keywords": [
+      "Discipline",
+      "Karma",
+      "Patience",
+      "Labor",
+      "Restriction"
+    ],
+    "represents": [
+      "Divine justice",
+      "Karma principle",
+      "Time",
+      "Discipline and limitation"
+    ]
+  }
+]

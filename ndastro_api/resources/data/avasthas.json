@@ -1,0 +1,561 @@
+[
+    {
+        "name": "Planetary Avasthas",
+        "description": "States or conditions of planets affecting their ability to deliver results",
+        "purpose": "Determine functional strength and result-giving capacity of planets",
+        "types": ["Balaadi Avastha", "Jagradaadi Avastha", "Deeptaadi Avastha", "Lajjitaadi Avastha", "Shayanadi Avastha"],
+        "importance": "Critical for accurate prediction of planetary effects",
+        "vedicReferences": "Detailed in Brihat Parashara Hora Shastra and Saravali",
+        "usage": "Modify planetary strength and dasha results based on avastha"
+    },
+    {
+        "category": "Balaadi Avastha",
+        "description": "Five age-based states determining planetary maturity and strength",
+        "basis": "Planetary degrees within sign",
+        "totalStates": 5,
+        "importance": "Very high",
+        "states": [
+            {
+                "name": "Bala",
+                "englishName": "Infant",
+                "degrees": "0° to 6°",
+                "age": "Childhood/Infancy",
+                "strength": "Weak",
+                "description": "Planet in infantile state, immature, learning phase",
+                "effects": ["Weak results", "Immature significations", "Learning phase", "Dependent", "Innocent approach"],
+                "personality": "Childlike, innocent, inexperienced, dependent, learning",
+                "results": {
+                    "positive": "Fresh start, new beginnings, innocent approach, pure intentions",
+                    "negative": "Immaturity, weakness, dependency, incomplete results, naive mistakes"
+                },
+                "significationEffect": "Significations weak and developing, needs support",
+                "dashaEffect": "Dasha gives weak results, slow progress, learning experiences",
+                "remedies": "Nurture the planet, strengthen through remedies, allow time for growth",
+                "example": "Mars at 3° in Aries - infantile courage, impulsive but weak action"
+            },
+            {
+                "name": "Kumara",
+                "englishName": "Youth",
+                "degrees": "6° to 12°",
+                "age": "Youth/Teenage",
+                "strength": "Moderate",
+                "description": "Planet in youthful state, energetic but inexperienced",
+                "effects": ["Moderate results", "Enthusiastic approach", "Some experience", "Energetic", "Trial and error"],
+                "personality": "Youthful, energetic, enthusiastic, somewhat experienced, experimenting",
+                "results": {
+                    "positive": "Good energy, enthusiasm, willingness to try, some success",
+                    "negative": "Overconfidence, mistakes from inexperience, inconsistent results"
+                },
+                "significationEffect": "Significations developing, energetic but inconsistent",
+                "dashaEffect": "Dasha gives moderate results, enthusiastic efforts, some successes",
+                "remedies": "Guide the planet's energy, provide direction through remedies",
+                "example": "Venus at 9° in Taurus - youthful beauty, enthusiastic love, developing taste"
+            },
+            {
+                "name": "Yuva",
+                "englishName": "Young Adult",
+                "degrees": "12° to 18°",
+                "age": "Young adulthood",
+                "strength": "Strong",
+                "description": "Planet in prime youth, full energy and capability",
+                "effects": ["Strong results", "Peak energy", "Best performance", "Confident", "Successful"],
+                "personality": "Confident, capable, energetic, experienced, successful",
+                "results": {
+                    "positive": "Excellent results, peak performance, success, achievement, confidence",
+                    "negative": "Few negative effects - may be slightly overconfident"
+                },
+                "significationEffect": "Significations at peak strength, delivers full results",
+                "dashaEffect": "Dasha gives best results, major achievements, success period",
+                "remedies": "Maintain planet's strength, optimize its positive effects",
+                "example": "Jupiter at 15° in Sagittarius - peak wisdom, maximum expansion, great fortune"
+            },
+            {
+                "name": "Vridha",
+                "englishName": "Old",
+                "degrees": "18° to 24°",
+                "age": "Old age",
+                "strength": "Moderate to weak",
+                "description": "Planet in elderly state, experienced but declining energy",
+                "effects": ["Moderate results", "Wise approach", "Experience matters", "Declining energy", "Conservative"],
+                "personality": "Wise, experienced, cautious, conservative, declining vitality",
+                "results": {
+                    "positive": "Wisdom, experience, maturity, conservative approach benefits",
+                    "negative": "Declining energy, slower results, conservative limits, health issues"
+                },
+                "significationEffect": "Significations wise but weakening, experience over energy",
+                "dashaEffect": "Dasha gives experienced but slower results, wisdom-based outcomes",
+                "remedies": "Support planet's vitality, respect its wisdom, strengthen carefully",
+                "example": "Saturn at 21° in Capricorn - elderly discipline, great experience, slowing action"
+            },
+            {
+                "name": "Mrita",
+                "englishName": "Dead",
+                "degrees": "24° to 30°",
+                "age": "Death/End",
+                "strength": "Very weak",
+                "description": "Planet in death-like state, exhausted, ending phase",
+                "effects": ["Very weak results", "Ending phase", "Exhaustion", "Completion", "Transformation needed"],
+                "personality": "Exhausted, ending, completing, transforming, releasing",
+                "results": {
+                    "positive": "Completion, endings leading to new beginnings, moksha orientation",
+                    "negative": "Exhaustion, very weak results, failure, loss, death-like experiences"
+                },
+                "significationEffect": "Significations extremely weak, ending cycle, needs transformation",
+                "dashaEffect": "Dasha gives very weak results, endings, losses, transformation period",
+                "remedies": "Allow completion, prepare for transformation, strong remedies needed",
+                "example": "Moon at 27° in Cancer - exhausted emotions, ending emotional cycle, need for renewal"
+            }
+        ],
+        "interpretation": "Check each planet's degree to determine its Balaadi Avastha and modify predictions accordingly",
+        "vedicReferences": "BPHS - Balaadi Avasthas for planetary strength"
+    },
+    {
+        "category": "Jagradaadi Avastha",
+        "description": "Three consciousness states - awake, dreaming, sleeping",
+        "basis": "Planetary positions in specific houses from lagna",
+        "totalStates": 3,
+        "importance": "High",
+        "states": [
+            {
+                "name": "Jagrat",
+                "englishName": "Awake",
+                "position": "Planets in 1st, 5th, 9th, 10th, 11th houses from lagna",
+                "consciousness": "Fully awake and active",
+                "strength": "Strong",
+                "description": "Planet fully conscious and actively delivering results",
+                "effects": ["Full results", "Active manifestation", "Clear effects", "Conscious delivery", "Direct impact"],
+                "personality": "Fully aware, active, manifesting, conscious, directly impacting",
+                "results": {
+                    "positive": "Full positive results, clear benefits, active success, conscious achievements",
+                    "negative": "Full negative results if malefic, clear obstacles, active problems"
+                },
+                "significationEffect": "Significations fully manifest and clearly experienced",
+                "dashaEffect": "Dasha results clear and strong, direct experiences, manifest outcomes",
+                "interpretation": "Planet acts with full consciousness and delivers complete results"
+            },
+            {
+                "name": "Swapna",
+                "englishName": "Dreaming",
+                "position": "Planets in 2nd, 4th, 7th, 8th houses from lagna",
+                "consciousness": "Semi-conscious, dream-like",
+                "strength": "Moderate",
+                "description": "Planet in dream state, indirect or delayed results",
+                "effects": ["Partial results", "Dream-like experiences", "Indirect effects", "Delayed manifestation", "Unclear outcomes"],
+                "personality": "Semi-aware, dreaming, indirect, delayed, somewhat unclear",
+                "results": {
+                    "positive": "Good results but indirect, dream-like success, delayed benefits",
+                    "negative": "Confusing problems, unclear obstacles, indirect difficulties"
+                },
+                "significationEffect": "Significations manifest indirectly or in dream-like ways",
+                "dashaEffect": "Dasha results indirect, dream-like experiences, delayed outcomes",
+                "interpretation": "Planet acts indirectly, results come through indirect means or delayed"
+            },
+            {
+                "name": "Sushupti",
+                "englishName": "Deep Sleep",
+                "position": "Planets in 3rd, 6th, 12th houses from lagna",
+                "consciousness": "Unconscious, sleeping",
+                "strength": "Weak",
+                "description": "Planet in deep sleep, minimal or hidden results",
+                "effects": ["Minimal results", "Hidden effects", "Unconscious influence", "Very delayed", "Subconscious impact"],
+                "personality": "Unconscious, sleeping, hidden, deeply delayed, subconscious",
+                "results": {
+                    "positive": "Hidden benefits, subconscious blessings, minimal but deep effects",
+                    "negative": "Hidden problems, subconscious blocks, minimal manifest difficulties"
+                },
+                "significationEffect": "Significations mostly hidden or subconscious, minimal manifest effects",
+                "dashaEffect": "Dasha results hidden or minimal, subconscious experiences, very delayed",
+                "interpretation": "Planet sleeping, gives minimal or hidden results, mostly subconscious"
+            }
+        ],
+        "interpretation": "Assess planet's house position from lagna to determine consciousness state",
+        "vedicReferences": "BPHS - Jagradaadi Avasthas for result manifestation"
+    },
+    {
+        "category": "Deeptaadi Avastha",
+        "description": "Nine luminosity states based on specific degree ranges",
+        "basis": "Planetary degrees and special positions",
+        "totalStates": 9,
+        "importance": "High",
+        "states": [
+            {
+                "name": "Deepta",
+                "englishName": "Blazing",
+                "condition": "Planet in deep exaltation (within 5° of exact exaltation degree)",
+                "strength": "Excellent",
+                "description": "Planet blazing with maximum light and power",
+                "effects": ["Maximum results", "Brilliant success", "Peak performance", "Exceptional power", "Outstanding outcomes"],
+                "results": "Exceptional positive results, brilliant success, peak manifestation",
+                "example": "Sun at 10° Aries - blazing authority, maximum vitality, exceptional leadership"
+            },
+            {
+                "name": "Swastha",
+                "englishName": "Comfortable",
+                "condition": "Planet in own sign or friend's sign",
+                "strength": "Very good",
+                "description": "Planet comfortable and performing well",
+                "effects": ["Strong results", "Comfortable functioning", "Good performance", "Natural ease", "Stable outcomes"],
+                "results": "Strong positive results, comfortable success, natural performance",
+                "example": "Venus in Taurus - comfortable luxury, natural beauty, easy relationships"
+            },
+            {
+                "name": "Pramudita",
+                "englishName": "Delighted",
+                "condition": "Planet in great friend's sign or aspected by benefics",
+                "strength": "Good",
+                "description": "Planet delighted and joyful in functioning",
+                "effects": ["Happy results", "Joyful experiences", "Benefic outcomes", "Pleasant manifestation", "Supported success"],
+                "results": "Good positive results, joyful outcomes, pleasant experiences",
+                "example": "Jupiter aspected by Venus - delighted wisdom, joyful expansion, pleasant growth"
+            },
+            {
+                "name": "Shanta",
+                "englishName": "Peaceful",
+                "condition": "Planet in neutral sign or with neutral influences",
+                "strength": "Moderate",
+                "description": "Planet peaceful and neutral in functioning",
+                "effects": ["Neutral results", "Peaceful state", "Balanced outcomes", "Neither strong nor weak", "Stable equilibrium"],
+                "results": "Moderate results, peaceful state, balanced outcomes",
+                "example": "Mercury in Aries - peaceful intellect, neutral communication, balanced thinking"
+            },
+            {
+                "name": "Sakta",
+                "englishName": "Capable",
+                "condition": "Planet with good shadbala and dignity",
+                "strength": "Good",
+                "description": "Planet capable and able to deliver",
+                "effects": ["Capable results", "Able performance", "Competent delivery", "Reliable outcomes", "Functional success"],
+                "results": "Good results through capability, competent performance",
+                "example": "Mars with good shadbala - capable courage, able action, competent performance"
+            },
+            {
+                "name": "Peedita",
+                "englishName": "Afflicted",
+                "condition": "Planet in enemy sign or afflicted by malefics",
+                "strength": "Weak",
+                "description": "Planet afflicted and suffering",
+                "effects": ["Afflicted results", "Suffering outcomes", "Painful manifestation", "Troubled functioning", "Difficult experiences"],
+                "results": "Weak negative results, afflicted outcomes, suffering experiences",
+                "example": "Moon afflicted by Saturn - afflicted mind, suffering emotions, painful feelings"
+            },
+            {
+                "name": "Dheena",
+                "englishName": "Debilitated",
+                "condition": "Planet in debilitation sign",
+                "strength": "Very weak",
+                "description": "Planet weak and debilitated",
+                "effects": ["Very weak results", "Debilitated functioning", "Failed performance", "Ineffective outcomes", "Collapsed strength"],
+                "results": "Very weak results, debilitated manifestation, ineffective outcomes",
+                "example": "Sun in Libra - debilitated authority, weak vitality, ineffective leadership"
+            },
+            {
+                "name": "Vikala",
+                "englishName": "Crippled",
+                "condition": "Planet combust, retrograde, or severely afflicted",
+                "strength": "Extremely weak",
+                "description": "Planet crippled and unable to function properly",
+                "effects": ["Crippled results", "Unable to function", "Severely impaired", "Blocked outcomes", "Disabled manifestation"],
+                "results": "Extremely weak results, crippled functioning, severely impaired",
+                "example": "Mercury combust within 4° of Sun - crippled intellect, impaired communication, disabled thinking"
+            },
+            {
+                "name": "Khala",
+                "englishName": "Mischievous",
+                "condition": "Planet in 6th, 8th, or 12th house with malefic association",
+                "strength": "Weak and troublesome",
+                "description": "Planet mischievous and creating problems",
+                "effects": ["Troublesome results", "Mischievous outcomes", "Problem creation", "Negative surprises", "Harmful manifestation"],
+                "results": "Negative results, mischievous problems, troublesome outcomes",
+                "example": "Mars in 8th house with Saturn - mischievous accidents, troublesome surgeries, harmful actions"
+            }
+        ],
+        "interpretation": "Determine planet's condition to assess its Deeptaadi Avastha",
+        "vedicReferences": "BPHS - Deeptaadi Avasthas for luminosity assessment"
+    },
+    {
+        "category": "Lajjitaadi Avastha",
+        "description": "Six states based on planetary afflictions and conditions",
+        "basis": "Specific affliction conditions",
+        "totalStates": 6,
+        "importance": "High",
+        "states": [
+            {
+                "name": "Lajjita",
+                "englishName": "Ashamed",
+                "condition": "Planet with Moon in 5th, 9th house, or associated with malefics",
+                "description": "Planet feeling ashamed and unable to perform openly",
+                "effects": ["Shame in results", "Hidden functioning", "Embarrassment", "Shy manifestation", "Timid outcomes"],
+                "results": "Results with shame, hidden effects, embarrassed manifestation",
+                "interpretation": "Planet unable to give full results due to shame or embarrassment",
+                "example": "Venus with Moon in 5th - ashamed in love, shy romance, embarrassed beauty"
+            },
+            {
+                "name": "Garvita",
+                "englishName": "Proud",
+                "condition": "Planet in exaltation or in 10th house with good aspects",
+                "description": "Planet proud and confident in functioning",
+                "effects": ["Proud results", "Confident manifestation", "Arrogant approach", "Self-assured outcomes", "Dignified expression"],
+                "results": "Results with pride and confidence, possibly arrogant",
+                "interpretation": "Planet delivers results with pride, sometimes excessive ego",
+                "example": "Sun in Aries in 10th - proud authority, confident leadership, arrogant power"
+            },
+            {
+                "name": "Kshudita",
+                "englishName": "Hungry",
+                "condition": "Planet in 6th or 8th house or aspected by malefics",
+                "description": "Planet hungry and craving results",
+                "effects": ["Hungry for results", "Craving outcomes", "Desperate functioning", "Needy manifestation", "Anxious delivery"],
+                "results": "Results sought desperately, hungry outcomes, anxious manifestation",
+                "interpretation": "Planet desperate for results, creates hunger and need",
+                "example": "Jupiter in 6th - hungry for wisdom, craving expansion, desperate growth"
+            },
+            {
+                "name": "Trushita",
+                "englishName": "Thirsty",
+                "condition": "Planet in fire signs (Aries, Leo, Sagittarius) with malefic aspects",
+                "description": "Planet thirsty and seeking satisfaction",
+                "effects": ["Thirsty for satisfaction", "Seeking fulfillment", "Parched functioning", "Unsatisfied outcomes", "Yearning results"],
+                "results": "Unsatisfied results, thirsty for more, yearning outcomes",
+                "interpretation": "Planet creates thirst, never fully satisfied",
+                "example": "Venus in Leo with Mars aspect - thirsty for love, seeking satisfaction, yearning pleasure"
+            },
+            {
+                "name": "Kshobhita",
+                "englishName": "Agitated",
+                "condition": "Planet in 6th, 8th, 12th house with malefic conjunctions",
+                "description": "Planet agitated and disturbed in functioning",
+                "effects": ["Agitated results", "Disturbed functioning", "Anxious manifestation", "Restless outcomes", "Turbulent expression"],
+                "results": "Disturbed results, agitated outcomes, restless manifestation",
+                "interpretation": "Planet creates agitation and disturbance",
+                "example": "Moon in 6th with Mars - agitated mind, disturbed emotions, anxious feelings"
+            },
+            {
+                "name": "Mudita",
+                "englishName": "Delighted",
+                "condition": "Planet in 1st, 4th, 5th, 7th, 9th, 10th house with benefic aspects",
+                "description": "Planet delighted and joyful in functioning",
+                "effects": ["Delighted results", "Joyful functioning", "Happy manifestation", "Pleased outcomes", "Content expression"],
+                "results": "Joyful results, delighted outcomes, happy manifestation",
+                "interpretation": "Planet delivers results with joy and delight",
+                "example": "Jupiter in 9th with Venus aspect - delighted wisdom, joyful expansion, happy fortune"
+            }
+        ],
+        "interpretation": "Check planet's affliction conditions to determine Lajjitaadi Avastha",
+        "vedicReferences": "BPHS - Lajjitaadi Avasthas for emotional states"
+    },
+    {
+        "category": "Shayanadi Avastha",
+        "description": "Twelve states based on planetary positions and activities",
+        "basis": "Sign, house, and planetary relationships",
+        "totalStates": 12,
+        "importance": "Very high",
+        "states": [
+            {
+                "name": "Shayana",
+                "englishName": "Sleeping/Lying",
+                "condition": "Planet in 12th house from lagna",
+                "description": "Planet sleeping and inactive",
+                "effects": "Minimal results, inactive, sleeping state, subconscious effects only",
+                "strength": "Very weak",
+                "results": "Very weak results, mostly subconscious or hidden effects",
+                "example": "Mars in 12th - sleeping courage, inactive energy, hidden action"
+            },
+            {
+                "name": "Upavesha",
+                "englishName": "Sitting",
+                "condition": "Planet in own sign or friendly sign",
+                "description": "Planet sitting comfortably",
+                "effects": "Good results, comfortable, stable functioning, relaxed delivery",
+                "strength": "Good",
+                "results": "Strong stable results, comfortable outcomes, relaxed success",
+                "example": "Venus in Taurus - sitting comfortably, stable luxury, relaxed beauty"
+            },
+            {
+                "name": "Netrapani",
+                "englishName": "Eyes and Hands (Working)",
+                "condition": "Planet in 10th house or aspecting 10th",
+                "description": "Planet actively working with focus",
+                "effects": "Active results, working hard, focused delivery, productive outcomes",
+                "strength": "Very good",
+                "results": "Excellent work results, productive success, focused achievement",
+                "example": "Saturn in 10th - actively working, focused discipline, productive hard work"
+            },
+            {
+                "name": "Prakashana",
+                "englishName": "Illuminating",
+                "condition": "Planet in exaltation or with high dignity",
+                "description": "Planet illuminating and radiating",
+                "effects": "Brilliant results, illuminating effects, radiant success, enlightening outcomes",
+                "strength": "Excellent",
+                "results": "Exceptional brilliant results, enlightening success, radiant manifestation",
+                "example": "Sun at 10° Aries - illuminating authority, brilliant vitality, radiant leadership"
+            },
+            {
+                "name": "Gamana",
+                "englishName": "Moving/Traveling",
+                "condition": "Planet in movable signs (Aries, Cancer, Libra, Capricorn)",
+                "description": "Planet in motion and traveling",
+                "effects": "Moving results, changing outcomes, travel-related, dynamic manifestation",
+                "strength": "Moderate",
+                "results": "Dynamic results with movement, travel effects, changing outcomes",
+                "example": "Moon in Cancer - moving emotions, traveling mind, dynamic feelings"
+            },
+            {
+                "name": "Agamana",
+                "englishName": "Coming/Arriving",
+                "condition": "Planet moving towards exaltation point",
+                "description": "Planet coming into strength",
+                "effects": "Arriving results, strengthening effects, improving outcomes, approaching success",
+                "strength": "Improving",
+                "results": "Strengthening results, improving outcomes, approaching peak",
+                "example": "Jupiter at 3° Cancer - arriving to exaltation, strengthening wisdom, improving fortune"
+            },
+            {
+                "name": "Sabha",
+                "englishName": "In Assembly",
+                "condition": "Planet in 7th or 10th house with other planets",
+                "description": "Planet in public assembly",
+                "effects": "Public results, assembly outcomes, social manifestation, collective impact",
+                "strength": "Good",
+                "results": "Public success, social outcomes, collective results",
+                "example": "Venus in 7th with Jupiter - in social assembly, public relationships, collective beauty"
+            },
+            {
+                "name": "Agama",
+                "englishName": "Path/Doctrine",
+                "condition": "Planet in 9th house or aspecting 9th",
+                "description": "Planet on dharmic path",
+                "effects": "Dharmic results, philosophical outcomes, spiritual manifestation, righteous delivery",
+                "strength": "Good",
+                "results": "Dharmic success, philosophical outcomes, spiritual results",
+                "example": "Jupiter in 9th - on dharma path, philosophical wisdom, spiritual fortune"
+            },
+            {
+                "name": "Bhojana",
+                "englishName": "Eating",
+                "condition": "Planet in 2nd house",
+                "description": "Planet eating and consuming",
+                "effects": "Consuming results, wealth effects, food-related, nourishment outcomes",
+                "strength": "Moderate",
+                "results": "Wealth results, nourishing outcomes, consuming effects",
+                "example": "Moon in 2nd - eating emotions, nourishing feelings, wealth through mind"
+            },
+            {
+                "name": "Nrityalipsa",
+                "englishName": "Desire to Dance",
+                "condition": "Planet in 5th house or with creative influences",
+                "description": "Planet in creative joyful state",
+                "effects": "Creative results, joyful outcomes, artistic manifestation, playful delivery",
+                "strength": "Good",
+                "results": "Creative success, artistic outcomes, joyful results",
+                "example": "Venus in 5th - desire to dance, creative beauty, joyful arts, playful romance"
+            },
+            {
+                "name": "Kautuka",
+                "englishName": "Curiosity/Eagerness",
+                "condition": "Planet with Mercury or in 3rd house",
+                "description": "Planet curious and eager to learn",
+                "effects": "Curious results, learning outcomes, eager manifestation, inquisitive delivery",
+                "strength": "Moderate",
+                "results": "Learning results, curious outcomes, eager exploration",
+                "example": "Mercury in 3rd - curious intellect, eager communication, learning skills"
+            },
+            {
+                "name": "Nidra",
+                "englishName": "Deep Sleep",
+                "condition": "Planet debilitated or in extreme weakness",
+                "description": "Planet in deep sleep and unconscious",
+                "effects": "No results, unconscious state, completely inactive, dormant outcomes",
+                "strength": "Extremely weak",
+                "results": "Almost no results, dormant state, unconscious effects only",
+                "example": "Sun in Libra at 10° - deep sleep authority, unconscious vitality, dormant leadership"
+            }
+        ],
+        "interpretation": "Most detailed avastha system - check all conditions for accurate assessment",
+        "vedicReferences": "BPHS - Shayanadi Avasthas most comprehensive system"
+    },
+    {
+        "name": "Practical Application",
+        "description": "How to use avasthas in chart analysis and predictions",
+        "steps": [
+            {
+                "step": 1,
+                "action": "Determine Balaadi Avastha by degree",
+                "method": "Check each planet's exact degree to find its age state",
+                "importance": "Fundamental strength assessment"
+            },
+            {
+                "step": 2,
+                "action": "Assess Jagradaadi Avastha by house",
+                "method": "Note which houses planets occupy to determine consciousness",
+                "importance": "Result manifestation level"
+            },
+            {
+                "step": 3,
+                "action": "Evaluate Deeptaadi Avastha by condition",
+                "method": "Check exaltation, debilitation, dignity for luminosity",
+                "importance": "Functional capability"
+            },
+            {
+                "step": 4,
+                "action": "Check Lajjitaadi Avastha for afflictions",
+                "method": "Look for specific affliction conditions",
+                "importance": "Emotional functioning"
+            },
+            {
+                "step": 5,
+                "action": "Determine Shayanadi Avastha comprehensively",
+                "method": "Check all 12 conditions for most detailed state",
+                "importance": "Complete state picture"
+            },
+            {
+                "step": 6,
+                "action": "Synthesize all avasthas",
+                "method": "Combine all avastha assessments for final judgment",
+                "importance": "Accurate prediction"
+            }
+        ],
+        "examples": [
+            {
+                "planet": "Sun at 15° Aries in 10th house, no afflictions",
+                "balaadi": "Yuva (12-18°) - Young adult, strong",
+                "jagradaadi": "Jagrat (10th house) - Fully awake",
+                "deeptaadi": "Deepta/Swastha - Blazing/Comfortable",
+                "lajjitaadi": "Garvita - Proud",
+                "shayanadi": "Netrapani/Prakashana - Working/Illuminating",
+                "finalAssessment": "Extremely strong Sun - peak authority, excellent career, brilliant leadership",
+                "dashaEffect": "Sun dasha will give exceptional career success and authority"
+            },
+            {
+                "planet": "Moon at 28° Scorpio in 6th house with Saturn",
+                "balaadi": "Mrita (24-30°) - Dead, very weak",
+                "jagradaadi": "Sushupti (6th house) - Deep sleep",
+                "deeptaadi": "Peedita/Dheena - Afflicted/Debilitated area",
+                "lajjitaadi": "Kshobhita - Agitated",
+                "shayanadi": "Nidra - Deep sleep",
+                "finalAssessment": "Extremely weak Moon - severe mental stress, mother problems, emotional exhaustion",
+                "dashaEffect": "Moon dasha will give mental health challenges, emotional difficulties, need remedies"
+            },
+            {
+                "planet": "Venus at 9° Pisces in 7th house with Jupiter aspect",
+                "balaadi": "Kumara (6-12°) - Youth, moderate",
+                "jagradaadi": "Swapna (7th house) - Dreaming",
+                "deeptaadi": "Pramudita - Delighted (exalted + benefic aspect)",
+                "lajjitaadi": "Mudita - Delighted",
+                "shayanadi": "Sabha - In assembly",
+                "finalAssessment": "Strong Venus - good marriage prospects, artistic success, social charm, exalted effects",
+                "dashaEffect": "Venus dasha will give marriage, artistic success, luxury, relationship joy"
+            }
+        ],
+        "importantNotes": [
+            "Avasthas modify planetary strength significantly",
+            "Balaadi degree-based is most fundamental",
+            "Shayanadi is most comprehensive but complex",
+            "Weak avasthas reduce even exalted planet results",
+            "Strong avasthas improve even debilitated planets somewhat",
+            "Use avasthas to fine-tune dasha predictions",
+            "Remedies should target weak avastha planets first"
+        ],
+        "vedicReferences": "Complete avastha analysis detailed in BPHS chapters on planetary states"
+    }
+]

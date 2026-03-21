@@ -1,0 +1,631 @@
+{
+    "system": {
+        "name": "Tarabala System",
+        "description": "Nine-fold star strength system based on birth nakshatra for compatibility and auspiciousness",
+        "sanskritName": "Tarabala/Tara Chakra",
+        "purpose": "Determine favorable and unfavorable nakshatras for activities, compatibility, and transits",
+        "totalTaras": 9,
+        "basis": "Count from birth nakshatra to determine which Tara any nakshatra falls in",
+        "importance": "Very high for muhurta, compatibility, and transit timing",
+        "applications": ["Muhurta (auspicious timing)", "Marriage compatibility", "Transit predictions", "Event timing", "Relationship analysis"],
+        "vedicReferences": "Detailed in muhurta texts, Brihat Samhita, and compatibility chapters",
+        "usage": "Count from birth nakshatra in sequence to find which Tara a nakshatra belongs to"
+    },
+    "tarabalas": [
+        {
+        "taraNumber": 1,
+        "name": "Janma Tara",
+        "englishName": "Birth Star",
+        "sanskritName": "Janma Tara",
+        "position": "1st, 10th, 19th nakshatra from birth nakshatra",
+        "counting": "Count 1, 10, 19 from birth nakshatra (including birth nakshatra as 1)",
+        "nature": "Inauspicious to Neutral",
+        "strength": "Weak to Moderate",
+        "percentage": "50% (neutral)",
+        "category": "Neither good nor bad",
+        "description": "Birth star and its repeating cycle - neutral but requires care",
+        "effects": {
+            "general": "Neutral to slightly unfavorable, needs caution, mixed results",
+            "muhurta": "Avoid for important events unless other factors strong",
+            "compatibility": "Moderate compatibility, requires other positive factors",
+            "transit": "Moon transit brings mixed results, self-focus period",
+            "activities": "Routine activities okay, avoid major new beginnings"
+        },
+        "positiveAspects": [
+            "Self-awareness",
+            "Introspection",
+            "Understanding oneself",
+            "Personal matters"
+        ],
+        "negativeAspects": [
+            "Obstacles in new ventures",
+            "Health concerns possible",
+            "Not ideal for major events",
+            "Self-centered energy"
+        ],
+        "recommendations": {
+            "avoid": ["Marriage", "Major new beginnings", "Important travels", "Starting business"],
+            "suitable": ["Personal reflection", "Routine work", "Self-care", "Spiritual practices"],
+            "remedies": ["Strengthen with other positive factors", "Good muhurta time selection", "Deity worship"]
+        },
+        "compatibility": "50% - Neutral compatibility, needs support from other factors",
+        "keywords": ["Birth", "Self", "Neutral", "Introspection", "Mixed"],
+        "color": "Mixed colors",
+        "deity": "Yama (God of Death/Dharma)",
+        "element": "Neutral",
+        "vedicQuote": "Janma Tara brings self-focus but obstacles in worldly pursuits"
+    },
+    {
+        "taraNumber": 2,
+        "name": "Sampat Tara",
+        "englishName": "Wealth Star",
+        "sanskritName": "Sampat Tara",
+        "position": "2nd, 11th, 20th nakshatra from birth nakshatra",
+        "counting": "Count 2, 11, 20 from birth nakshatra",
+        "nature": "Very Auspicious",
+        "strength": "Excellent",
+        "percentage": "100% (most favorable)",
+        "category": "Highly beneficial",
+        "description": "Wealth and prosperity star - brings abundance and success",
+        "effects": {
+            "general": "Excellent for all activities, brings wealth and prosperity, highly favorable",
+            "muhurta": "Best for important events, marriages, business starts, property purchases",
+            "compatibility": "Excellent compatibility, prosperity in relationship, mutual growth",
+            "transit": "Moon transit brings financial gains, success, happy period",
+            "activities": "All auspicious activities favored, best time for major decisions"
+        },
+        "positiveAspects": [
+            "Wealth accumulation",
+            "Prosperity",
+            "Success in ventures",
+            "Financial gains",
+            "Growth and abundance",
+            "Happy outcomes",
+            "Material benefits"
+        ],
+        "negativeAspects": [
+            "None - purely beneficial star",
+            "May create over-confidence if not balanced"
+        ],
+        "recommendations": {
+            "ideal": ["Marriage ceremonies", "Business launches", "Property purchase", "Investment decisions", "Starting education", "Job joining", "All auspicious events"],
+            "avoid": ["Nothing - all activities favored"],
+            "enhance": ["Perform important activities", "Make major decisions", "Start new ventures"]
+        },
+        "compatibility": "100% - Excellent compatibility, wealth and prosperity in relationship",
+        "keywords": ["Wealth", "Prosperity", "Success", "Abundance", "Growth", "Excellent"],
+        "color": "Golden, Yellow",
+        "deity": "Kubera (God of Wealth)",
+        "element": "Earth (stable prosperity)",
+        "vedicQuote": "Sampat Tara is the most auspicious, bringing wealth and all prosperity"
+    },
+    {
+        "taraNumber": 3,
+        "name": "Vipat Tara",
+        "englishName": "Danger Star",
+        "sanskritName": "Vipat Tara",
+        "position": "3rd, 12th, 21st nakshatra from birth nakshatra",
+        "counting": "Count 3, 12, 21 from birth nakshatra",
+        "nature": "Highly Inauspicious",
+        "strength": "Very Weak",
+        "percentage": "0% (most unfavorable)",
+        "category": "Highly malefic",
+        "description": "Danger and calamity star - brings obstacles, accidents, and losses",
+        "effects": {
+            "general": "Very unfavorable, danger, accidents, losses, obstacles, calamities",
+            "muhurta": "Strictly avoid for all important activities",
+            "compatibility": "Very poor compatibility, conflicts, dangers in relationship",
+            "transit": "Moon transit brings accidents, losses, health issues, conflicts",
+            "activities": "Avoid all major activities, even routine work may face obstacles"
+        },
+        "positiveAspects": [
+            "None - purely malefic",
+            "Can teach lessons through difficulties",
+            "Forces caution and awareness"
+        ],
+        "negativeAspects": [
+            "Accidents and injuries",
+            "Financial losses",
+            "Health problems",
+            "Conflicts and disputes",
+            "Obstacles in all matters",
+            "Calamities",
+            "Failures",
+            "Mental stress"
+        ],
+        "recommendations": {
+            "avoid": ["All important events", "Marriage", "Business starts", "Travels", "Surgeries (if elective)", "Property deals", "Investments", "New beginnings"],
+            "suitable": ["Nothing - rest and avoid activities", "Spiritual practices", "Remedial measures"],
+            "remedies": ["Hanuman worship", "Durga mantras", "Protective rituals", "Charity", "Stay cautious"]
+        },
+        "compatibility": "0% - Very poor compatibility, danger and conflict in relationship",
+        "keywords": ["Danger", "Calamity", "Losses", "Accidents", "Obstacles", "Avoid"],
+        "color": "Dark red, Black",
+        "deity": "Yama (Death aspect)",
+        "element": "Fire (destructive)",
+        "vedicQuote": "Vipat Tara is most dangerous, avoid all important activities"
+    },
+    {
+        "taraNumber": 4,
+        "name": "Kshema Tara",
+        "englishName": "Welfare Star",
+        "sanskritName": "Kshema Tara",
+        "position": "4th, 13th, 22nd nakshatra from birth nakshatra",
+        "counting": "Count 4, 13, 22 from birth nakshatra",
+        "nature": "Auspicious",
+        "strength": "Good",
+        "percentage": "75% (favorable)",
+        "category": "Beneficial",
+        "description": "Welfare and well-being star - brings peace, stability, and protection",
+        "effects": {
+            "general": "Favorable for most activities, brings welfare and stability, protective energy",
+            "muhurta": "Good for important events, especially peace-oriented activities",
+            "compatibility": "Good compatibility, peaceful relationship, mutual welfare",
+            "transit": "Moon transit brings peace, stability, welfare activities favored",
+            "activities": "Favorable for stable ventures, peace agreements, welfare work"
+        },
+        "positiveAspects": [
+            "Peace and stability",
+            "Welfare and well-being",
+            "Protection",
+            "Secure outcomes",
+            "Stable growth",
+            "Safe activities",
+            "Mental peace"
+        ],
+        "negativeAspects": [
+            "May lack excitement",
+            "Slower growth compared to Sampat",
+            "Conservative energy"
+        ],
+        "recommendations": {
+            "ideal": ["Peace agreements", "Stable ventures", "Property living (not buying)", "Welfare activities", "Health care", "Insurance", "Spiritual practices"],
+            "suitable": ["Most activities", "Marriage (good)", "Education", "Routine business"],
+            "enhance": ["Focus on stability", "Build security", "Protect assets"]
+        },
+        "compatibility": "75% - Good compatibility with peaceful, stable relationship",
+        "keywords": ["Welfare", "Peace", "Stability", "Protection", "Security", "Good"],
+        "color": "Green, Light blue",
+        "deity": "Vishnu (Protector)",
+        "element": "Water (peaceful, stable)",
+        "vedicQuote": "Kshema Tara brings welfare and protection in all endeavors"
+    },
+    {
+        "taraNumber": 5,
+        "name": "Pratyak Tara",
+        "englishName": "Obstacle Star",
+        "sanskritName": "Pratyak Tara",
+        "position": "5th, 14th, 23rd nakshatra from birth nakshatra",
+        "counting": "Count 5, 14, 23 from birth nakshatra",
+        "nature": "Inauspicious",
+        "strength": "Weak",
+        "percentage": "25% (unfavorable)",
+        "category": "Malefic",
+        "description": "Obstacle and hindrance star - brings delays, blocks, and difficulties",
+        "effects": {
+            "general": "Unfavorable, obstacles, delays, hindrances, difficulties, blocked progress",
+            "muhurta": "Avoid for important events, delays and obstacles expected",
+            "compatibility": "Poor compatibility, obstacles in relationship, hindrances",
+            "transit": "Moon transit brings delays, frustrations, blocked efforts",
+            "activities": "Avoid new starts, delays in completion, obstacles arise"
+        },
+        "positiveAspects": [
+            "Forces patience",
+            "Time for review and planning",
+            "Teaches perseverance",
+            "Identifies weaknesses"
+        ],
+        "negativeAspects": [
+            "Obstacles in all activities",
+            "Delays and postponements",
+            "Blocked progress",
+            "Hindrances",
+            "Frustrations",
+            "Incomplete results",
+            "Opposition from others"
+        ],
+        "recommendations": {
+            "avoid": ["Major new starts", "Important events", "Business launches", "Marriage (unfavorable)", "Travels", "Surgeries"],
+            "suitable": ["Planning phase", "Review work", "Correcting mistakes", "Patience practices"],
+            "remedies": ["Ganesha worship (obstacle remover)", "Saturn remedies", "Patience mantras"]
+        },
+        "compatibility": "25% - Poor compatibility with obstacles and hindrances in relationship",
+        "keywords": ["Obstacles", "Delays", "Hindrances", "Blocks", "Difficulties", "Avoid"],
+        "color": "Dark colors",
+        "deity": "Saturn/Shani (Delays)",
+        "element": "Earth (blocking)",
+        "vedicQuote": "Pratyak Tara creates obstacles and delays, patience required"
+    },
+    {
+        "taraNumber": 6,
+        "name": "Sadhaka Tara",
+        "englishName": "Achievement Star",
+        "sanskritName": "Sadhaka Tara",
+        "position": "6th, 15th, 24th nakshatra from birth nakshatra",
+        "counting": "Count 6, 15, 24 from birth nakshatra",
+        "nature": "Auspicious",
+        "strength": "Very Good",
+        "percentage": "87.5% (very favorable)",
+        "category": "Highly beneficial",
+        "description": "Achievement and accomplishment star - brings success through effort",
+        "effects": {
+            "general": "Very favorable, achievements, success, goals accomplished, efforts rewarded",
+            "muhurta": "Excellent for important events, especially goal-oriented activities",
+            "compatibility": "Very good compatibility, mutual achievements, success together",
+            "transit": "Moon transit brings accomplishments, goals met, success period",
+            "activities": "Excellent for all productive activities, goals achieved"
+        },
+        "positiveAspects": [
+            "Achievements and success",
+            "Goals accomplished",
+            "Efforts rewarded",
+            "Progress and growth",
+            "Victory and success",
+            "Fulfillment",
+            "Productive outcomes",
+            "Hard work pays off"
+        ],
+        "negativeAspects": [
+            "Minimal - mostly positive",
+            "Requires effort (not effortless like Sampat)",
+            "Success through work, not luck"
+        ],
+        "recommendations": {
+            "ideal": ["Goal-oriented activities", "Competitive exams", "Business ventures", "Career advancement", "Achievements", "Competitions", "Projects completion"],
+            "excellent": ["Marriage", "Education starts", "Business launches", "Property purchase", "Investments"],
+            "enhance": ["Put in effort", "Work towards goals", "Compete and achieve"]
+        },
+        "compatibility": "87.5% - Very good compatibility with mutual achievements and success",
+        "keywords": ["Achievement", "Success", "Goals", "Accomplishment", "Victory", "Excellent"],
+        "color": "Bright colors, Orange",
+        "deity": "Kartikeya (God of War/Victory)",
+        "element": "Fire (productive)",
+        "vedicQuote": "Sadhaka Tara brings achievement and success through dedicated effort"
+    },
+    {
+        "taraNumber": 7,
+        "name": "Vadha Tara",
+        "englishName": "Destruction Star",
+        "sanskritName": "Vadha/Naidhana Tara",
+        "position": "7th, 16th, 25th nakshatra from birth nakshatra",
+        "counting": "Count 7, 16, 25 from birth nakshatra",
+        "nature": "Highly Inauspicious",
+        "strength": "Very Weak",
+        "percentage": "12.5% (very unfavorable)",
+        "category": "Highly malefic",
+        "description": "Destruction and death star - brings severe difficulties, destruction, and dangers",
+        "effects": {
+            "general": "Very unfavorable, destruction, severe difficulties, death-like situations, failures",
+            "muhurta": "Strictly avoid for all auspicious activities",
+            "compatibility": "Very poor compatibility, destructive relationship, severe conflicts",
+            "transit": "Moon transit brings dangers, health crises, severe problems, destructive events",
+            "activities": "Avoid all activities, especially important ones"
+        },
+        "positiveAspects": [
+            "None in traditional sense",
+            "Good for ending bad situations",
+            "Spiritual detachment practices",
+            "Transformation through destruction"
+        ],
+        "negativeAspects": [
+            "Destruction and loss",
+            "Death or death-like situations",
+            "Severe health problems",
+            "Complete failures",
+            "Accidents and calamities",
+            "Relationship breakups",
+            "Financial destruction",
+            "Mental anguish",
+            "Life-threatening situations"
+        ],
+        "recommendations": {
+            "avoid": ["All auspicious activities", "Marriage (very bad)", "Business starts", "Property deals", "Travels", "Surgeries", "Investments", "New ventures", "Any important event"],
+            "suitable": ["Ending bad relationships/situations", "Moksha practices", "Deep spiritual work", "Solitude"],
+            "remedies": ["Mrityunjaya mantra", "Durga/Kali worship", "Protective rituals", "Strong remedial measures", "Extreme caution"]
+        },
+        "compatibility": "12.5% - Very poor compatibility, destructive relationship",
+        "keywords": ["Destruction", "Death", "Danger", "Calamity", "Avoid completely", "Severe"],
+        "color": "Black, Very dark colors",
+        "deity": "Kali/Yama (Destruction/Death)",
+        "element": "Void (destructive)",
+        "vedicQuote": "Vadha Tara is most destructive, avoid all important activities completely"
+    },
+    {
+        "taraNumber": 8,
+        "name": "Mitra Tara",
+        "englishName": "Friend Star",
+        "sanskritName": "Mitra Tara",
+        "position": "8th, 17th, 26th nakshatra from birth nakshatra",
+        "counting": "Count 8, 17, 26 from birth nakshatra",
+        "nature": "Auspicious",
+        "strength": "Good",
+        "percentage": "75% (favorable)",
+        "category": "Beneficial",
+        "description": "Friendship and alliance star - brings support, friendship, and beneficial partnerships",
+        "effects": {
+            "general": "Favorable, friendship, support, alliances, helpful people, cooperation",
+            "muhurta": "Good for partnership activities, friendships, alliances, social events",
+            "compatibility": "Good compatibility, friendly relationship, mutual support",
+            "transit": "Moon transit brings friends' support, social benefits, partnerships",
+            "activities": "Excellent for partnerships, friendships, social activities, cooperation"
+        },
+        "positiveAspects": [
+            "Friendship and support",
+            "Beneficial partnerships",
+            "Cooperation",
+            "Help from others",
+            "Social success",
+            "Alliance benefits",
+            "Mutual support",
+            "Network growth"
+        ],
+        "negativeAspects": [
+            "Minimal negative effects",
+            "May depend too much on others",
+            "Social obligations increase"
+        ],
+        "recommendations": {
+            "ideal": ["Partnership ventures", "Social events", "Networking", "Friendship bonds", "Alliance formations", "Team activities", "Collaborative projects"],
+            "good": ["Marriage", "Business partnerships", "Social gatherings", "Meeting new people"],
+            "enhance": ["Build networks", "Seek support", "Cooperate with others"]
+        },
+        "compatibility": "75% - Good compatibility with friendly, supportive relationship",
+        "keywords": ["Friendship", "Support", "Alliance", "Partnership", "Cooperation", "Good"],
+        "color": "Friendly colors, Pink",
+        "deity": "Mitra (God of Friendship)",
+        "element": "Air (social)",
+        "vedicQuote": "Mitra Tara brings friendship and support from all directions"
+    },
+    {
+        "taraNumber": 9,
+        "name": "Ati-Mitra Tara",
+        "englishName": "Best Friend Star",
+        "sanskritName": "Parama Mitra Tara",
+        "position": "9th, 18th, 27th nakshatra from birth nakshatra",
+        "counting": "Count 9, 18, 27 from birth nakshatra",
+        "nature": "Very Auspicious",
+        "strength": "Excellent",
+        "percentage": "100% (most favorable)",
+        "category": "Highly beneficial",
+        "description": "Best friend and supreme fortune star - brings exceptional support and success",
+        "effects": {
+            "general": "Excellent for all activities, supreme support, best outcomes, fortune, dharma",
+            "muhurta": "Best for all auspicious activities, especially spiritual and dharmic",
+            "compatibility": "Excellent compatibility, best friend relationship, supreme harmony",
+            "transit": "Moon transit brings exceptional fortune, spiritual growth, best support",
+            "activities": "All activities highly favored, especially spiritual and dharmic"
+        },
+        "positiveAspects": [
+            "Best friend energy",
+            "Supreme support",
+            "Exceptional fortune",
+            "Spiritual growth",
+            "Dharmic success",
+            "Complete harmony",
+            "Divine blessings",
+            "Best outcomes",
+            "All-around success"
+        ],
+        "negativeAspects": [
+            "None - purely beneficial",
+            "May create high expectations"
+        ],
+        "recommendations": {
+            "ideal": ["All auspicious activities", "Marriage ceremonies", "Spiritual initiations", "Dharmic activities", "Religious ceremonies", "Business launches", "Education starts", "Property purchase", "All major events"],
+            "excellent": ["Everything - no restrictions", "Spiritual practices", "Dharma work"],
+            "enhance": ["Maximum positive activities", "Spiritual advancement", "Help others"]
+        },
+        "compatibility": "100% - Excellent compatibility, best friend relationship, supreme harmony",
+        "keywords": ["Best friend", "Supreme", "Fortune", "Dharma", "Excellence", "Perfect"],
+        "color": "Saffron, White, Golden",
+        "deity": "Guru/Jupiter (Divine teacher)",
+        "element": "Ether (spiritual)",
+        "vedicQuote": "Ati-Mitra Tara is most auspicious, brings supreme fortune and dharma"
+    }
+    ],
+    "calculationMethod": {
+        "name": "Tarabala Calculation Method",
+        "description": "How to calculate which Tara any nakshatra falls in from birth nakshatra",
+        "steps": [
+            {
+                "step": 1,
+                "instruction": "Identify birth nakshatra",
+                "example": "If born in Rohini nakshatra (4th nakshatra)"
+            },
+            {
+                "step": 2,
+                "instruction": "Count from birth nakshatra to target nakshatra",
+                "example": "To find Tara of Ashwini: Count Rohini(1), Mrigashira(2), Ardra(3)... until Ashwini"
+            },
+            {
+                "step": 3,
+                "instruction": "Identify which count it falls on",
+                "example": "Ashwini is 24th from Rohini (going forward through all 27 nakshatras)"
+            },
+            {
+                "step": 4,
+                "instruction": "Determine Tara from count",
+                "example": "24th position = Sadhaka Tara (as 6th, 15th, 24th = Sadhaka)"
+            },
+            {
+                "step": 5,
+                "instruction": "Apply Tara interpretation",
+                "example": "Ashwini is Sadhaka Tara from Rohini = Achievement energy, favorable"
+            }
+        ],
+        "formula": "Count = (Target Nakshatra Number - Birth Nakshatra Number) modulo 27",
+        "taraAssignment": {
+            "1st, 10th, 19th": "Janma Tara",
+            "2nd, 11th, 20th": "Sampat Tara",
+            "3rd, 12th, 21st": "Vipat Tara",
+            "4th, 13th, 22nd": "Kshema Tara",
+            "5th, 14th, 23rd": "Pratyak Tara",
+            "6th, 15th, 24th": "Sadhaka Tara",
+            "7th, 16th, 25th": "Vadha Tara",
+            "8th, 17th, 26th": "Mitra Tara",
+            "9th, 18th, 27th": "Ati-Mitra Tara"
+        },
+        "importantNote": "Always count forward from birth nakshatra through the cycle"
+    },
+    "applications": {
+        "name": "Tarabala Applications",
+        "description": "Practical uses of Tarabala in various areas",
+        "applications": [
+            {
+                "area": "Muhurta (Auspicious Timing)",
+                "usage": "Select date when Moon is in favorable Tara from birth nakshatra",
+                "method": "Check Moon's nakshatra on proposed date, calculate its Tara from birth nakshatra",
+                "favorable": "Sampat, Sadhaka, Ati-Mitra, Kshema, Mitra Taras",
+                "avoid": "Vipat, Vadha, Pratyak Taras",
+                "neutral": "Janma Tara (use with other positive factors)",
+                "example": "For marriage: Choose date when Moon is in Sampat or Ati-Mitra Tara"
+            },
+            {
+                "area": "Marriage Compatibility",
+                "usage": "Check Tara compatibility between partners' birth nakshatras",
+                "method": "Calculate Tara of bride's nakshatra from groom's, and vice versa",
+                "excellent": "Both in Sampat/Ati-Mitra/Sadhaka Taras from each other",
+                "good": "Both in Kshema/Mitra Taras",
+                "neutral": "One favorable, one neutral",
+                "poor": "Either in Vipat/Vadha/Pratyak from each other",
+                "reject": "Both in malefic Taras from each other",
+                "example": "Groom Rohini, Bride Hasta = Check both directions for compatibility"
+            },
+            {
+                "area": "Transit Predictions",
+                "usage": "Predict Moon transit effects based on Tara",
+                "method": "Daily Moon nakshatra's Tara from birth nakshatra shows day's energy",
+                "favorable": "Sampat/Sadhaka/Ati-Mitra days = good for activities",
+                "unfavorable": "Vipat/Vadha days = be cautious, avoid important activities",
+                "planning": "Schedule important activities on favorable Tara days",
+                "example": "Surgery scheduled? Avoid Vipat/Vadha Tara days, choose Kshema/Sadhaka"
+            },
+            {
+                "area": "Relationship Analysis",
+                "usage": "Understand relationship dynamics through Tarabala",
+                "method": "Check Tara between two people's birth nakshatras",
+                "interpretation": "Mutual Tara positions show relationship nature",
+                "harmonious": "Both favorable Taras = harmonious relationship",
+                "challenging": "Malefic Taras = difficult relationship",
+                "example": "Friend born in your Mitra Tara = natural friendship"
+            },
+            {
+                "area": "Business Partnership",
+                "usage": "Select partners with favorable Tara compatibility",
+                "method": "Check business partner's nakshatra Tara from yours",
+                "best": "Sampat, Mitra, Ati-Mitra Taras = prosperous partnership",
+                "good": "Sadhaka, Kshema Taras = successful partnership",
+                "avoid": "Vipat, Vadha, Pratyak Taras = problematic partnership",
+                "example": "Business partner in your Sampat Tara = wealth partnership"
+            },
+            {
+                "area": "Travel Timing",
+                "usage": "Choose travel dates with favorable Moon Tara",
+                "method": "Check Moon's Tara on travel date",
+                "safe": "Kshema, Mitra, Ati-Mitra Taras = safe journey",
+                "success": "Sampat, Sadhaka Taras = successful trip",
+                "danger": "Vipat, Vadha Taras = avoid travel if possible",
+                "example": "Long journey? Schedule on Kshema Tara day for safe travel"
+            }
+        ],
+        "combinedAnalysis": "Use Tarabala with other factors (tithi, vara, yoga, karana) for complete muhurta"
+    },
+    "remedies": {
+        "name": "Tarabala Remedies",
+        "description": "Remedial measures for malefic Tara effects",
+        "generalRemedies": [
+            "Moon mantras and worship",
+            "Durga worship for protection",
+            "Ganesha worship for obstacle removal",
+            "Hanuman worship for danger protection",
+            "Mrityunjaya mantra for Vadha Tara",
+            "Fasting on Mondays",
+            "White clothing on malefic Tara days",
+            "Pearl gemstone (if suitable)",
+            "Charity to those born in favorable Taras"
+        ],
+        "specificRemedies": {
+            "vipat": ["Hanuman Chalisa", "Durga Saptashati", "Red coral if Mars strong", "Tuesday fasting"],
+            "vadha": ["Mrityunjaya mantra", "Kali/Durga worship", "Strong protection rituals", "Black sesame charity"],
+            "pratyak": ["Ganesha worship", "Saturn mantras", "Saturday fasting", "Patience practices"],
+            "janma": ["Strengthening birth nakshatra lord", "Self-care practices", "Personal deity worship"]
+        },
+        "protection": "Wear protective amulets, carry protective mantras on malefic Tara days",
+        "timing": "Perform remedies on favorable Tara days for maximum effect"
+    },
+    "considerations": {
+        "name": "Important Considerations",
+        "description": "Key points to remember when using Tarabala",
+        "points": [
+            "Tarabala is one factor - combine with complete muhurta analysis",
+            "Birth nakshatra accuracy crucial - wrong nakshatra gives wrong Taras",
+            "Both directions matter in compatibility (A→B and B→A)",
+            "Pada within nakshatra can fine-tune but Tara is nakshatra-based",
+            "Planetary transits override Tarabala effects to some extent",
+            "Dasha periods modify Tarabala influence",
+            "Strong birth chart can overcome some malefic Tara effects",
+            "For critical activities, avoid malefic Taras completely",
+            "Favorable Taras enhance already good planetary positions",
+            "Muhurta selection should prioritize Sampat and Ati-Mitra Taras"
+        ],
+        "hierarchy": {
+            "best": "Sampat (100%), Ati-Mitra (100%), Sadhaka (87.5%)",
+            "good": "Kshema (75%), Mitra (75%)",
+            "neutral": "Janma (50%)",
+            "bad": "Pratyak (25%), Vadha (12.5%)",
+            "worst": "Vipat (0%)"
+        },
+        "vedicReferences": "Tarabala system detailed in muhurta texts and Brihat Samhita"
+    },
+    "examples": {
+        "name": "Practical Examples",
+        "description": "Real-world Tarabala calculation examples",
+        "examples": [
+            {
+                "scenario": "Marriage Muhurta Selection",
+                "birthNakshatra": "Rohini (4th nakshatra)",
+                "proposedDate": "Moon in Uttara Phalguni (12th nakshatra)",
+                "calculation": "Count from Rohini(1) to Uttara Phalguni = 9 positions forward",
+                "tara": "Ati-Mitra Tara (9th position)",
+                "interpretation": "Excellent - 100% favorable for marriage",
+                "decision": "Highly auspicious date, proceed with marriage"
+            },
+            {
+                "scenario": "Business Launch",
+                "birthNakshatra": "Ashwini (1st nakshatra)",
+                "proposedDate": "Moon in Bharani (2nd nakshatra)",
+                "calculation": "Bharani is 2nd from Ashwini",
+                "tara": "Sampat Tara (2nd position)",
+                "interpretation": "Excellent - 100% favorable for wealth ventures",
+                "decision": "Perfect date for business launch, expect prosperity"
+            },
+            {
+                "scenario": "Compatibility Check",
+                "groomNakshatra": "Mrigashira (5th nakshatra)",
+                "brideNakshatra": "Chitra (14th nakshatra)",
+                "groomToBride": "Count Mrigashira to Chitra = 10 positions = Janma Tara (10th)",
+                "brideToGroom": "Count Chitra to Mrigashira = 18 positions = Ati-Mitra Tara (18th)",
+                "interpretation": "One way neutral, other way excellent",
+                "decision": "Moderate to good compatibility, proceed with other positive factors"
+            },
+            {
+                "scenario": "Surgery Date Avoidance",
+                "birthNakshatra": "Pushya (8th nakshatra)",
+                "proposedDate": "Moon in Swati (15th nakshatra)",
+                "calculation": "Count Pushya to Swati = 8 positions forward",
+                "tara": "Mitra Tara (8th position)",
+                "interpretation": "Good - 75% favorable, supportive energy",
+                "decision": "Acceptable date, proceed with surgery"
+            },
+            {
+                "scenario": "Travel Warning",
+                "birthNakshatra": "Hasta (13th nakshatra)",
+                "proposedDate": "Moon in Ardra (6th nakshatra)",
+                "calculation": "Count Hasta forward to Ardra = 21 positions (13→14→...→27→1→...→6)",
+                "tara": "Vipat Tara (21st position)",
+                "interpretation": "Dangerous - 0% favorable, expect accidents",
+                "decision": "Avoid travel on this date, reschedule to favorable Tara day"
+            }
+        ]
+    }
+}

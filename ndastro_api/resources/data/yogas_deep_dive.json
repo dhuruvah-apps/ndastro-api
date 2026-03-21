@@ -1,0 +1,1146 @@
+{
+    "system": {
+        "name": "Yogas Deep Dive - Planetary Combinations",
+        "description": "Comprehensive guide to 100+ yogas (planetary combinations) with formation, strength, manifestation, and real-world outcomes",
+        "sanskritName": "Graha Yoga Shastra",
+        "purpose": "Understand special planetary combinations that create exceptional life results - wealth, power, fame, spirituality, or challenges",
+        "principle": "Individual planets give results, but planetary COMBINATIONS (yogas) create extraordinary outcomes - for better or worse",
+        "importance": "Yogas are what make charts unique - two people with similar planet placements can have vastly different lives due to yogas",
+        "scope": "Raj Yogas (power), Dhana Yogas (wealth), Panch Mahapurusha Yogas (greatness), Nabhasa Yogas, Arishta Yogas (difficulties), special yogas",
+        "criticalUnderstanding": "Yoga PRESENCE in chart doesn't guarantee results - strength assessment and activation timing critical",
+        "manifestation": "Yogas manifest during relevant planet's dasha-antardasha periods - timing is everything"
+    },
+    "yogaPhilosophy": {
+        "whatIsYoga": "Yoga means 'combination' or 'union' - specific planetary relationships creating special effects beyond individual planet results",
+        "howYogasForm": [
+            "House lord relationships - certain lords together create yogas",
+            "Planetary aspects - specific aspect patterns",
+            "Sign placements - planets in specific signs",
+            "Conjunctions - planets together in same house/sign",
+            "Exchanges - two planets in each other's signs (Parivartana)",
+            "Special positions - planets in specific houses from lagna/Moon"
+        ],
+        "yogaStrength": {
+            "strong": [
+                "Planets involved are exalted, own sign, or well-placed",
+                "No malefic affliction to yoga-forming planets",
+                "Yoga visible in both D1 (birth chart) and D9 (Navamsha)",
+                "Angular houses (1/4/7/10) involvement - most powerful",
+                "Benefic aspects supporting yoga planets"
+            ],
+            "weak": [
+                "Planets involved are debilitated, combust, or afflicted",
+                "Malefic aspects breaking the yoga",
+                "Yoga only in D1 but not in D9",
+                "Cadent houses (3/6/9/12) involvement - weaker manifestation",
+                "Multiple afflictions to yoga planets"
+            ],
+            "cancelled": [
+                "Yoga-forming planet debilitated AND combust AND afflicted",
+                "Strong malefic aspect destroying yoga",
+                "Contradictory yogas canceling each other",
+                "Planet in enemy sign without strength"
+            ]
+        },
+        "manifestationTiming": {
+            "principle": "Yoga manifests during dasha-antardasha of planets involved in yoga",
+            "example": "Dhana Yoga formed by Jupiter-Venus: manifests in Jupiter Dasha or Venus Dasha or when both are in antardasha",
+            "transits": "Supporting transits enhance yoga manifestation - Jupiter/Saturn transit over yoga planets or houses",
+            "age": "Some yogas manifest early life, some middle age, some old age - depends on dasha sequence",
+            "activation": "Yoga lies dormant until relevant dasha period - person may not even know they have it until it activates"
+        }
+    },
+    "rajYogas": {
+        "name": "Raj Yogas - Royal Combinations (Power and Status)",
+        "definition": "Combinations giving power, authority, fame, high status, leadership - 'raj' means king/royal",
+        "principle": "Formed by Kendra (1/4/7/10) and Trikona (1/5/9) lords connecting - angular+trinal lords = power",
+        "yogas": [
+            {
+                "name": "Dharma Karmadhipati Yoga",
+                "formation": "9th lord (dharma) and 10th lord (karma) in mutual aspect, conjunction, or exchange",
+                "strength": "Strongest if both exalted or in angular houses, especially in 1st/10th",
+                "results": [
+                    "High position in career - often government or leadership roles",
+                    "Fame and recognition in field",
+                    "Ethical success - prosperity through righteous means",
+                    "Authority and respect in society",
+                    "Fortune and luck in career matters"
+                ],
+                "manifestation": "9th or 10th lord dasha-antardasha periods",
+                "example": "Libra lagna: Mercury (9th lord) and Moon (10th lord) conjunct in 10th house = Powerful yoga for government service/authority",
+                "cancellation": "If either planet debilitated or severely afflicted - yoga weakens significantly",
+                "celebrities": "Common in charts of politicians, CEOs, high government officials"
+            },
+            {
+                "name": "Yogakaraka Combination",
+                "formation": "Planet ruling both Kendra (angular) and Trikona (trinal) houses - yogakaraka planet",
+                "applicableFor": "Only certain lagnas have yogakaraka: Mars for Cancer/Leo lagna, Saturn for Taurus/Libra lagna, Venus for Capricorn/Aquarius lagna",
+                "strength": "Strongest when yogakaraka planet exalted, in own sign, or in angular houses",
+                "results": [
+                    "Overall life success and prosperity",
+                    "Career advancement and wealth simultaneously",
+                    "Authority and ethical behavior together",
+                    "Good health and happiness",
+                    "Fortune in multiple life areas"
+                ],
+                "manifestation": "Throughout yogakaraka planet's dasha - often most successful period of life",
+                "example": "Taurus lagna: Saturn rules 9th and 10th houses = Yogakaraka. Saturn in 10th house in Aquarius = Extremely powerful for career and fortune",
+                "note": "Yogakaraka planet's gemstone often most beneficial for these lagnas (after expert consultation)",
+                "critical": "One of MOST powerful single-planet yogas"
+            },
+            {
+                "name": "Kahala Yoga",
+                "formation": "4th and 9th lords together OR aspecting each other, with 4th lord strong",
+                "strength": "Strong if in angular houses, especially 4th or 10th",
+                "results": [
+                    "Stubborn and determined personality",
+                    "Success through persistence",
+                    "Property and vehicle acquisition",
+                    "Mother's blessings and fortune",
+                    "Commanding personality"
+                ],
+                "manifestation": "4th or 9th lord dashas",
+                "example": "Aries lagna: Moon (4th lord) and Jupiter (9th lord) in conjunction = Determination and property fortune"
+            },
+            {
+                "name": "Lakshmi Yoga",
+                "formation": "9th lord exalted or in own sign, placed in angular (1/4/7/10) or trinal (1/5/9) house",
+                "strength": "Very strong if 9th lord is benefic planet (Jupiter, Venus, Mercury, Moon) and well-aspected",
+                "results": [
+                    "Wealth and prosperity",
+                    "Good fortune and luck",
+                    "Ethical earnings",
+                    "Comfortable and luxurious life",
+                    "Blessing of Goddess Lakshmi"
+                ],
+                "manifestation": "9th lord dasha, also general fortune throughout life",
+                "example": "Sagittarius lagna: Sun (9th lord) exalted in Aries in 5th house = Fortune, ethical wealth, recognition"
+            },
+            {
+                "name": "Viparita Raja Yoga",
+                "formation": "Lords of dusthanas (6th/8th/12th) in dusthanas themselves, or in conjunction/exchange",
+                "types": [
+                    "Harsha Yoga: 6th lord in 6th/8th/12th",
+                    "Sarala Yoga: 8th lord in 8th/6th/12th",
+                    "Vimala Yoga: 12th lord in 12th/6th/8th"
+                ],
+                "principle": "Double negative becomes positive - enemy in enemy's house destroys enemy",
+                "results": [
+                    "Success after struggles and obstacles",
+                    "Victory over enemies and competitors",
+                    "Sudden gains from unexpected sources",
+                    "Success in litigation and conflicts",
+                    "Transformation through crisis"
+                ],
+                "manifestation": "During 6th/8th/12th lord dashas - often challenging periods that ultimately bring success",
+                "example": "Cancer lagna: Jupiter (6th lord) in 8th house = Harsha Yoga - obstacles eventually lead to victory",
+                "note": "Often gives success AFTER initial struggles - not immediate smooth success like other Raj Yogas",
+                "critical": "Underrated yoga - very powerful for overcoming adversity"
+            },
+            {
+                "name": "Neecha Bhanga Raja Yoga",
+                "formation": "Debilitated planet's debilitation CANCELLED through specific conditions, turning weakness into strength",
+                "cancellationConditions": [
+                    "Debilitation lord exalted or in angular house",
+                    "Exaltation lord in angular house",
+                    "Debilitated planet aspected by its own sign lord or exaltation lord",
+                    "Debilitated planet in angular house from lagna or Moon",
+                    "Mutual exchange between debilitated planet and sign lord"
+                ],
+                "results": [
+                    "Rise from poverty to prosperity",
+                    "Success after initial failures",
+                    "Overcoming weaknesses dramatically",
+                    "Transformation and remarkable achievements",
+                    "Often rags-to-riches stories"
+                ],
+                "manifestation": "Debilitated planet's dasha - transforms from worst to best period",
+                "example": "Moon debilitated in Scorpio in 10th house + Mars (Scorpio lord) in angular house = Cancellation - Career success after struggles",
+                "celebrities": "Many self-made successful people have this yoga - represents overcoming birth disadvantages",
+                "strength": "Stronger if multiple cancellation conditions present simultaneously"
+            }
+        ],
+        "generalNote": "Raj Yogas give status and power - but character and ethics still depend on individual planet placements and overall chart"
+    },
+    "dhanaYogas": {
+        "name": "Dhana Yogas - Wealth Combinations",
+        "definition": "Combinations specifically giving wealth, prosperity, financial abundance - 'dhana' means wealth",
+        "principle": "Formed by wealth house lords (2nd/11th/5th/9th) connecting with each other or with lagna lord",
+        "yogas": [
+            {
+                "name": "Dhana Yoga Basic",
+                "formation": "2nd lord (wealth) and 11th lord (gains) in mutual aspect, conjunction, or exchange",
+                "strength": "Strongest if in 1st/2nd/5th/9th/11th houses and both planets strong",
+                "results": [
+                    "Multiple income sources",
+                    "Financial prosperity and wealth accumulation",
+                    "Gains from various ventures",
+                    "Good earning capacity throughout life",
+                    "Financial stability"
+                ],
+                "manifestation": "2nd or 11th lord dasha periods",
+                "example": "Gemini lagna: Moon (2nd lord) and Mars (11th lord) in conjunction in 11th house = Strong wealth potential"
+            },
+            {
+                "name": "Trilochana Yoga",
+                "formation": "Sun, Moon, and Mars in trine (1-5-9) to each other",
+                "strength": "Strong if all three in angular or trinal houses and unafflicted",
+                "results": [
+                    "Good financial status",
+                    "Authority and wealth together",
+                    "Success in real estate and property",
+                    "Strong personality commanding wealth",
+                    "Inherited wealth possible"
+                ],
+                "manifestation": "Sun, Moon, or Mars dashas",
+                "example": "Sun in 1st house, Moon in 5th house, Mars in 9th house = Wealth through authority and property"
+            },
+            {
+                "name": "Chandra Mangala Yoga",
+                "formation": "Moon and Mars in conjunction OR in mutual aspect",
+                "strength": "Strongest in 1st/2nd/4th/5th/9th/11th houses, weaker in 6th/8th/12th",
+                "results": [
+                    "Wealth accumulation through hard work",
+                    "Property and land acquisition",
+                    "Success in business, especially land/construction",
+                    "Practical intelligence creating wealth",
+                    "Material prosperity"
+                ],
+                "manifestation": "Moon or Mars dasha periods",
+                "example": "Moon and Mars conjunct in 2nd house = Direct wealth through property/business",
+                "note": "Very common wealth yoga - present in many charts, strength varies",
+                "doshaConsideration": "If Mars afflicting Moon too much, can cause emotional aggression - balance needed"
+            },
+            {
+                "name": "Lakshmi Yoga (Wealth Specific)",
+                "formation": "Venus (natural wealth significator) in own sign (Taurus/Libra) or exalted (Pisces) in angular house (1/4/7/10), with 9th lord connection",
+                "strength": "Very strong if Venus aspected by benefics and 9th lord also strong",
+                "results": [
+                    "Luxurious lifestyle and comfort",
+                    "Wealth through Venusian means - arts, entertainment, beauty, luxury goods",
+                    "Comfortable life without much struggle",
+                    "Blessing of Lakshmi - continuous prosperity",
+                    "Attraction of wealth easily"
+                ],
+                "manifestation": "Venus dasha or 9th lord dasha",
+                "example": "Venus in 10th house in Pisces (exalted) with 9th lord aspect = Wealth and luxury in career"
+            },
+            {
+                "name": "Dhanvantari Yoga",
+                "formation": "2nd lord and 8th lord in conjunction or exchange, or 2nd and 11th lords with 5th/8th involvement",
+                "complexity": "Complex yoga involving multiple wealth houses",
+                "results": [
+                    "Sudden wealth gains",
+                    "Inheritance and legacy money",
+                    "Wealth through transformation or occult",
+                    "Medical/healing profession wealth (Dhanvantari is medicine god)",
+                    "Unexpected financial windfalls"
+                ],
+                "manifestation": "2nd, 8th, or 11th lord dashas",
+                "example": "2nd lord in 8th house + 8th lord in 2nd house (exchange) = Inheritance or sudden wealth gains"
+            },
+            {
+                "name": "Vasumati Yoga",
+                "formation": "Benefic planets (Jupiter, Venus, Mercury, waxing Moon) in Upachaya houses (3rd/6th/10th/11th) from lagna or Moon",
+                "strength": "Stronger with more benefics, especially in 10th and 11th",
+                "results": [
+                    "Growing wealth over time",
+                    "Wealth through career and efforts",
+                    "Financial stability increasing with age",
+                    "Multiple benefic planets ensuring prosperity",
+                    "Success in endeavors"
+                ],
+                "manifestation": "Generally throughout life, peaks during benefic planet dashas",
+                "example": "Jupiter in 10th, Venus in 11th, Mercury in 3rd = Continuous wealth growth through career"
+            }
+        ],
+        "wealthFactors": {
+            "essential": "2nd house (accumulated wealth), 11th house (income/gains), 5th house (speculation/intelligence), 9th house (fortune), lagna lord (self)",
+            "naturalSignificators": "Jupiter (expansion/fortune), Venus (luxury/beauty), Mercury (business/commerce)",
+            "D9Confirmation": "Wealth yogas must be supported in Navamsha (D9) for full manifestation",
+            "doshaBlock": "If 2nd or 11th lord severely afflicted, yoga may not fully manifest - requires remedies"
+        }
+    },
+    "panchaMahapurushaYogas": {
+        "name": "Pancha Mahapurusha Yogas - Five Great Person Combinations",
+        "definition": "Five special yogas formed by five tara grahas (non-luminaries) in specific positions giving exceptional personality and success",
+        "principle": "Mars, Mercury, Jupiter, Venus, Saturn in own sign or exalted sign AND in angular house (1/4/7/10) from lagna",
+        "importance": "Creates extraordinary individuals with specific greatness - leadership, intellect, wisdom, charm, or discipline",
+        "yogas": [
+            {
+                "name": "Ruchaka Yoga (Mars)",
+                "formation": "Mars in own sign (Aries/Scorpio) or exalted (Capricorn) in angular house (1/4/7/10) from lagna",
+                "strength": "Strongest in 1st or 10th house, slightly weaker in 4th or 7th",
+                "physicalCharacteristics": [
+                    "Athletic and muscular build",
+                    "Red or copper complexion",
+                    "Sharp features and piercing eyes",
+                    "Strong and energetic appearance",
+                    "Medium to tall height with good proportion"
+                ],
+                "personality": [
+                    "Courageous and fearless",
+                    "Aggressive and action-oriented",
+                    "Strong willpower and determination",
+                    "Leader and warrior qualities",
+                    "Direct and straightforward communication",
+                    "Competitive and winning mentality",
+                    "Technical and mechanical aptitude"
+                ],
+                "career": [
+                    "Military, defense, police, security",
+                    "Engineering, technical fields",
+                    "Surgery and medical procedures",
+                    "Sports and athletics",
+                    "Real estate and property business",
+                    "Competitive fields requiring aggression"
+                ],
+                "results": [
+                    "Victory over enemies and competitors",
+                    "Property and land wealth",
+                    "Leadership in action-oriented fields",
+                    "Physical strength and stamina",
+                    "Success in competitive environments",
+                    "Fame through courage and boldness"
+                ],
+                "challenges": "Can be too aggressive, impatient, prone to anger - needs to cultivate patience and diplomacy",
+                "manifestation": "Mars dasha periods show peak results",
+                "example": "Mars in Aries in 10th house = Military general, CEO with aggressive leadership, champion athlete",
+                "celebrities": "Military leaders, sports champions, successful surgeons, bold entrepreneurs"
+            },
+            {
+                "name": "Bhadra Yoga (Mercury)",
+                "formation": "Mercury in own sign (Gemini/Virgo) or exalted (Virgo) in angular house (1/4/7/10) from lagna",
+                "strength": "Strongest in 1st or 10th house, especially in Virgo (both own and exaltation)",
+                "physicalCharacteristics": [
+                    "Youthful appearance even in old age",
+                    "Greenish or fair complexion",
+                    "Pleasant and intelligent face",
+                    "Well-proportioned body",
+                    "Attractive smile and expressive eyes"
+                ],
+                "personality": [
+                    "Highly intelligent and quick-witted",
+                    "Excellent communication and oratory skills",
+                    "Business acumen and commercial sense",
+                    "Versatile and multi-talented",
+                    "Good sense of humor",
+                    "Diplomatic and adaptable",
+                    "Learning ability and scholarly nature"
+                ],
+                "career": [
+                    "Business and commerce - BEST",
+                    "Accounting, CA, finance",
+                    "Writing, journalism, media",
+                    "Teaching and education",
+                    "IT and computer fields",
+                    "Sales, marketing, trading",
+                    "Astrology and occult sciences (if other factors support)"
+                ],
+                "results": [
+                    "Success in business and commerce",
+                    "Multiple income sources",
+                    "Excellent communication bringing opportunities",
+                    "Recognition for intelligence and skills",
+                    "Wealth through intellectual pursuits",
+                    "Fame in literary or commercial fields"
+                ],
+                "challenges": "Can be too talkative, scattered in multiple directions, nervous energy - needs focus",
+                "manifestation": "Mercury dasha periods show peak business success",
+                "example": "Mercury in Virgo in 10th house = Successful businessman, renowned accountant, bestselling author",
+                "celebrities": "Business tycoons, authors, journalists, teachers, successful traders",
+                "note": "One of most common Mahapurusha yogas in successful business people"
+            },
+            {
+                "name": "Hamsa Yoga (Jupiter)",
+                "formation": "Jupiter in own sign (Sagittarius/Pisces) or exalted (Cancer) in angular house (1/4/7/10) from lagna",
+                "strength": "Strongest in 1st or 10th house, Cancer exaltation particularly powerful",
+                "physicalCharacteristics": [
+                    "Well-built and proportionate body",
+                    "Golden or fair complexion",
+                    "Attractive and pleasant appearance",
+                    "Large and expressive eyes",
+                    "Dignified and graceful bearing",
+                    "Often above average height"
+                ],
+                "personality": [
+                    "Wise and philosophical",
+                    "Ethical and righteous behavior",
+                    "Generous and benevolent",
+                    "Optimistic and positive outlook",
+                    "Good judgment and decision-making",
+                    "Spiritual inclination with worldly success",
+                    "Teacher and guide to others",
+                    "Respected and honored by all"
+                ],
+                "career": [
+                    "Teaching and professorship",
+                    "Law and judiciary",
+                    "Religious and spiritual leadership",
+                    "Banking and finance (ethical)",
+                    "Advisory and consultancy",
+                    "Philosophy and higher education",
+                    "Government in advisory capacity"
+                ],
+                "results": [
+                    "Wealth and prosperity ethically earned",
+                    "Wisdom and knowledge respected",
+                    "Children bring honor and success",
+                    "Happy marriage and family life",
+                    "Fortune and good luck throughout life",
+                    "Spiritual growth with material comfort",
+                    "Fame as teacher, advisor, or guide"
+                ],
+                "challenges": "Can be over-optimistic, gain weight, trust too easily - needs practical grounding",
+                "manifestation": "Jupiter dasha periods most successful - often 16 years of continuous growth",
+                "example": "Jupiter in Sagittarius in 10th house = Renowned professor, respected judge, spiritual teacher with followers",
+                "celebrities": "Spiritual leaders, renowned teachers, judges, ethical business leaders, philosophers",
+                "note": "Considered most benefic of Pancha Mahapurusha yogas - brings overall happiness"
+            },
+            {
+                "name": "Malavya Yoga (Venus)",
+                "formation": "Venus in own sign (Taurus/Libra) or exalted (Pisces) in angular house (1/4/7/10) from lagna",
+                "strength": "Strongest in 1st or 4th house, Pisces exaltation most refined",
+                "physicalCharacteristics": [
+                    "Very attractive and beautiful appearance",
+                    "Fair or glowing complexion",
+                    "Graceful and charming features",
+                    "Expressive and alluring eyes",
+                    "Soft voice and pleasant demeanor",
+                    "Symmetrical and aesthetic body",
+                    "Natural elegance in appearance"
+                ],
+                "personality": [
+                    "Charming and diplomatic",
+                    "Artistic and creative talents",
+                    "Love for beauty, luxury, comfort",
+                    "Harmonious and peace-loving",
+                    "Romantic and relationship-focused",
+                    "Good taste in aesthetics",
+                    "Social and popular",
+                    "Sensual and pleasure-seeking (balanced)"
+                ],
+                "career": [
+                    "Arts, music, dance, entertainment",
+                    "Fashion, beauty, cosmetics industry",
+                    "Jewelry and luxury goods business",
+                    "Interior design and decoration",
+                    "Hospitality and luxury services",
+                    "Relationship counseling",
+                    "Diplomacy and peace-making roles"
+                ],
+                "results": [
+                    "Luxurious and comfortable life",
+                    "Success in artistic and creative fields",
+                    "Excellent marriage and relationship happiness",
+                    "Wealth through Venusian fields",
+                    "Physical beauty and attraction",
+                    "Material comforts and pleasures",
+                    "Fame in arts or beauty industry"
+                ],
+                "challenges": "Can be too indulgent, superficial, pleasure-seeking - needs deeper purpose",
+                "manifestation": "Venus dasha periods (20 years) - peak comfort and artistic success",
+                "example": "Venus in Taurus in 1st house = Successful actor/actress, fashion designer, luxury brand owner",
+                "celebrities": "Movie stars, fashion icons, musicians, artists, luxury entrepreneurs",
+                "note": "Common in entertainment industry and those with extraordinary beauty/charm"
+            },
+            {
+                "name": "Shasha Yoga (Saturn)",
+                "formation": "Saturn in own sign (Capricorn/Aquarius) or exalted (Libra) in angular house (1/4/7/10) from lagna",
+                "strength": "Strongest in 10th house (natural house of Saturn as karma), very powerful in Capricorn",
+                "physicalCharacteristics": [
+                    "Lean and tall or short but strong build",
+                    "Dark or wheatish complexion",
+                    "Serious and mature appearance",
+                    "Deep-set penetrating eyes",
+                    "Strong bone structure",
+                    "May look older than age or age well",
+                    "Commanding and authoritative presence"
+                ],
+                "personality": [
+                    "Disciplined and hardworking",
+                    "Patient and persistent",
+                    "Serious and responsible",
+                    "Mature beyond years",
+                    "Strong sense of duty and karma",
+                    "Leadership through discipline",
+                    "Practical and realistic",
+                    "Can endure hardships",
+                    "Justice-oriented"
+                ],
+                "career": [
+                    "Government administration and bureaucracy",
+                    "Law enforcement and justice",
+                    "Labor and social work",
+                    "Mining, oil, iron, steel industries",
+                    "Agriculture and land management",
+                    "Long-term strategic roles",
+                    "Positions requiring patience and discipline"
+                ],
+                "results": [
+                    "Success through hard work and persistence",
+                    "Authority in chosen field eventually",
+                    "Longevity and long-term stability",
+                    "Respect earned through discipline",
+                    "Property and land wealth (slowly accumulated)",
+                    "Leadership of masses or workforce",
+                    "Fame through service and duty"
+                ],
+                "challenges": "Can be too serious, pessimistic, cold emotionally - needs warmth and optimism",
+                "manifestation": "Saturn dasha periods (19 years) - slow but steady rise to authority",
+                "timing": "Results come later in life - Saturn rewards with time, not immediately",
+                "example": "Saturn in Capricorn in 10th house = Senior government official, respected judge, CEO through decades of work",
+                "celebrities": "Long-serving leaders, disciplined achievers, self-made success stories",
+                "note": "Results come LATE but are LASTING - builds stable empire through persistence",
+                "critical": "Only Mahapurusha yoga that requires patience - others give faster results"
+            }
+        ],
+        "generalConditions": {
+            "strength": "Yoga stronger if planet in own sign (Mars in Aries stronger than Mars in Capricorn exalted for some significations)",
+            "aspects": "Beneficial aspects enhance, malefic aspects reduce (but don't cancel unless very severe)",
+            "combustion": "If yoga-forming planet combust, yoga weakens significantly - not cancelled but reduced",
+            "retrograde": "Retrograde doesn't cancel but delays manifestation",
+            "multipleYogas": "Person can have 2-3 Mahapurusha yogas - becomes exceptionally successful with multiple strengths",
+            "D9Confirmation": "Yoga must repeat or be supported in Navamsha for full manifestation",
+            "dashaActivation": "Yoga dormant until relevant planet's dasha-antardasha"
+        },
+        "rarity": "Pancha Mahapurusha yogas relatively rare - only ~10-15% charts have even one of these yogas properly formed",
+        "impact": "When properly formed and strong, these yogas can elevate person to extraordinary status in their field"
+    },
+    "fameYogas": {
+        "name": "Fame and Recognition Yogas",
+        "principle": "Specific combinations giving public recognition, popularity, celebrity status, mass appeal",
+        "yogas": [
+            {
+                "name": "Parijata Yoga",
+                "formation": "Lagna lord in kendra (1/4/7/10) or trikona (1/5/9), and his sign dispositor also in kendra or trikona",
+                "strength": "Very strong if both planets exalted or in own signs",
+                "results": [
+                    "Fame and recognition in field",
+                    "Respect and honor from people",
+                    "Success in endeavors",
+                    "Charitable nature bringing popularity",
+                    "Happy married life often accompanies fame"
+                ],
+                "example": "Leo lagna: Sun in 5th house in Sagittarius, Jupiter in 1st house = Fame through creativity"
+            },
+            {
+                "name": "Mass Appeal Yoga",
+                "formation": "Moon in 10th house aspected by Jupiter OR Moon-Jupiter conjunction in angular house",
+                "strength": "Extremely strong if Moon full and Jupiter strong",
+                "results": [
+                    "Mass popularity and public love",
+                    "Emotional connection with masses",
+                    "Success in public-facing careers",
+                    "Political success if other factors support",
+                    "Media and entertainment success"
+                ],
+                "manifestation": "Moon or Jupiter dashas",
+                "example": "Moon in 10th house aspected by Jupiter = Movie star, political leader with mass following"
+            },
+            {
+                "name": "Gaja Kesari Yoga",
+                "formation": "Jupiter in kendra (1/4/7/10) from Moon",
+                "strength": "Strongest if both Moon and Jupiter in own/exalted signs and unafflicted",
+                "results": [
+                    "Wisdom combined with emotional intelligence",
+                    "Respected and famous",
+                    "Wealth and prosperity",
+                    "Ethical behavior bringing recognition",
+                    "Good family life and children",
+                    "Long life and happiness"
+                ],
+                "manifestation": "Jupiter or Moon dashas",
+                "note": "VERY common yoga (present in 30-40% charts) but strength varies enormously - weak versions give limited results",
+                "example": "Strong: Moon in Cancer 1st house + Jupiter in Libra 4th house = Renowned ethical leader",
+                "weakExample": "Weak: Moon dark in Scorpio 8th + Jupiter debilitated in Capricorn 11th = Yoga present but weak results"
+            },
+            {
+                "name": "Budh-Aditya Yoga",
+                "formation": "Sun and Mercury conjunction (Mercury always close to Sun so common, but specific conditions enhance)",
+                "strength": "Strong if in 1st/5th/9th/10th houses, Mercury not combust (more than 14 degrees from Sun), in friendly signs",
+                "results": [
+                    "Intellectual brilliance",
+                    "Excellence in communication and learning",
+                    "Recognition for intelligence",
+                    "Success in education and intellectual fields",
+                    "Astrology and occult knowledge",
+                    "Government work involving intellect"
+                ],
+                "challenges": "If Mercury too close (combust under 10 degrees) - communication problems, ego-intellect conflict",
+                "manifestation": "Sun or Mercury dashas",
+                "example": "Sun-Mercury conjunction in 10th house in Leo, Mercury 15 degrees away = Famous intellectual, renowned author"
+            },
+            {
+                "name": "Amala Yoga",
+                "formation": "Benefic planet (Jupiter, Venus, Mercury, waxing Moon) in 10th house from lagna or Moon",
+                "strength": "Very strong if benefic exalted or in own sign in 10th",
+                "results": [
+                    "Spotless reputation",
+                    "Fame for good character and ethics",
+                    "Success in career with integrity",
+                    "Respect and honor",
+                    "Prosperity through righteous means"
+                ],
+                "manifestation": "Throughout life, peaks in benefic planet dashas",
+                "example": "Jupiter in 10th house = Ethical leader respected by all, teacher with impeccable reputation"
+            }
+        ]
+    },
+    "marriageYogas": {
+        "name": "Marriage and Relationship Yogas",
+        "principle": "Combinations affecting marriage timing, quality, and relationship harmony",
+        "yogas": [
+            {
+                "name": "Kalatra Yoga",
+                "formation": "7th lord strong (exalted, own sign, well-placed in kendra/trikona) with Venus support",
+                "strength": "Very strong if 7th lord with Venus in benefic houses",
+                "results": [
+                    "Excellent marriage and spouse quality",
+                    "Harmonious married life",
+                    "Beautiful/handsome and compatible spouse",
+                    "Marriage bringing prosperity",
+                    "Long-lasting happy union"
+                ],
+                "manifestation": "7th lord or Venus dasha for marriage timing",
+                "example": "7th lord Venus exalted in Pisces in 9th house = Excellent spouse, marriage brings fortune"
+            },
+            {
+                "name": "Early Marriage Yoga",
+                "formation": "7th lord in 1st/7th house, or 7th lord exalted, or Venus very strong in 7th, or 7th house with multiple benefics",
+                "timing": "Marriage before age 23-25",
+                "results": "Early marriage, often arranged, usually successful if planets strong",
+                "example": "Venus exalted in 7th house = Marriage by age 22-23"
+            },
+            {
+                "name": "Delayed Marriage Yoga",
+                "formation": "7th lord in 6th/8th/12th houses, or Saturn in 7th, or Sun in 7th (for women), or 7th lord debilitated",
+                "timing": "Marriage after age 30, sometimes 35+",
+                "challenges": "Obstacles, delays, may need remedies",
+                "remedies": "Fast 16 Fridays for Venus, worship Lakshmi-Parvati, help poor girls' marriages",
+                "example": "Saturn in 7th house = Marriage delayed but stable once happens"
+            },
+            {
+                "name": "Love Marriage Yoga",
+                "formation": "5th lord and 7th lord connected (conjunction, aspect, exchange), or Venus-Mars connection in 5th/7th houses",
+                "strength": "Strong if in 1st/5th/7th/11th houses",
+                "results": [
+                    "Love before marriage",
+                    "Romance and attraction-based union",
+                    "Own choice of partner",
+                    "Passionate relationship"
+                ],
+                "challenges": "Sometimes family opposition if malefics involved",
+                "example": "5th lord Venus and 7th lord Mars in exchange = Passionate love marriage"
+            },
+            {
+                "name": "Multiple Marriages Yoga",
+                "formation": "7th house with multiple planets especially malefics, or 7th lord in 6th/8th/12th with Rahu/Mars, or Venus-Mars with Rahu in 7th",
+                "indication": "More than one marriage - divorce and remarriage, or spouse death and remarriage",
+                "caution": "Not definite - chart analysis needed for confirmation",
+                "example": "Mars, Saturn, Rahu in 7th house = High likelihood of marital disruption"
+            },
+            {
+                "name": "Happy Married Life Yoga",
+                "formation": "Moon in 7th house (if strong), or 7th lord in 4th house, or Venus in 4th house, or 4th and 7th lords in mutual aspect",
+                "results": [
+                    "Domestic happiness and harmony",
+                    "Comfortable home life with spouse",
+                    "Emotional satisfaction in marriage",
+                    "Peaceful family environment"
+                ],
+                "example": "7th lord in 4th house = Spouse brings home happiness, peaceful married life"
+            },
+            {
+                "name": "Spouse Physical Beauty Yoga",
+                "formation": "Venus strong and well-placed (especially in 1st/4th/7th/10th), or 7th lord exalted, or benefics in 7th house",
+                "results": "Very attractive and beautiful/handsome spouse",
+                "example": "Venus exalted in 7th house Pisces = Exceptionally beautiful/handsome spouse"
+            },
+            {
+                "name": "Spouse Wealth Yoga",
+                "formation": "7th lord in 2nd/11th house, or 2nd lord in 7th house, or 7th lord with Jupiter, or 8th lord strong (spouse's family wealth)",
+                "results": "Spouse from wealthy family or spouse brings financial prosperity",
+                "example": "7th lord Jupiter in 2nd house = Spouse from wealthy background or brings wealth"
+            }
+        ],
+        "compatibility": "Marriage yogas show quantity/timing/quality - for true compatibility, synastry (inter-chart analysis) and Navamsha critical"
+    },
+    "spiritualYogas": {
+        "name": "Moksha and Spiritual Yogas",
+        "principle": "Combinations indicating spiritual inclination, detachment, enlightenment potential, psychic abilities",
+        "yogas": [
+            {
+                "name": "Pravrajya Yoga (Renunciation)",
+                "formation": "Multiple planets in 12th house, or 12th lord very strong, or Moon with Saturn/Ketu in 12th, or dispositors of ascendant lord and 10th lord in 12th or conjunction with 12th lord",
+                "strength": "Stronger if Jupiter or Ketu involved, and 9th house also connected",
+                "results": [
+                    "Strong detachment from worldly matters",
+                    "Inclination toward renunciation (sannyasa)",
+                    "Spiritual seeking and meditation",
+                    "Possible monastic life or celibacy",
+                    "Liberation-oriented lifestyle",
+                    "Teaching spiritual philosophy"
+                ],
+                "manifestation": "12th lord or Ketu dasha periods - strong spiritual pull",
+                "caution": "Can cause worldly difficulties if person tries to live material life - must embrace spiritual path",
+                "example": "Moon, Saturn, Ketu in 12th house = Strong renunciation, monk or spiritual teacher",
+                "modernExpression": "May not become monk but will have strong spiritual practice, minimalist lifestyle, service orientation"
+            },
+            {
+                "name": "Sanyasa Yoga",
+                "formation": "Four or more planets in one house, especially if including Saturn, or Sun/Moon with Saturn in 12th house",
+                "indication": "Potential for complete renunciation of worldly life",
+                "results": "Monastic life, complete detachment, spiritual teaching, ashram living",
+                "note": "In modern times, often manifests as strong spiritual practice rather than literal monkhood"
+            },
+            {
+                "name": "Moksha Yoga",
+                "formation": "Ketu in 12th house with Jupiter aspect, or 12th lord in 9th house, or 9th lord in 12th house",
+                "results": [
+                    "Spiritual liberation as life goal",
+                    "Deep meditation and mystical experiences",
+                    "Pilgrimage and holy places attraction",
+                    "Past life spiritual progress continued",
+                    "Enlightenment potential"
+                ],
+                "manifestation": "Ketu or 12th lord dasha - spiritual breakthroughs"
+            },
+            {
+                "name": "Adhi Yoga (Spiritual + Material Success)",
+                "formation": "Benefics (Jupiter, Venus, Mercury) in 6th, 7th, and 8th houses from Moon (all three houses occupied)",
+                "uniqueness": "Combines spiritual depth with worldly success - householder spirituality",
+                "results": [
+                    "Success in life with spiritual understanding",
+                    "Comfortable life with detachment",
+                    "Authority and respect",
+                    "Long life and happiness",
+                    "Ethical worldly success",
+                    "Can balance material and spiritual"
+                ],
+                "manifestation": "Throughout life, especially benefic dashas",
+                "ideal": "Best yoga for spiritual person living in world - not needing renunciation"
+            },
+            {
+                "name": "Kemadruma Yoga Cancellation = Spiritual Strength",
+                "formation": "Normally Kemadruma (loneliness) forms when no planets on either side of Moon, but if cancelled by other factors, gives spiritual strength through initial isolation",
+                "results": "Spiritual maturity through loneliness, inner strength, self-sufficiency, meditation ability",
+                "note": "Transforms negative into spiritual positive"
+            },
+            {
+                "name": "Saraswati Yoga",
+                "formation": "Jupiter, Venus, Mercury in kendras/trikonas from lagna or from each other, with Jupiter strong",
+                "results": [
+                    "Exceptional learning and scholarship",
+                    "Mastery of arts and sciences",
+                    "Spiritual knowledge and wisdom",
+                    "Writing and teaching abilities",
+                    "Recognition for intellectual/spiritual contributions",
+                    "Blessed by Goddess Saraswati"
+                ],
+                "manifestation": "Jupiter, Venus, or Mercury dashas",
+                "example": "Jupiter in 1st, Venus in 5th, Mercury in 9th = Scholar, spiritual teacher, author of wisdom texts"
+            },
+            {
+                "name": "Tapasvi Yoga",
+                "formation": "Saturn and Ketu in 12th house, or Saturn aspecting 12th house with Ketu placement in moksha houses (4/8/12)",
+                "results": [
+                    "Severe austerity and discipline",
+                    "Detachment through hardship",
+                    "Spiritual progress through suffering",
+                    "Meditation and solitude",
+                    "Liberation through karma clearing"
+                ],
+                "path": "Difficult spiritual path - transformation through fire",
+                "example": "Saturn-Ketu in 12th house = Ascetic life, intense spiritual practice, enlightenment through austerity"
+            }
+        ],
+        "spiritualIndicators": {
+            "planets": "Ketu (detachment), Jupiter (wisdom), Saturn (discipline), 12th house (liberation), 9th house (dharma), 8th house (transformation)",
+            "houses": "Strong 4th (inner peace), 8th (mysticism), 9th (higher knowledge), 12th (moksha) indicate spiritual potential",
+            "note": "Strong spiritual yogas often accompanied by worldly challenges - path of renunciation vs householder path"
+        }
+    },
+    "amistaYogas": {
+        "name": "Arishta Yogas - Difficulty and Challenge Combinations",
+        "principle": "Yogas indicating obstacles, suffering, health issues, accidents, or major life challenges",
+        "purpose": "Awareness for remedies and conscious navigation - not fatalism",
+        "yogas": [
+            {
+                "name": "Kemadruma Yoga (Loneliness)",
+                "formation": "No planets (except Sun, Rahu, Ketu) on either side of Moon (2nd and 12th from Moon empty)",
+                "cancellation": [
+                    "Planets in kendra from lagna (even if not from Moon)",
+                    "Moon in own/exalted sign",
+                    "Moon in kendra from lagna"
+                ],
+                "results": [
+                    "Loneliness and isolation feelings",
+                    "Mental depression and sadness",
+                    "Lack of emotional support",
+                    "Financial struggles",
+                    "Feeling unloved or unsupported",
+                    "Self-reliance through necessity"
+                ],
+                "remedies": "Strengthen Moon - Pearl, Moon mantra, Shiva worship Mondays, meditation, spend time near water",
+                "positiveSide": "If transformed consciously, develops inner strength and spiritual depth",
+                "example": "Moon in 5th house, no planets in 4th or 6th houses = Emotional loneliness but self-sufficient"
+            },
+            {
+                "name": "Daridra Yoga (Poverty)",
+                "formation": "11th lord in 6th/8th/12th houses, or 2nd lord severely afflicted with 11th lord weak",
+                "results": [
+                    "Financial struggles and poverty",
+                    "Difficulty accumulating wealth",
+                    "Losses in ventures",
+                    "Debt problems",
+                    "Hard work with little financial reward"
+                ],
+                "remedies": "Strengthen 2nd and 11th lords, Lakshmi worship, Jupiter remedies, charity despite poverty creates positive karma",
+                "note": "Can be overcome with consistent effort and spiritual approach to wealth",
+                "caution": "Should not cause fatalism - many with this yoga create wealth through extraordinary effort and remedies"
+            },
+            {
+                "name": "Graha Yuddha (Planetary War)",
+                "formation": "Two planets within 1 degree of each other (same longitude) - except Sun-Moon conjunction",
+                "impact": "Planet with lower longitude 'wins', other 'loses' - losing planet gives negative results",
+                "results": "Internal conflict in areas ruled by planets, struggles, confusion, setbacks in significations of losing planet",
+                "remedies": "Strengthen losing planet through specific remedies - gemstone, mantra, deity worship",
+                "example": "Mars at 15°20' and Mercury at 15°45' in same sign = Mercury loses - business/communication struggles with aggressive tendencies"
+            },
+            {
+                "name": "Angarak Yoga (Fire and Blood)",
+                "formation": "Mars and Rahu conjunction",
+                "results": [
+                    "Accidents and injuries prone",
+                    "Blood disorders",
+                    "Explosive anger and violence potential",
+                    "Sudden calamities",
+                    "Reckless behavior",
+                    "Property disputes"
+                ],
+                "remedies": "CRITICAL - Hanuman Chalisa daily mandatory, Durga worship, avoid alcohol/drugs, anger management therapy essential, avoid risks",
+                "severity": "House and sign placement determines severity - worse in 1st/4th/7th/8th houses",
+                "example": "Mars-Rahu in 1st house = Accident-prone, aggressive, needs extreme caution and remedies"
+            },
+            {
+                "name": "Guru Chandal Yoga",
+                "formation": "Jupiter conjunct with Rahu or Ketu",
+                "controversy": "Some consider it very negative, others say it can give unconventional wisdom",
+                "challenges": [
+                    "Unconventional beliefs challenging tradition",
+                    "Issues with gurus or teachers",
+                    "Children's problems (Jupiter = children)",
+                    "Ethical confusion or grey areas",
+                    "Wisdom through unorthodox paths"
+                ],
+                "positive": "Can give out-of-box thinking, revolutionary ideas, breaking outdated traditions",
+                "remedies": "Strengthen Jupiter - Yellow Sapphire (if suitable), Jupiter mantra, Vishnu worship, respect teachers, maintain ethics strictly",
+                "example": "Jupiter-Rahu in 5th house = Unconventional intelligence, children through unusual circumstances, innovative education methods"
+            },
+            {
+                "name": "Vish Yoga (Poison)",
+                "formation": "Saturn and Moon conjunction, especially if both weak",
+                "results": [
+                    "Depression and melancholy",
+                    "Emotional coldness or heaviness",
+                    "Mother's health issues or difficult relationship",
+                    "Chronic mental health struggles",
+                    "Pessimistic outlook"
+                ],
+                "remedies": "ESSENTIAL - Hanuman Chalisa daily, strengthen Moon (Pearl, Moon mantra, Shiva worship), strengthen Saturn (service, patience), professional mental health support",
+                "severity": "Worse in 1st/4th/8th houses, milder in 3rd/11th",
+                "caution": "High depression risk - therapy and medication if needed absolutely essential",
+                "example": "Saturn-Moon in 1st house = Chronic depression, needs lifelong mental health management and spiritual practices"
+            },
+            {
+                "name": "Shakata Yoga",
+                "formation": "Moon in 6th/8th from Jupiter",
+                "results": [
+                    "Fluctuating fortunes - ups and downs",
+                    "Wheel of fortune constantly turning",
+                    "Instability in wealth and status",
+                    "Gains followed by losses",
+                    "Lack of sustained prosperity"
+                ],
+                "remedies": "Strengthen Jupiter and Moon, Lakshmi-Vishnu worship, financial planning and savings essential",
+                "note": "Not complete poverty but lack of stability - need financial discipline",
+                "example": "Moon in Taurus, Jupiter in Scorpio (6/8 relationship) = Fluctuating finances, good periods followed by challenges"
+            },
+            {
+                "name": "Durudhara Yoga from Papa Grahas",
+                "formation": "Malefics (Mars, Saturn, Rahu, Ketu) on both sides of Moon (2nd and 12th from Moon)",
+                "results": [
+                    "Mental pressure and anxiety",
+                    "Emotional struggles throughout life",
+                    "Obstacles from multiple directions",
+                    "Difficulty finding peace",
+                    "Self-made success but with hardship"
+                ],
+                "remedies": "Strengthen Moon massively, meditation essential, professional support for mental health",
+                "note": "Opposite of Sunapha/Anapha yogas (benefics around Moon which is positive)"
+            }
+        ],
+        "importantNote": "Arishta yogas are WARNING SIGNS, not fixed fate - with awareness, remedies, effort, and professional help where needed, severity can be reduced 60-80%",
+        "approach": "Don't fear these yogas - use as motivation for proactive remedies and conscious living"
+    },
+    "specialYogas": {
+        "name": "Special and Unique Yogas",
+        "yogas": [
+            {
+                "name": "Parvata Yoga (Mountain)",
+                "formation": "Benefics in kendras, and no malefics in kendras, and lagna lord strong",
+                "results": [
+                    "Steady rise to prominence like mountain",
+                    "Charitable and benevolent nature",
+                    "Wealth and comfortable life",
+                    "Respected in society",
+                    "Long life and happiness"
+                ],
+                "example": "Jupiter in 1st, Venus in 7th, Mercury in 10th, no malefics in kendras = Gradual but steady success"
+            },
+            {
+                "name": "Pushkala Yoga",
+                "formation": "Lagna lord exalted and Jupiter in own sign in kendra",
+                "results": [
+                    "Wealth and prosperity",
+                    "Respect and honor",
+                    "Learning and wisdom",
+                    "Comfortable luxurious life",
+                    "Ethical success"
+                ],
+                "rarity": "Relatively rare as requires both conditions simultaneously"
+            },
+            {
+                "name": "Harsha-Sarala-Vimala (Viparita Subset)",
+                "formation": "6th/8th/12th lords in houses 6th/8th/12th (various combinations)",
+                "results": "Success through adversity, victory over obstacles, gains from unexpected sources",
+                "note": "Already covered in Raj Yogas section as Viparita Raja Yoga"
+            },
+            {
+                "name": "Kesari Yoga",
+                "formation": "Moon in 4th house with Jupiter aspecting it, or Moon-Jupiter in 4th house",
+                "results": [
+                    "Property and vehicles",
+                    "Mother's blessings and happiness",
+                    "Emotional wisdom",
+                    "Home comforts",
+                    "Inner peace and security"
+                ],
+                "example": "Moon in 4th in Cancer with Jupiter aspect = Beautiful home, mother's love, emotional fulfillment"
+            },
+            {
+                "name": "Akhanda Samrajya Yoga",
+                "formation": "Jupiter in 2nd/5th/11th house from Moon, with lagna lord strong",
+                "results": [
+                    "Unbroken prosperity",
+                    "Kingdom without end (metaphorically)",
+                    "Sustained success throughout life",
+                    "Leadership position maintained",
+                    "Dynasty creation"
+                ],
+                "rarity": "Rare and very powerful - creates lasting legacy"
+            },
+            {
+                "name": "Shankha Yoga",
+                "formation": "5th and 6th lords in mutual kendras, and lagna lord strong",
+                "results": [
+                    "Righteous and kind nature",
+                    "Prosperity and learning",
+                    "Long life",
+                    "Family happiness",
+                    "Enjoyment of comforts"
+                ],
+                "note": "Named after conch shell (Shankha) - auspicious symbol"
+            },
+            {
+                "name": "Bheri Yoga",
+                "formation": "Venus, Jupiter, and lagna lord in mutual kendras or trikonas",
+                "results": [
+                    "Wealth and prosperity",
+                    "Happy family life",
+                    "Luxury and comforts",
+                    "Success in endeavors",
+                    "Long and happy life"
+                ],
+                "note": "Named after kettle drum (Bheri) - announces prosperity"
+            },
+            {
+                "name": "Kartari Yoga (Hemming)",
+                "formation": "Planet or house hemmed between two malefics (Mars, Saturn, Rahu, Ketu on either side)",
+                "results": [
+                    "Obstacles in significations of hemmed planet/house",
+                    "Pressure and challenges",
+                    "Restricted growth",
+                    "Struggles in related areas"
+                ],
+                "remedies": "Strengthen hemmed planet, strengthen malefics constructively, protective measures",
+                "opposite": "Shubha Kartari - hemmed between benefics - very auspicious",
+                "example": "Sun in 10th with Saturn in 9th and Mars in 11th = Career pressures and obstacles, authority challenged"
+            },
+            {
+                "name": "Chamara Yoga",
+                "formation": "Two benefic planets in lagna, 7th, 9th, or 10th house",
+                "results": [
+                    "Long life",
+                    "Authority and leadership",
+                    "Respected king-like status",
+                    "Fame and recognition",
+                    "Comfortable life"
+                ],
+                "note": "Named after royal flywhisk (Chamara) - symbol of royalty"
+            },
+            {
+                "name": "Akriti Yogas (Shape Yogas)",
+                "concept": "Yogas formed by planets occupying houses in specific patterns creating visual shapes",
+                "types": "Yuga, Gola, Shoola, Kedara, Pasha, Dama, Veena, Dhanuh, Shara, etc. - over 32 types",
+                "impact": "Subtle influences on personality and life patterns",
+                "note": "Advanced topic - less commonly used than main yogas"
+            }
+        ]
+    },
+    "yogaStrengthAssessment": {
+        "name": "How to Assess Yoga Strength in a Chart",
+        "principle": "Yoga presence doesn't guarantee results - strength assessment critical",
+        "steps": [
+            {
+                "step": 1,
+                "factor": "Planet Strength - Shadbala",
+                "assessment": [
+                    "Are yoga-forming planets exalted? (+strongest)",
+                    "In own sign? (+very strong)",
+                    "In friendly sign? (+moderate)",
+                    "In neutral sign? (+slightly positive)",
+                    "In enemy sign? (-weak)",
+                    "Debilitated? (--weakest, may cancel yoga)"
+                ],
+                "action": "Check sign placement of all yoga planets first"
+            },
+            {
+                "step": 2,
+                "factor": "House Placement - Bhava Bala",
+                "assessment": [
+                    "Kendra houses (1/4/7/10) = Strongest manifestation",
+                    "Trikona houses (1/5/9) = Strong manifestation",
+                    "Upachaya houses (3/6/10/11) = Growing strength",
+                    "Dusthana houses (6/8/12) = Weakest, often yoga cancelled"
+                ],
+                "action": "Yoga in kendras most powerful, in dusthanas weakest"
+            },
+            {
+                "step": 3,
+                "factor": "Aspects - Drishti",
+                "assessment": [
+                    "Benefic aspects (Jupiter, Venus, Mercury, waxing Moon) strengthen yoga (+)",
+                    "No aspects = Neutral (0)",
+                    "Malefic aspects (Saturn, Mars, Rahu, Ketu) weaken yoga (-)",
+                    "Multiple malefic aspects may cancel yoga (--)"
+                ],
+                "action": "Check what aspects yoga-forming planets receive"
+            },
+            {
+                "step": 4,
+                "factor": "Combustion",
+                "assessment": [
+                    "Within 10 degrees of Sun = Severely weakened",
+                    "10-15 degrees = Moderately weakened",
+                    "15+ degrees = Not combust, full strength"
+                ],
+                "exception": "Mercury and Venus less affected by combustion in their own signs",
+                "action": "If yoga planet combust, yoga significantly weakened"
+            },
+            {
+                "step": 5,
+                "factor": "Retrograde Status",
+                "impact": [
+                    "Retrograde planet stronger in giving results (Chesta Bala)",
+                    "But manifestation delayed and may be unconventional",
+                    "Retrograde Jupiter, Venus generally positive",
+                    "Retrograde Saturn, Mars need careful assessment"
+                ],
+                "action": "Retrograde doesn't cancel but modifies manifestation"
+            },
+            {
+                "step": 6,
+                "factor": "Navamsha (D9) Confirmation",
+                "critical": "Yoga MUST repeat or be supported in D9 for full manifestation",
+                "assessment": [
+                    "Same yoga in D9 = Full manifestation (100%)",
+                    "Yoga planets strong in D9 = Good manifestation (70-80%)",
+                    "Yoga planets weak in D9 = Reduced manifestation (40-50%)",
+                    "Yoga planets debilitated in D9 = Minimal manifestation (20-30%)"
+                ],
+                "action": "Always check D9 for yoga confirmation - CRITICAL step"
+            },
+            {
+                "step": 7,
+                "factor": "Dasha Activation",
+                "timing": [
+                    "Yoga manifests during dasha-antardasha of involved planets",
+                    "If yoga planet dasha already passed = Yoga may not manifest in this life",
+                    "If yoga planet dasha upcoming = Await activation",
+                    "During transit = Temporary activation when transiting planets trigger yoga"
+                ],
+                "action": "Check when yoga-forming planets dashas occur in life"
+            },
+            {
+                "step": 8,
+                "factor": "Cancellation Factors - Bhanga",
+                "yogaBhanga": [
+                    "Yoga-forming planet debilitated AND combust AND severely afflicted = Cancelled",
+                    "Contradictory yogas of equal strength = Cancel each other",
+                    "Dashas passed without activation = Practically cancelled for this life"
+                ],
+                "action": "Check if multiple strong cancellation factors present"
+            }
+        ],
+        "scoringSystem": {
+            "example": "Scoring Gaja Kesari Yoga strength",
+            "factors": [
+                "Jupiter and Moon both exalted: +10 points",
+                "Jupiter in kendra from Moon: +5 points (yoga formation)",
+                "Both in angular houses from lagna: +5 points",
+                "Benefic aspects to both: +3 points",
+                "No combustion: +2 points",
+                "Strong in D9: +5 points",
+                "Relevant dashas in working age: +5 points",
+                "Total: 35 points out of 35 = EXTREMELY STRONG yoga"
+            ],
+            "interpretation": [
+                "30-35 points = Extremely strong, full manifestation",
+                "25-29 points = Strong, significant results",
+                "20-24 points = Moderate, noticeable but not life-defining",
+                "15-19 points = Weak, minor results only",
+                "Below 15 = Very weak, may not manifest meaningfully"
+            ]
+        }
+    },
+    "practicalGuidance": {
+        "name": "Practical Use of Yogas in Chart Reading",
+        "guidelines": [
+            "Focus on strongest 3-5 yogas in chart - not all yogas equally important",
+            "Raj Yogas and Dhana Yogas most impactful for worldly success",
+            "Pancha Mahapurusha yogas if present define personality and life path",
+            "Arishta yogas identify areas needing remedies and conscious effort",
+            "Check dasha periods - yoga dormant until activated",
+            "D9 confirmation non-negotiable for major yogas",
+            "Remedies can enhance positive yogas and mitigate negative yogas",
+            "Yogas show potential - free will and effort determine actual outcomes",
+            "Don't get overwhelmed by yoga count - strength matters more than quantity",
+            "Professional astrologer consultation essential for accurate yoga assessment"
+        ]
+    },
+    "conclusion": {
+        "understanding": "Yogas are planetary combinations creating special life circumstances - both opportunities and challenges",
+        "power": "Strong yogas can elevate ordinary chart to extraordinary life - weak yogas may not manifest at all",
+        "assessment": "Yoga PRESENCE less important than yoga STRENGTH - 8-step assessment critical",
+        "timing": "Yogas activate during relevant planet dashas - timing is everything in manifestation",
+        "navamsha": "D9 confirmation essential - yoga in D1 only gives 40-50% results without D9 support",
+        "remedies": "Positive yogas can be enhanced through planetary strengthening, negative yogas mitigated through specific remedies",
+        "balance": "Look for both positive and negative yogas - complete picture needed",
+        "freeWill": "Yogas show karmic potential and timing - conscious effort and right action determine how potential manifests",
+        "holistic": "Yogas are one piece of chart analysis - must integrate with planets, houses, dashas, divisional charts for complete understanding",
+        "hope": "Even difficult charts with Arishta yogas have hidden strengths - every chart has some positive yogas to activate",
+        "wisdom": "Best yoga is right living combined with sincere effort - planetary yogas support this foundation, not replace it"
+    }
+}

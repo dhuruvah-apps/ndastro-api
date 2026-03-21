@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import datetime, timezone
 from enum import Enum
 from typing import Annotated, cast
 
@@ -11,29 +11,36 @@ from babel.dates import format_datetime
 from fastapi import APIRouter, Query, Request
 from fastapi.responses import Response
 from fastapi_babel import _
+from ndastro_engine.ayanamsa import AyanamsaSystem, get_ayanamsa
+from ndastro_engine.core import get_lunar_node_positions, get_sunrise_sunset
+from ndastro_engine.planet_enum import Planets
 from pydantic import BaseModel
-from skyfield.units import Angle
 
 from ndastro_api.api.deps import get_conditional_dependencies
 from ndastro_api.core.babel_i18n import get_locale
-from ndastro_api.core.enums.planet_enum import Planets
+from ndastro_api.core.exceptions.app_exceptions import PlanetNotFoundError
+from ndastro_api.core.models.astro_system import Planet
+from ndastro_api.core.utils.data_loader import astro_data
 from ndastro_api.services.chart_utils import (
     BirthDetails,
     generate_south_indian_chart_svg,
 )
 from ndastro_api.services.kattams import get_kattams
 from ndastro_api.services.position import (
-    calculate_lunar_nodes,
     get_sidereal_ascendant_position,
     get_sidereal_planet_positions,
-    get_sunrise_sunset,
 )
-from ndastro_api.services.utils import (
-    convert_kattams_to_response_format,
-    get_ayanamsa_value,
-)
+from ndastro_api.services.utils import convert_kattams_to_response_format
 
 router = APIRouter(prefix="/astro", tags=["Astro"], dependencies=get_conditional_dependencies())
+
+
+def _parse_datetime_with_tz(dateandtime: str) -> datetime:
+    """Parse datetime string and ensure it has timezone info (assume UTC if naive)."""
+    dt = datetime.fromisoformat(dateandtime)
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=pytz.utc)
+    return dt
 
 
 class ChartType(str, Enum):
@@ -65,80 +72,21 @@ class ChartRequest(BaseModel):
     lang: str = "en"
 
 
-class PlanetDetailResponse(BaseModel):
-    """Response model for a planet's tropical position."""
-
-    name: str
-    """The name of the planet."""
-
-    display_name: str | None = None
-    """The localized display name of the planet."""
-
-    short_name: str
-    """A unique code representing the planet."""
-
-    latitude: float
-    """The latitude of the planet's position."""
-
-    longitude: float
-    """The longitude of the planet's position."""
-
-    rasi_occupied: int
-    """The rasi (zodiac sign) occupied by the planet"""
-
-    house_posited_at: int
-    """The house in which the planet is posited"""
-
-    planet: int
-    """The planet associated with this position."""
-
-    distance: float
-    """The distance of the planet from a reference point."""
-
-    nirayana_longitude: float
-    """The sidereal longitude of the planet, if applicable."""
-
-    advanced_by: float
-    """The angle by which the planet has advanced, if applicable."""
-
-    retrograde: bool = False
-    """Indicates whether the planet is in retrograde motion."""
-
-    is_ascendant: bool = False
-    """Indicates whether the planet is the ascendant."""
-
-    natchaththiram: int
-    """The natchaththiram (lunar mansion) occupied by the planet, if applicable."""
-
-    paatham: int
-    """The paatham (quarter) of the natchaththiram occupied by the planet, if applicable."""
-
-
 @router.get("/lunar-nodes")
 def get_lunar_nodes(
-    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(tz=pytz.utc).isoformat(timespec="seconds"),
-) -> list[PlanetDetailResponse]:
+    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(timezone.utc).isoformat(timespec="seconds"),
+) -> list[Planet]:
     """Calculate the positions of Rahu and Kethu (lunar nodes) for a given datetime."""
-    results = calculate_lunar_nodes(datetime.fromisoformat(dateandtime))
-    return [
-        PlanetDetailResponse(
-            name=r.planet.name,
-            short_name=r.short_name,
-            latitude=cast("float", r.latitude.degrees),
-            longitude=cast("float", r.longitude.degrees),
-            rasi_occupied=r.rasi_occupied.value,
-            house_posited_at=r.house_posited_at.value,
-            planet=r.planet.value,
-            distance=cast("float", r.distance.km) if r.distance else 0.0,
-            nirayana_longitude=cast("float", r.nirayana_longitude.degrees) if r.nirayana_longitude else 0.0,
-            advanced_by=cast("float", r.advanced_by.degrees) if r.advanced_by else 0.0,
-            retrograde=r.retrograde,
-            is_ascendant=r.is_ascendant,
-            natchaththiram=r.natchaththiram.value if r.natchaththiram else 0,
-            paatham=r.paatham if r.paatham else 0,
-        )
-        for r in results
-    ]
+    results = get_lunar_node_positions(_parse_datetime_with_tz(dateandtime))
+
+    rahu = astro_data.get_planet_by_astronomical_code(Planets.RAHU.astronomical_code)
+    kethu = astro_data.get_planet_by_astronomical_code(Planets.KETHU.astronomical_code)
+
+    if not rahu or not kethu:
+        err = "Rahu or Kethu not found in the data source."
+        raise PlanetNotFoundError(err)
+
+    return cast("list[Planet]", [{**vars(rahu), "longitude": results[0]}, {**vars(kethu), "longitude": results[1]}])
 
 
 class SiderealPositionsRequest(BaseModel):
@@ -154,32 +102,13 @@ class SiderealPositionsRequest(BaseModel):
 def get_sidereal_positions(
     lat: Annotated[float, Query(description="Latitude")] = 12.971667,
     lon: Annotated[float, Query(description="Longitude")] = 77.593611,
-    ayanamsa: Annotated[str, Query(description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")] = "lahiri",
-    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(tz=pytz.utc).isoformat(timespec="seconds"),
-) -> list[PlanetDetailResponse]:
+    ayanamsa: Annotated[AyanamsaSystem, Query(description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")] = "lahiri",
+    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(timezone.utc).isoformat(timespec="seconds"),
+) -> list[Planet]:
     """Calculate sidereal planetary positions for given latitude, longitude, datetime, and ayanamsa."""
-    results = get_sidereal_planet_positions(
-        Angle(degrees=lat), Angle(degrees=lon), datetime.fromisoformat(dateandtime), get_ayanamsa_value(ayanamsa, datetime.fromisoformat(dateandtime))
-    )
-    return [
-        PlanetDetailResponse(
-            name=r.planet.name,
-            short_name=r.short_name,
-            latitude=cast("float", r.latitude.degrees),
-            longitude=cast("float", r.longitude.degrees),
-            rasi_occupied=r.rasi_occupied.value,
-            house_posited_at=r.house_posited_at.value,
-            planet=r.planet.value,
-            distance=cast("float", r.distance.km) if r.distance else 0.0,
-            nirayana_longitude=cast("float", r.nirayana_longitude.degrees) if r.nirayana_longitude else 0.0,
-            advanced_by=cast("float", r.advanced_by.degrees) if r.advanced_by else 0.0,
-            retrograde=r.retrograde,
-            is_ascendant=r.is_ascendant,
-            natchaththiram=r.natchaththiram.value if r.natchaththiram else 0,
-            paatham=r.paatham if r.paatham else 0,
-        )
-        for r in results
-    ]
+    dt = _parse_datetime_with_tz(dateandtime)
+
+    return get_sidereal_planet_positions(lat, lon, dt, get_ayanamsa(dt, ayanamsa))
 
 
 class AscendantRequest(BaseModel):
@@ -191,33 +120,17 @@ class AscendantRequest(BaseModel):
     ayanamsa: str
 
 
-@router.get("/ascendant", response_model=PlanetDetailResponse)
+@router.get("/ascendant", response_model=Planet)
 def get_sidereal_ascendant(
     lat: Annotated[float, Query(description="Latitude")] = 12.971667,
     lon: Annotated[float, Query(description="Longitude")] = 77.593611,
-    ayanamsa: Annotated[str, Query(description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")] = "lahiri",
-    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(tz=pytz.utc).isoformat(timespec="seconds"),
-) -> PlanetDetailResponse:
+    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    ayanamsa: Annotated[AyanamsaSystem, Query(description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")] = "lahiri",
+) -> Planet:
     """Calculate the sidereal ascendant (lagna) for given latitude, longitude, datetime, and ayanamsa."""
-    planet = get_sidereal_ascendant_position(
-        datetime.fromisoformat(dateandtime), Angle(degrees=lat), Angle(degrees=lon), get_ayanamsa_value(ayanamsa, datetime.fromisoformat(dateandtime))
-    )
-    return PlanetDetailResponse(
-        name=Planets.ASCENDANT.name,
-        short_name=planet.short_name,
-        latitude=cast("float", planet.latitude.degrees),
-        longitude=cast("float", planet.longitude.degrees),
-        rasi_occupied=planet.rasi_occupied.value,
-        house_posited_at=planet.house_posited_at.value,
-        planet=Planets.ASCENDANT.value,
-        distance=cast("float", planet.distance.km) if planet.distance else 0.0,
-        nirayana_longitude=cast("float", planet.nirayana_longitude.degrees) if planet.nirayana_longitude else 0.0,
-        advanced_by=cast("float", planet.advanced_by.degrees) if planet.advanced_by else 0.0,
-        retrograde=planet.retrograde,
-        is_ascendant=planet.is_ascendant,
-        natchaththiram=planet.natchaththiram.value if planet.natchaththiram else 0,
-        paatham=planet.paatham if planet.paatham else 0,
-    )
+    dt = _parse_datetime_with_tz(dateandtime)
+
+    return get_sidereal_ascendant_position(dt, lat, lon, ayanamsa=get_ayanamsa(dt, ayanamsa))
 
 
 class SunriseSunsetRequest(BaseModel):
@@ -239,10 +152,10 @@ class SunriseSunsetResponse(BaseModel):
 def get_sun_rise_set(
     lat: Annotated[float, Query(description="Latitude")] = 12.971667,
     lon: Annotated[float, Query(description="Longitude")] = 77.593611,
-    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(tz=pytz.utc).isoformat(timespec="seconds"),
+    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(timezone.utc).isoformat(timespec="seconds"),
 ) -> SunriseSunsetResponse:
     """Calculate the sunrise and sunset times for a given location and date."""
-    result = get_sunrise_sunset(Angle(degrees=lat), Angle(degrees=lon), datetime.fromisoformat(dateandtime))
+    result = get_sunrise_sunset(lat, lon, _parse_datetime_with_tz(dateandtime))
     return SunriseSunsetResponse(
         sunrise=result[0].isoformat() if result[0] else None,
         sunset=result[1].isoformat() if result[1] else None,
@@ -267,22 +180,21 @@ class KattamResponse(BaseModel):
     owner: int
     rasi: int
     house: int
-    planets: list[PlanetDetailResponse] | None
+    planets: list[Planet] | None
 
 
 @router.get("/kattams", response_model=list[KattamResponse])
 def get_astro_kattams(
     lat: Annotated[float, Query(description="Latitude")] = 12.971667,
     lon: Annotated[float, Query(description="Longitude")] = 77.593611,
-    ayanamsa: Annotated[str, Query(description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")] = "lahiri",
-    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(tz=pytz.utc).isoformat(timespec="seconds"),
+    ayanamsa: Annotated[AyanamsaSystem, Query(description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")] = "lahiri",
+    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(timezone.utc).isoformat(timespec="seconds"),
 ) -> list[KattamResponse]:
     """Generate kattam chart (list of squares) for given lat, lon, datetime, and ayanamsa."""
-    kattams = get_kattams(
-        Angle(degrees=lat), Angle(degrees=lon), datetime.fromisoformat(dateandtime), get_ayanamsa_value(ayanamsa, datetime.fromisoformat(dateandtime))
-    )
+    dt = _parse_datetime_with_tz(dateandtime)
+    kattams = get_kattams(lat, lon, dt, get_ayanamsa(dt, ayanamsa))
 
-    return convert_kattams_to_response_format(kattams, KattamResponse, PlanetDetailResponse)
+    return convert_kattams_to_response_format(kattams, KattamResponse, Planet)
 
 
 @router.get("/chart")
@@ -290,8 +202,8 @@ def get_astrology_chart_svg(  # noqa: PLR0913
     request: Request,
     lat: Annotated[float, Query(description="Latitude")] = 12.971667,
     lon: Annotated[float, Query(description="Longitude")] = 77.593611,
-    ayanamsa: Annotated[str, Query(description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")] = "lahiri",
-    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(tz=pytz.utc).isoformat(timespec="seconds"),
+    ayanamsa: Annotated[AyanamsaSystem, Query(description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")] = "lahiri",
+    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(timezone.utc).isoformat(timespec="seconds"),
     chart_type: Annotated[ChartType, Query(description="Type of astrology chart")] = ChartType.SOUTH_INDIAN,
     name: Annotated[str, Query(description="Name for the chart")] = "ND Astro",
     place: Annotated[str, Query(description="Place of birth")] = "Salem",
@@ -320,15 +232,14 @@ def get_astrology_chart_svg(  # noqa: PLR0913
     target_lang = lang or get_locale(request)
 
     # Get the kattams data using the same logic as the kattams endpoint
-    kattams = get_kattams(
-        Angle(degrees=lat), Angle(degrees=lon), datetime.fromisoformat(dateandtime), get_ayanamsa_value(ayanamsa, datetime.fromisoformat(dateandtime))
-    )
+    dt = _parse_datetime_with_tz(dateandtime)
+    kattams = get_kattams(lat, lon, dt, get_ayanamsa(dt, ayanamsa))
 
     # Convert to KattamResponse format using the utility function
-    kattams_data = convert_kattams_to_response_format(kattams, KattamResponse, PlanetDetailResponse)
+    kattams_data = convert_kattams_to_response_format(kattams, KattamResponse, Planet)
 
     # Create birth details using input parameters
-    datetz = datetime.fromisoformat(dateandtime).astimezone(pytz.timezone(tz))
+    datetz = dt.astimezone(pytz.timezone(tz))
     birth_details = BirthDetails(
         name_abbr=name,
         date=format_datetime(datetz, format=_("DateFormat"), locale=target_lang, tzinfo=pytz.timezone(tz)),

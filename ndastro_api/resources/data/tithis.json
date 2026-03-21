@@ -1,0 +1,1889 @@
+[
+  {
+    "name": "Pratipada",
+    "code": "T01",
+    "number": 1,
+    "paksha": "Y24",
+    "description": "First lunar day of waxing moon",
+    "deity": "Agni",
+    "tithiLord": "SU",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Nanda",
+    "quality": "Auspicious",
+    "guna": "Rajasic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "New beginnings",
+      "Starting projects",
+      "Initiating ventures",
+      "Travel"
+    ],
+    "inauspiciousFor": [
+      "Marriage"
+    ],
+    "specialObservances": [
+      "Gudi Padwa",
+      "Ugadi",
+      "Varsha Pratipada"
+    ],
+    "karmicEffects": [
+      "Actions lead to new beginnings",
+      "Initiating energy",
+      "Fresh starts manifest quickly"
+    ],
+    "birthTithiTraits": [
+      "Leadership",
+      "Initiative",
+      "Independent",
+      "Pioneering spirit",
+      "Energetic"
+    ],
+    "nakshatraCompatibility": [
+      "N01",
+      "N10",
+      "N19"
+    ],
+    "agriculturalSignificance": "Good for planting new crops",
+    "specificRituals": [
+      "Kalash sthapana",
+      "New ventures",
+      "Griha pravesh"
+    ],
+    "vedicReferences": "Mentioned in Muhurta texts as beginning of lunar cycle",
+    "keywords": [
+      "Beginning",
+      "Initiative",
+      "Energy",
+      "Action"
+    ],
+    "represents": [
+      "New start",
+      "Creation",
+      "Fire energy",
+      "Initiative"
+    ]
+  },
+  {
+    "name": "Dwitiya",
+    "code": "T02",
+    "number": 2,
+    "paksha": "Y24",
+    "description": "Second lunar day of waxing moon",
+    "deity": "Y25",
+    "tithiLord": "MO",
+    "elementPanchamahabhuta": "EA",
+    "nature": "Bhadra",
+    "quality": "Very Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Marriage",
+      "Property purchase",
+      "Construction",
+      "All good works"
+    ],
+    "inauspiciousFor": [],
+    "specialObservances": [
+      "Bhaubeej",
+      "Yama Dwitiya"
+    ],
+    "karmicEffects": [
+      "Building strong foundations",
+      "Prosperous outcomes",
+      "Stable results"
+    ],
+    "birthTithiTraits": [
+      "Creative",
+      "Builder",
+      "Stable",
+      "Prosperous",
+      "Grounded"
+    ],
+    "nakshatraCompatibility": [
+      "N02",
+      "N11",
+      "N20"
+    ],
+    "agriculturalSignificance": "Favorable for foundation work and construction",
+    "specificRituals": [
+      "Griha pravesh",
+      "Marriage ceremonies",
+      "Property worship"
+    ],
+    "vedicReferences": "Described as Brahma Tithi in Dharma Shastras",
+    "keywords": [
+      "Creation",
+      "Building",
+      "Foundation",
+      "Prosperity"
+    ],
+    "represents": [
+      "Creative power",
+      "Construction",
+      "Building",
+      "Foundation"
+    ]
+  },
+  {
+    "name": "Tritiya",
+    "code": "T03",
+    "number": 3,
+    "paksha": "Y24",
+    "description": "Third lunar day of waxing moon",
+    "deity": "Gauri",
+    "tithiLord": "MA",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Jaya",
+    "quality": "Very Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Marriage",
+      "Education",
+      "Learning",
+      "Buying gold",
+      "Travel"
+    ],
+    "inauspiciousFor": [],
+    "specialObservances": [
+      "Akshaya Tritiya",
+      "Gangaur",
+      "Gauri Tritiya"
+    ],
+    "karmicEffects": [
+      "Victory in endeavors",
+      "Success in learning",
+      "Wealth accumulation"
+    ],
+    "birthTithiTraits": [
+      "Victorious",
+      "Educated",
+      "Wealthy",
+      "Successful",
+      "Knowledgeable"
+    ],
+    "nakshatraCompatibility": [
+      "N03",
+      "N12",
+      "N21"
+    ],
+    "agriculturalSignificance": "Excellent for all agricultural activities and gold purchases",
+    "specificRituals": [
+      "Gold purchase",
+      "Marriage",
+      "Education initiation",
+      "Business start"
+    ],
+    "vedicReferences": "Highly praised in Bhavishya Purana as most auspicious for wealth",
+    "keywords": [
+      "Victory",
+      "Success",
+      "Education",
+      "Knowledge"
+    ],
+    "represents": [
+      "Knowledge",
+      "Learning",
+      "Success",
+      "Victory"
+    ]
+  },
+  {
+    "name": "Chaturthi",
+    "code": "T04",
+    "number": 4,
+    "paksha": "Y24",
+    "description": "Fourth lunar day of waxing moon",
+    "deity": "Yama/Ganesha",
+    "tithiLord": "ME",
+    "elementPanchamahabhuta": "Air",
+    "nature": "Rikta",
+    "quality": "Mixed",
+    "guna": "Tamasic",
+    "durationCharacteristic": "Variable",
+    "muhurtaRating": 5,
+    "auspiciousFor": [
+      "Worship of Ganesha",
+      "Removing obstacles"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Starting new ventures"
+    ],
+    "specialObservances": [
+      "Ganesh Chaturthi",
+      "Sankashti Chaturthi",
+      "Vinayaka Chaturthi"
+    ],
+    "karmicEffects": [
+      "Obstacles arise for lessons",
+      "Tests of character",
+      "Need for wisdom"
+    ],
+    "birthTithiTraits": [
+      "Wise",
+      "Problem-solver",
+      "Patient",
+      "Faces obstacles",
+      "Devotee of Ganesha"
+    ],
+    "nakshatraCompatibility": [
+      "N05",
+      "N13",
+      "N17"
+    ],
+    "agriculturalSignificance": "Avoid starting new agricultural projects",
+    "specificRituals": [
+      "Ganesha puja",
+      "Obstacle removal rituals",
+      "Modak offering"
+    ],
+    "vedicReferences": "Mentioned in Ganesha Purana as sacred to Ganesha",
+    "keywords": [
+      "Obstacles",
+      "Ganesha",
+      "Removal",
+      "Challenges"
+    ],
+    "represents": [
+      "Obstacles",
+      "Tests",
+      "Ganesha energy",
+      "Overcoming"
+    ]
+  },
+  {
+    "name": "Panchami",
+    "code": "T05",
+    "number": 5,
+    "paksha": "Y24",
+    "description": "Fifth lunar day of waxing moon",
+    "deity": "Sarpa/Nagas",
+    "tithiLord": "JU",
+    "elementPanchamahabhuta": "Ether",
+    "nature": "Nanda",
+    "quality": "Auspicious",
+    "guna": "Rajasic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Education",
+      "Learning arts",
+      "Worship of Saraswati",
+      "Knowledge pursuits"
+    ],
+    "inauspiciousFor": [],
+    "specialObservances": [
+      "Nag Panchami",
+      "Basant Panchami",
+      "Saraswati Puja"
+    ],
+    "karmicEffects": [
+      "Knowledge expansion",
+      "Artistic growth",
+      "Spiritual wisdom"
+    ],
+    "birthTithiTraits": [
+      "Learned",
+      "Artistic",
+      "Wise",
+      "Musical",
+      "Spiritual seeker"
+    ],
+    "nakshatraCompatibility": [
+      "N06",
+      "N15",
+      "N24"
+    ],
+    "agriculturalSignificance": "Good for learning new farming techniques",
+    "specificRituals": [
+      "Saraswati puja",
+      "Vidya arambha",
+      "Learning initiation",
+      "Naga worship"
+    ],
+    "vedicReferences": "Mentioned in Bhavishya Purana as sacred to Saraswati and Nagas",
+    "keywords": [
+      "Knowledge",
+      "Serpents",
+      "Learning",
+      "Arts"
+    ],
+    "represents": [
+      "Knowledge",
+      "Learning",
+      "Serpent energy",
+      "Protection"
+    ]
+  },
+  {
+    "name": "Shashthi",
+    "code": "T06",
+    "number": 6,
+    "paksha": "Y24",
+    "description": "Sixth lunar day of waxing moon",
+    "deity": "Kartikeya",
+    "tithiLord": "VE",
+    "elementPanchamahabhuta": "Water",
+    "nature": "Bhadra",
+    "quality": "Very Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Marriage",
+      "Warfare",
+      "Competition",
+      "Sports",
+      "All works"
+    ],
+    "inauspiciousFor": [],
+    "specialObservances": [
+      "Skanda Shashthi",
+      "Chhath Puja",
+      "Yamuna Chhath"
+    ],
+    "karmicEffects": [
+      "Victory in competition",
+      "Courage manifests",
+      "Success in challenges"
+    ],
+    "birthTithiTraits": [
+      "Courageous",
+      "Competitive",
+      "Leader",
+      "Warrior spirit",
+      "Victorious"
+    ],
+    "nakshatraCompatibility": [
+      "N08",
+      "N14",
+      "N23"
+    ],
+    "agriculturalSignificance": "Good for all agricultural works and competitions",
+    "specificRituals": [
+      "Kartikeya worship",
+      "Marriage ceremonies",
+      "Sun worship"
+    ],
+    "vedicReferences": "Mentioned in Skanda Purana as sacred to Lord Kartikeya",
+    "keywords": [
+      "Victory",
+      "Courage",
+      "Kartikeya",
+      "War"
+    ],
+    "represents": [
+      "Courage",
+      "Victory",
+      "Martial energy",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "Saptami",
+    "code": "T07",
+    "number": 7,
+    "paksha": "Y24",
+    "description": "Seventh lunar day of waxing moon",
+    "deity": "Surya",
+    "tithiLord": "SA",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Jaya",
+    "quality": "Very Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Shorter",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Sun worship",
+      "Travel",
+      "Business",
+      "All ventures"
+    ],
+    "inauspiciousFor": [],
+    "specialObservances": [
+      "Ratha Saptami",
+      "Surya Jayanti",
+      "Achala Saptami"
+    ],
+    "karmicEffects": [
+      "Power and authority",
+      "Success in ventures",
+      "Solar blessings"
+    ],
+    "birthTithiTraits": [
+      "Powerful",
+      "Authoritative",
+      "Successful",
+      "Leader",
+      "Solar personality"
+    ],
+    "nakshatraCompatibility": [
+      "N09",
+      "N16",
+      "N25"
+    ],
+    "agriculturalSignificance": "Excellent for all works related to sun and travel",
+    "specificRituals": [
+      "Surya puja",
+      "Ratha yatra",
+      "Travel for pilgrimage"
+    ],
+    "vedicReferences": "Mentioned in Rig Veda as sacred to Surya Deva",
+    "keywords": [
+      "Victory",
+      "SU",
+      "Power",
+      "Success"
+    ],
+    "represents": [
+      "Solar energy",
+      "Power",
+      "Authority",
+      "Success"
+    ]
+  },
+  {
+    "name": "Ashtami",
+    "code": "T08",
+    "number": 8,
+    "paksha": "Y24",
+    "description": "Eighth lunar day of waxing moon",
+    "deity": "Shiva/Durga",
+    "tithiLord": "RA",
+    "elementPanchamahabhuta": "EA",
+    "nature": "Rikta",
+    "quality": "Mixed",
+    "guna": "Tamasic",
+    "durationCharacteristic": "Variable",
+    "muhurtaRating": 6,
+    "auspiciousFor": [
+      "Worship of Shiva/Durga",
+      "Tantric practices"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies"
+    ],
+    "specialObservances": [
+      "Durga Ashtami",
+      "Krishna Janmashtami",
+      "Bhairava Ashtami"
+    ],
+    "karmicEffects": [
+      "Transformation through challenges",
+      "Spiritual power",
+      "Protection from enemies"
+    ],
+    "birthTithiTraits": [
+      "Powerful",
+      "Transformative",
+      "Spiritual",
+      "Intense",
+      "Protected"
+    ],
+    "nakshatraCompatibility": [
+      "N10",
+      "N18",
+      "N26"
+    ],
+    "agriculturalSignificance": "Avoid important agricultural decisions",
+    "specificRituals": [
+      "Durga puja",
+      "Shiva abhishekam",
+      "Tantric sadhana"
+    ],
+    "vedicReferences": "Mentioned in Devi Bhagavata as sacred to Divine Mother",
+    "keywords": [
+      "Power",
+      "Durga",
+      "Y20",
+      "Transformation"
+    ],
+    "represents": [
+      "Divine power",
+      "Transformation",
+      "Protection",
+      "Strength"
+    ]
+  },
+  {
+    "name": "Navami",
+    "code": "T09",
+    "number": 9,
+    "paksha": "Y24",
+    "description": "Ninth lunar day of waxing moon",
+    "deity": "Durga",
+    "tithiLord": "KE",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Nanda",
+    "quality": "Auspicious",
+    "guna": "Rajasic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Worship of Durga",
+      "Spiritual practices",
+      "Victory over enemies"
+    ],
+    "inauspiciousFor": [],
+    "specialObservances": [
+      "Ram Navami",
+      "Maha Navami",
+      "Navaratri Navami"
+    ],
+    "karmicEffects": [
+      "Victory over inner enemies",
+      "Divine protection",
+      "Completion of cycles"
+    ],
+    "birthTithiTraits": [
+      "Protective",
+      "Victorious",
+      "Spiritual warrior",
+      "Complete",
+      "Divine connection"
+    ],
+    "nakshatraCompatibility": [
+      "N19",
+      "N27",
+      "N01"
+    ],
+    "agriculturalSignificance": "Good for completion of agricultural cycles",
+    "specificRituals": [
+      "Durga puja",
+      "Ram puja",
+      "Kanya pujan",
+      "Victory celebrations"
+    ],
+    "vedicReferences": "Highly praised in Devi Mahatmya and Ramayana",
+    "keywords": [
+      "Divine Mother",
+      "Protection",
+      "Victory",
+      "Power"
+    ],
+    "represents": [
+      "Divine feminine",
+      "Protection",
+      "Victory",
+      "Completion"
+    ]
+  },
+  {
+    "name": "Dashami",
+    "code": "T10",
+    "number": 10,
+    "paksha": "Y24",
+    "description": "Tenth lunar day of waxing moon",
+    "deity": "Yama",
+    "tithiLord": "SU",
+    "elementPanchamahabhuta": "Water",
+    "nature": "Bhadra",
+    "quality": "Very Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "All works",
+      "Rituals",
+      "Ceremonies"
+    ],
+    "inauspiciousFor": [],
+    "specialObservances": [
+      "Vishnu Dashavatara",
+      "Dashahara"
+    ],
+    "karmicEffects": [
+      "Dharmic actions",
+      "Justice prevails",
+      "Order established"
+    ],
+    "birthTithiTraits": [
+      "Just",
+      "Dharmic",
+      "Disciplined",
+      "Fair",
+      "Orderly"
+    ],
+    "nakshatraCompatibility": [
+      "N02",
+      "N11",
+      "N20"
+    ],
+    "agriculturalSignificance": "Good for all agricultural works",
+    "specificRituals": [
+      "Yama puja",
+      "Dharma rituals",
+      "Ancestor worship"
+    ],
+    "vedicReferences": "Mentioned in Garuda Purana as sacred to Yama",
+    "keywords": [
+      "Dharma",
+      "Justice",
+      "Yama",
+      "Order"
+    ],
+    "represents": [
+      "Dharma",
+      "Justice",
+      "Order",
+      "Discipline"
+    ]
+  },
+  {
+    "name": "Ekadashi",
+    "code": "T11",
+    "number": 11,
+    "paksha": "Y24",
+    "description": "Eleventh lunar day of waxing moon",
+    "deity": "Vishnu",
+    "tithiLord": "MO",
+    "elementPanchamahabhuta": "Ether",
+    "nature": "Jaya",
+    "quality": "Very Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Shorter",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Fasting",
+      "Spiritual practices",
+      "Worship of Vishnu",
+      "Meditation"
+    ],
+    "inauspiciousFor": [
+      "Eating grains",
+      "Material pursuits"
+    ],
+    "specialObservances": [
+      "Ekadashi fasting",
+      "Nirjala Ekadashi",
+      "Mokshada Ekadashi"
+    ],
+    "karmicEffects": [
+      "Spiritual elevation",
+      "Liberation",
+      "Purification of sins"
+    ],
+    "birthTithiTraits": [
+      "Spiritual",
+      "Pure",
+      "Devoted",
+      "Liberated soul",
+      "Vishnu devotee"
+    ],
+    "nakshatraCompatibility": [
+      "N03",
+      "N12",
+      "N21"
+    ],
+    "agriculturalSignificance": "Avoid material works, focus on spiritual",
+    "specificRituals": [
+      "Ekadashi vrata",
+      "Vishnu puja",
+      "Tulsi worship",
+      "Bhagavata parayana"
+    ],
+    "vedicReferences": "Extensively described in Padma Purana as most sacred",
+    "keywords": [
+      "Spirituality",
+      "Fasting",
+      "Vishnu",
+      "Purification"
+    ],
+    "represents": [
+      "Spiritual elevation",
+      "Purification",
+      "Devotion",
+      "Liberation"
+    ]
+  },
+  {
+    "name": "Dwadashi",
+    "code": "T12",
+    "number": 12,
+    "paksha": "Y24",
+    "description": "Twelfth lunar day of waxing moon",
+    "deity": "Vishnu",
+    "tithiLord": "MA",
+    "elementPanchamahabhuta": "Air",
+    "nature": "Rikta",
+    "quality": "Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "All works",
+      "Worship",
+      "Travel"
+    ],
+    "inauspiciousFor": [],
+    "specialObservances": [
+      "Vaikuntha Dwadashi",
+      "Matsya Dwadashi"
+    ],
+    "karmicEffects": [
+      "Preservation of gains",
+      "Protection",
+      "Sustenance"
+    ],
+    "birthTithiTraits": [
+      "Protective",
+      "Sustaining",
+      "Balanced",
+      "Preserver",
+      "Stable"
+    ],
+    "nakshatraCompatibility": [
+      "N05",
+      "N13",
+      "N17"
+    ],
+    "agriculturalSignificance": "Good for sustaining and maintaining works",
+    "specificRituals": [
+      "Vishnu puja",
+      "Breaking Ekadashi fast",
+      "Charitable acts"
+    ],
+    "vedicReferences": "Mentioned in Vishnu Purana as sacred to preservation",
+    "keywords": [
+      "Preservation",
+      "Vishnu",
+      "Protection",
+      "Sustenance"
+    ],
+    "represents": [
+      "Preservation",
+      "Sustenance",
+      "Protection",
+      "Balance"
+    ]
+  },
+  {
+    "name": "Trayodashi",
+    "code": "T13",
+    "number": 13,
+    "paksha": "Y24",
+    "description": "Thirteenth lunar day of waxing moon",
+    "deity": "Kamadeva",
+    "tithiLord": "ME",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Nanda",
+    "quality": "Auspicious",
+    "guna": "Rajasic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Marriage",
+      "Romance",
+      "Arts",
+      "Beauty"
+    ],
+    "inauspiciousFor": [],
+    "specialObservances": [
+      "Pradosh Vrata",
+      "Mahavir Jayanti"
+    ],
+    "karmicEffects": [
+      "Fulfillment of desires",
+      "Love blossoms",
+      "Creative expression"
+    ],
+    "birthTithiTraits": [
+      "Romantic",
+      "Artistic",
+      "Beautiful",
+      "Desiring",
+      "Creative"
+    ],
+    "nakshatraCompatibility": [
+      "N08",
+      "N14",
+      "N23"
+    ],
+    "agriculturalSignificance": "Good for beautification and artistic works",
+    "specificRituals": [
+      "Kamadeva puja",
+      "Rati worship",
+      "Love rituals",
+      "Pradosh puja"
+    ],
+    "vedicReferences": "Mentioned in Shiva Purana as sacred to Kamadeva",
+    "keywords": [
+      "Love",
+      "Desire",
+      "Beauty",
+      "Romance"
+    ],
+    "represents": [
+      "Love",
+      "Desire",
+      "Beauty",
+      "Creation"
+    ]
+  },
+  {
+    "name": "Chaturdashi",
+    "code": "T14",
+    "number": 14,
+    "paksha": "Y24",
+    "description": "Fourteenth lunar day of waxing moon",
+    "deity": "Shiva/Kali",
+    "tithiLord": "JU",
+    "elementPanchamahabhuta": "Water",
+    "nature": "Bhadra",
+    "quality": "Mixed",
+    "guna": "Tamasic",
+    "durationCharacteristic": "Variable",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Worship of Shiva",
+      "Tantric practices",
+      "Overcoming enemies"
+    ],
+    "inauspiciousFor": [
+      "Peaceful activities"
+    ],
+    "specialObservances": [
+      "Shiva Chaturdashi",
+      "Kali Chaturdashi",
+      "Pradosh Vrat"
+    ],
+    "karmicEffects": [
+      "Destruction of negativity",
+      "Transformation",
+      "Power accumulation"
+    ],
+    "birthTithiTraits": [
+      "Powerful",
+      "Transformative",
+      "Intense",
+      "Shiva devotee",
+      "Strong"
+    ],
+    "nakshatraCompatibility": [
+      "N06",
+      "N15",
+      "N24"
+    ],
+    "agriculturalSignificance": "Mixed results, good for removing pests",
+    "specificRituals": [
+      "Shiva puja",
+      "Rudra abhishekam",
+      "Tantric sadhana",
+      "Pradosh vrata"
+    ],
+    "vedicReferences": "Mentioned in Shiva Mahapurana as night of Shiva",
+    "keywords": [
+      "Power",
+      "Y20",
+      "Destruction",
+      "Transformation"
+    ],
+    "represents": [
+      "Destruction of negativity",
+      "Transformation",
+      "Power",
+      "Protection"
+    ]
+  },
+  {
+    "name": "Purnima",
+    "code": "T15",
+    "number": 15,
+    "paksha": "Y24",
+    "description": "Full Moon day",
+    "deity": "Chandra",
+    "tithiLord": "VE",
+    "elementPanchamahabhuta": "Water",
+    "nature": "Jaya",
+    "quality": "Very Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Longer",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Worship",
+      "Meditation",
+      "Spiritual practices",
+      "Ceremonies",
+      "Fasting"
+    ],
+    "inauspiciousFor": [],
+    "specialObservances": [
+      "Buddha Purnima",
+      "Guru Purnima",
+      "Sharad Purnima",
+      "Kartik Purnima"
+    ],
+    "karmicEffects": [
+      "Completion",
+      "Fulfillment",
+      "Illumination",
+      "Spiritual peak"
+    ],
+    "birthTithiTraits": [
+      "Complete",
+      "Illuminated",
+      "Emotional",
+      "Nurturing",
+      "Spiritual height"
+    ],
+    "nakshatraCompatibility": [
+      "N01", "N02", "N03", "N04", "N05", "N06", "N07", "N08", "N09",
+      "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18",
+      "N19", "N20", "N21", "N22", "N23", "N24", "N25", "N26", "N27"
+    ],
+    "agriculturalSignificance": "Peak growth period, full lunar energy",
+    "specificRituals": [
+      "Satyanarayan puja",
+      "Moon worship",
+      "Fasting",
+      "Charity",
+      "Spiritual sadhana"
+    ],
+    "vedicReferences": "Highly praised in all Puranas as most auspicious lunar day",
+    "keywords": [
+      "Completion",
+      "Fullness",
+      "MO",
+      "Illumination"
+    ],
+    "represents": [
+      "Completion",
+      "Fullness",
+      "Lunar energy",
+      "Fulfillment",
+      "Illumination"
+    ]
+  },
+  {
+    "name": "Pratipada",
+    "code": "T16",
+    "number": 1,
+    "paksha": "Krishna",
+    "description": "First lunar day of waning moon",
+    "deity": "Agni",
+    "tithiLord": "SA",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Nanda",
+    "quality": "Auspicious",
+    "guna": "Rajasic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 6,
+    "auspiciousFor": [
+      "Starting spiritual practices",
+      "Worship"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies"
+    ],
+    "specialObservances": [
+      "Rishi Panchami (when combined)"
+    ],
+    "karmicEffects": [
+      "Inner transformation begins",
+      "Purification",
+      "Spiritual renewal"
+    ],
+    "birthTithiTraits": [
+      "Introspective",
+      "Spiritual seeker",
+      "Transformer",
+      "Purifier"
+    ],
+    "nakshatraCompatibility": [
+      "N09",
+      "N18",
+      "N27"
+    ],
+    "agriculturalSignificance": "Begin winding down activities",
+    "specificRituals": [
+      "Agni puja",
+      "Spiritual initiation",
+      "Purification rites"
+    ],
+    "vedicReferences": "Mentioned as beginning of waning phase in Jyotish texts",
+    "keywords": [
+      "Beginning decline",
+      "Introspection",
+      "Fire",
+      "Purification"
+    ],
+    "represents": [
+      "Transition",
+      "Purification",
+      "Introspection",
+      "Renewal"
+    ]
+  },
+  {
+    "name": "Dwitiya",
+    "code": "T17",
+    "number": 2,
+    "paksha": "Krishna",
+    "description": "Second lunar day of waning moon",
+    "deity": "Y25",
+    "tithiLord": "RA",
+    "elementPanchamahabhuta": "EA",
+    "nature": "Bhadra",
+    "quality": "Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Worship",
+      "Spiritual practices"
+    ],
+    "inauspiciousFor": [
+      "Marriage"
+    ],
+    "specialObservances": [
+      "Spiritual observances"
+    ],
+    "karmicEffects": [
+      "Grounding inner work",
+      "Building spiritual foundation"
+    ],
+    "birthTithiTraits": [
+      "Grounded",
+      "Spiritual builder",
+      "Inner creator",
+      "Stable"
+    ],
+    "nakshatraCompatibility": [
+      "N10",
+      "N25",
+      "N26"
+    ],
+    "agriculturalSignificance": "Focus on inner work",
+    "specificRituals": [
+      "Brahma puja",
+      "Foundation rituals",
+      "Inner contemplation"
+    ],
+    "vedicReferences": "Mentioned in Panchanga texts as good for spiritual practices",
+    "keywords": [
+      "Grounding",
+      "Stability",
+      "Y25",
+      "Creation"
+    ],
+    "represents": [
+      "Grounding",
+      "Stability",
+      "Inner work",
+      "Foundation"
+    ]
+  },
+  {
+    "name": "Tritiya",
+    "code": "T18",
+    "number": 3,
+    "paksha": "Krishna",
+    "description": "Third lunar day of waning moon",
+    "deity": "Gauri",
+    "tithiLord": "KE",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Jaya",
+    "quality": "Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Worship",
+      "Education",
+      "Spiritual learning"
+    ],
+    "inauspiciousFor": [
+      "Marriage"
+    ],
+    "specialObservances": [
+      "Varalakshmi Vrata (sometimes)"
+    ],
+    "karmicEffects": [
+      "Inner knowledge",
+      "Wisdom accumulation",
+      "Spiritual insight"
+    ],
+    "birthTithiTraits": [
+      "Wise",
+      "Inner knowledge",
+      "Spiritual learner",
+      "Intuitive"
+    ],
+    "nakshatraCompatibility": [
+      "N19",
+      "N01",
+      "N02"
+    ],
+    "agriculturalSignificance": "Good for learning and introspection",
+    "specificRituals": [
+      "Gauri puja",
+      "Learning rituals",
+      "Inner wisdom practices"
+    ],
+    "vedicReferences": "Mentioned as good for inner knowledge acquisition",
+    "keywords": [
+      "Learning",
+      "Knowledge",
+      "Goddess",
+      "Wisdom"
+    ],
+    "represents": [
+      "Knowledge",
+      "Learning",
+      "Feminine wisdom",
+      "Insight"
+    ]
+  },
+  {
+    "name": "Chaturthi",
+    "code": "T19",
+    "number": 4,
+    "paksha": "Krishna",
+    "description": "Fourth lunar day of waning moon",
+    "deity": "Ganesha",
+    "tithiLord": "SU",
+    "elementPanchamahabhuta": "Air",
+    "nature": "Rikta",
+    "quality": "Mixed",
+    "guna": "Tamasic",
+    "durationCharacteristic": "Variable",
+    "muhurtaRating": 5,
+    "auspiciousFor": [
+      "Worship of Ganesha",
+      "Removing obstacles"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies"
+    ],
+    "specialObservances": [
+      "Sankashti Chaturthi",
+      "Ganesh Sankashti"
+    ],
+    "karmicEffects": [
+      "Removal of inner obstacles",
+      "Facing shadow self"
+    ],
+    "birthTithiTraits": [
+      "Problem solver",
+      "Faces challenges",
+      "Wise",
+      "Obstacle remover"
+    ],
+    "nakshatraCompatibility": [
+      "N03",
+      "N16",
+      "N20"
+    ],
+    "agriculturalSignificance": "Deal with obstacles and problems",
+    "specificRituals": [
+      "Ganesha puja",
+      "Sankashti vrata",
+      "Obstacle removal"
+    ],
+    "vedicReferences": "Mentioned in Ganesha Purana as important for devotees",
+    "keywords": [
+      "Obstacles",
+      "Ganesha",
+      "Challenges",
+      "Resolution"
+    ],
+    "represents": [
+      "Obstacle removal",
+      "Wisdom",
+      "Inner challenges",
+      "Resolution"
+    ]
+  },
+  {
+    "name": "Panchami",
+    "code": "T20",
+    "number": 5,
+    "paksha": "Krishna",
+    "description": "Fifth lunar day of waning moon",
+    "deity": "Sarpa/Nagas",
+    "tithiLord": "MO",
+    "elementPanchamahabhuta": "Ether",
+    "nature": "Nanda",
+    "quality": "Auspicious",
+    "guna": "Rajasic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 6,
+    "auspiciousFor": [
+      "Worship of Nagas",
+      "Tantric practices"
+    ],
+    "inauspiciousFor": [
+      "Marriage"
+    ],
+    "specialObservances": [
+      "Nag Panchami observances"
+    ],
+    "karmicEffects": [
+      "Kundalini awakening",
+      "Hidden knowledge",
+      "Protection from serpents"
+    ],
+    "birthTithiTraits": [
+      "Mysterious",
+      "Kundalini activated",
+      "Protected",
+      "Mystical"
+    ],
+    "nakshatraCompatibility": [
+      "N09",
+      "N04",
+      "N05"
+    ],
+    "agriculturalSignificance": "Protection from pests needed",
+    "specificRituals": [
+      "Naga worship",
+      "Tantric sadhana",
+      "Kundalini practices"
+    ],
+    "vedicReferences": "Mentioned in Naga Purana as sacred to serpent deities",
+    "keywords": [
+      "Serpents",
+      "Mystery",
+      "Protection",
+      "Kundalini"
+    ],
+    "represents": [
+      "Kundalini",
+      "Mystery",
+      "Protection",
+      "Hidden knowledge"
+    ]
+  },
+  {
+    "name": "Shashthi",
+    "code": "T21",
+    "number": 6,
+    "paksha": "Krishna",
+    "description": "Sixth lunar day of waning moon",
+    "deity": "Kartikeya",
+    "tithiLord": "MA",
+    "elementPanchamahabhuta": "Water",
+    "nature": "Bhadra",
+    "quality": "Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Worship",
+      "Spiritual warfare",
+      "Overcoming inner enemies"
+    ],
+    "inauspiciousFor": [
+      "Marriage"
+    ],
+    "specialObservances": [
+      "Skanda Shashthi",
+      "Subrahmanya worship"
+    ],
+    "karmicEffects": [
+      "Victory over inner battles",
+      "Courage development"
+    ],
+    "birthTithiTraits": [
+      "Inner warrior",
+      "Courageous",
+      "Disciplined",
+      "Victorious"
+    ],
+    "nakshatraCompatibility": [
+      "N06",
+      "N13",
+      "N15"
+    ],
+    "agriculturalSignificance": "Good for inner work and discipline",
+    "specificRituals": [
+      "Kartikeya worship",
+      "Inner warrior practices"
+    ],
+    "vedicReferences": "Mentioned in Skanda Purana for spiritual warriors",
+    "keywords": [
+      "Inner war",
+      "Courage",
+      "Kartikeya",
+      "Victory"
+    ],
+    "represents": [
+      "Inner victory",
+      "Courage",
+      "Discipline",
+      "Warrior energy"
+    ]
+  },
+  {
+    "name": "Saptami",
+    "code": "T22",
+    "number": 7,
+    "paksha": "Krishna",
+    "description": "Seventh lunar day of waning moon",
+    "deity": "Surya",
+    "tithiLord": "ME",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Jaya",
+    "quality": "Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Shorter",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Sun worship",
+      "Spiritual practices"
+    ],
+    "inauspiciousFor": [
+      "Marriage"
+    ],
+    "specialObservances": [
+      "Surya Saptami worship"
+    ],
+    "karmicEffects": [
+      "Inner light discovery",
+      "Self-knowledge"
+    ],
+    "birthTithiTraits": [
+      "Self-illuminated",
+      "Clear vision",
+      "Wise",
+      "Solar powered"
+    ],
+    "nakshatraCompatibility": [
+      "N08",
+      "N17",
+      "N26"
+    ],
+    "agriculturalSignificance": "Inner illumination period",
+    "specificRituals": [
+      "Surya puja",
+      "Self-inquiry",
+      "Clarity practices"
+    ],
+    "vedicReferences": "Mentioned for inner solar worship",
+    "keywords": [
+      "Inner light",
+      "SU",
+      "Illumination",
+      "Clarity"
+    ],
+    "represents": [
+      "Inner light",
+      "Clarity",
+      "Self-knowledge",
+      "Power"
+    ]
+  },
+  {
+    "name": "Ashtami",
+    "code": "T23",
+    "number": 8,
+    "paksha": "Krishna",
+    "description": "Eighth lunar day of waning moon",
+    "deity": "Kali/Bhairava",
+    "tithiLord": "JU",
+    "elementPanchamahabhuta": "EA",
+    "nature": "Rikta",
+    "quality": "Mixed",
+    "guna": "Tamasic",
+    "durationCharacteristic": "Variable",
+    "muhurtaRating": 5,
+    "auspiciousFor": [
+      "Worship of fierce deities",
+      "Tantric practices",
+      "Overcoming fears"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies"
+    ],
+    "specialObservances": [
+      "Kalashtami",
+      "Bhairava Ashtami"
+    ],
+    "karmicEffects": [
+      "Ego destruction",
+      "Fierce transformation",
+      "Liberation through destruction"
+    ],
+    "birthTithiTraits": [
+      "Fierce",
+      "Transformative",
+      "Powerful",
+      "Kali devotee",
+      "Fearless"
+    ],
+    "nakshatraCompatibility": [
+      "N10",
+      "N18",
+      "N19"
+    ],
+    "agriculturalSignificance": "Destructive period, avoid new starts",
+    "specificRituals": [
+      "Kali puja",
+      "Bhairava worship",
+      "Tantric sadhana",
+      "Fear confrontation"
+    ],
+    "vedicReferences": "Mentioned in Tantra texts as highly powerful for transformation",
+    "keywords": [
+      "Fierce power",
+      "Kali",
+      "Transformation",
+      "Death"
+    ],
+    "represents": [
+      "Fierce transformation",
+      "Death of ego",
+      "Power",
+      "Liberation"
+    ]
+  },
+  {
+    "name": "Navami",
+    "code": "T24",
+    "number": 9,
+    "paksha": "Krishna",
+    "description": "Ninth lunar day of waning moon",
+    "deity": "Durga",
+    "tithiLord": "VE",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Nanda",
+    "quality": "Auspicious",
+    "guna": "Rajasic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 7,
+    "auspiciousFor": [
+      "Worship of Durga",
+      "Protection rituals"
+    ],
+    "inauspiciousFor": [
+      "Marriage"
+    ],
+    "specialObservances": [
+      "Maha Navami"
+    ],
+    "karmicEffects": [
+      "Divine protection",
+      "Completion of waning cycle"
+    ],
+    "birthTithiTraits": [
+      "Protected",
+      "Powerful",
+      "Complete",
+      "Durga devotee"
+    ],
+    "nakshatraCompatibility": [
+      "N01",
+      "N02",
+      "N27"
+    ],
+    "agriculturalSignificance": "Protection rituals needed",
+    "specificRituals": [
+      "Durga puja",
+      "Protection ceremonies",
+      "Power accumulation"
+    ],
+    "vedicReferences": "Mentioned in Devi Mahatmya for protection",
+    "keywords": [
+      "Divine protection",
+      "Durga",
+      "Power",
+      "Completion"
+    ],
+    "represents": [
+      "Divine protection",
+      "Completion",
+      "Power",
+      "Purification"
+    ]
+  },
+  {
+    "name": "Dashami",
+    "code": "T25",
+    "number": 10,
+    "paksha": "Krishna",
+    "description": "Tenth lunar day of waning moon",
+    "deity": "Yama",
+    "tithiLord": "SA",
+    "elementPanchamahabhuta": "Water",
+    "nature": "Bhadra",
+    "quality": "Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Ancestor worship",
+      "Pitru karma",
+      "Spiritual practices"
+    ],
+    "inauspiciousFor": [
+      "Marriage"
+    ],
+    "specialObservances": [
+      "Pitru Paksha rituals"
+    ],
+    "karmicEffects": [
+      "Ancestral blessings",
+      "Karmic clearing",
+      "Dharmic action"
+    ],
+    "birthTithiTraits": [
+      "Ancestrally connected",
+      "Dharmic",
+      "Respectful of elders",
+      "Karmic aware"
+    ],
+    "nakshatraCompatibility": [
+      "N20",
+      "N21",
+      "N22"
+    ],
+    "agriculturalSignificance": "Honor ancestors, clear karma",
+    "specificRituals": [
+      "Pitru tarpan",
+      "Shraddha",
+      "Ancestor worship",
+      "Karma clearing"
+    ],
+    "vedicReferences": "Extensively mentioned in Garuda Purana for ancestor worship",
+    "keywords": [
+      "Ancestors",
+      "Yama",
+      "Death",
+      "Dharma"
+    ],
+    "represents": [
+      "Ancestor connection",
+      "Dharma",
+      "Justice",
+      "Death consciousness"
+    ]
+  },
+  {
+    "name": "Ekadashi",
+    "code": "T26",
+    "number": 11,
+    "paksha": "Krishna",
+    "description": "Eleventh lunar day of waning moon",
+    "deity": "Vishnu",
+    "tithiLord": "RA",
+    "elementPanchamahabhuta": "Ether",
+    "nature": "Jaya",
+    "quality": "Very Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Shorter",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Fasting",
+      "Spiritual practices",
+      "Worship of Vishnu",
+      "Meditation"
+    ],
+    "inauspiciousFor": [
+      "Eating grains",
+      "Material pursuits"
+    ],
+    "specialObservances": [
+      "Papankusha Ekadashi",
+      "Utpanna Ekadashi",
+      "All Ekadashi vratas"
+    ],
+    "karmicEffects": [
+      "Maximum purification",
+      "Liberation path",
+      "Spiritual elevation"
+    ],
+    "birthTithiTraits": [
+      "Highly spiritual",
+      "Pure soul",
+      "Devoted",
+      "Liberated tendency",
+      "Detached"
+    ],
+    "nakshatraCompatibility": [
+      "N01", "N02", "N03", "N04", "N05", "N06", "N07", "N08", "N09",
+      "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18",
+      "N19", "N20", "N21", "N22", "N23", "N24", "N25", "N26", "N27"
+    ],
+    "agriculturalSignificance": "Complete abstinence from material work",
+    "specificRituals": [
+      "Ekadashi fasting",
+      "Vishnu sahasranama",
+      "Bhagavad Gita recitation",
+      "Complete sadhana"
+    ],
+    "vedicReferences": "Most extensively praised in Padma Purana, considered equal to all tirthas",
+    "keywords": [
+      "Spirituality",
+      "Fasting",
+      "Vishnu",
+      "Liberation"
+    ],
+    "represents": [
+      "Spiritual purification",
+      "Devotion",
+      "Liberation",
+      "Detachment"
+    ]
+  },
+  {
+    "name": "Dwadashi",
+    "code": "T27",
+    "number": 12,
+    "paksha": "Krishna",
+    "description": "Twelfth lunar day of waning moon",
+    "deity": "Vishnu",
+    "tithiLord": "KE",
+    "elementPanchamahabhuta": "Air",
+    "nature": "Rikta",
+    "quality": "Auspicious",
+    "guna": "Sattvic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Worship",
+      "Spiritual practices"
+    ],
+    "inauspiciousFor": [
+      "Marriage"
+    ],
+    "specialObservances": [
+      "Breaking Ekadashi fast"
+    ],
+    "karmicEffects": [
+      "Sustaining spiritual gains",
+      "Preservation"
+    ],
+    "birthTithiTraits": [
+      "Preserving",
+      "Balanced",
+      "Sustaining",
+      "Protected"
+    ],
+    "nakshatraCompatibility": [
+      "N14",
+      "N16",
+      "N23"
+    ],
+    "agriculturalSignificance": "Sustain and preserve",
+    "specificRituals": [
+      "Vishnu puja",
+      "Parana (breaking fast)",
+      "Charity"
+    ],
+    "vedicReferences": "Mentioned for sustaining spiritual practices",
+    "keywords": [
+      "Preservation",
+      "Vishnu",
+      "Protection",
+      "Balance"
+    ],
+    "represents": [
+      "Preservation",
+      "Balance",
+      "Protection",
+      "Sustenance"
+    ]
+  },
+  {
+    "name": "Trayodashi",
+    "code": "T28",
+    "number": 13,
+    "paksha": "Krishna",
+    "description": "Thirteenth lunar day of waning moon",
+    "deity": "Kamadeva/Manmatha",
+    "tithiLord": "SU",
+    "elementPanchamahabhuta": "Fire",
+    "nature": "Nanda",
+    "quality": "Mixed",
+    "guna": "Rajasic",
+    "durationCharacteristic": "Normal",
+    "muhurtaRating": 5,
+    "auspiciousFor": [
+      "Tantric practices",
+      "Overcoming desires"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Material pursuits"
+    ],
+    "specialObservances": [
+      "Pradosh Vrata"
+    ],
+    "karmicEffects": [
+      "Desire transformation",
+      "Passion control",
+      "Purification of desires"
+    ],
+    "birthTithiTraits": [
+      "Passionate",
+      "Transforming desires",
+      "Intense",
+      "Seeking control"
+    ],
+    "nakshatraCompatibility": [
+      "N04",
+      "N05",
+      "N06"
+    ],
+    "agriculturalSignificance": "Control and transformation period",
+    "specificRituals": [
+      "Pradosh puja",
+      "Desire transformation practices",
+      "Shiva worship"
+    ],
+    "vedicReferences": "Mentioned for desire control in Tantric texts",
+    "keywords": [
+      "Desire",
+      "Passion",
+      "Control",
+      "Transformation"
+    ],
+    "represents": [
+      "Desire transformation",
+      "Passion control",
+      "Inner fire",
+      "Purification"
+    ]
+  },
+  {
+    "name": "Chaturdashi",
+    "code": "T29",
+    "number": 14,
+    "paksha": "Krishna",
+    "description": "Fourteenth lunar day of waning moon",
+    "deity": "Shiva/Rudra",
+    "tithiLord": "MO",
+    "elementPanchamahabhuta": "Water",
+    "nature": "Bhadra",
+    "quality": "Very Auspicious",
+    "guna": "Tamasic",
+    "durationCharacteristic": "Longer",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Worship of Shiva",
+      "Fasting",
+      "Spiritual practices",
+      "Overcoming negativity"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Material pursuits"
+    ],
+    "specialObservances": [
+      "Maha Shivaratri",
+      "Masik Shivaratri",
+      "Kalashtami"
+    ],
+    "karmicEffects": [
+      "Ultimate transformation",
+      "Ego death",
+      "Liberation through Shiva"
+    ],
+    "birthTithiTraits": [
+      "Shiva devotee",
+      "Transformative",
+      "Intense spiritual power",
+      "Liberated"
+    ],
+    "nakshatraCompatibility": [
+      "N06",
+      "N09",
+      "N19"
+    ],
+    "agriculturalSignificance": "Complete transformation, avoid worldly activities",
+    "specificRituals": [
+      "Shivaratri vrata",
+      "Night-long vigil",
+      "Rudra abhishekam",
+      "Shiva tandava"
+    ],
+    "vedicReferences": "Highly exalted in Shiva Purana as night of Shiva consciousness",
+    "keywords": [
+      "Y20",
+      "Destruction",
+      "Liberation",
+      "Transformation"
+    ],
+    "represents": [
+      "Destruction of ego",
+      "Liberation",
+      "Shiva energy",
+      "Ultimate transformation"
+    ]
+  },
+  {
+    "name": "Amavasya",
+    "code": "T30",
+    "number": 15,
+    "paksha": "Krishna",
+    "description": "New Moon day",
+    "deity": "Pitrus",
+    "tithiLord": "MA",
+    "elementPanchamahabhuta": "Ether",
+    "nature": "Jaya",
+    "quality": "Mixed",
+    "guna": "Tamasic",
+    "durationCharacteristic": "Variable/Longer",
+    "muhurtaRating": 4,
+    "auspiciousFor": [
+      "Ancestor worship",
+      "Pitru tarpan",
+      "Tantric practices",
+      "Meditation"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Starting new ventures"
+    ],
+    "specialObservances": [
+      "Mahalaya Amavasya",
+      "Deepavali Amavasya",
+      "Monthly Shraddha"
+    ],
+    "karmicEffects": [
+      "Ancestral liberation",
+      "Karmic completion",
+      "Death and rebirth",
+      "Seed planting"
+    ],
+    "birthTithiTraits": [
+      "Deeply spiritual",
+      "Ancestor connected",
+      "Mystical",
+      "Transformer",
+      "New beginning seeker"
+    ],
+    "nakshatraCompatibility": [],
+    "agriculturalSignificance": "Complete rest, seed preparation for new cycle",
+    "specificRituals": [
+      "Pitru tarpan",
+      "Shraddha",
+      "Tantric sadhana",
+      "Deep meditation",
+      "Ancestor worship"
+    ],
+    "vedicReferences": "Extensively described in Garuda Purana and Pitru Paksha texts as most important for ancestors",
+    "keywords": [
+      "Ancestors",
+      "Darkness",
+      "Endings",
+      "New beginnings"
+    ],
+    "represents": [
+      "Endings",
+      "Ancestors",
+      "Inner darkness",
+      "Seed of renewal",
+      "Death and rebirth"
+    ]
+  }
+]

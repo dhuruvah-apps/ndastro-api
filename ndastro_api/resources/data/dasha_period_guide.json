@@ -1,0 +1,1124 @@
+{
+    "system": {
+        "name": "Dasha Period Comprehensive Guide",
+        "description": "What to expect and how to navigate each planetary period in Vimshottari Dasha",
+        "sanskritName": "Dasha Kala Margadarshana",
+        "uniqueness": "Practical guidance for living through each dasha - not just theory",
+        "purpose": "Understand current life phase, prepare for upcoming periods, maximize opportunities, minimize difficulties",
+        "importance": "Knowing your dasha is like having life's roadmap - empowers conscious navigation",
+        "principle": "Each planet's period activates its significations - benefic or malefic results based on chart strength",
+        "scope": "All 9 Mahadashas, Antardashas, practical advice, do's and don'ts, remedies",
+        "vedicReferences": "Brihat Parashara Hora Shastra - Dasha chapter",
+        "modernRelevance": "Essential life planning tool - career moves, marriage timing, health awareness, spiritual growth"
+    },
+    "dashaBasics": {
+        "name": "Understanding Vimshottari Dasha System",
+        "totalCycle": "120 years - covers entire human lifespan",
+        "order": "Sun → Moon → Mars → Rahu → Jupiter → Saturn → Mercury → Ketu → Venus (then repeats)",
+        "birthDasha": "Determined by Moon's nakshatra at birth",
+        "mahadasha": "Major period - each planet rules for specific years",
+        "antardasha": "Sub-period within Mahadasha - 9 sub-periods for each planet",
+        "pratyantardasha": "Sub-sub-period - further divisions",
+        "principle": "Dasha activates planet's potential in chart - strong planet gives good results, weak planet gives challenges",
+        "chartDependency": "CRITICAL: Dasha results depend entirely on planet's strength, placement, aspects in YOUR chart",
+        "generalGuidance": "This guide provides general themes - personalize based on your chart analysis"
+    },
+    "mahadashas": {
+        "name": "Nine Mahadashas - Complete Guide",
+        "periods": [
+            {
+                "planet": "Sun Mahadasha",
+                "duration": "6 years",
+                "nature": "Authority, ego, government, father, soul, vitality",
+                "generalThemes": [
+                    "Recognition and authority focus",
+                    "Government interactions increased",
+                    "Father's influence prominent",
+                    "Leadership opportunities",
+                    "Ego and identity issues surface",
+                    "Health focus on heart, eyes, bones",
+                    "Soul searching and life purpose"
+                ],
+                "whenSunStrong": {
+                    "indicators": "Sun exalted (Aries), own sign (Leo), well-placed in 1st/5th/9th/10th, aspected by benefics",
+                    "results": [
+                        "Career advancement, especially government/authority positions",
+                        "Recognition and fame in field",
+                        "Leadership roles and promotions",
+                        "Good relationship with authority figures",
+                        "Strong vitality and confidence",
+                        "Father's support and blessings",
+                        "Spiritual growth and self-realization",
+                        "Success in own ventures",
+                        "Public respect and honor"
+                    ],
+                    "opportunities": [
+                        "Start own business or leadership role",
+                        "Government job opportunities",
+                        "Political involvement if inclined",
+                        "Authority in any field",
+                        "Father's property or inheritance"
+                    ]
+                },
+                "whenSunWeak": {
+                    "indicators": "Sun debilitated (Libra), in 6th/8th/12th, combust other planets, afflicted by malefics",
+                    "challenges": [
+                        "Ego conflicts with authority",
+                        "Job losses or demotions possible",
+                        "Health issues: heart, eyes, bones, fever",
+                        "Father's health problems or conflicts",
+                        "Identity crisis and low confidence",
+                        "Government troubles or penalties",
+                        "Conflicts with bosses and seniors",
+                        "Vitality and energy low",
+                        "Lack of recognition despite efforts"
+                    ],
+                    "dangers": [
+                        "Heart-related health issues",
+                        "Conflicts leading to job loss",
+                        "Legal troubles with government",
+                        "Father's serious health issues"
+                    ]
+                },
+                "antardashas": {
+                    "sunSun": "Peak authority period, government success, recognition doubles, ego high - manage pride",
+                    "sunMoon": "Emotional recognition, public appreciation, mother-father harmony, mental peace with authority",
+                    "sunMars": "Aggressive career moves, property through authority, conflicts with superiors, control anger",
+                    "sunRahu": "Sudden authority changes, foreign government work, unconventional leadership, ego illusions",
+                    "sunJupiter": "BEST period - wisdom + authority, teaching leadership, ethical success, father's blessings",
+                    "sunSaturn": "Authority + discipline = hard work for recognition, delays but solid growth, father health issues",
+                    "sunMercury": "Intellectual authority, communication leadership, business with government, contracts",
+                    "sunKetu": "Spiritual authority, detachment from ego, authority loss or spiritual leadership",
+                    "sunVenus": "Diplomatic authority, creative leadership, luxury through position, arts patronage"
+                },
+                "dosAndDonts": {
+                    "do": [
+                        "Strengthen Sun through remedies (especially if weak)",
+                        "Respect authority figures and elders",
+                        "Pursue leadership opportunities confidently",
+                        "Government job opportunities - apply actively",
+                        "Work on self-confidence and self-esteem",
+                        "Offer water to rising Sun daily (Surya Arghya)",
+                        "Chant Gayatri mantra or Aditya Hridayam",
+                        "Donate wheat, jaggery, copper on Sundays",
+                        "Wear Ruby (only if Sun strong and expert consultation)",
+                        "Focus on cardiovascular health"
+                    ],
+                    "dont": [
+                        "Don't let ego become arrogant (even if Sun strong)",
+                        "Don't conflict unnecessarily with authority",
+                        "Don't ignore health issues (heart, eyes)",
+                        "Don't neglect father's health or relationship",
+                        "Don't avoid responsibility and leadership",
+                        "Don't disrespect government or authority"
+                    ]
+                },
+                "remedies": [
+                    "Surya Namaskar (Sun Salutation) daily - 12 rounds",
+                    "Offer water to Sun at sunrise with red flowers",
+                    "Chant: Om Ghrini Suryaya Namaha - 108 times Sunday morning",
+                    "Gayatri Mantra: Om Bhur Bhuvah Svaha... - daily at sunrise",
+                    "Aditya Hridayam Stotra on Sundays",
+                    "Donate: wheat, jaggery, red cloth, copper, ruby (if you can afford) on Sundays",
+                    "Fast on Sundays (no salt after sunset)",
+                    "Visit Sun temple or Surya Mandir",
+                    "Wear Ruby gemstone (ONLY after expert consultation and if Sun strong)",
+                    "Serve father, help fatherless children"
+                ],
+                "bestFor": "Career advancement, government jobs, leadership roles, self-employment start, authority building",
+                "worstFor": "If Sun very weak - health issues, ego conflicts, father problems",
+                "averageAge": "Ages vary - check your chart for exact timing"
+            },
+            {
+                "planet": "Moon Mahadasha",
+                "duration": "10 years",
+                "nature": "Mind, emotions, mother, public, peace, water, nurturing",
+                "generalThemes": [
+                    "Emotional life intensifies",
+                    "Mother's influence prominent",
+                    "Public dealing and popularity",
+                    "Mental peace or turmoil (depends on Moon)",
+                    "Home and family focus",
+                    "Liquid/food business opportunities",
+                    "Intuition and psychic sensitivity increased",
+                    "Mood fluctuations common"
+                ],
+                "whenMoonStrong": {
+                    "indicators": "Moon exalted (Taurus), full/waxing Moon, well-placed in 1st/4th/7th/10th, aspected by benefics",
+                    "results": [
+                        "Mental peace and emotional stability",
+                        "Public popularity and appreciation",
+                        "Mother's love and support",
+                        "Comfortable home and property",
+                        "Success in public-facing careers",
+                        "Intuitive and psychic abilities enhanced",
+                        "Good marriage and family life (especially for men)",
+                        "Travel and movement beneficial",
+                        "Food/hospitality business success",
+                        "Artistic and creative expression"
+                    ],
+                    "opportunities": [
+                        "Public relations and mass communication",
+                        "Hotel, restaurant, food industry",
+                        "Psychology, counseling, nursing",
+                        "Real estate (especially water-front)",
+                        "Fashion and garments business",
+                        "Mother-child care services"
+                    ]
+                },
+                "whenMoonWeak": {
+                    "indicators": "Moon debilitated (Scorpio), dark/waning Moon, in 6th/8th/12th, afflicted by malefics",
+                    "challenges": [
+                        "Mental anxiety and depression",
+                        "Emotional instability and mood swings",
+                        "Mother's health issues or conflicts",
+                        "Sleep disorders and insomnia",
+                        "Blood-related health problems",
+                        "Home disturbances and family conflicts",
+                        "Public reputation issues",
+                        "Overthinking and worry",
+                        "Stomach and digestive issues",
+                        "Menstrual irregularities (women)"
+                    ],
+                    "dangers": [
+                        "Severe depression or mental breakdown",
+                        "Mother's serious health crisis",
+                        "Psychosomatic diseases",
+                        "Addiction to escape emotional pain"
+                    ]
+                },
+                "antardashas": {
+                    "moonMoon": "Peak emotional period, mother dominates life, mental extremes, home focus, needs emotional balance",
+                    "moonMars": "Emotional aggression, home conflicts, property passion, mother-sibling issues, control anger",
+                    "moonRahu": "Emotional obsessions, mental confusion, illusions about peace, foreign emotional connections",
+                    "moonJupiter": "BEST period - wisdom calms mind, emotional growth, mother's blessings, peaceful expansion",
+                    "moonSaturn": "Emotional depression, mother's health issues, mental burden, home sadness, needs patience",
+                    "moonMercury": "Mental clarity, emotional communication, writing emotions, business through public",
+                    "moonKetu": "Emotional detachment, spiritual pull, mother separation fears, meditation beneficial",
+                    "moonVenus": "Emotional love, marriage happiness (men), beautiful home, artistic emotions, luxury",
+                    "moonSun": "Emotional authority, public recognition, mental confidence, mother-father harmony"
+                },
+                "dosAndDonts": {
+                    "do": [
+                        "Strengthen Moon through remedies (especially if weak)",
+                        "Practice meditation and mental peace techniques",
+                        "Spend quality time with mother",
+                        "Create peaceful and beautiful home environment",
+                        "Public-facing work if Moon strong",
+                        "Stay near water for mental peace",
+                        "Chant Moon mantras, especially on Mondays",
+                        "Donate white items, rice, milk on Mondays",
+                        "Wear Pearl (if Moon afflicted and after consultation)",
+                        "Maintain regular sleep schedule"
+                    ],
+                    "dont": [
+                        "Don't ignore mental health - seek help if needed",
+                        "Don't isolate emotionally",
+                        "Don't neglect mother's health or relationship",
+                        "Don't make major decisions in emotional extremes",
+                        "Don't engage in public conflicts (affects reputation)",
+                        "Don't ignore sleep disorders"
+                    ]
+                },
+                "remedies": [
+                    "Chant: Om Som Somaya Namaha - 108 times Monday evening",
+                    "Worship Moon - offer white flowers and rice",
+                    "Donate: milk, rice, white cloth, silver, pearls on Mondays",
+                    "Fast on Mondays (fruit and milk only)",
+                    "Drink water from silver vessel",
+                    "Wear Pearl gemstone (after consultation if Moon afflicted)",
+                    "Visit water bodies - ocean, lakes, rivers",
+                    "Practice Chandra Namaskar (Moon Salutation)",
+                    "Meditation and mindfulness practices daily",
+                    "Serve mother, help orphans and widows"
+                ],
+                "bestFor": "Public careers, emotional healing, family bonding, home purchase, creative arts",
+                "worstFor": "If Moon very weak - mental health crisis, mother problems, emotional instability",
+                "note": "Moon dasha can be most peaceful or most turbulent - entirely depends on Moon's strength in chart"
+            },
+            {
+                "planet": "Mars Mahadasha",
+                "duration": "7 years",
+                "nature": "Energy, courage, property, siblings, surgery, war, passion",
+                "generalThemes": [
+                    "High energy and activity",
+                    "Property and land dealings prominent",
+                    "Siblings' influence and relationships",
+                    "Courage to take risks",
+                    "Potential for conflicts and aggression",
+                    "Surgery or accidents possible if afflicted",
+                    "Physical fitness focus",
+                    "Technical work and engineering"
+                ],
+                "whenMarsStrong": {
+                    "indicators": "Mars exalted (Capricorn), own signs (Aries/Scorpio), in 3rd/6th/10th/11th, aspected by benefics",
+                    "results": [
+                        "Property acquisition and land success",
+                        "Victory over enemies and competition",
+                        "Technical and engineering excellence",
+                        "Sports and physical achievements",
+                        "Courage for new ventures",
+                        "Good relationship with siblings",
+                        "Defense/police career success",
+                        "Real estate business profitable",
+                        "Strong willpower and determination",
+                        "Leadership through action"
+                    ],
+                    "opportunities": [
+                        "Buy property and land",
+                        "Start construction or real estate business",
+                        "Join defense, police, or armed forces",
+                        "Engineering and technical careers",
+                        "Sports and athletics professionally",
+                        "Surgery if needed (good recovery)"
+                    ]
+                },
+                "whenMarsWeak": {
+                    "indicators": "Mars debilitated (Cancer), in 1st/4th/7th/8th/12th (Manglik), afflicted by malefics",
+                    "challenges": [
+                        "Accidents and injuries prone",
+                        "Aggression and anger issues",
+                        "Blood disorders and hemorrhage",
+                        "Conflicts with siblings",
+                        "Property disputes and losses",
+                        "Surgery complications",
+                        "Enemies and litigation",
+                        "Muscle and joint problems",
+                        "Burns and wounds",
+                        "Marriage conflicts (Mangal Dosha)"
+                    ],
+                    "dangers": [
+                        "Serious accidents (vehicle, workplace)",
+                        "Violence and physical altercations",
+                        "Surgery complications",
+                        "Property legal battles",
+                        "Blood loss or hemorrhage"
+                    ]
+                },
+                "antardashas": {
+                    "marsMars": "Peak action period, property deals, high energy, aggression high - channel constructively",
+                    "marsRahu": "Sudden accidents, aggressive obsessions, explosive energy, foreign property, be very careful",
+                    "marsJupiter": "Wisdom tempers aggression, ethical action, property with blessings, balanced energy",
+                    "marsSaturn": "DIFFICULT - action meets delays, frustration high, accidents + chronic issues, patience needed",
+                    "marsMercury": "Intellectual action, property business, technical communication, smart aggression",
+                    "marsKetu": "Sudden accidents, detached action, property spiritual purpose, mysterious injuries possible",
+                    "marsVenus": "Property for luxury, passionate love, artistic action, marriage passion, Chandra Mangala yoga",
+                    "marsSun": "Authoritative action, leadership courage, property through position, ego conflicts",
+                    "marsMoon": "Emotional action, home property focus, mother-sibling dynamics, moody energy"
+                },
+                "dosAndDonts": {
+                    "do": [
+                        "Channel energy into sports, exercise, physical work",
+                        "Pursue property and land opportunities actively",
+                        "Technical and engineering fields excellent",
+                        "Strengthen Mars through remedies if weak",
+                        "Manage anger consciously - count to 10",
+                        "Regular blood donation if Mars strong (channeling blood energy)",
+                        "Hanuman Chalisa daily for Mars control",
+                        "Red coral (if Mars strong and consultation)",
+                        "Be bold but not reckless",
+                        "Support siblings when needed"
+                    ],
+                    "dont": [
+                        "Don't let anger control actions - major danger",
+                        "Don't drive recklessly or take physical risks",
+                        "Don't get into physical fights or violence",
+                        "Don't ignore blood pressure issues",
+                        "Don't engage in property disputes aggressively",
+                        "Don't ignore siblings' conflicts",
+                        "Don't avoid surgery if medically necessary (if Mars weak)"
+                    ]
+                },
+                "remedies": [
+                    "Hanuman Chalisa daily - controls Mars effectively",
+                    "Chant: Om Kram Kreem Kraum Sah Bhaumaya Namaha - 108 times Tuesday",
+                    "Visit Hanuman temple every Tuesday",
+                    "Donate: red lentils, red cloth, copper, jaggery on Tuesdays",
+                    "Fast on Tuesdays",
+                    "Wear Red Coral gemstone (after consultation)",
+                    "Regular physical exercise to channel energy",
+                    "Anger management techniques and therapy",
+                    "Help siblings and support brothers' causes",
+                    "Avoid weapons, violence, dangerous activities"
+                ],
+                "bestFor": "Property acquisition, technical careers, sports, defense services, defeating enemies",
+                "worstFor": "If Mars very weak/afflicted - accidents, aggression issues, health problems, surgery complications",
+                "critical": "Most important to control anger during this period - can make or break life"
+            },
+            {
+                "planet": "Rahu Mahadasha",
+                "duration": "18 years (LONGEST period)",
+                "nature": "Foreign, unconventional, sudden, obsession, illusion, masses, technology",
+                "generalThemes": [
+                    "Life takes unconventional turns",
+                    "Foreign connections and travel",
+                    "Sudden rises and falls",
+                    "Obsessions and intense desires",
+                    "Material ambition peaks",
+                    "Technology and modern fields",
+                    "Mass reach and social media",
+                    "Illusions and reality checks",
+                    "Addictions possible if weak"
+                ],
+                "whenRahuStrong": {
+                    "indicators": "Rahu in 3rd/6th/10th/11th, exalted (Gemini/Virgo), aspected by Jupiter, with benefics",
+                    "results": [
+                        "Foreign settlement or frequent travel",
+                        "Unconventional career success",
+                        "Technology field breakthroughs",
+                        "Sudden wealth and fame",
+                        "Mass popularity (social media, public)",
+                        "Political success (if inclined)",
+                        "Research and innovation",
+                        "Breaking social boundaries",
+                        "Fulfillment of ambitious desires",
+                        "MNC and foreign companies"
+                    ],
+                    "opportunities": [
+                        "Move abroad or foreign assignments",
+                        "Technology and IT careers",
+                        "Social media and mass communication",
+                        "Unconventional businesses",
+                        "Politics and public influence",
+                        "Research in cutting-edge fields",
+                        "Import-export business"
+                    ]
+                },
+                "whenRahuWeak": {
+                    "indicators": "Rahu in 1st/4th/7th/12th, afflicting lagna/Moon, with malefics Saturn/Mars",
+                    "challenges": [
+                        "Career instability and sudden job losses",
+                        "Illusions and false hopes",
+                        "Obsessions turning destructive",
+                        "Addictions (drugs, alcohol, gambling)",
+                        "Mental confusion and anxiety",
+                        "Fraud and deception by others",
+                        "Unexplained fears and phobias",
+                        "Health: mysterious illnesses, poisoning, allergies",
+                        "Relationship instability",
+                        "Ethical compromises leading to troubles"
+                    ],
+                    "dangers": [
+                        "Drug/alcohol addiction",
+                        "Fraudulent schemes involvement",
+                        "Mental breakdown from obsessions",
+                        "Mysterious serious illness",
+                        "Legal troubles from unethical acts",
+                        "Epidemic diseases vulnerability"
+                    ]
+                },
+                "phases": {
+                    "first6years": "Material ambition highest, obsessive desires, seeking worldly success, illusions peak",
+                    "middle6years": "Reality checks, some illusions shatter, may experience sudden falls, reassessment",
+                    "last6years": "If learned lessons, spiritual turn possible; if not, cycle repeats with more intensity"
+                },
+                "antardashas": {
+                    "rahuRahu": "PEAK Rahu period - maximum obsessions, foreign focus, sudden changes, illusions highest, material peak or downfall",
+                    "rahuJupiter": "BEST period - Jupiter's wisdom controls Rahu, ethical foreign success, blessed obsessions, spiritual turn begins",
+                    "rahuSaturn": "VERY DIFFICULT - Rahu illusions + Saturn reality = crashes, delays + instability, depression, learn patience",
+                    "rahuMercury": "Intellectual obsessions, technology success, business schemes, clever but check ethics",
+                    "rahuKetu": "CRISIS period - Rahu (desires) fights Ketu (detachment), mental confusion, spiritual awakening through crisis",
+                    "rahuVenus": "Luxury obsessions, foreign relationships, artistic unconventional work, material pleasures peak",
+                    "rahuSun": "Authority obsessions, government foreign work, ego illusions, sudden fame or defame",
+                    "rahuMoon": "Emotional obsessions, mental instability, foreign emotions, mother issues, illusions about peace",
+                    "rahuMars": "Dangerous period - aggressive obsessions, sudden accidents, explosive foreign, property disputes"
+                },
+                "dosAndDonts": {
+                    "do": [
+                        "MAINTAIN ETHICS strictly - Rahu tempts shortcuts",
+                        "Ground yourself spiritually - meditation essential",
+                        "Pursue foreign opportunities actively",
+                        "Technology and unconventional fields favorable",
+                        "Reality-check your obsessions regularly",
+                        "Strengthen Rahu through remedies",
+                        "Durga worship for Rahu control",
+                        "Hessonite/Gomed (only if expert says and Rahu favorable)",
+                        "Help downtrodden and outcasts",
+                        "Verify everything - trust but verify"
+                    ],
+                    "dont": [
+                        "DON'T take shortcuts or unethical means - will backfire",
+                        "Don't trust blindly - verify all deals",
+                        "Don't get addicted - substances, gambling, obsessions",
+                        "Don't ignore mental health during confusion",
+                        "Don't chase illusions ignoring ground reality",
+                        "Don't betray trust or deceive others",
+                        "Don't ignore sudden health symptoms"
+                    ]
+                },
+                "remedies": [
+                    "Durga Saptashati path or Durga Chalisa daily - MOST powerful for Rahu",
+                    "Chant: Om Bhram Bhreem Bhraum Sah Rahave Namaha - 108 times Saturday",
+                    "Donate to poor and outcasts on Saturdays",
+                    "Feed dogs and crows regularly",
+                    "Wear Hessonite/Gomed (ONLY after expert consultation and if favorable)",
+                    "Worship Goddess Durga, especially on Tuesdays and Fridays",
+                    "Avoid alcohol, drugs, and all addictions strictly",
+                    "Practice grounding: meditation, nature, simplicity",
+                    "Serve lepers, outcasts, disadvantaged",
+                    "Mantra: Om Durgayai Namaha"
+                ],
+                "bestFor": "Foreign settlement, technology careers, unconventional success, mass reach, breaking boundaries",
+                "worstFor": "If Rahu very afflicted - addiction, fraud, mental breakdown, mysterious illnesses, ethical disasters",
+                "critical": "LONGEST dasha (18 years) - can make or completely break life. Ethical grounding ESSENTIAL.",
+                "note": "Rahu dasha is life's biggest test of ethics and reality vs illusion"
+            },
+            {
+                "planet": "Jupiter Mahadasha",
+                "duration": "16 years",
+                "nature": "Wisdom, expansion, teaching, children, fortune, dharma, growth",
+                "generalThemes": [
+                    "Life expands in positive ways",
+                    "Wisdom and knowledge pursuit",
+                    "Teaching and guiding others",
+                    "Children's birth or education",
+                    "Fortune and luck increase",
+                    "Ethical and righteous living",
+                    "Higher education and learning",
+                    "Spiritual growth and philosophy",
+                    "Financial expansion"
+                ],
+                "whenJupiterStrong": {
+                    "indicators": "Jupiter exalted (Cancer), own signs (Sagittarius/Pisces), in 1st/2nd/5th/9th/11th, aspected by benefics",
+                    "results": [
+                        "Career growth and expansion",
+                        "Financial prosperity increases",
+                        "Children bring joy (birth/success)",
+                        "Teaching and advisory roles",
+                        "Higher education success",
+                        "Spiritual and philosophical growth",
+                        "Ethical success and reputation",
+                        "Marriage (if unmarried) or marital happiness",
+                        "Fortune and luck favor",
+                        "Travel to holy places",
+                        "Property and wealth accumulation",
+                        "Respect and honor in society"
+                    ],
+                    "opportunities": [
+                        "Higher education - PhDs, certifications",
+                        "Teaching and professorship",
+                        "Law and judiciary careers",
+                        "Advisory and consultancy",
+                        "Religious and spiritual leadership",
+                        "Expansion businesses",
+                        "Financial services and banking",
+                        "Publishing and education"
+                    ]
+                },
+                "whenJupiterWeak": {
+                    "indicators": "Jupiter debilitated (Capricorn), in 6th/8th/12th, combust, afflicted by malefics",
+                    "challenges": [
+                        "Over-expansion leading to losses",
+                        "Children's health or education problems",
+                        "Financial optimism causing debt",
+                        "Ethical dilemmas and wrong guidance",
+                        "Liver and obesity issues",
+                        "Diabetes and high cholesterol",
+                        "False gurus and misleading advice",
+                        "Legal troubles despite good intentions",
+                        "Marriage delays or issues",
+                        "Wisdom misapplied",
+                        "Excess and overindulgence"
+                    ],
+                    "dangers": [
+                        "Liver disease or hepatitis",
+                        "Obesity and diabetes complications",
+                        "Over-expansion bankruptcy",
+                        "Children's serious problems",
+                        "Wrong guru leading astray"
+                    ]
+                },
+                "antardashas": {
+                    "jupiterJupiter": "PEAK blessings period - maximum wisdom, expansion, fortune, children success, teaching peak, ethical victory",
+                    "jupiterSaturn": "Wisdom + discipline = structured growth, slow expansion, dharma through karma, teaching with responsibility",
+                    "jupiterMercury": "Intellectual expansion, business growth, teaching communication, writing wisdom, smart prosperity",
+                    "jupiterKetu": "Spiritual wisdom peaks, detached teaching, children may go spiritual, liberation knowledge, moksha pull",
+                    "jupiterVenus": "Luxurious expansion, creative teaching, children marriage, wealth through arts, comfortable dharma",
+                    "jupiterSun": "Authoritative wisdom, government teaching, leadership expansion, ethical authority, recognized dharma",
+                    "jupiterMoon": "Emotional expansion, teaching with compassion, children emotional bonds, peaceful growth",
+                    "jupiterMars": "Energetic expansion, property through fortune, active teaching, courage in dharma, bold growth",
+                    "jupiterRahu": "Unconventional expansion, foreign teaching, ethical vs unethical test, technology education, mass teaching"
+                },
+                "dosAndDonts": {
+                    "do": [
+                        "Pursue higher education and learning",
+                        "Teach and share knowledge generously",
+                        "Expand business/career thoughtfully",
+                        "Focus on children's education and values",
+                        "Follow ethical path strictly",
+                        "Donate to education and religious causes",
+                        "Visit temples and holy places",
+                        "Yellow Sapphire (if Jupiter strong and consultation)",
+                        "Practice and spread dharma",
+                        "Financial planning for expansion"
+                    ],
+                    "dont": [
+                        "Don't over-expand beyond capacity",
+                        "Don't be over-optimistic financially",
+                        "Don't ignore health (liver, weight, diabetes)",
+                        "Don't give wrong advice or mislead",
+                        "Don't neglect children's education",
+                        "Don't compromise ethics for expansion",
+                        "Don't ignore wise counsel from elders"
+                    ]
+                },
+                "remedies": [
+                    "Chant: Om Gram Greem Graum Sah Gurave Namaha - 108 times Thursday",
+                    "Worship Jupiter - offer yellow flowers",
+                    "Donate: turmeric, yellow items, gold, books, education materials on Thursdays",
+                    "Fast on Thursdays (yellow food like banana allowed)",
+                    "Wear Yellow Sapphire (after expert consultation if Jupiter strong)",
+                    "Visit temples regularly, especially Vishnu temples",
+                    "Respect teachers, gurus, and Brahmins",
+                    "Teach someone for free - share knowledge",
+                    "Donate to schools, libraries, educational institutions",
+                    "Study scriptures: Bhagavad Gita, Upanishads"
+                ],
+                "bestFor": "Career expansion, education, teaching, children, marriage, financial growth, spiritual advancement",
+                "worstFor": "If Jupiter very weak - over-expansion losses, children problems, liver issues, ethical dilemmas",
+                "note": "Generally most beneficial dasha if Jupiter reasonably placed - expansion and growth period"
+            },
+            {
+                "planet": "Saturn Mahadasha",
+                "duration": "19 years (SECOND LONGEST)",
+                "nature": "Discipline, karma, hard work, delays, longevity, service, justice",
+                "generalThemes": [
+                    "Life becomes serious and disciplined",
+                    "Hard work required for results",
+                    "Delays and obstacles common",
+                    "Karma from past comes due",
+                    "Maturity and responsibility increase",
+                    "Service to others and society",
+                    "Health issues may arise",
+                    "Depression and loneliness possible",
+                    "Long-term stable foundations built"
+                ],
+                "whenSaturnStrong": {
+                    "indicators": "Saturn exalted (Libra), own signs (Capricorn/Aquarius), in 3rd/6th/10th/11th, yogakaraka (Taurus/Libra lagna)",
+                    "results": [
+                        "Career stability and longevity",
+                        "Success through persistent hard work",
+                        "Disciplined approach brings rewards",
+                        "Victory over enemies and obstacles",
+                        "Real estate and property success (old properties)",
+                        "Service sector success",
+                        "Respected in old age",
+                        "Justice and fairness prevail",
+                        "Spiritual maturity develops",
+                        "Long-term investments pay off",
+                        "Social service brings recognition"
+                    ],
+                    "opportunities": [
+                        "Government service and administration",
+                        "Law and judiciary (Saturn's justice)",
+                        "Social service and NGOs",
+                        "Old age care and services",
+                        "Mining, oil, iron, steel industries",
+                        "Research requiring patience",
+                        "Discipline-requiring fields"
+                    ]
+                },
+                "whenSaturnWeak": {
+                    "indicators": "Saturn debilitated (Aries), in 1st/4th/7th/8th/12th, afflicting lagna/Moon/Sun",
+                    "challenges": [
+                        "Career delays and obstacles",
+                        "Depression and melancholy",
+                        "Chronic health issues",
+                        "Bone and joint problems (arthritis)",
+                        "Dental issues",
+                        "Loneliness and isolation",
+                        "Hard work with minimal reward",
+                        "Property disputes and losses",
+                        "Relationship coldness",
+                        "Financial constraints",
+                        "Accidents and falls",
+                        "Premature aging feeling"
+                    ],
+                    "dangers": [
+                        "Severe depression and suicidal thoughts",
+                        "Chronic debilitating diseases",
+                        "Complete career collapse",
+                        "Osteoporosis and bone fractures",
+                        "Cancer (Saturn = chronic growth)",
+                        "Paralysis or nerve degeneration"
+                    ]
+                },
+                "phases": {
+                    "sadheSati": "If Saturn transiting Moon sign (2.5 yrs before MD, during, or 2.5 yrs after) = DOUBLE Saturn effect - very challenging",
+                    "first7years": "Karma clearing phase - heaviest, obstacles maximum, patience tested",
+                    "middle5years": "Adjustment phase - learning to work with Saturn, accepting reality",
+                    "last7years": "Reward phase - if worked hard and learned lessons, Saturn rewards with stability and respect"
+                },
+                "antardashas": {
+                    "saturnSaturn": "HEAVIEST period - maximum delays, hard work, karma due, depression risk, discipline peak, patience ultimate test",
+                    "saturnMercury": "Intellectual discipline, business through hard work, patient communication, structured thinking",
+                    "saturnKetu": "Spiritual discipline, detachment from world, isolation for meditation, karmic clearing, moksha work",
+                    "saturnVenus": "Disciplined love, late marriage possible, artistic discipline, luxury through hard work, mature relationships",
+                    "saturnSun": "Authority through discipline, government service, father's karma, ego maturity, hard-won recognition",
+                    "saturnMoon": "VERY DIFFICULT - emotional depression, mother's health issues, mental burden, home sadness, needs therapy",
+                    "saturnMars": "CHALLENGING - action delayed, frustration extreme, accidents + chronic issues, property struggles, anger vs patience",
+                    "saturnRahu": "Delays + instability = confusion, foreign delays, unconventional discipline, karmic illusions",
+                    "saturnJupiter": "Wisdom + discipline = best Saturn period, ethical hard work, structured expansion, mature dharma, eventual success"
+                },
+                "dosAndDonts": {
+                    "do": [
+                        "ACCEPT delays and work patiently - Saturn tests patience",
+                        "Hard work consistently - Saturn rewards sincere effort",
+                        "Serve poor, elderly, handicapped - Saturn's people",
+                        "Strengthen Saturn through remedies",
+                        "Hanuman Chalisa DAILY - most powerful Saturn remedy",
+                        "Take care of bones, joints, teeth",
+                        "Address depression - therapy essential if severe",
+                        "Build long-term stable foundations",
+                        "Blue Sapphire (ONLY if expert strongly recommends and Saturn yogakaraka)",
+                        "Respect time and be punctual"
+                    ],
+                    "dont": [
+                        "DON'T expect quick results - Saturn is SLOW",
+                        "Don't give up - persistence is KEY",
+                        "Don't ignore depression - seek help immediately",
+                        "Don't neglect elderly family members",
+                        "Don't avoid responsibilities",
+                        "Don't be impatient or complain constantly",
+                        "Don't ignore chronic health issues",
+                        "Don't wear Blue Sapphire without EXPERT consultation (can backfire severely)"
+                    ]
+                },
+                "remedies": [
+                    "Hanuman Chalisa daily - MOST EFFECTIVE Saturn remedy",
+                    "Chant: Om Pram Preem Praum Sah Shanaischaraya Namaha - 108 times Saturday",
+                    "Donate: black sesame, iron, black cloth, mustard oil on Saturdays",
+                    "Feed crows daily (Saturn's bird)",
+                    "Serve poor, elderly, disabled people",
+                    "Visit Shani temple on Saturdays - offer mustard oil lamp",
+                    "Fast on Saturdays (black food allowed)",
+                    "Blue Sapphire (ONLY ONLY ONLY if expert astrologer strongly recommends and Saturn yogakaraka)",
+                    "Accept delays and work through them patiently",
+                    "Practice patience, discipline, service daily"
+                ],
+                "bestFor": "Building stable foundations, service careers, disciplined work, spiritual maturity, karmic clearing",
+                "worstFor": "If Saturn very afflicted - severe depression, chronic illness, career collapse, unbearable delays",
+                "critical": "SECOND LONGEST dasha (19 years) - can be life's hardest period but builds character and brings eventual respect",
+                "note": "Saturn dasha teaches life's most important lessons through hardship - resist and suffer, accept and grow"
+            },
+            {
+                "planet": "Mercury Mahadasha",
+                "duration": "17 years",
+                "nature": "Intelligence, communication, business, learning, versatility, youth",
+                "generalThemes": [
+                    "Intellectual pursuits prominent",
+                    "Communication skills enhanced",
+                    "Business and commerce focus",
+                    "Multiple interests and activities",
+                    "Learning and education continuous",
+                    "Writing and publishing opportunities",
+                    "Social connections expand",
+                    "Nervous energy and mental activity",
+                    "Youthful energy and curiosity"
+                ],
+                "whenMercuryStrong": {
+                    "indicators": "Mercury exalted (Virgo), own signs (Gemini/Virgo), in 1st/2nd/5th/9th/10th/11th, aspected by benefics",
+                    "results": [
+                        "Business success and profits",
+                        "Excellent communication skills",
+                        "Writing and publishing success",
+                        "Education and learning excellence",
+                        "Mathematical and analytical abilities",
+                        "Multiple income sources",
+                        "Social popularity and networking",
+                        "Astrology and occult knowledge (if Jupiter support)",
+                        "Trading and commerce profit",
+                        "Teaching and intellectual work",
+                        "Quick thinking and adaptability",
+                        "Technology and computers"
+                    ],
+                    "opportunities": [
+                        "Business and entrepreneurship",
+                        "Accounting, CA, finance",
+                        "Writing, journalism, blogging",
+                        "Teaching and education",
+                        "IT and computer fields",
+                        "Trading and stock market",
+                        "Communication and media",
+                        "Sales and marketing",
+                        "Publishing and printing"
+                    ]
+                },
+                "whenMercuryWeak": {
+                    "indicators": "Mercury debilitated (Pisces), combust, in 6th/8th/12th, afflicted by malefics",
+                    "challenges": [
+                        "Business losses and poor decisions",
+                        "Communication problems and misunderstandings",
+                        "Nervous disorders and anxiety",
+                        "Mental scattered and unfocused",
+                        "Speech defects or communication anxiety",
+                        "Skin diseases and allergies",
+                        "Respiratory problems",
+                        "Hand tremors and nervous issues",
+                        "Multiple ventures all failing",
+                        "Cheated in business dealings",
+                        "Learning difficulties",
+                        "Overthinking and mental stress"
+                    ],
+                    "dangers": [
+                        "Severe anxiety and panic disorders",
+                        "Neurological problems",
+                        "Business bankruptcy from poor decisions",
+                        "Fraudulent schemes involvement"
+                    ]
+                },
+                "antardashas": {
+                    "mercuryMercury": "PEAK intellect period - business peak, communication excellence, multiple projects, learning speed highest",
+                    "mercuryKetu": "Intellectual detachment, business spiritual turn, communication mystical, confused thinking or deep insight",
+                    "mercuryVenus": "Artistic communication, creative business, writing beauty, pleasant dealings, profitable arts",
+                    "mercurySun": "Authoritative communication, government business, intellectual authority, contracts with power",
+                    "mercuryMoon": "Emotional communication, public business, writing feelings, business with women/public",
+                    "mercuryMars": "Aggressive business, technical communication, property business, quick decisions, control impatience",
+                    "mercuryRahu": "Technology business, foreign communication, unconventional commerce, clever but verify ethics",
+                    "mercuryJupiter": "BEST period - wisdom + intellect, ethical business, teaching communication, expansion with intelligence",
+                    "mercurySaturn": "Serious business, disciplined communication, slow but stable commerce, patience in dealings"
+                },
+                "dosAndDonts": {
+                    "do": [
+                        "Pursue business and entrepreneurship actively",
+                        "Develop communication and writing skills",
+                        "Learn continuously - courses, certifications",
+                        "Network and build social connections",
+                        "Multiple income streams favorable",
+                        "Strengthen Mercury through remedies",
+                        "Emerald (if Mercury strong and consultation)",
+                        "Stay mentally active and curious",
+                        "Document and communicate clearly",
+                        "Technology and IT fields excellent"
+                    ],
+                    "dont": [
+                        "Don't scatter energy in too many directions",
+                        "Don't make hasty business decisions",
+                        "Don't ignore nervous health (anxiety, stress)",
+                        "Don't communicate impulsively",
+                        "Don't trust verbal agreements - document everything",
+                        "Don't neglect focus and concentration",
+                        "Don't ignore skin or respiratory issues"
+                    ]
+                },
+                "remedies": [
+                    "Chant: Om Bram Breem Braum Sah Budhaya Namaha - 108 times Wednesday",
+                    "Worship Lord Vishnu and Ganesha",
+                    "Donate: green items, books, stationery, education materials on Wednesdays",
+                    "Fast on Wednesdays (green vegetables allowed)",
+                    "Wear Emerald (after consultation if Mercury strong)",
+                    "Feed green grass to cows on Wednesdays",
+                    "Practice clear communication and honesty",
+                    "Study and learn continuously",
+                    "Help students and provide educational support",
+                    "Keep business accounts organized and clean"
+                ],
+                "bestFor": "Business, communication careers, education, writing, intellectual work, multiple projects",
+                "worstFor": "If Mercury very weak - business losses, communication anxiety, mental stress, nervous disorders",
+                "note": "Excellent dasha for business and intellectual pursuits if Mercury well-placed"
+            },
+            {
+                "planet": "Ketu Mahadasha",
+                "duration": "7 years",
+                "nature": "Spirituality, detachment, isolation, mysticism, liberation, past life",
+                "generalThemes": [
+                    "Spiritual awakening and seeking",
+                    "Detachment from worldly matters",
+                    "Isolation and solitude increased",
+                    "Mystical experiences and insights",
+                    "Past life karma surfaces",
+                    "Sudden losses or releases",
+                    "Dissatisfaction with material success",
+                    "Meditation and inner focus",
+                    "Healing abilities may emerge"
+                ],
+                "whenKetuStrong": {
+                    "indicators": "Ketu in 3rd/6th/10th/11th/12th, exalted (Sagittarius), with Jupiter, aspected by benefics",
+                    "results": [
+                        "Spiritual enlightenment and moksha progress",
+                        "Liberation from attachments",
+                        "Mystical and psychic abilities",
+                        "Past life wisdom accessed",
+                        "Alternative healing success",
+                        "Research and deep expertise",
+                        "Occult and astrology mastery",
+                        "Detached wisdom and insight",
+                        "Computer and technical backend work",
+                        "Foreign spiritual journeys",
+                        "Renunciation without suffering"
+                    ],
+                    "opportunities": [
+                        "Spiritual teaching and guidance",
+                        "Astrology and occult sciences",
+                        "Healing (Reiki, Pranic, alternative)",
+                        "Meditation and yoga teaching",
+                        "Computer programming (backend)",
+                        "Research (isolated, deep focus)",
+                        "Philosophy and metaphysics",
+                        "Renunciation if chart supports"
+                    ]
+                },
+                "whenKetuWeak": {
+                    "indicators": "Ketu in 1st/4th/5th/7th, afflicting lagna/Moon/Sun, with malefics",
+                    "challenges": [
+                        "Extreme dissatisfaction with life",
+                        "Loss of direction and purpose",
+                        "Career detachment and job leaving",
+                        "Relationship breakups and isolation",
+                        "Mysterious health issues",
+                        "Mental confusion and fog",
+                        "Accidents and sudden losses",
+                        "Spiritual crisis without resolution",
+                        "Lack of interest in anything",
+                        "Depression from meaninglessness",
+                        "Children's health or loss (5th house)",
+                        "Auto-immune disorders"
+                    ],
+                    "dangers": [
+                        "Severe spiritual crisis and depression",
+                        "Mysterious serious illnesses",
+                        "Complete life detachment (can't function)",
+                        "Accidents from carelessness (detachment)",
+                        "Loss of children or children's problems"
+                    ]
+                },
+                "phases": {
+                    "first3years": "Worldly dissatisfaction peaks, material success feels empty, spiritual seeking begins",
+                    "middle2years": "Crisis and confusion, letting go of attachments, mystical experiences possible",
+                    "last2years": "Either spiritual breakthrough and peace OR complete confusion (depends on chart and work done)"
+                },
+                "antardashas": {
+                    "ketuKetu": "PEAK detachment - maximum spiritual pull, isolation, mystical experiences, complete dissatisfaction with world, liberation possible or depression",
+                    "ketuVenus": "Detached love, spiritual relationships, luxury loses meaning, arts mystical, marriage tests",
+                    "ketuSun": "Ego dissolution, authority detachment, father spiritual, identity crisis or self-realization",
+                    "ketuMoon": "Emotional detachment, mother separation, mental fog, intuitive insights, psychic opening",
+                    "ketuMars": "Action detachment, property spiritual, sudden accidents, energy for meditation, warrior monk",
+                    "ketuRahu": "CRISIS - desires vs detachment battle, obsession vs liberation, mental chaos or breakthrough",
+                    "ketuJupiter": "BEST period - wisdom + liberation, spiritual teaching, grace-filled detachment, moksha blessing",
+                    "ketuSaturn": "Isolated discipline, spiritual karma clearing, detached service, liberation through hardship",
+                    "ketuMercury": "Intellectual detachment, business loses interest, communication mystical, knowledge for liberation"
+                },
+                "dosAndDonts": {
+                    "do": [
+                        "EMBRACE spiritual path - Ketu is calling you",
+                        "Meditation and spiritual practices essential",
+                        "Retreat and solitude beneficial",
+                        "Study spiritual scriptures and philosophy",
+                        "Alternative healing if inclined",
+                        "Ganesha worship (removes Ketu obstacles)",
+                        "Cat's Eye (ONLY if expert says and Ketu favorable)",
+                        "Accept detachment - don't fight it",
+                        "Past life regression or therapy",
+                        "Simplify life materially"
+                    ],
+                    "dont": [
+                        "DON'T fight spiritual pull - accept gracefully",
+                        "Don't chase material success obsessively (won't fulfill)",
+                        "Don't ignore spiritual crisis - seek guidance",
+                        "Don't isolate completely (maintain basic connections)",
+                        "Don't abandon responsibilities prematurely",
+                        "Don't ignore mysterious health issues",
+                        "Don't dismiss mystical experiences as madness"
+                    ]
+                },
+                "remedies": [
+                    "Lord Ganesha worship - removes Ketu obstacles",
+                    "Chant: Om Gam Ganapataye Namaha - daily",
+                    "Ketu mantra: Om Kem Ketave Namaha - 108 times Tuesday/Saturday",
+                    "Donate: multi-colored blankets, spiritual items, help dogs on Tuesdays",
+                    "Feed and care for dogs (Ketu's animal)",
+                    "Wear Cat's Eye (ONLY after expert consultation and if favorable)",
+                    "Meditation and mindfulness daily",
+                    "Visit spiritual places and pilgrimages",
+                    "Serve spiritual seekers and saints",
+                    "Rudraksha beads wearing"
+                ],
+                "bestFor": "Spiritual growth, liberation progress, mystical experiences, alternative healing, deep research",
+                "worstFor": "If Ketu very afflicted - severe depression, mysterious illness, complete life detachment, loss of children",
+                "critical": "Most spiritually significant dasha - can bring moksha or mental breakdown depending on readiness",
+                "note": "Ketu dasha is soul's call to go beyond material - resist and suffer, accept and transcend"
+            },
+            {
+                "planet": "Venus Mahadasha",
+                "duration": "20 years (LONGEST period)",
+                "nature": "Love, luxury, beauty, arts, relationships, comfort, pleasure",
+                "generalThemes": [
+                    "Relationships and love prominent",
+                    "Material comfort and luxury",
+                    "Arts, creativity, and beauty",
+                    "Marriage and partnerships",
+                    "Pleasure and enjoyment",
+                    "Vehicles and luxury items",
+                    "Diplomatic and social life",
+                    "Creative expression enhanced",
+                    "Sensual pleasures focus"
+                ],
+                "whenVenusStrong": {
+                    "indicators": "Venus exalted (Pisces), own signs (Taurus/Libra), in 1st/2nd/4th/5th/7th/9th/11th, aspected by benefics",
+                    "results": [
+                        "Marriage and love fulfillment",
+                        "Material prosperity and luxury",
+                        "Arts and entertainment success",
+                        "Beauty and fashion careers thrive",
+                        "Vehicles and property (comfortable)",
+                        "Social popularity and charm",
+                        "Creative talents bloom",
+                        "Harmonious relationships",
+                        "Comfortable life and enjoyment",
+                        "Diplomatic success",
+                        "Jewelry and ornaments business",
+                        "Music, dance, drama success"
+                    ],
+                    "opportunities": [
+                        "Marriage (if unmarried)",
+                        "Arts, entertainment, film industry",
+                        "Fashion, beauty, cosmetics",
+                        "Jewelry and ornaments business",
+                        "Hospitality and luxury services",
+                        "Interior decoration and design",
+                        "Music and performing arts",
+                        "Relationship counseling",
+                        "Wedding and event planning"
+                    ]
+                },
+                "whenVenusWeak": {
+                    "indicators": "Venus debilitated (Virgo), in 6th/8th/12th, combust, afflicted by malefics",
+                    "challenges": [
+                        "Marriage problems and divorce",
+                        "Relationship betrayals",
+                        "Excessive luxury leading to debt",
+                        "Reproductive health issues (especially women)",
+                        "Kidney and urinary problems",
+                        "Diabetes (sugar metabolism)",
+                        "Venereal diseases",
+                        "Over-indulgence in pleasures",
+                        "Multiple affairs and instability",
+                        "Financial losses from luxury",
+                        "Creative blocks",
+                        "Hormonal imbalances"
+                    ],
+                    "dangers": [
+                        "Divorce and relationship breakdown",
+                        "Infertility or reproductive diseases",
+                        "Kidney failure",
+                        "Diabetes complications",
+                        "Sexual dysfunction",
+                        "Bankruptcy from luxurious lifestyle"
+                    ]
+                },
+                "antardashas": {
+                    "venusVenus": "PEAK love & luxury - marriage peak, material comfort highest, arts success, beauty maxim, pleasure focus, enjoy but don't overindulge",
+                    "venusSun": "Diplomatic authority, luxury through position, artistic leadership, relationship with powerful, ego in love",
+                    "venusMoon": "Emotional love, domestic bliss, beautiful home, artistic emotions, marriage happiness, comfortable peace",
+                    "venusMars": "Passionate love, sexual peak, property luxury, artistic action, Chandra Mangala yoga activation",
+                    "venusRahu": "Unconventional relationships, foreign love, luxury obsession, artistic innovation, social media arts",
+                    "venusJupiter": "EXCELLENT - love with wisdom, expansive luxury, marriage blessings, children bring joy, ethical prosperity",
+                    "venusSaturn": "Mature love, luxury through discipline, artistic patience, late marriage possible, stable comfort",
+                    "venusMercury": "Artistic business, creative communication, luxury trade, charming speech, profitable arts",
+                    "venusKetu": "Detached love, spiritual arts, luxury loses meaning, divine love, relationship tests, transcendent creativity"
+                },
+                "dosAndDonts": {
+                    "do": [
+                        "Pursue marriage and relationships actively",
+                        "Develop artistic and creative talents",
+                        "Build comfortable and beautiful environments",
+                        "Luxury and beauty industries favorable",
+                        "Strengthen Venus through remedies",
+                        "Diamond/White Sapphire (if Venus strong and consultation)",
+                        "Enjoy life's pleasures moderately",
+                        "Dress well and maintain appearance",
+                        "Social and diplomatic skills",
+                        "Create art and beauty"
+                    ],
+                    "dont": [
+                        "Don't over-indulge in luxuries beyond means",
+                        "Don't engage in multiple affairs (if committed)",
+                        "Don't neglect health for pleasure",
+                        "Don't ignore reproductive health issues",
+                        "Don't accumulate debt for luxury items",
+                        "Don't be superficial in relationships",
+                        "Don't ignore kidney and sugar levels"
+                    ]
+                },
+                "remedies": [
+                    "Chant: Om Dram Dreem Draum Sah Shukraya Namaha - 108 times Friday",
+                    "Worship Goddess Lakshmi (Venus's deity)",
+                    "Donate: white items, sugar, rice, perfume, silver on Fridays",
+                    "Fast on Fridays (white food like milk, rice allowed)",
+                    "Wear Diamond or White Sapphire (after consultation)",
+                    "Visit Lakshmi temple on Fridays",
+                    "Feed cows white food on Fridays",
+                    "Maintain harmony in relationships",
+                    "Support women's causes and help women in need",
+                    "Practice moderation in pleasures"
+                ],
+                "bestFor": "Marriage, relationships, arts careers, luxury businesses, creative expression, comfortable life",
+                "worstFor": "If Venus very weak - marriage breakdown, reproductive issues, excessive debt, relationship betrayals",
+                "critical": "LONGEST dasha (20 years) - can be life's most enjoyable or relationship-challenging period",
+                "note": "Generally pleasant dasha if Venus reasonably placed - life becomes comfortable and beautiful"
+            }
+        ]
+    },
+    "currentDashaGuidance": {
+        "name": "How to Use This Guide Practically",
+        "steps": [
+            {
+                "step": 1,
+                "action": "Identify Your Current Mahadasha",
+                "method": "Calculate from birth chart or use software - Moon's nakshatra determines starting dasha"
+            },
+            {
+                "step": 2,
+                "action": "Check Planet's Strength in YOUR Chart",
+                "analysis": "Is current dasha planet exalted/debilitated? Which house? Any aspects? This determines actual results",
+                "critical": "Same dasha gives OPPOSITE results for different people based on chart"
+            },
+            {
+                "step": 3,
+                "action": "Read Relevant Section Above",
+                "focus": "Read current Mahadasha section, note themes, opportunities, challenges"
+            },
+            {
+                "step": 4,
+                "action": "Identify Current Antardasha",
+                "method": "Calculate which sub-period within Mahadasha - each lasts months to years",
+                "impact": "Antardasha colors Mahadasha - e.g., Jupiter MD + Saturn AD = expansion with delays"
+            },
+            {
+                "step": 5,
+                "action": "Apply Do's and Don'ts",
+                "practical": "Follow recommendations for your current dasha - remedies, precautions, opportunities"
+            },
+            {
+                "step": 6,
+                "action": "Start Remedies",
+                "timing": "Begin remedies immediately - especially if planet weak or challenging period",
+                "consistency": "Remedies require daily consistency for months to show results"
+            },
+            {
+                "step": 7,
+                "action": "Plan for Upcoming Dasha",
+                "preparation": "If dasha ending soon, prepare for next - know what's coming to adapt smoothly"
+            }
+        ]
+    },
+    "dashaTransitions": {
+        "name": "Navigating Dasha Changes",
+        "importance": "Dasha transition periods (last 6 months of old, first 6 months of new) are most turbulent",
+        "effects": [
+            "Old dasha results winding down",
+            "New dasha themes beginning",
+            "Overlap creates confusion and change",
+            "Life direction shifts",
+            "Major life changes common during transition"
+        ],
+        "guidance": [
+            "Expect changes during transition - don't resist",
+            "Complete old dasha pending matters",
+            "Prepare mentally for new dasha themes",
+            "Start new dasha planet remedies in last 6 months of old dasha",
+            "Don't make major decisions during transition - wait for new dasha to settle (3-6 months)"
+        ]
+    },
+    "note": "Dasha is not fate - it's timing. Strong planet dasha with conscious effort = excellent results. Weak planet dasha with awareness and remedies = manageable challenges. Free will and effort matter most - dasha provides timing and theme, you create outcome through actions."
+}

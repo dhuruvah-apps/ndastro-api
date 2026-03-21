@@ -1,0 +1,561 @@
+[
+  {
+    "name": "Dhuma",
+    "code": "UP01",
+    "number": 1,
+    "description": "Smoke - Sub-planet representing smoke and confusion",
+    "calculationMethod": "Sun's longitude + 133\u00b020'",
+    "nature": "Malefic",
+    "quality": "Obstructive",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Agni",
+    "lordPlanet": "MA",
+    "guna": "Tamasic",
+    "effect": "Confusion",
+    "significations": [
+      "Smoke",
+      "Confusion",
+      "Unclear vision",
+      "Deception",
+      "Hidden dangers"
+    ],
+    "auspiciousFor": [
+      "Clearing smoke",
+      "Unveiling deception",
+      "Smoke-related work"
+    ],
+    "inauspiciousFor": [
+      "Clarity",
+      "Clear vision",
+      "Truth seeking",
+      "Transparency"
+    ],
+    "specialCharacteristics": [
+      "Creates confusion",
+      "Obscures vision",
+      "Smoke-like nature",
+      "Hides truth"
+    ],
+    "karmicEffects": [
+      "Confusion in life",
+      "Unclear situations",
+      "Hidden problems"
+    ],
+    "birthChartEffects": [
+      "Confusion tendency",
+      "Unclear vision",
+      "Deception experience",
+      "Smoke in life"
+    ],
+    "healthEffects": "Respiratory issues, smoke-related problems",
+    "astrologySignificance": "Indicates areas of confusion and unclear vision",
+    "vedicReferences": "Mentioned in Parashari and Jaimini systems",
+    "remedies": [
+      "Agni puja",
+      "Clarity meditation",
+      "Avoid smoke",
+      "Truth practice"
+    ],
+    "keywords": [
+      "Smoke",
+      "Confusion",
+      "Obscurity",
+      "Deception"
+    ],
+    "represents": [
+      "Divine smoke",
+      "Confusion principle",
+      "Obscuring energy"
+    ]
+  },
+  {
+    "name": "Vyatipata",
+    "code": "UP02",
+    "number": 2,
+    "description": "Calamity - Sub-planet of misfortune and obstacles",
+    "calculationMethod": "360\u00b0 - Dhuma's longitude",
+    "nature": "Malefic",
+    "quality": "Calamitous",
+    "elementPanchamahabhuta": "Air",
+    "deity": "Vayu",
+    "lordPlanet": "SA",
+    "guna": "Tamasic",
+    "effect": "Calamity",
+    "significations": [
+      "Misfortune",
+      "Obstacles",
+      "Calamities",
+      "Difficulties",
+      "Adversity"
+    ],
+    "auspiciousFor": [
+      "Overcoming calamities",
+      "Protection rituals",
+      "Obstacle removal"
+    ],
+    "inauspiciousFor": [
+      "Starting ventures",
+      "Auspicious activities",
+      "Smooth operations"
+    ],
+    "specialCharacteristics": [
+      "Brings calamity",
+      "Creates obstacles",
+      "Misfortune",
+      "Adversity"
+    ],
+    "karmicEffects": [
+      "Calamitous experiences",
+      "Obstacles",
+      "Adversity"
+    ],
+    "birthChartEffects": [
+      "Faces calamities",
+      "Obstacle prone",
+      "Adversity in life"
+    ],
+    "healthEffects": "Accidents, sudden calamities",
+    "astrologySignificance": "Indicates areas of calamity and misfortune",
+    "vedicReferences": "Warned in classical texts for calamity",
+    "remedies": [
+      "Saturn worship",
+      "Hanuman puja",
+      "Protection mantras",
+      "Obstacle removal rituals"
+    ],
+    "keywords": [
+      "Calamity",
+      "Misfortune",
+      "Obstacles",
+      "Adversity"
+    ],
+    "represents": [
+      "Divine calamity",
+      "Misfortune principle",
+      "Obstacle energy"
+    ]
+  },
+  {
+    "name": "Parivesha",
+    "code": "UP03",
+    "number": 3,
+    "description": "Halo/Circle - Sub-planet of encirclement",
+    "calculationMethod": "360\u00b0 - Vyatipata's longitude",
+    "nature": "Malefic",
+    "quality": "Encircling",
+    "elementPanchamahabhuta": "Water",
+    "deity": "Varuna",
+    "lordPlanet": "JU",
+    "guna": "Tamasic",
+    "effect": "Encirclement",
+    "significations": [
+      "Surrounding",
+      "Encirclement",
+      "Boundaries",
+      "Limitations",
+      "Circle"
+    ],
+    "auspiciousFor": [
+      "Creating boundaries",
+      "Protection circles",
+      "Enclosing"
+    ],
+    "inauspiciousFor": [
+      "Freedom",
+      "Expansion",
+      "Breaking free"
+    ],
+    "specialCharacteristics": [
+      "Encircles",
+      "Creates boundaries",
+      "Limits",
+      "Surrounds"
+    ],
+    "karmicEffects": [
+      "Surrounded situations",
+      "Boundary experiences",
+      "Limited freedom"
+    ],
+    "birthChartEffects": [
+      "Feels surrounded",
+      "Boundary consciousness",
+      "Limited expansion"
+    ],
+    "healthEffects": "Circulatory issues, feeling enclosed",
+    "astrologySignificance": "Indicates areas of limitation and encirclement",
+    "vedicReferences": "Mentioned for boundary indication",
+    "remedies": [
+      "Varuna puja",
+      "Boundary meditation",
+      "Freedom rituals",
+      "Expansion practices"
+    ],
+    "keywords": [
+      "Encirclement",
+      "Boundary",
+      "Limitation",
+      "Circle"
+    ],
+    "represents": [
+      "Divine boundary",
+      "Encirclement principle",
+      "Limiting energy"
+    ]
+  },
+  {
+    "name": "Indrachapa",
+    "code": "UP04",
+    "number": 4,
+    "description": "Indra's Bow/Rainbow - Sub-planet of illusion",
+    "calculationMethod": "360\u00b0 - Parivesha's longitude",
+    "nature": "Malefic",
+    "quality": "Illusory",
+    "elementPanchamahabhuta": "Water",
+    "deity": "Y26",
+    "lordPlanet": "VE",
+    "guna": "Rajasic",
+    "effect": "Illusion",
+    "significations": [
+      "Illusion",
+      "Rainbow",
+      "False appearance",
+      "Deceptive beauty",
+      "Maya"
+    ],
+    "auspiciousFor": [
+      "Arts",
+      "Beauty",
+      "Illusion work",
+      "Entertainment"
+    ],
+    "inauspiciousFor": [
+      "Truth seeking",
+      "Reality",
+      "Clarity",
+      "Genuine activities"
+    ],
+    "specialCharacteristics": [
+      "Creates illusion",
+      "False beauty",
+      "Deceptive appearance",
+      "Maya"
+    ],
+    "karmicEffects": [
+      "Illusory experiences",
+      "False appearances",
+      "Deception"
+    ],
+    "birthChartEffects": [
+      "Illusory nature",
+      "Deceptive tendency",
+      "Maya experience"
+    ],
+    "healthEffects": "Vision problems, deceptive symptoms",
+    "astrologySignificance": "Indicates areas of illusion and false appearance",
+    "vedicReferences": "Rainbow as illusion in Vedic texts",
+    "remedies": [
+      "Truth meditation",
+      "Reality focus",
+      "Clarity practices",
+      "Venus worship"
+    ],
+    "keywords": [
+      "Illusion",
+      "Rainbow",
+      "Deception",
+      "Maya"
+    ],
+    "represents": [
+      "Divine illusion",
+      "Maya principle",
+      "Deceptive energy"
+    ]
+  },
+  {
+    "name": "Upaketu",
+    "code": "UP05",
+    "number": 5,
+    "description": "Secondary Ketu - Sub-planet similar to Ketu",
+    "calculationMethod": "360\u00b0 - Indrachapa's longitude",
+    "nature": "Malefic",
+    "quality": "Detaching",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Ganesha",
+    "lordPlanet": "KE",
+    "guna": "Tamasic",
+    "effect": "Detachment",
+    "significations": [
+      "Separation",
+      "Detachment",
+      "Spiritual seeking",
+      "Liberation",
+      "Letting go"
+    ],
+    "auspiciousFor": [
+      "Spiritual practices",
+      "Detachment",
+      "Liberation seeking",
+      "Letting go"
+    ],
+    "inauspiciousFor": [
+      "Material pursuits",
+      "Attachment",
+      "Worldly success"
+    ],
+    "specialCharacteristics": [
+      "Promotes detachment",
+      "Separation",
+      "Spiritual",
+      "Liberation"
+    ],
+    "karmicEffects": [
+      "Detachment experiences",
+      "Spiritual growth",
+      "Separation"
+    ],
+    "birthChartEffects": [
+      "Detached nature",
+      "Spiritual seeker",
+      "Liberation focus"
+    ],
+    "healthEffects": "Similar to Ketu effects",
+    "astrologySignificance": "Secondary Ketu influence for detachment",
+    "vedicReferences": "Mentioned as shadow of Ketu",
+    "remedies": [
+      "Ganesha worship",
+      "Spiritual practices",
+      "Detachment meditation",
+      "Ketu remedies"
+    ],
+    "keywords": [
+      "Detachment",
+      "Spiritual",
+      "Liberation",
+      "Separation"
+    ],
+    "represents": [
+      "Divine detachment",
+      "Liberation principle",
+      "Separation energy"
+    ]
+  },
+  {
+    "name": "Gulika",
+    "code": "UP06",
+    "number": 6,
+    "description": "Son of Saturn/Poison - Most malefic sub-planet",
+    "calculationMethod": "Based on day lord and birth time (varies by day)",
+    "nature": "Most Malefic",
+    "quality": "Poisonous",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Shani (Saturn)",
+    "lordPlanet": "SA",
+    "guna": "Tamasic",
+    "effect": "Poison",
+    "alternativeNames": [
+      "UP07",
+      "Maandi"
+    ],
+    "significations": [
+      "Poison",
+      "Death",
+      "Extreme difficulty",
+      "Dark energy",
+      "Obstacles",
+      "Malefic power"
+    ],
+    "auspiciousFor": [
+      "Tantric practices",
+      "Overcoming poison",
+      "Protection from enemies",
+      "Dark magic"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "All auspicious activities",
+      "Health matters",
+      "Starting ventures"
+    ],
+    "specialCharacteristics": [
+      "Most malefic",
+      "Poison-like",
+      "Extreme obstacles",
+      "Dark power"
+    ],
+    "karmicEffects": [
+      "Extreme difficulties",
+      "Poisonous experiences",
+      "Dark karma"
+    ],
+    "birthChartEffects": [
+      "Faces extreme obstacles",
+      "Poison experience",
+      "Dark periods",
+      "Struggles"
+    ],
+    "healthEffects": "Poisoning, chronic diseases, extreme health issues",
+    "astrologySignificance": "Most powerful malefic indicator, requires strong remedies",
+    "vedicReferences": "Saturn's son warned extensively in classics",
+    "remedies": [
+      "Strong Saturn worship",
+      "Hanuman Chalisa",
+      "Protection amulets",
+      "Shani Shanti",
+      "Blue sapphire (with caution)"
+    ],
+    "keywords": [
+      "Poison",
+      "Malefic",
+      "Obstacles",
+      "Death",
+      "Dark"
+    ],
+    "represents": [
+      "Divine poison",
+      "Extreme malefic principle",
+      "Dark energy"
+    ]
+  },
+  {
+    "name": "Mandi",
+    "code": "UP07",
+    "number": 7,
+    "description": "Slow/Sluggish - Sub-planet of slowness (same as Gulika)",
+    "calculationMethod": "Same as Gulika - Based on day lord and birth time",
+    "nature": "Most Malefic",
+    "quality": "Slow",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Shani (Saturn)",
+    "lordPlanet": "SA",
+    "guna": "Tamasic",
+    "effect": "Slowness",
+    "alternativeNames": [
+      "UP06"
+    ],
+    "significations": [
+      "Slowness",
+      "Delay",
+      "Sluggishness",
+      "Obstruction",
+      "Stagnation"
+    ],
+    "auspiciousFor": [
+      "Slow work",
+      "Patience building",
+      "Endurance activities"
+    ],
+    "inauspiciousFor": [
+      "Quick actions",
+      "Speed required",
+      "Timely completion",
+      "Fast progress"
+    ],
+    "specialCharacteristics": [
+      "Creates delays",
+      "Slowness",
+      "Sluggish",
+      "Stagnation"
+    ],
+    "karmicEffects": [
+      "Delayed outcomes",
+      "Slow progress",
+      "Stagnation"
+    ],
+    "birthChartEffects": [
+      "Slow nature",
+      "Delayed success",
+      "Patient",
+      "Sluggish progress"
+    ],
+    "healthEffects": "Slow metabolism, delayed healing",
+    "astrologySignificance": "Same as Gulika, indicates slowness and delays",
+    "vedicReferences": "Mentioned with Gulika as same entity",
+    "remedies": [
+      "Saturn worship",
+      "Patience practices",
+      "Slow work acceptance",
+      "Endurance building"
+    ],
+    "keywords": [
+      "Slowness",
+      "Delay",
+      "Sluggish",
+      "Stagnation"
+    ],
+    "represents": [
+      "Divine slowness",
+      "Delay principle",
+      "Sluggish energy"
+    ]
+  },
+  {
+    "name": "Kala",
+    "code": "UP08",
+    "number": 8,
+    "description": "Time/Death - Sub-planet of time and mortality",
+    "calculationMethod": "Similar to Gulika/Mandi calculation",
+    "nature": "Malefic",
+    "quality": "Time-bound",
+    "elementPanchamahabhuta": "Ether",
+    "deity": "Kala (Time/Yama)",
+    "lordPlanet": "SA",
+    "guna": "Tamasic",
+    "effect": "Time pressure",
+    "significations": [
+      "Time",
+      "Death",
+      "Mortality",
+      "Aging",
+      "Time pressure",
+      "Deadlines"
+    ],
+    "auspiciousFor": [
+      "Time management",
+      "Deadline work",
+      "Mortality awareness",
+      "Aging acceptance"
+    ],
+    "inauspiciousFor": [
+      "Timeless activities",
+      "Immortality seeking",
+      "Avoiding time"
+    ],
+    "specialCharacteristics": [
+      "Time consciousness",
+      "Mortality",
+      "Death awareness",
+      "Aging"
+    ],
+    "karmicEffects": [
+      "Time-bound experiences",
+      "Mortality awareness",
+      "Aging process"
+    ],
+    "birthChartEffects": [
+      "Time conscious",
+      "Mortality aware",
+      "Aging focus",
+      "Time pressure"
+    ],
+    "healthEffects": "Aging-related issues, time-related stress",
+    "astrologySignificance": "Indicates time pressure and mortality consciousness",
+    "vedicReferences": "Kala as time deity mentioned in Puranas",
+    "remedies": [
+      "Yama worship",
+      "Time meditation",
+      "Death acceptance",
+      "Saturn remedies"
+    ],
+    "keywords": [
+      "Time",
+      "Death",
+      "Mortality",
+      "Aging"
+    ],
+    "represents": [
+      "Divine time",
+      "Death principle",
+      "Mortality energy"
+    ]
+  }
+]

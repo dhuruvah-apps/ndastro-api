@@ -36,3 +36,12 @@ class RefreshTokenMissingInvalidException(CustomException):
     def __init__(self) -> None:
         """Initialize RefreshTokenMissingInvalidException with a 401 Unauthorized error."""
         super().__init__(status_code=status.HTTP_401_UNAUTHORIZED, detail="Refresh token is missing or invalid.")
+
+
+class PlanetNotFoundError(Exception):
+    """Exception raised when a planet is not found in the data source."""
+
+    def __init__(self, message: str = "Planet not found in the data source.") -> None:
+        """Initialize PlanetNotFoundError with an optional message."""
+        self.message = message
+        super().__init__(self.message)

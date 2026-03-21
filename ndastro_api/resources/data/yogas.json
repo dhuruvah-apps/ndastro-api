@@ -1,0 +1,1527 @@
+[
+  {
+    "name": "Vishkambha",
+    "code": "Y01",
+    "number": 1,
+    "description": "Supported or Propped - First yoga representing obstruction and support",
+    "nature": "Inauspicious",
+    "quality": "Obstructive",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Yama",
+    "guna": "Tamasic",
+    "effect": "Obstruction",
+    "muhurtaRating": 4,
+    "auspiciousFor": [
+      "Overcoming obstacles",
+      "Destruction of enemies",
+      "Hard labor"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Starting new ventures",
+      "Travel"
+    ],
+    "specialCharacteristics": [
+      "Creates obstacles",
+      "Supports destruction",
+      "Obstructs progress",
+      "Requires effort"
+    ],
+    "karmicEffects": [
+      "Obstacles in path",
+      "Need for support",
+      "Overcoming difficulties"
+    ],
+    "birthYogaTraits": [
+      "Faces obstacles",
+      "Strong willed",
+      "Overcomes difficulties",
+      "Supportive to others"
+    ],
+    "healthEffects": "May face structural or support issues",
+    "astrologySignificance": "Indicates obstacles that need support to overcome",
+    "vedicReferences": "Mentioned in Brihat Samhita for obstacle indication",
+    "keywords": [
+      "Obstruction",
+      "Support",
+      "Obstacles",
+      "Effort"
+    ],
+    "represents": [
+      "Divine obstruction",
+      "Support requirement",
+      "Obstacle energy"
+    ]
+  },
+  {
+    "name": "Priti",
+    "code": "Y02",
+    "number": 2,
+    "description": "Love and Affection - Yoga of pleasure and fondness",
+    "nature": "Auspicious",
+    "quality": "Loving",
+    "elementPanchamahabhuta": "Water",
+    "deity": "Vishnu",
+    "guna": "Sattvic",
+    "effect": "Pleasure",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Marriage",
+      "Romance",
+      "Love affairs",
+      "Friendship",
+      "Social gatherings",
+      "Arts"
+    ],
+    "inauspiciousFor": [
+      "Harsh actions",
+      "Warfare",
+      "Disputes"
+    ],
+    "specialCharacteristics": [
+      "Increases love",
+      "Brings pleasure",
+      "Enhances affection",
+      "Creates happiness"
+    ],
+    "karmicEffects": [
+      "Love and affection",
+      "Pleasant experiences",
+      "Social harmony"
+    ],
+    "birthYogaTraits": [
+      "Loving nature",
+      "Affectionate",
+      "Pleasant personality",
+      "Socially liked"
+    ],
+    "healthEffects": "Good emotional and mental health",
+    "astrologySignificance": "Most favorable for love and relationship matters",
+    "vedicReferences": "Vishnu's yoga mentioned for pleasure in Muhurta texts",
+    "keywords": [
+      "Love",
+      "Affection",
+      "Pleasure",
+      "Fondness"
+    ],
+    "represents": [
+      "Divine love",
+      "Pleasure principle",
+      "Affection energy"
+    ]
+  },
+  {
+    "name": "Ayushman",
+    "code": "Y03",
+    "number": 3,
+    "description": "Long-lived - Yoga of longevity and vitality",
+    "nature": "Auspicious",
+    "quality": "Life-giving",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Chandra (Moon)",
+    "guna": "Sattvic",
+    "effect": "Longevity",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Health matters",
+      "Medicine",
+      "Longevity rituals",
+      "Starting life ventures",
+      "Ayurveda"
+    ],
+    "inauspiciousFor": [
+      "Death rituals",
+      "Endings",
+      "Destructive acts"
+    ],
+    "specialCharacteristics": [
+      "Increases lifespan",
+      "Vitality boost",
+      "Health enhancement",
+      "Energetic"
+    ],
+    "karmicEffects": [
+      "Long life",
+      "Good health",
+      "Vitality"
+    ],
+    "birthYogaTraits": [
+      "Long-lived",
+      "Healthy",
+      "Energetic",
+      "Vital",
+      "Strong constitution"
+    ],
+    "healthEffects": "Excellent health and longevity",
+    "astrologySignificance": "Best yoga for health and longevity matters",
+    "vedicReferences": "Moon's yoga praised in Jyotish for life extension",
+    "keywords": [
+      "Longevity",
+      "Vitality",
+      "Health",
+      "Life"
+    ],
+    "represents": [
+      "Divine life force",
+      "Longevity principle",
+      "Vitality energy"
+    ]
+  },
+  {
+    "name": "Saubhagya",
+    "code": "Y04",
+    "number": 4,
+    "description": "Good Fortune - Yoga of prosperity and auspiciousness",
+    "nature": "Auspicious",
+    "quality": "Fortunate",
+    "elementPanchamahabhuta": "Water",
+    "deity": "Lakshmi",
+    "guna": "Sattvic",
+    "effect": "Fortune",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Wealth matters",
+      "Marriage",
+      "Business",
+      "Auspicious ceremonies",
+      "Fortune seeking"
+    ],
+    "inauspiciousFor": [
+      "Inauspicious acts",
+      "Destruction",
+      "Negative activities"
+    ],
+    "specialCharacteristics": [
+      "Brings fortune",
+      "Prosperity",
+      "Auspiciousness",
+      "Good luck"
+    ],
+    "karmicEffects": [
+      "Good fortune",
+      "Prosperity",
+      "Auspicious outcomes"
+    ],
+    "birthYogaTraits": [
+      "Fortunate",
+      "Prosperous",
+      "Lucky",
+      "Blessed",
+      "Auspicious"
+    ],
+    "healthEffects": "Good overall wellbeing",
+    "astrologySignificance": "Highly favorable for all auspicious activities",
+    "vedicReferences": "Lakshmi's yoga in Muhurta Chintamani for prosperity",
+    "keywords": [
+      "Fortune",
+      "Prosperity",
+      "Luck",
+      "Auspiciousness"
+    ],
+    "represents": [
+      "Divine fortune",
+      "Prosperity principle",
+      "Blessing energy"
+    ]
+  },
+  {
+    "name": "Shobhana",
+    "code": "Y05",
+    "number": 5,
+    "description": "Splendid - Yoga of brilliance and beauty",
+    "nature": "Auspicious",
+    "quality": "Brilliant",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Surya (Sun)",
+    "guna": "Rajasic",
+    "effect": "Brilliance",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Arts",
+      "Beauty treatments",
+      "Fame seeking",
+      "Brilliance display",
+      "Creative work"
+    ],
+    "inauspiciousFor": [
+      "Humble activities",
+      "Hidden work",
+      "Secretive acts"
+    ],
+    "specialCharacteristics": [
+      "Creates brilliance",
+      "Enhances beauty",
+      "Brings fame",
+      "Splendid appearance"
+    ],
+    "karmicEffects": [
+      "Brilliance",
+      "Beauty",
+      "Fame",
+      "Splendor"
+    ],
+    "birthYogaTraits": [
+      "Brilliant",
+      "Beautiful",
+      "Famous",
+      "Splendid",
+      "Shining"
+    ],
+    "healthEffects": "Good vitality and appearance",
+    "astrologySignificance": "Excellent for beauty, arts, and fame",
+    "vedicReferences": "Sun's yoga mentioned for brilliance in classics",
+    "keywords": [
+      "Brilliance",
+      "Beauty",
+      "Splendor",
+      "Fame"
+    ],
+    "represents": [
+      "Divine brilliance",
+      "Beauty principle",
+      "Splendor energy"
+    ]
+  },
+  {
+    "name": "Atiganda",
+    "code": "Y06",
+    "number": 6,
+    "description": "Great Knot - Yoga of obstacles and complications",
+    "nature": "Inauspicious",
+    "quality": "Obstructive",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Kali",
+    "guna": "Tamasic",
+    "effect": "Complications",
+    "muhurtaRating": 3,
+    "auspiciousFor": [
+      "Destruction of enemies",
+      "Tantric practices",
+      "Breaking barriers"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Starting ventures",
+      "Travel",
+      "Important beginnings"
+    ],
+    "specialCharacteristics": [
+      "Creates complications",
+      "Forms knots",
+      "Obstacles arise",
+      "Difficulties"
+    ],
+    "karmicEffects": [
+      "Complications",
+      "Obstacles",
+      "Difficulties",
+      "Knots in life"
+    ],
+    "birthYogaTraits": [
+      "Faces complications",
+      "Problem solver",
+      "Struggles",
+      "Overcomes knots"
+    ],
+    "healthEffects": "May face complications in health",
+    "astrologySignificance": "One of most inauspicious yogas",
+    "vedicReferences": "Kali's yoga warned in Muhurta texts",
+    "keywords": [
+      "Complications",
+      "Knots",
+      "Obstacles",
+      "Difficulties"
+    ],
+    "represents": [
+      "Divine complications",
+      "Knot energy",
+      "Obstacle formation"
+    ]
+  },
+  {
+    "name": "Sukarma",
+    "code": "Y07",
+    "number": 7,
+    "description": "Good Deeds - Yoga of virtuous actions",
+    "nature": "Auspicious",
+    "quality": "Virtuous",
+    "elementPanchamahabhuta": "Air",
+    "deity": "Brihaspati",
+    "guna": "Sattvic",
+    "effect": "Virtue",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Charitable acts",
+      "Religious ceremonies",
+      "Good deeds",
+      "Virtuous activities",
+      "Dharmic actions"
+    ],
+    "inauspiciousFor": [
+      "Unethical acts",
+      "Sinful activities",
+      "Negative karma"
+    ],
+    "specialCharacteristics": [
+      "Promotes virtue",
+      "Good karma",
+      "Dharmic actions",
+      "Righteous deeds"
+    ],
+    "karmicEffects": [
+      "Good karma accumulation",
+      "Virtuous outcomes",
+      "Dharmic progress"
+    ],
+    "birthYogaTraits": [
+      "Virtuous",
+      "Good natured",
+      "Charitable",
+      "Dharmic",
+      "Ethical"
+    ],
+    "healthEffects": "Good health through virtuous living",
+    "astrologySignificance": "Excellent for dharmic and virtuous activities",
+    "vedicReferences": "Guru's yoga praised for virtue in texts",
+    "keywords": [
+      "Virtue",
+      "Good deeds",
+      "Dharma",
+      "Ethics"
+    ],
+    "represents": [
+      "Divine virtue",
+      "Good karma principle",
+      "Dharmic energy"
+    ]
+  },
+  {
+    "name": "Dhriti",
+    "code": "Y08",
+    "number": 8,
+    "description": "Steadiness - Yoga of patience and determination",
+    "nature": "Auspicious",
+    "quality": "Steady",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Bhumi (Earth)",
+    "guna": "Tamasic",
+    "effect": "Steadiness",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Permanent works",
+      "Construction",
+      "Steady ventures",
+      "Long-term planning",
+      "Patience requiring tasks"
+    ],
+    "inauspiciousFor": [
+      "Quick actions",
+      "Hasty decisions",
+      "Temporary works"
+    ],
+    "specialCharacteristics": [
+      "Creates steadiness",
+      "Patience",
+      "Determination",
+      "Stability"
+    ],
+    "karmicEffects": [
+      "Steady progress",
+      "Patient outcomes",
+      "Determined success"
+    ],
+    "birthYogaTraits": [
+      "Steady",
+      "Patient",
+      "Determined",
+      "Stable",
+      "Persistent"
+    ],
+    "healthEffects": "Steady health, good endurance",
+    "astrologySignificance": "Good for permanent and long-term activities",
+    "vedicReferences": "Earth goddess yoga for stability",
+    "keywords": [
+      "Steadiness",
+      "Patience",
+      "Determination",
+      "Stability"
+    ],
+    "represents": [
+      "Divine steadiness",
+      "Patience principle",
+      "Stability energy"
+    ]
+  },
+  {
+    "name": "Shula",
+    "code": "Y09",
+    "number": 9,
+    "description": "Spear - Yoga of pain and sharpness",
+    "nature": "Inauspicious",
+    "quality": "Painful",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Rudra",
+    "guna": "Tamasic",
+    "effect": "Pain",
+    "muhurtaRating": 3,
+    "auspiciousFor": [
+      "Surgery",
+      "Sharp actions",
+      "Cutting",
+      "Warfare",
+      "Piercing through obstacles"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Peace-seeking",
+      "Gentle activities"
+    ],
+    "specialCharacteristics": [
+      "Creates pain",
+      "Sharp experiences",
+      "Piercing quality",
+      "Difficult"
+    ],
+    "karmicEffects": [
+      "Painful experiences",
+      "Sharp lessons",
+      "Piercing insights"
+    ],
+    "birthYogaTraits": [
+      "Faces pain",
+      "Sharp minded",
+      "Piercing insight",
+      "Struggles"
+    ],
+    "healthEffects": "May face sharp pains or injuries",
+    "astrologySignificance": "Inauspicious except for sharp and cutting work",
+    "vedicReferences": "Rudra's yoga warned for pain in classics",
+    "keywords": [
+      "Pain",
+      "Sharpness",
+      "Piercing",
+      "Difficulty"
+    ],
+    "represents": [
+      "Divine pain",
+      "Sharp energy",
+      "Piercing principle"
+    ]
+  },
+  {
+    "name": "Ganda",
+    "code": "Y10",
+    "number": 10,
+    "description": "Knot - Yoga of obstacles and complications",
+    "nature": "Inauspicious",
+    "quality": "Obstructive",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Agni",
+    "guna": "Tamasic",
+    "effect": "Obstruction",
+    "muhurtaRating": 4,
+    "auspiciousFor": [
+      "Breaking obstacles",
+      "Destruction work",
+      "Untying knots"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Starting ventures",
+      "Smooth activities"
+    ],
+    "specialCharacteristics": [
+      "Creates obstacles",
+      "Forms complications",
+      "Knots arise",
+      "Difficulties"
+    ],
+    "karmicEffects": [
+      "Obstacles",
+      "Complications",
+      "Difficulties to untie"
+    ],
+    "birthYogaTraits": [
+      "Faces obstacles",
+      "Problem creator/solver",
+      "Complex personality"
+    ],
+    "healthEffects": "May face complications",
+    "astrologySignificance": "Inauspicious for smooth activities",
+    "vedicReferences": "Fire god's yoga for obstacles",
+    "keywords": [
+      "Knots",
+      "Obstacles",
+      "Complications",
+      "Difficulties"
+    ],
+    "represents": [
+      "Divine obstruction",
+      "Knot formation",
+      "Complication energy"
+    ]
+  },
+  {
+    "name": "Vriddhi",
+    "code": "Y11",
+    "number": 11,
+    "description": "Growth - Yoga of expansion and increase",
+    "nature": "Auspicious",
+    "quality": "Growing",
+    "elementPanchamahabhuta": "Water",
+    "deity": "Vishnu",
+    "guna": "Sattvic",
+    "effect": "Growth",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Business expansion",
+      "Growth activities",
+      "Increase seeking",
+      "Prosperity",
+      "Learning"
+    ],
+    "inauspiciousFor": [
+      "Reduction",
+      "Endings",
+      "Cutting"
+    ],
+    "specialCharacteristics": [
+      "Promotes growth",
+      "Expansion",
+      "Increase",
+      "Prosperity"
+    ],
+    "karmicEffects": [
+      "Growth in all areas",
+      "Expansion",
+      "Increase"
+    ],
+    "birthYogaTraits": [
+      "Growth-oriented",
+      "Expanding",
+      "Prosperous",
+      "Increasing fortune"
+    ],
+    "healthEffects": "Good growth and development",
+    "astrologySignificance": "Excellent for growth and expansion",
+    "vedicReferences": "Vishnu's expansive yoga in texts",
+    "keywords": [
+      "Growth",
+      "Expansion",
+      "Increase",
+      "Prosperity"
+    ],
+    "represents": [
+      "Divine growth",
+      "Expansion principle",
+      "Increase energy"
+    ]
+  },
+  {
+    "name": "Dhruva",
+    "code": "Y12",
+    "number": 12,
+    "description": "Fixed - Yoga of permanence and stability",
+    "nature": "Auspicious",
+    "quality": "Fixed",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Dhruva (Pole Star)",
+    "guna": "Sattvic",
+    "effect": "Permanence",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Permanent activities",
+      "Construction",
+      "Foundation laying",
+      "Marriage",
+      "Long-term ventures"
+    ],
+    "inauspiciousFor": [
+      "Temporary work",
+      "Change seeking",
+      "Travel"
+    ],
+    "specialCharacteristics": [
+      "Creates permanence",
+      "Stability",
+      "Fixed nature",
+      "Lasting"
+    ],
+    "karmicEffects": [
+      "Permanent results",
+      "Stable outcomes",
+      "Lasting effects"
+    ],
+    "birthYogaTraits": [
+      "Stable",
+      "Permanent minded",
+      "Fixed",
+      "Reliable",
+      "Steadfast"
+    ],
+    "healthEffects": "Stable health, enduring constitution",
+    "astrologySignificance": "Best for permanent and lasting activities",
+    "vedicReferences": "Pole star's yoga for permanence",
+    "keywords": [
+      "Permanence",
+      "Stability",
+      "Fixed",
+      "Lasting"
+    ],
+    "represents": [
+      "Divine permanence",
+      "Fixed principle",
+      "Stability energy"
+    ]
+  },
+  {
+    "name": "Vyaghata",
+    "code": "Y13",
+    "number": 13,
+    "description": "Beating - Yoga of conflict and violence",
+    "nature": "Inauspicious",
+    "quality": "Violent",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Hanuman",
+    "guna": "Tamasic",
+    "effect": "Conflict",
+    "muhurtaRating": 2,
+    "auspiciousFor": [
+      "Warfare",
+      "Destruction of enemies",
+      "Fighting",
+      "Conflict resolution through force"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Peace",
+      "Auspicious ceremonies",
+      "Gentle activities",
+      "All good works"
+    ],
+    "specialCharacteristics": [
+      "Creates conflict",
+      "Violence",
+      "Beating energy",
+      "Destruction"
+    ],
+    "karmicEffects": [
+      "Conflicts",
+      "Violent experiences",
+      "Beating received or given"
+    ],
+    "birthYogaTraits": [
+      "Conflict prone",
+      "Aggressive",
+      "Fighter",
+      "Violent tendency"
+    ],
+    "healthEffects": "May face injuries or violence",
+    "astrologySignificance": "One of most inauspicious yogas",
+    "vedicReferences": "Hanuman's fierce yoga warned in classics",
+    "keywords": [
+      "Conflict",
+      "Violence",
+      "Beating",
+      "Destruction"
+    ],
+    "represents": [
+      "Divine violence",
+      "Conflict energy",
+      "Destruction principle"
+    ]
+  },
+  {
+    "name": "Harshana",
+    "code": "Y14",
+    "number": 14,
+    "description": "Rejoicing - Yoga of joy and happiness",
+    "nature": "Auspicious",
+    "quality": "Joyful",
+    "elementPanchamahabhuta": "Air",
+    "deity": "Bhaga",
+    "guna": "Rajasic",
+    "effect": "Joy",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Celebrations",
+      "Happiness",
+      "Entertainment",
+      "Joy seeking",
+      "Festivals",
+      "Marriage"
+    ],
+    "inauspiciousFor": [
+      "Serious work",
+      "Sadness",
+      "Mourning"
+    ],
+    "specialCharacteristics": [
+      "Creates joy",
+      "Happiness",
+      "Celebration",
+      "Rejoicing"
+    ],
+    "karmicEffects": [
+      "Joyful experiences",
+      "Happy outcomes",
+      "Celebration"
+    ],
+    "birthYogaTraits": [
+      "Joyful",
+      "Happy",
+      "Celebratory",
+      "Entertaining",
+      "Cheerful"
+    ],
+    "healthEffects": "Good mental and emotional health",
+    "astrologySignificance": "Excellent for celebrations and joyful activities",
+    "vedicReferences": "Bhaga's yoga for joy in texts",
+    "keywords": [
+      "Joy",
+      "Happiness",
+      "Celebration",
+      "Rejoicing"
+    ],
+    "represents": [
+      "Divine joy",
+      "Happiness principle",
+      "Celebration energy"
+    ]
+  },
+  {
+    "name": "Vajra",
+    "code": "Y15",
+    "number": 15,
+    "description": "Diamond/Thunderbolt - Yoga of hardness and strength",
+    "nature": "Auspicious",
+    "quality": "Strong",
+    "elementPanchamahabhuta": "Air",
+    "deity": "Y26",
+    "guna": "Rajasic",
+    "effect": "Strength",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Strength building",
+      "Hard work",
+      "Durability seeking",
+      "Military",
+      "Construction"
+    ],
+    "inauspiciousFor": [
+      "Soft approaches",
+      "Gentle activities",
+      "Flexibility required"
+    ],
+    "specialCharacteristics": [
+      "Creates strength",
+      "Hardness",
+      "Durability",
+      "Indestructible"
+    ],
+    "karmicEffects": [
+      "Strong results",
+      "Durable outcomes",
+      "Lasting strength"
+    ],
+    "birthYogaTraits": [
+      "Strong",
+      "Hard",
+      "Durable",
+      "Powerful",
+      "Resilient"
+    ],
+    "healthEffects": "Strong constitution, good bones",
+    "astrologySignificance": "Good for strength and durability",
+    "vedicReferences": "Indra's vajra yoga for strength",
+    "keywords": [
+      "Strength",
+      "Hardness",
+      "Durability",
+      "Power"
+    ],
+    "represents": [
+      "Divine strength",
+      "Hardness principle",
+      "Indestructible energy"
+    ]
+  },
+  {
+    "name": "Siddhi",
+    "code": "Y16",
+    "number": 16,
+    "description": "Perfection - Yoga of accomplishment and success",
+    "nature": "Auspicious",
+    "quality": "Perfect",
+    "elementPanchamahabhuta": "Ether",
+    "deity": "Ganesha",
+    "guna": "Sattvic",
+    "effect": "Success",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "All activities",
+      "Success seeking",
+      "Perfection",
+      "Accomplishment",
+      "Spiritual practices"
+    ],
+    "inauspiciousFor": [
+      "Nothing - universally auspicious"
+    ],
+    "specialCharacteristics": [
+      "Brings success",
+      "Perfection",
+      "Accomplishment",
+      "Siddhi powers"
+    ],
+    "karmicEffects": [
+      "Success in endeavors",
+      "Perfect outcomes",
+      "Accomplishments"
+    ],
+    "birthYogaTraits": [
+      "Successful",
+      "Perfect",
+      "Accomplished",
+      "Siddhi powers",
+      "Blessed"
+    ],
+    "healthEffects": "Perfect health and wellbeing",
+    "astrologySignificance": "Most auspicious yoga for all activities",
+    "vedicReferences": "Ganesha's yoga for success in all texts",
+    "keywords": [
+      "Success",
+      "Perfection",
+      "Accomplishment",
+      "Y16"
+    ],
+    "represents": [
+      "Divine success",
+      "Perfection principle",
+      "Accomplishment energy"
+    ]
+  },
+  {
+    "name": "Vyatipata",
+    "code": "Y17",
+    "number": 17,
+    "description": "Calamity - Yoga of great misfortune",
+    "nature": "Inauspicious",
+    "quality": "Calamitous",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Rudra",
+    "guna": "Tamasic",
+    "effect": "Calamity",
+    "muhurtaRating": 1,
+    "auspiciousFor": [
+      "Destruction of extreme negativity",
+      "Tantric practices",
+      "Facing fears"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "All auspicious activities",
+      "Starting ventures",
+      "Travel",
+      "Everything good"
+    ],
+    "specialCharacteristics": [
+      "Brings calamity",
+      "Misfortune",
+      "Disasters",
+      "Extreme negativity"
+    ],
+    "karmicEffects": [
+      "Calamities",
+      "Misfortunes",
+      "Disasters",
+      "Extreme difficulties"
+    ],
+    "birthYogaTraits": [
+      "Faces calamities",
+      "Disaster prone",
+      "Extreme challenges",
+      "Survivor"
+    ],
+    "healthEffects": "Health challenges and calamities",
+    "astrologySignificance": "Most inauspicious yoga, avoid all activities",
+    "vedicReferences": "Rudra's calamitous yoga extremely warned",
+    "keywords": [
+      "Calamity",
+      "Misfortune",
+      "Disaster",
+      "Extreme negativity"
+    ],
+    "represents": [
+      "Divine calamity",
+      "Misfortune principle",
+      "Disaster energy"
+    ]
+  },
+  {
+    "name": "Variyan",
+    "code": "Y18",
+    "number": 18,
+    "description": "Expansion - Yoga of spreading and growth",
+    "nature": "Auspicious",
+    "quality": "Expansive",
+    "elementPanchamahabhuta": "Water",
+    "deity": "Varuna",
+    "guna": "Sattvic",
+    "effect": "Expansion",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Expansion activities",
+      "Growth",
+      "Spreading",
+      "Business growth",
+      "Knowledge spreading"
+    ],
+    "inauspiciousFor": [
+      "Contraction",
+      "Endings",
+      "Limitation"
+    ],
+    "specialCharacteristics": [
+      "Promotes expansion",
+      "Spreading",
+      "Growth",
+      "Wide reach"
+    ],
+    "karmicEffects": [
+      "Expansive outcomes",
+      "Growth",
+      "Wide influence"
+    ],
+    "birthYogaTraits": [
+      "Expansive",
+      "Growing",
+      "Wide influence",
+      "Spreading nature"
+    ],
+    "healthEffects": "Good growth and expansion",
+    "astrologySignificance": "Excellent for expansion and growth",
+    "vedicReferences": "Varuna's expansive yoga in classics",
+    "keywords": [
+      "Expansion",
+      "Spreading",
+      "Growth",
+      "Wide reach"
+    ],
+    "represents": [
+      "Divine expansion",
+      "Spreading principle",
+      "Growth energy"
+    ]
+  },
+  {
+    "name": "Parigha",
+    "code": "Y19",
+    "number": 19,
+    "description": "Iron Bar - Yoga of obstruction and barrier",
+    "nature": "Inauspicious",
+    "quality": "Obstructive",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Vayu",
+    "guna": "Tamasic",
+    "effect": "Obstruction",
+    "muhurtaRating": 3,
+    "auspiciousFor": [
+      "Breaking barriers",
+      "Destruction of obstacles",
+      "Hard labor"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Auspicious ceremonies",
+      "Travel",
+      "Smooth activities",
+      "New ventures"
+    ],
+    "specialCharacteristics": [
+      "Creates barriers",
+      "Obstruction",
+      "Iron bar blocking",
+      "Difficulties"
+    ],
+    "karmicEffects": [
+      "Barriers",
+      "Obstructions",
+      "Blocked progress"
+    ],
+    "birthYogaTraits": [
+      "Faces barriers",
+      "Obstructed",
+      "Struggles",
+      "Barrier breaker"
+    ],
+    "healthEffects": "May face blockages in health",
+    "astrologySignificance": "Inauspicious, creates barriers",
+    "vedicReferences": "Vayu's obstructive yoga warned",
+    "keywords": [
+      "Barrier",
+      "Obstruction",
+      "Blockage",
+      "Iron bar"
+    ],
+    "represents": [
+      "Divine obstruction",
+      "Barrier energy",
+      "Blockage principle"
+    ]
+  },
+  {
+    "name": "Shiva",
+    "code": "Y20",
+    "number": 20,
+    "description": "Auspicious - Yoga of ultimate auspiciousness",
+    "nature": "Auspicious",
+    "quality": "Most auspicious",
+    "elementPanchamahabhuta": "Ether",
+    "deity": "Y20",
+    "guna": "Sattvic",
+    "effect": "Auspiciousness",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "All activities",
+      "Spiritual practices",
+      "Auspicious ceremonies",
+      "Marriages",
+      "Everything"
+    ],
+    "inauspiciousFor": [
+      "Nothing - universally auspicious"
+    ],
+    "specialCharacteristics": [
+      "Ultimate auspiciousness",
+      "Divine blessing",
+      "Perfection",
+      "Shiva's grace"
+    ],
+    "karmicEffects": [
+      "Auspicious outcomes",
+      "Divine blessings",
+      "Perfect results"
+    ],
+    "birthYogaTraits": [
+      "Auspicious",
+      "Blessed",
+      "Fortunate",
+      "Divine grace",
+      "Perfect"
+    ],
+    "healthEffects": "Perfect health and wellbeing",
+    "astrologySignificance": "Most auspicious yoga named after Shiva",
+    "vedicReferences": "Shiva's yoga supremely praised in all texts",
+    "keywords": [
+      "Auspiciousness",
+      "Divine blessing",
+      "Perfection",
+      "Grace"
+    ],
+    "represents": [
+      "Divine auspiciousness",
+      "Shiva's blessing",
+      "Ultimate grace"
+    ]
+  },
+  {
+    "name": "Siddha",
+    "code": "Y21",
+    "number": 21,
+    "description": "Accomplished - Yoga of fulfillment and realization",
+    "nature": "Auspicious",
+    "quality": "Fulfilled",
+    "elementPanchamahabhuta": "Ether",
+    "deity": "Kartikeya",
+    "guna": "Sattvic",
+    "effect": "Fulfillment",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Accomplishment",
+      "Fulfillment",
+      "Spiritual realization",
+      "Success",
+      "Completion"
+    ],
+    "inauspiciousFor": [
+      "Nothing - highly auspicious"
+    ],
+    "specialCharacteristics": [
+      "Brings accomplishment",
+      "Fulfillment",
+      "Realization",
+      "Success"
+    ],
+    "karmicEffects": [
+      "Fulfilled desires",
+      "Accomplishments",
+      "Realization"
+    ],
+    "birthYogaTraits": [
+      "Accomplished",
+      "Fulfilled",
+      "Successful",
+      "Realized",
+      "Complete"
+    ],
+    "healthEffects": "Complete health and wellbeing",
+    "astrologySignificance": "Excellent for accomplishment and success",
+    "vedicReferences": "Kartikeya's accomplished yoga praised",
+    "keywords": [
+      "Accomplishment",
+      "Fulfillment",
+      "Realization",
+      "Success"
+    ],
+    "represents": [
+      "Divine accomplishment",
+      "Fulfillment principle",
+      "Success energy"
+    ]
+  },
+  {
+    "name": "Sadhya",
+    "code": "Y22",
+    "number": 22,
+    "description": "To be accomplished - Yoga of endeavor and effort",
+    "nature": "Auspicious",
+    "quality": "Achievable",
+    "elementPanchamahabhuta": "Air",
+    "deity": "Sadhyas (Celestial beings)",
+    "guna": "Rajasic",
+    "effect": "Achievement",
+    "muhurtaRating": 8,
+    "auspiciousFor": [
+      "Efforts",
+      "Endeavors",
+      "Work requiring achievement",
+      "Goal setting",
+      "Pursuits"
+    ],
+    "inauspiciousFor": [
+      "Passive activities",
+      "Rest",
+      "Inaction"
+    ],
+    "specialCharacteristics": [
+      "Promotes effort",
+      "Achievement possible",
+      "Endeavor",
+      "Accomplishable"
+    ],
+    "karmicEffects": [
+      "Achievement through effort",
+      "Accomplishment",
+      "Success via work"
+    ],
+    "birthYogaTraits": [
+      "Hardworking",
+      "Achiever",
+      "Effort-oriented",
+      "Goal-focused"
+    ],
+    "healthEffects": "Good health through effort",
+    "astrologySignificance": "Good for goal-oriented activities",
+    "vedicReferences": "Sadhyas yoga for effort in texts",
+    "keywords": [
+      "Effort",
+      "Achievement",
+      "Endeavor",
+      "Goal"
+    ],
+    "represents": [
+      "Divine effort",
+      "Achievement principle",
+      "Endeavor energy"
+    ]
+  },
+  {
+    "name": "Shubha",
+    "code": "Y23",
+    "number": 23,
+    "description": "Auspicious - Yoga of goodness and virtue",
+    "nature": "Auspicious",
+    "quality": "Good",
+    "elementPanchamahabhuta": "Water",
+    "deity": "Lakshmi",
+    "guna": "Sattvic",
+    "effect": "Goodness",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "All good activities",
+      "Virtue",
+      "Auspicious works",
+      "Marriage",
+      "Ceremonies"
+    ],
+    "inauspiciousFor": [
+      "Negative activities",
+      "Inauspicious work"
+    ],
+    "specialCharacteristics": [
+      "Brings goodness",
+      "Virtue",
+      "Auspiciousness",
+      "Positive energy"
+    ],
+    "karmicEffects": [
+      "Good outcomes",
+      "Virtuous results",
+      "Auspicious experiences"
+    ],
+    "birthYogaTraits": [
+      "Good natured",
+      "Virtuous",
+      "Auspicious",
+      "Positive",
+      "Blessed"
+    ],
+    "healthEffects": "Good health and positive wellbeing",
+    "astrologySignificance": "Highly auspicious for all good works",
+    "vedicReferences": "Lakshmi's auspicious yoga praised",
+    "keywords": [
+      "Goodness",
+      "Virtue",
+      "Auspiciousness",
+      "Positive"
+    ],
+    "represents": [
+      "Divine goodness",
+      "Virtue principle",
+      "Auspicious energy"
+    ]
+  },
+  {
+    "name": "Shukla",
+    "code": "Y24",
+    "number": 24,
+    "description": "Bright/White - Yoga of purity and clarity",
+    "nature": "Auspicious",
+    "quality": "Pure",
+    "elementPanchamahabhuta": "Fire",
+    "deity": "Parvati",
+    "guna": "Sattvic",
+    "effect": "Purity",
+    "muhurtaRating": 10,
+    "auspiciousFor": [
+      "Purification",
+      "Clarity seeking",
+      "Pure activities",
+      "White magic",
+      "Spiritual practices"
+    ],
+    "inauspiciousFor": [
+      "Impure activities",
+      "Dark practices"
+    ],
+    "specialCharacteristics": [
+      "Brings purity",
+      "Clarity",
+      "Brightness",
+      "White energy"
+    ],
+    "karmicEffects": [
+      "Pure outcomes",
+      "Clear results",
+      "Bright experiences"
+    ],
+    "birthYogaTraits": [
+      "Pure",
+      "Clear",
+      "Bright",
+      "Transparent",
+      "Clean"
+    ],
+    "healthEffects": "Pure and clear health",
+    "astrologySignificance": "Excellent for purity and clarity",
+    "vedicReferences": "Parvati's pure yoga praised",
+    "keywords": [
+      "Purity",
+      "Clarity",
+      "Brightness",
+      "White"
+    ],
+    "represents": [
+      "Divine purity",
+      "Clarity principle",
+      "Bright energy"
+    ]
+  },
+  {
+    "name": "Brahma",
+    "code": "Y25",
+    "number": 25,
+    "description": "Creator - Yoga of creation and manifestation",
+    "nature": "Auspicious",
+    "quality": "Creative",
+    "elementPanchamahabhuta": "Ether",
+    "deity": "Y25",
+    "guna": "Rajasic",
+    "effect": "Creation",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Creation",
+      "New beginnings",
+      "Manifestation",
+      "Starting ventures",
+      "Creative work"
+    ],
+    "inauspiciousFor": [
+      "Destruction",
+      "Endings",
+      "Non-creative work"
+    ],
+    "specialCharacteristics": [
+      "Promotes creation",
+      "Manifestation",
+      "New beginnings",
+      "Creative power"
+    ],
+    "karmicEffects": [
+      "Creative outcomes",
+      "New manifestations",
+      "Beginnings"
+    ],
+    "birthYogaTraits": [
+      "Creative",
+      "Manifesting",
+      "Creator",
+      "Beginning-oriented",
+      "Innovative"
+    ],
+    "healthEffects": "Good creative energy and vitality",
+    "astrologySignificance": "Excellent for creation and new beginnings",
+    "vedicReferences": "Brahma's creative yoga praised in Vedas",
+    "keywords": [
+      "Creation",
+      "Manifestation",
+      "Beginning",
+      "Innovation"
+    ],
+    "represents": [
+      "Divine creation",
+      "Manifestation principle",
+      "Creative energy"
+    ]
+  },
+  {
+    "name": "Indra",
+    "code": "Y26",
+    "number": 26,
+    "description": "King of Gods - Yoga of power and authority",
+    "nature": "Auspicious",
+    "quality": "Powerful",
+    "elementPanchamahabhuta": "Air",
+    "deity": "Y26",
+    "guna": "Rajasic",
+    "effect": "Power",
+    "muhurtaRating": 9,
+    "auspiciousFor": [
+      "Authority matters",
+      "Power seeking",
+      "Leadership",
+      "Victory",
+      "Ruling"
+    ],
+    "inauspiciousFor": [
+      "Humility",
+      "Subservience",
+      "Weak positions"
+    ],
+    "specialCharacteristics": [
+      "Brings power",
+      "Authority",
+      "Victory",
+      "Leadership"
+    ],
+    "karmicEffects": [
+      "Powerful outcomes",
+      "Authority",
+      "Victory"
+    ],
+    "birthYogaTraits": [
+      "Powerful",
+      "Authoritative",
+      "Leader",
+      "Victorious",
+      "Kingly"
+    ],
+    "healthEffects": "Strong and powerful constitution",
+    "astrologySignificance": "Excellent for power and authority",
+    "vedicReferences": "Indra's powerful yoga praised as king's yoga",
+    "keywords": [
+      "Power",
+      "Authority",
+      "Victory",
+      "Leadership"
+    ],
+    "represents": [
+      "Divine power",
+      "Authority principle",
+      "Victory energy"
+    ]
+  },
+  {
+    "name": "Vaidhriti",
+    "code": "Y27",
+    "number": 27,
+    "description": "Separation - Yoga of division and discord",
+    "nature": "Inauspicious",
+    "quality": "Divisive",
+    "elementPanchamahabhuta": "EA",
+    "deity": "Pitrus (Ancestors)",
+    "guna": "Tamasic",
+    "effect": "Separation",
+    "muhurtaRating": 2,
+    "auspiciousFor": [
+      "Separation needed",
+      "Divorce",
+      "Cutting ties",
+      "Ancestor work"
+    ],
+    "inauspiciousFor": [
+      "Marriage",
+      "Unions",
+      "Partnerships",
+      "Agreements",
+      "Auspicious ceremonies"
+    ],
+    "specialCharacteristics": [
+      "Causes separation",
+      "Division",
+      "Discord",
+      "Breaking"
+    ],
+    "karmicEffects": [
+      "Separations",
+      "Divisions",
+      "Discord",
+      "Broken relationships"
+    ],
+    "birthYogaTraits": [
+      "Faces separations",
+      "Divided",
+      "Discordant",
+      "Isolated tendency"
+    ],
+    "healthEffects": "May face separations and divisions",
+    "astrologySignificance": "Inauspicious, causes separations",
+    "vedicReferences": "Ancestor yoga warned for separation",
+    "keywords": [
+      "Separation",
+      "Division",
+      "Discord",
+      "Breaking"
+    ],
+    "represents": [
+      "Divine separation",
+      "Division principle",
+      "Discord energy"
+    ]
+  }
+]

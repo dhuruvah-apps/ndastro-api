@@ -1,0 +1,1499 @@
+{
+  "system": {
+    "name": "Vedic Compatibility Analysis",
+    "description": "Comprehensive relationship and marriage compatibility assessment",
+    "sanskritName": "Vivaha Kundali Matching",
+    "purpose": "Evaluate compatibility for harmonious relationships and marriage",
+    "importance": "Critical for long-term relationship success and family harmony",
+    "scope": "Covers mental, physical, emotional, spiritual, and karmic compatibility",
+    "mainSystems": [
+      "Ashtakoot/Guna Milan",
+      "Mangal Dosha",
+      "Navamsa compatibility",
+      "Dashakoot",
+      "Kuta matching",
+      "Bhakoot analysis"
+    ],
+    "vedicReferences": "Muhurta Chintamani, Vivaha Vrinda, Jataka Tatva, Hora Shastra",
+    "modernRelevance": "Ancient wisdom applicable to modern relationships"
+  },
+  "ashtakootSystem": {
+    "name": "Ashtakoot Guna Milan (Eight-fold Compatibility)",
+    "importance": "Most popular compatibility system",
+    "description": "Eight factors scored based on Moon nakshatra compatibility",
+    "totalPoints": 36,
+    "passingScore": 18,
+    "goodScore": 24,
+    "excellentScore": 30,
+    "principle": "Higher score indicates better natural compatibility",
+    "calculation": "Based on boy's and girl's birth Moon nakshatra positions",
+    "kutas": [
+      {
+        "number": 1,
+        "name": "Varna Kuta",
+        "points": 1,
+        "sanskritName": "\u0935\u0930\u094d\u0923 \u0915\u0942\u091f",
+        "description": "Spiritual compatibility and ego levels",
+        "principle": "Soul evolution and temperament matching",
+        "categories": [
+          {
+            "varna": "Brahmin (Priest)",
+            "nakshatras": [
+              "N01",
+              "N05",
+              "N07",
+              "N08",
+              "N13",
+              "N15",
+              "N17",
+              "N22",
+              "N27"
+            ],
+            "qualities": "Spiritual, intellectual, teaching nature",
+            "evolution": "Highest spiritual evolution"
+          },
+          {
+            "varna": "Kshatriya (Warrior)",
+            "nakshatras": [
+              "N02",
+              "N06",
+              "N10",
+              "N11",
+              "N14",
+              "N16",
+              "N18",
+              "N23",
+              "N25"
+            ],
+            "qualities": "Leadership, protection, courage, authority",
+            "evolution": "Second level - action oriented"
+          },
+          {
+            "varna": "Vaishya (Merchant)",
+            "nakshatras": [
+              "N03",
+              "N07",
+              "N12",
+              "N13",
+              "N17",
+              "N19",
+              "N21",
+              "N24"
+            ],
+            "qualities": "Business, trade, commerce, material success",
+            "evolution": "Third level - material focused"
+          },
+          {
+            "varna": "Shudra (Servant)",
+            "nakshatras": [
+              "N04",
+              "N09",
+              "N15",
+              "N16",
+              "N20",
+              "N22",
+              "N26"
+            ],
+            "qualities": "Service, support, hard work, practical",
+            "evolution": "Fourth level - service oriented"
+          }
+        ],
+        "scoringRule": "Boy's varna should be equal or higher than girl's for 1 point",
+        "modernInterpretation": "Ego and temperament compatibility - equal or complementary personalities work better",
+        "lowScoreEffect": "Ego clashes, temperament differences, spiritual direction conflicts"
+      },
+      {
+        "number": 2,
+        "name": "Vashya Kuta",
+        "points": 2,
+        "sanskritName": "\u0935\u0936\u094d\u092f \u0915\u0942\u091f",
+        "description": "Mutual attraction and control compatibility",
+        "principle": "Natural dominance and submission dynamics",
+        "categories": [
+          {
+            "type": "Chatushpada (Quadruped)",
+            "rasis": [
+              "AR",
+              "TA",
+              "LE",
+              "Sagittarius (first half)",
+              "Capricorn (first half)"
+            ],
+            "nature": "Animal-like energy, strong physical nature",
+            "compatible": "Same type or Manava"
+          },
+          {
+            "type": "Manava (Human)",
+            "rasis": [
+              "GE",
+              "VI",
+              "LI",
+              "Aquarius (first half)"
+            ],
+            "nature": "Human-like, intellectual, social",
+            "compatible": "All types"
+          },
+          {
+            "type": "Jalachara (Aquatic)",
+            "rasis": [
+              "CA",
+              "PI",
+              "Capricorn (second half)"
+            ],
+            "nature": "Water-like, emotional, flowing",
+            "compatible": "Same type or Manava"
+          },
+          {
+            "type": "Keeta (Insect)",
+            "rasis": [
+              "SC"
+            ],
+            "nature": "Insect-like, secretive, transformative",
+            "compatible": "Manava mainly"
+          },
+          {
+            "type": "Vanachara (Wild)",
+            "rasis": [
+              "LE"
+            ],
+            "nature": "Wild animal, independent, strong",
+            "compatible": "Manava, same type"
+          }
+        ],
+        "scoringRule": "2 points if mutual attraction strong, 1 if one-way, 0 if incompatible",
+        "modernInterpretation": "Natural chemistry, attraction patterns, dominance dynamics",
+        "lowScoreEffect": "Lack of mutual attraction, control issues, incompatible energies"
+      },
+      {
+        "number": 3,
+        "name": "Tara Kuta",
+        "points": 3,
+        "sanskritName": "\u0924\u093e\u0930\u093e \u0915\u0942\u091f",
+        "description": "Birth star compatibility and mutual fortune",
+        "principle": "27 nakshatras create 9 taras showing mutual influence",
+        "calculation": "Count from girl's nakshatra to boy's nakshatra, divide by 9, check remainder",
+        "taras": [
+          {
+            "position": 1,
+            "name": "Janma",
+            "meaning": "Birth",
+            "effect": "Neutral to difficult",
+            "score": "Challenging"
+          },
+          {
+            "position": 2,
+            "name": "Sampat",
+            "meaning": "Wealth",
+            "effect": "Very auspicious",
+            "score": "Excellent"
+          },
+          {
+            "position": 3,
+            "name": "Vipat",
+            "meaning": "Danger",
+            "effect": "Very inauspicious",
+            "score": "Bad"
+          },
+          {
+            "position": 4,
+            "name": "Kshema",
+            "meaning": "Welfare",
+            "effect": "Auspicious",
+            "score": "Good"
+          },
+          {
+            "position": 5,
+            "name": "Pratyak",
+            "meaning": "Obstacle",
+            "effect": "Inauspicious",
+            "score": "Challenging"
+          },
+          {
+            "position": 6,
+            "name": "Sadhaka",
+            "meaning": "Achiever",
+            "effect": "Very auspicious",
+            "score": "Excellent"
+          },
+          {
+            "position": 7,
+            "name": "Vadha",
+            "meaning": "Destruction",
+            "effect": "Very inauspicious",
+            "score": "Bad"
+          },
+          {
+            "position": 8,
+            "name": "Mitra",
+            "meaning": "Friend",
+            "effect": "Auspicious",
+            "score": "Good"
+          },
+          {
+            "position": 9,
+            "name": "Ati-Mitra",
+            "meaning": "Best friend",
+            "effect": "Most auspicious",
+            "score": "Excellent"
+          }
+        ],
+        "scoringRule": "3 points if both directions favorable, 1.5 if one direction favorable, 0 if both unfavorable",
+        "modernInterpretation": "Luck and fortune partners bring to each other, karmic connection",
+        "lowScoreEffect": "Bad luck for each other, obstacles multiply, unfortunate timing"
+      },
+      {
+        "number": 4,
+        "name": "Yoni Kuta",
+        "points": 4,
+        "sanskritName": "\u092f\u094b\u0928\u093f \u0915\u0942\u091f",
+        "description": "Sexual and biological compatibility",
+        "principle": "Animal nature determines physical and intimate compatibility",
+        "animals": [
+          {
+            "animal": "Horse",
+            "nakshatras": [
+              "N01",
+              "N24"
+            ],
+            "nature": "Strong, passionate, energetic",
+            "gender": "Male"
+          },
+          {
+            "animal": "Elephant",
+            "nakshatras": [
+              "N02",
+              "N27"
+            ],
+            "nature": "Slow, steady, devoted",
+            "gender": "Female"
+          },
+          {
+            "animal": "Sheep",
+            "nakshatras": [
+              "N03",
+              "N08"
+            ],
+            "nature": "Gentle, submissive, peaceful",
+            "gender": "Female"
+          },
+          {
+            "animal": "Serpent",
+            "nakshatras": [
+              "N04",
+              "N05"
+            ],
+            "nature": "Cunning, mysterious, passionate",
+            "gender": "Male"
+          },
+          {
+            "animal": "Dog",
+            "nakshatras": [
+              "N06",
+              "N19"
+            ],
+            "nature": "Loyal, protective, faithful",
+            "gender": "Female"
+          },
+          {
+            "animal": "Cat",
+            "nakshatras": [
+              "N07",
+              "N09"
+            ],
+            "nature": "Independent, selfish, pleasure-seeking",
+            "gender": "Male"
+          },
+          {
+            "animal": "Rat",
+            "nakshatras": [
+              "N10",
+              "N11"
+            ],
+            "nature": "Quick, nervous, adaptable",
+            "gender": "Male"
+          },
+          {
+            "animal": "Cow",
+            "nakshatras": [
+              "N12",
+              "N26"
+            ],
+            "nature": "Gentle, nurturing, patient",
+            "gender": "Female"
+          },
+          {
+            "animal": "Buffalo",
+            "nakshatras": [
+              "N13",
+              "N15"
+            ],
+            "nature": "Strong, stubborn, hardworking",
+            "gender": "Male"
+          },
+          {
+            "animal": "Tiger",
+            "nakshatras": [
+              "N14",
+              "N16"
+            ],
+            "nature": "Fierce, dominant, passionate",
+            "gender": "Female"
+          },
+          {
+            "animal": "Deer",
+            "nakshatras": [
+              "N17",
+              "N18"
+            ],
+            "nature": "Gentle, timid, beautiful",
+            "gender": "Male"
+          },
+          {
+            "animal": "Monkey",
+            "nakshatras": [
+              "N22",
+              "N20"
+            ],
+            "nature": "Playful, restless, clever",
+            "gender": "Female"
+          },
+          {
+            "animal": "Lion",
+            "nakshatras": [
+              "N23",
+              "N25"
+            ],
+            "nature": "Royal, proud, powerful",
+            "gender": "Female"
+          },
+          {
+            "animal": "Mongoose",
+            "nakshatras": [
+              "N21"
+            ],
+            "nature": "Brave, fighter, antagonistic to serpent",
+            "gender": "Male"
+          }
+        ],
+        "relationships": [
+          {
+            "type": "Friendly",
+            "points": 4,
+            "examples": "Same animal, naturally compatible animals"
+          },
+          {
+            "type": "Neutral",
+            "points": 2,
+            "examples": "No natural connection"
+          },
+          {
+            "type": "Enemy",
+            "points": 0,
+            "examples": "Natural enemies - Cat vs Rat, Mongoose vs Serpent, Deer vs Dog"
+          }
+        ],
+        "scoringRule": "4 points for friendly/same, 2 for neutral, 0 for enemies",
+        "modernInterpretation": "Physical intimacy compatibility, sexual nature matching, biological rhythm",
+        "lowScoreEffect": "Sexual incompatibility, physical disharmony, intimate relationship struggles",
+        "importance": "Critical for physical relationship success"
+      },
+      {
+        "number": 5,
+        "name": "Graha Maitri Kuta",
+        "points": 5,
+        "sanskritName": "\u0917\u094d\u0930\u0939 \u092e\u0948\u0924\u094d\u0930\u0940 \u0915\u0942\u091f",
+        "description": "Mental and intellectual compatibility",
+        "principle": "Moon sign lords' friendship determines mental harmony",
+        "calculation": "Check relationship between boy's Moon sign lord and girl's Moon sign lord",
+        "relationships": [
+          {
+            "type": "Both lords are same planet",
+            "points": 5,
+            "effect": "Perfect mental harmony, same thinking patterns"
+          },
+          {
+            "type": "Both lords are natural friends",
+            "points": 5,
+            "effect": "Excellent understanding, compatible thoughts"
+          },
+          {
+            "type": "One lord friend, one neutral",
+            "points": 4,
+            "effect": "Good compatibility with some adjustments"
+          },
+          {
+            "type": "Both lords neutral to each other",
+            "points": 3,
+            "effect": "Average compatibility, requires effort"
+          },
+          {
+            "type": "One friend, one enemy",
+            "points": 1,
+            "effect": "Challenging mental compatibility"
+          },
+          {
+            "type": "Both lords are enemies",
+            "points": 0,
+            "effect": "Mental conflicts, thinking pattern clashes"
+          }
+        ],
+        "planetaryFriendships": {
+          "Sun": {
+            "friends": [
+              "MO",
+              "MA",
+              "JU"
+            ],
+            "neutral": [
+              "ME"
+            ],
+            "enemies": [
+              "VE",
+              "SA"
+            ]
+          },
+          "Moon": {
+            "friends": [
+              "SU",
+              "ME"
+            ],
+            "neutral": [
+              "MA",
+              "JU",
+              "VE",
+              "SA"
+            ],
+            "enemies": []
+          },
+          "Mars": {
+            "friends": [
+              "SU",
+              "MO",
+              "JU"
+            ],
+            "neutral": [
+              "VE",
+              "SA"
+            ],
+            "enemies": [
+              "ME"
+            ]
+          },
+          "Mercury": {
+            "friends": [
+              "SU",
+              "VE"
+            ],
+            "neutral": [
+              "MA",
+              "JU",
+              "SA"
+            ],
+            "enemies": [
+              "MO"
+            ]
+          },
+          "Jupiter": {
+            "friends": [
+              "SU",
+              "MO",
+              "MA"
+            ],
+            "neutral": [
+              "SA"
+            ],
+            "enemies": [
+              "ME",
+              "VE"
+            ]
+          },
+          "Venus": {
+            "friends": [
+              "ME",
+              "SA"
+            ],
+            "neutral": [
+              "MA",
+              "JU"
+            ],
+            "enemies": [
+              "SU",
+              "MO"
+            ]
+          },
+          "Saturn": {
+            "friends": [
+              "ME",
+              "VE"
+            ],
+            "neutral": [
+              "JU"
+            ],
+            "enemies": [
+              "SU",
+              "MO",
+              "MA"
+            ]
+          }
+        },
+        "modernInterpretation": "Mental wavelength, communication ease, thought process compatibility",
+        "lowScoreEffect": "Mental conflicts, communication breakdowns, thinking pattern incompatibility",
+        "importance": "Critical for emotional and mental relationship success"
+      },
+      {
+        "number": 6,
+        "name": "Gana Kuta",
+        "points": 6,
+        "sanskritName": "\u0917\u0923 \u0915\u0942\u091f",
+        "description": "Temperament and behavioral compatibility",
+        "principle": "Three basic temperaments that must harmonize",
+        "ganas": [
+          {
+            "gana": "Deva (Divine)",
+            "nakshatras": [
+              "N01",
+              "N05",
+              "N07",
+              "N08",
+              "N13",
+              "N15",
+              "N17",
+              "N22",
+              "N27"
+            ],
+            "nature": "Godly, sattvic, pure, kind, charitable, religious",
+            "qualities": "Gentle, virtuous, spiritual, good conduct",
+            "percentage": "33% of nakshatras"
+          },
+          {
+            "gana": "Manushya (Human)",
+            "nakshatras": [
+              "N02",
+              "N04",
+              "N06",
+              "N11",
+              "N12",
+              "N20",
+              "N21",
+              "N25",
+              "N26"
+            ],
+            "nature": "Human-like, rajasic, mixed good and bad, worldly",
+            "qualities": "Balanced, practical, ambitious, social",
+            "percentage": "33% of nakshatras"
+          },
+          {
+            "gana": "Rakshasa (Demon)",
+            "nakshatras": [
+              "N03",
+              "N09",
+              "N10",
+              "N14",
+              "N16",
+              "N18",
+              "N19",
+              "N23",
+              "N24"
+            ],
+            "nature": "Demonic, tamasic, aggressive, fierce, materialistic",
+            "qualities": "Strong-willed, aggressive, self-centered, powerful",
+            "percentage": "33% of nakshatras"
+          }
+        ],
+        "compatibility": [
+          {
+            "combination": "Deva + Deva",
+            "points": 6,
+            "effect": "Perfect harmony, mutual understanding, peaceful life"
+          },
+          {
+            "combination": "Manushya + Manushya",
+            "points": 6,
+            "effect": "Perfect compatibility, balanced relationship"
+          },
+          {
+            "combination": "Rakshasa + Rakshasa",
+            "points": 6,
+            "effect": "Perfect match, mutual strength, power couple"
+          },
+          {
+            "combination": "Deva + Manushya",
+            "points": 6,
+            "effect": "Good compatibility, complementary natures"
+          },
+          {
+            "combination": "Manushya + Rakshasa",
+            "points": 0,
+            "effect": "Challenging but manageable with effort"
+          },
+          {
+            "combination": "Deva + Rakshasa",
+            "points": 0,
+            "effect": "Most difficult, opposite temperaments, requires conscious effort"
+          }
+        ],
+        "exception": "If girl is Deva and boy is Rakshasa, it's worse than reverse",
+        "modernInterpretation": "Behavioral style, aggression level, temperament harmony",
+        "lowScoreEffect": "Temperament clashes, behavioral conflicts, lifestyle incompatibility",
+        "importance": "Very important for daily life harmony"
+      },
+      {
+        "number": 7,
+        "name": "Bhakoot Kuta",
+        "points": 7,
+        "sanskritName": "\u092d\u0915\u0942\u091f \u0915\u0942\u091f",
+        "description": "Emotional and health compatibility, family welfare",
+        "principle": "Rasi position relationship affects health and prosperity",
+        "calculation": "Count signs from girl's Moon rasi to boy's Moon rasi",
+        "positions": [
+          {
+            "count": "1st (Same sign)",
+            "points": 0,
+            "effect": "No emotional depth, too similar"
+          },
+          {
+            "count": "2nd or 12th",
+            "points": 0,
+            "effect": "Financial and family troubles, health issues"
+          },
+          {
+            "count": "3rd or 11th",
+            "points": 7,
+            "effect": "Excellent for growth and prosperity"
+          },
+          {
+            "count": "4th or 10th",
+            "points": 7,
+            "effect": "Good for happiness and success"
+          },
+          {
+            "count": "5th or 9th",
+            "points": 7,
+            "effect": "Very auspicious, fortune and children"
+          },
+          {
+            "count": "6th or 8th",
+            "points": 0,
+            "effect": "Health issues, obstacles, conflicts"
+          },
+          {
+            "count": "7th (Opposite)",
+            "points": 0,
+            "effect": "Opposition but sometimes acceptable"
+          }
+        ],
+        "exceptions": [
+          "Same Moon sign but different nakshatras can be acceptable",
+          "Certain specific combinations like Aries-Scorpio (both Mars) get points",
+          "Leo-Aquarius, Cancer-Capricorn have special considerations"
+        ],
+        "modernInterpretation": "Emotional wavelength, family happiness, health harmony",
+        "lowScoreEffect": "Family problems, health issues for spouse, emotional disconnect, financial troubles",
+        "importance": "Very critical - affects health and prosperity",
+        "seriousness": "Low score here is a major concern"
+      },
+      {
+        "number": 8,
+        "name": "Nadi Kuta",
+        "points": 8,
+        "sanskritName": "\u0928\u093e\u0921\u0940 \u0915\u0942\u091f",
+        "description": "Genetic compatibility, health of progeny, physiological harmony",
+        "principle": "Three nadis represent Vata, Pitta, Kapha doshas - must be different",
+        "nadis": [
+          {
+            "nadi": "Aadi (Vata)",
+            "nakshatras": [
+              "N01",
+              "N06",
+              "N07",
+              "N12",
+              "N13",
+              "N18",
+              "N19",
+              "N24",
+              "N25"
+            ],
+            "dosha": "Vata (Air)",
+            "nature": "Nervous energy, thin body, restless",
+            "count": 9
+          },
+          {
+            "nadi": "Madhya (Pitta)",
+            "nakshatras": [
+              "N02",
+              "N05",
+              "N08",
+              "N11",
+              "N14",
+              "N17",
+              "N20",
+              "N23",
+              "N26"
+            ],
+            "dosha": "Pitta (Fire)",
+            "nature": "Hot temperament, medium build, aggressive",
+            "count": 9
+          },
+          {
+            "nadi": "Antya (Kapha)",
+            "nakshatras": [
+              "N03",
+              "N04",
+              "N09",
+              "N10",
+              "N15",
+              "N16",
+              "N21",
+              "N22",
+              "N27"
+            ],
+            "dosha": "Kapha (Water/Earth)",
+            "nature": "Calm, heavy body, steady",
+            "count": 9
+          }
+        ],
+        "scoringRule": [
+          {
+            "condition": "Different Nadis",
+            "points": 8,
+            "effect": "Perfect genetic compatibility, healthy children, physiological harmony"
+          },
+          {
+            "condition": "Same Nadi",
+            "points": 0,
+            "effect": "Genetic incompatibility, health issues in children, physiological problems"
+          }
+        ],
+        "seriousness": "Most serious dosha - same Nadi is major red flag",
+        "consequences": [
+          "Health problems in offspring",
+          "Difficulty conceiving",
+          "Physiological incompatibility",
+          "Shortened lifespan of partner",
+          "Genetic disorders in children"
+        ],
+        "exceptions": [
+          "Both have same rasi but different nakshatras",
+          "Both have same nakshatra but different padas/rasis",
+          "Both have same rasi lord (some texts)"
+        ],
+        "modernInterpretation": "Genetic compatibility, biological harmony, progeny health",
+        "remedies": "Very difficult to remedy - considered most serious among all kutas",
+        "importance": "Absolutely critical - many astrologers reject matches with Nadi dosha"
+      }
+    ],
+    "interpretationGuidelines": {
+      "scoreRanges": [
+        {
+          "range": "0-10",
+          "rating": "Very Poor",
+          "recommendation": "Not recommended",
+          "challenges": "Severe incompatibility in multiple areas"
+        },
+        {
+          "range": "11-17",
+          "rating": "Poor",
+          "recommendation": "Not advisable without remedies",
+          "challenges": "Significant incompatibility, major effort needed"
+        },
+        {
+          "range": "18-23",
+          "rating": "Average",
+          "recommendation": "Acceptable with conscious effort",
+          "challenges": "Some compatibility issues, requires compromise"
+        },
+        {
+          "range": "24-29",
+          "rating": "Good",
+          "recommendation": "Good match, recommended",
+          "challenges": "Minor adjustments needed"
+        },
+        {
+          "range": "30-36",
+          "rating": "Excellent",
+          "recommendation": "Highly recommended",
+          "challenges": "Excellent natural compatibility"
+        }
+      ],
+      "criticalKutas": [
+        "Nadi (8 points)",
+        "Bhakoot (7 points)",
+        "Gana (6 points)",
+        "Graha Maitri (5 points)"
+      ],
+      "minorKutas": [
+        "Varna (1 point)",
+        "Vashya (2 points)",
+        "Tara (3 points)",
+        "Yoni (4 points)"
+      ],
+      "rule": "Even high score problematic if critical kutas score zero"
+    }
+  },
+  "mangalDosha": {
+    "name": "Mangal Dosha (Mars Affliction)",
+    "sanskritName": "\u092e\u093e\u0902\u0917\u0932\u093f\u0915 \u0926\u094b\u0937 / \u0915\u0941\u091c\u093e \u0926\u094b\u0937",
+    "alternateNames": [
+      "Kuja Dosha",
+      "Manglik",
+      "Chevvai Dosham"
+    ],
+    "importance": "Highly emphasized in North India, less in South India (where more dashas checked)",
+    "description": "Mars in certain houses causes aggression and marital discord",
+    "principle": "Mars' malefic influence in sensitive houses affects marital happiness",
+    "affectedHouses": [
+      {
+        "house": "1st (Lagna)",
+        "effect": "Aggressive personality, ego issues, dominance problems",
+        "severity": "High",
+        "impact": "Personality clashes, self-centeredness affecting marriage"
+      },
+      {
+        "house": "2nd House",
+        "effect": "Harsh speech, family conflicts, wealth disputes",
+        "severity": "Medium to High",
+        "impact": "Communication problems, family disharmony"
+      },
+      {
+        "house": "4th House",
+        "effect": "Home conflicts, property disputes, mother issues",
+        "severity": "Medium",
+        "impact": "Domestic unrest, emotional instability"
+      },
+      {
+        "house": "7th House",
+        "effect": "Direct impact on spouse and marriage",
+        "severity": "Very High",
+        "impact": "Marital discord, separation tendencies, spouse health"
+      },
+      {
+        "house": "8th House",
+        "effect": "Longevity concerns, sudden changes, accidents",
+        "severity": "High",
+        "impact": "Sudden marriage troubles, spouse longevity issues"
+      },
+      {
+        "house": "12th House",
+        "effect": "Expenses, bed pleasure issues, separation",
+        "severity": "Medium to High",
+        "impact": "Sexual incompatibility, expenditure on conflicts"
+      }
+    ],
+    "cancellations": [
+      {
+        "condition": "Both partners have Mangal Dosha",
+        "effect": "Dosha cancels - both understand each other's Mars energy"
+      },
+      {
+        "condition": "Mars in own signs (Aries, Scorpio)",
+        "effect": "Reduced or cancelled - Mars comfortable"
+      },
+      {
+        "condition": "Mars exalted in Capricorn",
+        "effect": "Greatly reduced - Mars dignified"
+      },
+      {
+        "condition": "Strong Jupiter or Venus aspect on Mars",
+        "effect": "Reduced - benefics soften Mars"
+      },
+      {
+        "condition": "Mars conjunct Jupiter or Venus",
+        "effect": "Reduced significantly - benefic influence"
+      },
+      {
+        "condition": "Age over 28-32 years (Mars maturity)",
+        "effect": "Reduced impact - Mars matures"
+      },
+      {
+        "condition": "Stronger aspects cancelling Mars",
+        "effect": "Variable reduction based on aspect strength"
+      },
+      {
+        "condition": "Navamsa Mars well-placed",
+        "effect": "Reduced in marital chart"
+      }
+    ],
+    "checkFrom": [
+      "Lagna (Ascendant) - primary",
+      "Moon (Mind and emotions) - equally important",
+      "Venus (Marriage significator) - important",
+      "Must check from all three for complete analysis"
+    ],
+    "misconceptions": [
+      "Myth: Manglik causes death of spouse - Reality: Rarely fatal, usually causes discord",
+      "Myth: Manglik should never marry non-Manglik - Reality: Cancellations and remedies work",
+      "Myth: Permanent curse - Reality: Reduces after Mars maturity age (28)",
+      "Myth: All Mars in these houses - Reality: Strength, aspects, cancellations matter"
+    ],
+    "remedies": [
+      "Marry another Manglik person",
+      "Kumbh Vivah (symbolic marriage to tree/idol before actual marriage)",
+      "Mars remedies: Hanuman worship, red lentil donation, Mars mantras",
+      "Fasting on Tuesdays",
+      "Wear red coral (if Mars is beneficial)",
+      "Visit Mars temples",
+      "Perform Mars-specific pujas before marriage"
+    ],
+    "modernPerspective": "Mars creates assertiveness which needs compatible partner who understands/matches energy"
+  },
+  "advancedCompatibility": {
+    "name": "Advanced Compatibility Techniques",
+    "description": "Beyond Ashtakoot for deeper analysis",
+    "techniques": [
+      {
+        "name": "Navamsa (D9) Compatibility",
+        "importance": "Very high - shows actual marital happiness",
+        "description": "D9 is marriage chart - compatibility here more important than D1",
+        "checks": [
+          "7th house strength in both D9 charts",
+          "Venus position in both D9 charts",
+          "7th lord placement in D9",
+          "Mutual aspects between D9 charts",
+          "Benefics vs malefics in 7th house D9",
+          "D9 lagna lord strength - overall marital compatibility"
+        ],
+        "principle": "Strong D9 compatibility ensures lasting marital harmony",
+        "application": "Even good Ashtakoot with bad D9 can fail; good D9 can overcome poor Ashtakoot"
+      },
+      {
+        "name": "Darakaraka Compatibility",
+        "importance": "High in Jaimini system",
+        "description": "Lowest degree planet (except Rahu) indicates spouse",
+        "analysis": [
+          "Check both partners' Darakaraka",
+          "Darakaraka's nakshatra and sign",
+          "Darakaraka's relationship with 7th lord",
+          "Darakaraka in Navamsa position",
+          "Cross-check: His DK with her chart, Her DK with his chart"
+        ],
+        "interpretation": "DK shows spouse nature and what they bring to marriage"
+      },
+      {
+        "name": "Upapada Lagna Compatibility",
+        "importance": "High - shows marriage circumstances",
+        "description": "Upapada (UL/A7) shows actual marriage experience and circumstances",
+        "calculation": "Count from 12th lord's house to 12th lord, count same from lagna",
+        "checks": [
+          "UL lord strength in both charts",
+          "Planets in UL in both charts",
+          "UL position and aspects",
+          "Cross-compatibility of UL houses"
+        ],
+        "significance": "Even good 7th house with bad UL indicates marriage struggles"
+      },
+      {
+        "name": "Dasha Compatibility",
+        "importance": "Critical for timing and compatibility phases",
+        "description": "Check if both running compatible dashas at marriage and beyond",
+        "analysis": [
+          "Marriage period dashas for both",
+          "First 10 years post-marriage dashas",
+          "Mutual planetary period compatibility",
+          "Check if one's bad dasha coincides with other's good (balancing)",
+          "Rahu-Ketu axis alignment timing"
+        ],
+        "principle": "Smooth dashas for both = smooth married life; if one difficult, other should be supportive",
+        "example": "Marrying in Venus-Jupiter for both = excellent; marrying in Saturn-Rahu for both = challenging start"
+      },
+      {
+        "name": "Kakshya Compatibility",
+        "importance": "Medium - for detailed analysis",
+        "description": "Sub-divisions within each rasi for precise matching",
+        "analysis": "Check SAV kakshya compatibility in 7th house and Venus position"
+      },
+      {
+        "name": "Graha Lagna Compatibility",
+        "importance": "Medium",
+        "description": "Additional compatibility check from Graha Lagna (most planets)",
+        "checks": "Run Ashtakoot from Graha Lagna as alternate check"
+      },
+      {
+        "name": "Synastry Analysis",
+        "importance": "Medium to High",
+        "description": "Compare planetary positions between two charts",
+        "checks": [
+          "His Sun with her Moon (complementary)",
+          "His Venus with her Mars (attraction)",
+          "His Jupiter with her Jupiter (shared philosophy)",
+          "His Saturn with her Saturn (shared responsibilities)",
+          "Moon-Moon harmony (emotional connection)",
+          "Ascendant-Ascendant (personality match)"
+        ],
+        "principle": "Inter-chart planetary relationships show day-to-day compatibility"
+      },
+      {
+        "name": "Composite Chart",
+        "importance": "Medium",
+        "description": "Midpoint chart showing the relationship itself",
+        "usage": "Shows the relationship's destiny separate from individuals"
+      }
+    ]
+  },
+  "relationshipTypes": {
+    "name": "Different Relationship Type Analyses",
+    "types": [
+      {
+        "type": "Marriage Compatibility",
+        "primaryFocus": [
+          "Ashtakoot",
+          "Mangal Dosha",
+          "D9",
+          "Dasha compatibility"
+        ],
+        "keyHouses": [
+          "7th house (spouse)",
+          "2nd house (family)",
+          "11th house (gains from marriage)"
+        ],
+        "timeFrame": "Lifetime commitment analysis",
+        "criticalFactors": [
+          "Nadi Kuta",
+          "Bhakoot",
+          "Gana",
+          "Mangal Dosha cancellation",
+          "D9 strength"
+        ]
+      },
+      {
+        "type": "Love Relationship",
+        "primaryFocus": [
+          "5th house (love)",
+          "Venus (romance)",
+          "Mars (passion)",
+          "Rahu (attraction)"
+        ],
+        "keyIndicators": [
+          "5th house connections",
+          "Venus-Mars aspects",
+          "Rahu involvement",
+          "Emotional compatibility"
+        ],
+        "challenge": "Love needs to sustain into marriage - check marriage factors too",
+        "analysis": "Strong 5th but weak 7th = great dating, difficult marriage"
+      },
+      {
+        "type": "Business Partnership",
+        "primaryFocus": [
+          "7th house (partnership)",
+          "10th house (business)",
+          "Mercury (communication)",
+          "Jupiter (trust)"
+        ],
+        "keyIndicators": [
+          "Mercury compatibility",
+          "10th house mutual strength",
+          "2nd-11th house gains",
+          "Trust factors"
+        ],
+        "avoidFactor": "Check for 6th/8th house mutual afflictions (conflicts, cheating)"
+      },
+      {
+        "type": "Friendship Compatibility",
+        "primaryFocus": [
+          "11th house (friends)",
+          "Mercury (communication)",
+          "Jupiter (understanding)"
+        ],
+        "keyIndicators": [
+          "Easy communication",
+          "Shared interests",
+          "Mutual support"
+        ],
+        "analysis": "Less stringent than marriage - Graha Maitri and Gana sufficient"
+      },
+      {
+        "type": "Parent-Child",
+        "primaryFocus": [
+          "5th house (children)",
+          "9th house (father)",
+          "4th house (mother)",
+          "Jupiter (guidance)"
+        ],
+        "analysis": "Check parent's 5th house and child's chart compatibility",
+        "karmic": "Often karmic bonds shown in D60 (Shashtyamsa)"
+      },
+      {
+        "type": "Guru-Disciple",
+        "primaryFocus": [
+          "9th house (guru)",
+          "Jupiter (teacher)",
+          "5th house (learning)",
+          "Ketu (spirituality)"
+        ],
+        "indicators": "Strong 9th house connections, Jupiter harmony, spiritual compatibility"
+      }
+    ]
+  },
+  "timingMarriage": {
+    "name": "Marriage Timing Using Compatibility",
+    "principle": "Good compatibility + right timing = successful marriage",
+    "bestTimings": [
+      {
+        "factor": "Both in benefic dashas",
+        "ideal": "Venus, Jupiter, Mercury dashas for both",
+        "avoid": "Rahu, Ketu, Saturn major dashas (unless very strong)"
+      },
+      {
+        "factor": "Strong transits",
+        "ideal": "Jupiter transiting 7th house or over Venus/Moon for both",
+        "avoid": "Saturn transiting 7th house, Rahu-Ketu on 1st-7th axis"
+      },
+      {
+        "factor": "Varshaphal indication",
+        "ideal": "Good Muntha position in 7th for both in marriage year",
+        "check": "Annual chart should support marriage for both"
+      },
+      {
+        "factor": "Mutual activation",
+        "ideal": "Both charts' 7th house/Venus activated simultaneously",
+        "principle": "Individual timing must align for both"
+      },
+      {
+        "factor": "Age compatibility",
+        "traditional": "Girl typically younger (traditional view)",
+        "modern": "Equal age or near works if charts compatible",
+        "consideration": "Check life phase compatibility"
+      }
+    ],
+    "muhurta": {
+      "name": "Marriage Muhurta (Electional Time)",
+      "importance": "Selecting auspicious time for marriage ceremony",
+      "factors": [
+        "Auspicious nakshatra for marriage",
+        "Good tithi (avoid Rikta tithis - 4,9,14)",
+        "Benefic vara (day) - Monday, Wednesday, Thursday, Friday best",
+        "Good yoga (avoid inauspicious yogas)",
+        "Jupiter transit favorability",
+        "Avoid Rahu Kaal, Yamaganda, Gulika Kaal",
+        "Strong lagna for muhurta chart",
+        "Venus well-placed in muhurta chart"
+      ],
+      "principle": "Good muhurta strengthens weak compatibility; poor muhurta weakens strong compatibility"
+    }
+  },
+  "remedies": {
+    "name": "Compatibility Remedies",
+    "description": "Remedial measures to improve compatibility",
+    "types": [
+      {
+        "category": "Planetary Remedies",
+        "remedies": [
+          {
+            "for": "Venus weak (marriage difficulties)",
+            "remedies": [
+              "Worship Goddess Lakshmi",
+              "Friday fasting",
+              "White clothes",
+              "Diamond/white sapphire",
+              "Sugar/rice donation"
+            ]
+          },
+          {
+            "for": "Mars affliction (Mangal Dosha)",
+            "remedies": [
+              "Hanuman worship",
+              "Tuesday fasting",
+              "Red lentils donation",
+              "Red coral (if suitable)",
+              "Visit Hanuman temples"
+            ]
+          },
+          {
+            "for": "Jupiter weak (lack of wisdom in marriage)",
+            "remedies": [
+              "Worship Lord Vishnu",
+              "Thursday fasting",
+              "Yellow clothes",
+              "Yellow sapphire",
+              "Teaching/charity"
+            ]
+          },
+          {
+            "for": "Saturn giving problems",
+            "remedies": [
+              "Lord Shiva worship",
+              "Saturday fasting",
+              "Black sesame/iron donation",
+              "Blue sapphire (careful)",
+              "Serve elderly"
+            ]
+          },
+          {
+            "for": "Rahu creating confusion",
+            "remedies": [
+              "Goddess Durga worship",
+              "Wednesday/Saturday remedies",
+              "Gomed/hessonite",
+              "Feed ants sugar",
+              "Donate blankets"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Dosha-Specific Remedies",
+        "remedies": [
+          {
+            "dosha": "Nadi Dosha (most serious)",
+            "remedies": [
+              "Mahamrityunjaya Havan",
+              "Nadi Dosha Nivaran Puja",
+              "Visit specific temples",
+              "Donate food to brahmins",
+              "NOTE: Very difficult to remedy completely"
+            ]
+          },
+          {
+            "dosha": "Bhakoot Dosha",
+            "remedies": [
+              "Durga Saptashati path",
+              "Navgraha puja",
+              "Feed birds",
+              "Donate grains"
+            ]
+          },
+          {
+            "dosha": "Gana Dosha (Deva-Rakshasa)",
+            "remedies": [
+              "Shiva-Parvati worship",
+              "Couple pujas",
+              "Understanding and compromise",
+              "Behavioral adjustment"
+            ]
+          },
+          {
+            "dosha": "Low Ashtakoot score",
+            "remedies": [
+              "Strengthen mutual planetary positions",
+              "Navgraha shanti",
+              "Marriage muhurta carefully chosen",
+              "Regular couple worship"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Behavioral Remedies",
+        "remedies": [
+          "Understanding each other's dashas and being supportive",
+          "Conscious communication (Mercury remedies)",
+          "Compromise on ego issues (Sun-Moon balance)",
+          "Joint spiritual practices",
+          "Regular gratitude and appreciation",
+          "Counseling during difficult transits",
+          "Family harmony maintenance (2nd house care)"
+        ]
+      },
+      {
+        "category": "Timing-Based Remedies",
+        "remedies": [
+          "Wait for better dasha period before marriage",
+          "Choose excellent muhurta to compensate weak compatibility",
+          "Start marriage journey during favorable transits",
+          "Plan important events during good joint transits",
+          "Extra care during difficult transits for either partner"
+        ]
+      },
+      {
+        "category": "Advanced Remedies",
+        "remedies": [
+          "Vivaha Homa (marriage-specific fire ceremony)",
+          "Swayamvara Parvati puja (for finding right spouse)",
+          "Lakshmi-Narayana puja (for marital harmony)",
+          "Gauri-Shankar puja (Shiva-Parvati for couples)",
+          "Visit couple deity temples (Tirupati, Madurai, etc.)",
+          "Perform remedies on specific tithis favorable for marriage"
+        ]
+      }
+    ],
+    "principle": "Remedies work best when combined with conscious effort and understanding",
+    "limitation": "Remedies can reduce doshas but cannot completely change destiny",
+    "recommendation": "Focus on improving compatibility through understanding rather than just rituals"
+  },
+  "modernConsiderations": {
+    "name": "Modern Approach to Compatibility",
+    "balancing": "Traditional wisdom with contemporary relationships",
+    "points": [
+      {
+        "aspect": "Individual Growth",
+        "traditional": "Focus on family and duty",
+        "modern": "Focus on personal development too",
+        "synthesis": "Both partners support each other's growth while maintaining family harmony"
+      },
+      {
+        "aspect": "Communication",
+        "traditional": "Indirect, through family",
+        "modern": "Direct, open communication",
+        "synthesis": "Check Mercury and 3rd house for communication compatibility",
+        "importance": "Modern marriages need strong Graha Maitri (mental compatibility)"
+      },
+      {
+        "aspect": "Physical Intimacy",
+        "traditional": "Yoni Kuta primary",
+        "modern": "Openly discussed importance",
+        "synthesis": "Yoni Kuta + Mars-Venus compatibility + 8th house analysis",
+        "importance": "Physical compatibility more openly acknowledged today"
+      },
+      {
+        "aspect": "Career vs Family",
+        "traditional": "Man earns, woman manages home",
+        "modern": "Both have careers",
+        "synthesis": "Check both 10th houses for mutual career support",
+        "compatibility": "Partners should support each other's ambitions"
+      },
+      {
+        "aspect": "Love Marriage",
+        "traditional": "Arranged marriage primary",
+        "modern": "Love marriage common",
+        "analysis": "Love marriages check 5th house first, then 7th house; arranged check 7th primarily",
+        "principle": "Love needs both 5th (romance) and 7th (partnership) strong"
+      },
+      {
+        "aspect": "Divorce Consideration",
+        "traditional": "Marriage permanent",
+        "modern": "Divorce acceptable if incompatible",
+        "astrological": "Check 6th/8th house afflictions to 7th house, Rahu's role, weak 7th lord",
+        "remedies": "Try remedies and counseling first; if chart shows impossible compatibility, separation may be karmic"
+      },
+      {
+        "aspect": "Age Difference",
+        "traditional": "Girl younger",
+        "modern": "Any combination acceptable",
+        "analysis": "Check dasha phase compatibility more than age number"
+      },
+      {
+        "aspect": "Same-Sex Relationships",
+        "traditional": "Not covered",
+        "modern": "Applying principles",
+        "approach": "Use same compatibility principles - check 7th house, Venus, Mars, Ashtakoot, dashas; core principles remain same"
+      }
+    ],
+    "emphasis": "Astrology reveals natural compatibility; conscious effort and love can overcome many challenges",
+    "wisdom": "Perfect compatibility rare; understanding and working with differences is key"
+  },
+  "redFlags": {
+    "name": "Serious Compatibility Red Flags",
+    "description": "Warning signs that suggest avoiding the match",
+    "criticalIssues": [
+      {
+        "issue": "Same Nadi (Nadi Dosha)",
+        "severity": "Extremely serious",
+        "consequences": "Progeny health issues, genetic incompatibility",
+        "action": "Strongly avoid unless definite exception exists",
+        "exceptions": "Same rasi different nakshatra, same nakshatra different pada/rasi"
+      },
+      {
+        "issue": "Bhakoot Dosha (0 points)",
+        "severity": "Very serious",
+        "consequences": "Health issues, family problems, emotional disconnect",
+        "action": "Avoid unless strong remedies and other factors excellent",
+        "exceptions": "Certain specific sign combinations, strong Navamsa"
+      },
+      {
+        "issue": "Severe Mangal Dosha mismatch",
+        "severity": "Serious",
+        "consequences": "Marital discord, aggressive conflicts",
+        "action": "One Manglik with one non-Manglik risky",
+        "solution": "Both should be Manglik or remedies must be done"
+      },
+      {
+        "issue": "Total Ashtakoot below 10",
+        "severity": "Very serious",
+        "consequences": "Fundamental incompatibility across multiple dimensions",
+        "action": "Strongly avoid",
+        "exception": "Rare cases with exceptional Navamsa and dasha compatibility"
+      },
+      {
+        "issue": "Gana Dosha (Deva-Rakshasa)",
+        "severity": "Serious",
+        "consequences": "Temperament clashes, behavioral conflicts",
+        "action": "Requires strong compatibility in other areas to compensate",
+        "workable": "More workable than Nadi/Bhakoot if both willing to adjust"
+      },
+      {
+        "issue": "Both running malefic dashas at marriage time",
+        "severity": "Serious",
+        "consequences": "Marriage starts with struggles",
+        "action": "Delay marriage until one person enters better dasha",
+        "timing": "Timing is crucial - right match at wrong time fails"
+      },
+      {
+        "issue": "Weak 7th house in both Navamsas",
+        "severity": "Serious",
+        "consequences": "Marital unhappiness despite surface compatibility",
+        "action": "D9 analysis essential - poor D9 suggests avoiding",
+        "importance": "D9 more important than D1 for marriage"
+      },
+      {
+        "issue": "Severe Venus affliction in both charts",
+        "severity": "Serious",
+        "consequences": "Both lack marriage capacity",
+        "action": "Individual chart problems compound in combination",
+        "remedy": "Strengthen Venus for both before marriage"
+      },
+      {
+        "issue": "8th house strong connections between charts",
+        "severity": "Medium to serious",
+        "consequences": "Sudden changes, transformative difficulties",
+        "nature": "Karmic, intense, transformative relationship",
+        "workable": "Can work if both spiritually mature"
+      },
+      {
+        "issue": "12th house strong connections",
+        "severity": "Medium",
+        "consequences": "Loss, separation tendencies, bed pleasure issues",
+        "nature": "May indicate physical distance or emotional unavailability",
+        "workable": "Can work if conscious and other factors strong"
+      }
+    ],
+    "principle": "One major red flag may be manageable; multiple red flags suggest avoiding the match",
+    "wisdom": "Astrology shows compatibility; forcing incompatible matches leads to suffering for both"
+  },
+  "successFactors": {
+    "name": "Indicators of Highly Successful Marriage",
+    "greenFlags": [
+      {
+        "indicator": "Ashtakoot score 30+",
+        "significance": "Excellent natural compatibility across multiple dimensions"
+      },
+      {
+        "indicator": "Different Nadis with good Bhakoot",
+        "significance": "Genetic and emotional compatibility assured"
+      },
+      {
+        "indicator": "Both Navamsas strong in 7th house",
+        "significance": "Actual marital happiness indicated"
+      },
+      {
+        "indicator": "Mutual benefic dasha periods",
+        "significance": "Smooth life journey together"
+      },
+      {
+        "indicator": "Good Graha Maitri and Gana Kuta",
+        "significance": "Mental and behavioral harmony"
+      },
+      {
+        "indicator": "Venus-Jupiter connection between charts",
+        "significance": "Love, wisdom, and fortune in relationship"
+      },
+      {
+        "indicator": "Strong Upapada Lagna in both charts",
+        "significance": "Positive marriage circumstances"
+      },
+      {
+        "indicator": "7th lords mutually strong",
+        "significance": "Both bring strength to marriage"
+      },
+      {
+        "indicator": "No severe doshas",
+        "significance": "Clean charts allow smooth relationship"
+      },
+      {
+        "indicator": "Dasha compatibility for next 10+ years",
+        "significance": "Critical early marriage years smooth"
+      }
+    ],
+    "idealScenario": "High Ashtakoot + Strong D9 + Compatible Dashas + Excellent Muhurta = Highly successful marriage",
+    "reality": "Perfect match rare; good compatibility + conscious effort = successful marriage"
+  }
+}
