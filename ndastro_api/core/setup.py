@@ -205,7 +205,7 @@ def add_openapi_doc(settings: BaseSettings, application: FastAPI) -> None:
         FastAPI: The FastAPI application instance with documentation routes included (if applicable).
 
     """
-    if isinstance(settings, EnvironmentSettings) and settings.ENVIRONMENT != EnvironmentOption.PRODUCTION:
+    if isinstance(settings, EnvironmentSettings):
         docs_router = APIRouter()
         if settings.ENVIRONMENT != EnvironmentOption.LOCAL:
             docs_router = APIRouter(dependencies=[Depends(get_current_superuser)])
