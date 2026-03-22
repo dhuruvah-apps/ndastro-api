@@ -107,7 +107,7 @@ def test_calculate_panchanga_from_datetime_require_timezone_raises():
 
 
 def test_get_panchanga_with_data_weekday():
-    result = get_panchanga_with_data(_SUN, _MOON, weekday_index=0)
+    result = get_panchanga_with_data(336.78, 11.02, weekday_index=0)
     assert isinstance(result, PanchangaDataResult)
     assert result.panchanga is not None
 

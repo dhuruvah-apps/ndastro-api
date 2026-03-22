@@ -13,7 +13,6 @@ from ndastro_api.services.divisional_charts import (
     _hora_rasi,
     _is_odd_sign,
     _navamsa_rasi,
-    _normalize_degrees,
     _rasi_from_longitude,
     _wrap_rasi,
 )
@@ -32,27 +31,6 @@ def test_sign_sets_are_disjoint():
     assert not (MOVABLE_SIGNS & FIXED_SIGNS)
     assert not (MOVABLE_SIGNS & DUAL_SIGNS)
     assert not (FIXED_SIGNS & DUAL_SIGNS)
-
-
-# ---------------------------------------------------------------------------
-# _normalize_degrees()
-# ---------------------------------------------------------------------------
-
-
-def test_normalize_degrees_zero():
-    assert _normalize_degrees(0.0) == pytest.approx(0.0)
-
-
-def test_normalize_degrees_positive():
-    assert _normalize_degrees(270.0) == pytest.approx(270.0)
-
-
-def test_normalize_degrees_over_360():
-    assert _normalize_degrees(370.0) == pytest.approx(10.0)
-
-
-def test_normalize_degrees_negative():
-    assert _normalize_degrees(-10.0) == pytest.approx(350.0)
 
 
 # ---------------------------------------------------------------------------

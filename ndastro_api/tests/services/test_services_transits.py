@@ -20,7 +20,6 @@ from ndastro_api.services.transits import (
     get_house_index,
     get_house_transit_interpretation,
     get_rasi_index,
-    normalize_degrees,
 )
 
 # ---------------------------------------------------------------------------
@@ -76,27 +75,6 @@ def test_transit_house_class_kendra_value():
 
 def test_transit_house_class_dusthana_value():
     assert TransitHouseClass.DUSTHANA == "dusthana"
-
-
-# ---------------------------------------------------------------------------
-# normalize_degrees()
-# ---------------------------------------------------------------------------
-
-
-def test_normalize_degrees_positive():
-    assert normalize_degrees(0.0) == 0.0
-
-
-def test_normalize_degrees_over_360():
-    assert abs(normalize_degrees(370.0) - 10.0) < 1e-6
-
-
-def test_normalize_degrees_negative():
-    assert abs(normalize_degrees(-10.0) - 350.0) < 1e-6
-
-
-def test_normalize_degrees_exactly_360():
-    assert normalize_degrees(360.0) == 0.0
 
 
 # ---------------------------------------------------------------------------

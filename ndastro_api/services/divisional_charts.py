@@ -9,6 +9,8 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from enum import Enum
 
+from ndastro_engine.utils import normalize_degree
+
 FULL_CIRCLE_DEGREES = 360.0
 RASI_COUNT = 12
 DEGREES_PER_RASI = FULL_CIRCLE_DEGREES / RASI_COUNT
@@ -74,18 +76,13 @@ class VargaChart:
     positions: dict[str, VargaPosition] = field(default_factory=dict)
 
 
-def _normalize_degrees(angle: float) -> float:
-    normalized = angle % FULL_CIRCLE_DEGREES
-    return normalized if normalized >= 0 else normalized + FULL_CIRCLE_DEGREES
-
-
 def _rasi_from_longitude(longitude: float) -> int:
-    normalized = _normalize_degrees(longitude)
+    normalized = normalize_degree(longitude)
     return int(normalized / DEGREES_PER_RASI) + 1
 
 
 def _degrees_in_rasi(longitude: float) -> float:
-    normalized = _normalize_degrees(longitude)
+    normalized = normalize_degree(longitude)
     return normalized % DEGREES_PER_RASI
 
 
@@ -265,7 +262,7 @@ def compute_varga_chart(
 
         chart.positions[planet] = VargaPosition(
             planet=planet,
-            longitude=_normalize_degrees(longitude),
+            longitude=normalize_degree(longitude),
             rasi=rasi_index,
             varga_rasi=varga_rasi,
             division=division,

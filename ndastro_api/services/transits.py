@@ -9,6 +9,8 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from enum import Enum
 
+from ndastro_engine.utils import normalize_degree
+
 # Constants
 FULL_CIRCLE_DEGREES = 360.0
 RASI_COUNT = 12
@@ -82,21 +84,15 @@ class TransitSummary:
     aspects_to_planets: list[TransitAspectToPlanet] = field(default_factory=list)
 
 
-def normalize_degrees(angle: float) -> float:
-    """Normalize degrees to [0, 360)."""
-    normalized = angle % FULL_CIRCLE_DEGREES
-    return normalized if normalized >= 0 else normalized + FULL_CIRCLE_DEGREES
-
-
 def get_rasi_index(longitude: float) -> int:
     """Return rasi index (1-12) from longitude."""
-    normalized = normalize_degrees(longitude)
+    normalized = normalize_degree(longitude)
     return int(normalized / DEGREES_PER_RASI) + 1
 
 
 def get_house_index(longitude: float, lagna_longitude: float) -> int:
     """Return house index (1-12) from longitude and lagna longitude."""
-    relative = normalize_degrees(longitude - lagna_longitude)
+    relative = normalize_degree(longitude - lagna_longitude)
     return int(relative / DEGREES_PER_RASI) + 1
 
 
@@ -110,7 +106,7 @@ def build_transit_positions(
     for planet, longitude in transit_longitudes.items():
         positions[planet] = TransitPlanetPosition(
             planet=planet,
-            longitude=normalize_degrees(longitude),
+            longitude=normalize_degree(longitude),
             rasi=get_rasi_index(longitude),
             house=get_house_index(longitude, lagna_longitude),
         )

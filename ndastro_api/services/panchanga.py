@@ -9,6 +9,8 @@ import datetime as datetime_module
 from dataclasses import dataclass
 from typing import TYPE_CHECKING
 
+from ndastro_engine.utils import normalize_degree
+
 from ndastro_api.core.utils.data_loader import AstroDataLoader
 from ndastro_api.services.yogas import calculate_nitya_yoga
 
@@ -201,13 +203,8 @@ class TimeWindow:
     end: datetime
 
 
-def _normalize_degrees(angle: float) -> float:
-    normalized = angle % FULL_CIRCLE_DEGREES
-    return normalized if normalized >= 0 else normalized + FULL_CIRCLE_DEGREES
-
-
 def _get_phase_degrees(sun_longitude: float, moon_longitude: float) -> float:
-    return _normalize_degrees(moon_longitude - sun_longitude)
+    return normalize_degree(moon_longitude - sun_longitude)
 
 
 def get_tithi_number(sun_longitude: float, moon_longitude: float) -> int:

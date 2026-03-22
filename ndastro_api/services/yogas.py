@@ -10,6 +10,8 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import TYPE_CHECKING
 
+from ndastro_engine.utils import normalize_degree
+
 if TYPE_CHECKING:
     from collections.abc import Callable
 
@@ -112,12 +114,6 @@ class YogaRule:
     evaluator: Callable[[PlanetaryYogaContext], YogaRuleResult]
 
 
-def _normalize_degrees(angle: float) -> float:
-    """Normalize degrees to [0, 360)."""
-    normalized = angle % FULL_CIRCLE_DEGREES
-    return normalized if normalized >= 0 else normalized + FULL_CIRCLE_DEGREES
-
-
 def _normalize_planet_key(planet: str) -> str:
     """Normalize planet names or codes to lowercase keys."""
     cleaned = planet.strip().lower()
@@ -135,7 +131,7 @@ def calculate_nitya_yoga(sun_longitude: float, moon_longitude: float) -> NityaYo
         NityaYogaResult with yoga name and arc boundaries
 
     """
-    longitude_sum = _normalize_degrees(sun_longitude + moon_longitude)
+    longitude_sum = normalize_degree(sun_longitude + moon_longitude)
     yoga_index = int(longitude_sum / YOGA_ARC_DEGREES) + 1
     yoga_name = get_nitya_yoga_name(yoga_index)
 

@@ -1,0 +1,136 @@
+site_name: ndastro-api
+site_description: REST API for Vedic astrology data and calculations powering ndastro-ui - planetary positions, charts, dashas, yogas, ashtakavarga, nakshatra, panchanga and more.
+site_author: Dhuruvah Apps
+site_url: https://ndastro-api.dhuruvah.in/
+
+repo_name: dhuruvah-apps/ndastro-api
+repo_url: https://github.com/jaganathan-eswaran/ndastro-api
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+  - media: "(prefers-color-scheme)"
+    toggle:
+      icon: material/lightbulb-auto
+      name: Switch to light mode
+  - media: '(prefers-color-scheme: light)'
+    scheme: default
+    primary: blue grey
+    accent: teal
+    toggle:
+      icon: material/lightbulb
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    scheme: slate
+    primary: blue grey
+    accent: teal
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to system preference
+  features:
+  - content.code.annotate
+  - content.code.copy
+  - content.footnote.tooltips
+  - navigation.tabs
+  - content.tabs.link
+  - navigation.tabs.sticky
+  - content.tooltips
+  - navigation.footer
+  - navigation.indexes
+  - navigation.instant
+  - navigation.instant.prefetch
+  - navigation.instant.progress
+  - navigation.path
+  - navigation.top
+  - navigation.tracking
+  - search.highlight
+  - search.share
+  - search.suggest
+  - toc.follow
+  icon:
+    repo: fontawesome/brands/github-alt
+  logo: /assets/images/logo.svg
+  favicon: img/icon.ico
+  language: en
+
+plugins:
+  - search
+  - social
+  - typeset
+
+nav:
+  - Home: index.md
+  - Development:
+      - Quick Start: development/quick-start.md
+  - API Reference:
+      - Overview: api/overview.md
+      - Authentication: api/auth.md
+      - Users: api/users.md
+      - Tiers: api/tiers.md
+      - Astrology: api/astro.md
+      - Health: api/health.md
+  - Configuration:
+      - Environment Variables: configuration/environment.md
+  - Services:
+      - Planetary Positions: services/position.md
+      - Chart Generation: services/chart.md
+      - Nakshatra & Panchanga: services/nakshatra_panchanga.md
+      - Yogas: services/yogas.md
+      - Ashtakavarga: services/ashtakavarga.md
+      - Dasha System: services/dasha.md
+      - Avasthas: services/avasthas.md
+      - Strengths: services/strengths.md
+      - Transits: services/transits.md
+      - Longevity: services/longevity.md
+      - Muhurta: services/muhurta.md
+      - Divisional Charts: services/divisional_charts.md
+      - Upagrahas: services/upagrahas.md
+  - Guides:
+      - Data Loader: guides/data-loader.md
+      - Data Loader Quick Reference: guides/data-loader-quick-reference.md
+      - Internationalization: guides/internationalization.md
+      - Dasha Predictions: guides/dasha-predictions.md
+
+docs_dir: docs
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  homepage: https://dhuruvah.in/
+  social:
+  - icon: fontawesome/brands/github-alt
+    link: https://github.com/dhuruvah-apps
+  - icon: fontawesome/solid/globe
+    link: https://dhuruvah.in
+  - icon: fontawesome/solid/envelope
+    link: mailto:dhuruvah@gmail.com
+
+extra_css:
+  - css/termynal.css
+  - css/custom.css
+
+extra_javascript:
+  - js/termynal.js
+  - js/custom.js
+
+hooks:
+  - scripts/mkdocs_hooks.py
