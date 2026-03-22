@@ -1,6 +1,6 @@
 [project]
 name = "ndastro-api"
-version = "0.2.0"
+version = "0.2.1"
 description = "API to serve data for ndastro-ui"
 authors = [
     {name = "Jaganathan, B", email = "jaganathan.eswaran@gmail.com"}
