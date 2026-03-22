@@ -13,18 +13,16 @@ from typing import TYPE_CHECKING, Any
 
 import fastapi
 from anyio.to_thread import current_default_thread_limiter
-from fastapi import APIRouter, Depends, FastAPI
+from fastapi import APIRouter, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.openapi.docs import get_redoc_html, get_swagger_ui_html
 from fastapi.openapi.utils import get_openapi
 
-from ndastro_api.api.deps import get_current_superuser
 from ndastro_api.core.babel_i18n import init_babel
 from ndastro_api.core.config import (
     AppSettings,
     ClientSideCacheSettings,
     DatabaseSettings,
-    EnvironmentOption,
     EnvironmentSettings,
 )
 from ndastro_api.core.db.database import async_engine as engine
@@ -207,8 +205,6 @@ def add_openapi_doc(settings: BaseSettings, application: FastAPI) -> None:
     """
     if isinstance(settings, EnvironmentSettings):
         docs_router = APIRouter()
-        if settings.ENVIRONMENT != EnvironmentOption.LOCAL:
-            docs_router = APIRouter(dependencies=[Depends(get_current_superuser)])
 
         @docs_router.get("/docs", include_in_schema=False)
         async def get_swagger_documentation() -> fastapi.responses.HTMLResponse:
