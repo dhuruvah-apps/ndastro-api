@@ -1,3 +1,9 @@
+## v0.2.2 (2026-03-22)
+
+### Refactor
+
+- **setup.py**: Show swagger UI on PROD as well but it will allow only if you are admin
+
 ## v0.2.1 (2026-03-22)
 
 ### Fix
