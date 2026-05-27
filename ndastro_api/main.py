@@ -9,9 +9,10 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
+from ndastro_engine.config import configure as configure_engine
 
 from ndastro_api.api.router import router
-from ndastro_api.core.config import settings
+from ndastro_api.core.config import env_path, settings
 from ndastro_api.core.exceptions.http_exceptions import CustomAPIException
 from ndastro_api.core.setup import create_application, lifespan_factory
 from ndastro_api.core.utils.data_loader import astro_data
@@ -25,6 +26,9 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
 
     # Run the default lifespan initialization and our admin initialization
     async with default_lifespan(app):
+        # Apply ndastro_engine configuration from the application .env file.
+        # All NDASTRO_* vars are read and validated by the engine directly.
+        configure_engine(env_file=env_path)
         # Preload all astrological data on startup for better performance
         astro_data.preload_all()
         yield

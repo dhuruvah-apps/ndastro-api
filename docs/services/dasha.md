@@ -127,6 +127,48 @@ The fraction elapsed at birth is derived from how deep into Rohini the Moon is (
 
 ---
 
+## Precision & Accuracy vs Traditional Platforms
+
+### Why NDAstro gives different dates
+
+NDAstro API uses **NASA JPL DE440T** via Skyfield for all Moon position calculations — the most
+accurate modern ephemeris. Traditional platforms (JHora, DrikPanchang, AstroSage) share two
+systematic deviations that cause their dasa dates to be earlier than NDAstro’s:
+
+**Deviation 1 — IAU-1940 Lahiri constants:** They use Swiss Ephemeris `SIDM_LAHIRI_1940`
+(epoch constants published in 1940) instead of modern `SIDM_LAHIRI`, producing an ayanamsa
+~53 arcsec lower. A lower ayanamsa increases the sidereal Moon longitude by 53 arcsec.
+
+**Deviation 2 — Double Delta-T (software bug):** Their SE wrapper pre-converts birth UT
+to TT manually, then calls `swe.calc_ut()` which adds Delta-T again (~69 s in 2025).
+This advances the Moon by a further ~43 arcsec.
+
+**Combined: ~96 arcsec extra Moon advance = ~3.9 days earlier Sun Mahadasa start.**
+
+### Expected offsets from NDAstro `"lahiri"` mode
+
+| Dasa Lord | Period | Offset (traditional platforms vs NDAstro) |
+|---|---|---|
+| Sun | 6 years | ~3.9 days earlier |
+| Mars / Ketu | 7 years | ~4.6 days earlier |
+| Moon | 10 years | ~6.5 days earlier |
+| Jupiter | 16 years | ~10.5 days earlier |
+| Rahu | 18 years | ~11.8 days earlier |
+| Saturn | 19 years | ~12.4 days earlier |
+| Venus | 20 years | ~13.1 days earlier |
+
+**NDAstro’s `"lahiri"` dates are astronomically correct.** Traditional platforms’ dates are
+systematically shifted by the older epoch constants and the double-DeltaT bug.
+
+### `true_lahiri` compatibility mode
+
+To reproduce JHora/DrikPanchang/AstroSage dasa dates for client comparison, pass
+`ayanamsa="true_lahiri"` to the dasa endpoint. This replicates both deviations
+(Skyfield IERS Delta-T + IAU-1940 constants) and produces dates within ~4 hours of
+traditional platforms. No additional dependencies are required.
+
+---
+
 ## `DasaPeriod` Model
 
 ```python

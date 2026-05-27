@@ -11,6 +11,7 @@ from dataclasses import asdict
 from math import ceil, floor
 from typing import TYPE_CHECKING, cast
 
+from ndastro_engine.constants import DEGREE_MAX
 from ndastro_engine.core import get_ascendent_position, get_planets_position
 from ndastro_engine.enums import Houses, NakshatraCode, Planets, Rasis
 from ndastro_engine.retrograde import is_planet_in_retrograde
@@ -18,7 +19,6 @@ from skyfield.units import Angle
 
 from ndastro_api.core.constants import (
     AYANAMSA,
-    DEGREE_MAX,
     DEGREES_PER_RAASI,
     TOTAL_NAKSHATRAS,
 )

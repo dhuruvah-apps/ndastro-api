@@ -23,7 +23,12 @@ GET /api/v1/astro/lunar-nodes
 
 Returns the sidereal positions of Rahu (North Node) and Ketu (South Node).
 
-**Query parameters**: `dateandtime`
+**Query parameters**:
+
+| Parameter | Type | Default | Description |
+|-----------|------|---------|-------------|
+| `dateandtime` | `string` | Current UTC | ISO 8601 datetime string |
+| `node_type` | `string` | *(server default)* | `true` — osculating (JHora-compatible); `mean` — IAU polynomial. Overrides the server setting for this request only. |
 
 **Response** `200 OK`:
 
@@ -60,7 +65,16 @@ GET /api/v1/astro/planets
 
 Returns sidereal positions for all 9 Vedic planets (Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, Ketu).
 
-**Query parameters**: `lat`, `lon`, `ayanamsa`, `dateandtime`
+**Query parameters**:
+
+| Parameter | Type | Default | Description |
+|-----------|------|---------|-------------|
+| `lat` | `float` | `12.971667` | Observer latitude |
+| `lon` | `float` | `77.593611` | Observer longitude |
+| `ayanamsa` | `string` | `"lahiri"` | Ayanamsa system |
+| `dateandtime` | `string` | Current UTC | ISO 8601 datetime string |
+| `node_type` | `string` | *(server default)* | `true` or `mean` — overrides server node type for this request only. |
+| `position_reference` | `string` | *(server default)* | `geocentric` or `topocentric` — overrides server position reference for this request only. |
 
 **Response** `200 OK`: Array of `Planet` objects.
 
@@ -76,7 +90,7 @@ Returns sidereal positions for all 9 Vedic planets (Sun, Moon, Mars, Mercury, Ju
 | `nakshatra` | `string` | Nakshatra code |
 | `pada` | `int` | Pada (1–4) |
 | `is_retrograde` | `bool` | Whether planet is retrograde |
-| `posited_at` | `string` | House number (1–12) |
+| `posited_at` | `string` | House number (01–12) |
 
 ---
 
@@ -195,3 +209,28 @@ Generates and returns a South Indian astrology chart as an SVG image.
 
 !!! tip
     The SVG can be embedded in HTML directly or saved as a `.svg` file.
+
+---
+
+## Per-Request Calculation Overrides
+
+The `node_type` and `position_reference` query parameters on `/lunar-nodes` and `/planets` let a client temporarily override the server's default engine settings **for that single request only**. No other concurrent request is affected.
+
+| Parameter | Endpoints | Values | Effect |
+|-----------|-----------|--------|--------|
+| `node_type` | `lunar-nodes`, `planets` | `true`, `mean` | `true` — osculating nodes (JHora-compatible); `mean` — IAU polynomial |
+| `position_reference` | `planets` | `geocentric`, `topocentric` | How planet positions are computed |
+
+When omitted, the server's configured default is used (check `GET /api/v1/config` to see the active defaults).
+
+**Example — request mean nodes for a single call:**
+
+```
+GET /api/v1/astro/lunar-nodes?dateandtime=2024-01-15T06:00:00Z&node_type=mean
+```
+
+**Example — request topocentric positions with mean nodes:**
+
+```
+GET /api/v1/astro/planets?lat=13.08&lon=80.27&dateandtime=2024-01-15T06:00:00Z&node_type=mean&position_reference=topocentric
+```

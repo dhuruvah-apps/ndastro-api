@@ -70,6 +70,7 @@ nav:
       - Users: api/users.md
       - Tiers: api/tiers.md
       - Astrology: api/astro.md
+      - Engine Configuration: api/config.md
       - Health: api/health.md
   - Configuration:
       - Environment Variables: configuration/environment.md

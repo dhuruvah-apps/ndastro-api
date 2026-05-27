@@ -16,7 +16,6 @@
     "metal": "Gold",
     "day": "V01",
     "direction": "East",
-    "positedAt": "",
     "primarySignification": "Soul, Father, Authority",
     "bodyParts": [
       "Heart",
@@ -453,70 +452,6 @@
     "aspects": [
       "H07"
     ]
-  },
-  {
-    "name": "Earth",
-    "code": "EA",
-    "astronomicalCode": "earth",
-    "sanskritName": "Prithvi",
-    "description": "The third planet from the Sun and our home planet.",
-    "elementPanchamahabhuta": "EA",
-    "gender": "Neutral",
-    "nature": "Neutral",
-    "caste": "N/A",
-    "guna": "N/A",
-    "presidingDeity": "Bhumi Devi",
-    "color": "Mixed",
-    "gemstone": "N/A",
-    "metal": "N/A",
-    "day": "N/A",
-    "direction": "Center",
-    "primarySignification": "Material World, Physical Body",
-    "bodyParts": [
-      "Physical Body"
-    ],
-    "ownSigns": [],
-    "exaltation": null,
-    "debilitation": null,
-    "moolatrikona": null,
-    "vargottamaStatus": null,
-    "naturalFriends": [],
-    "naturalEnemies": [],
-    "naturalNeutrals": [],
-    "temporaryFriends": null,
-    "temporaryEnemies": null,
-    "compoundRelationship": {
-      "bestFriend": [],
-      "friend": [],
-      "neutral": [],
-      "enemy": [],
-      "bitterEnemy": []
-    },
-    "functionalBenefic": null,
-    "functionalMalefic": null,
-    "marakaStatus": null,
-    "karakaFor": [
-      "Material World",
-      "Physical Existence",
-      "Native's Position"
-    ],
-    "shadbalaTotal": null,
-    "isCombust": false,
-    "digBalaScore": null,
-    "isRetrograde": false,
-    "represents": [
-      "Material World",
-      "Physical Existence",
-      "Native's Position"
-    ],
-    "keywords": [
-      "Ground",
-      "Material",
-      "Physical",
-      "Foundation"
-    ],
-    "orbit": "Reference Point",
-    "aspects": null
   },
   {
     "name": "Mars",

@@ -1,50 +1,57 @@
 {
-  // Use IntelliSense to learn about possible attributes.
-  // Hover to view descriptions of existing attributes.
-  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
   "configurations": [
-    
     {
       "name": "Python Debugger: Current File",
       "type": "debugpy",
-      "justMyCode": false,
       "request": "launch",
       "program": "${file}",
-      "console": "integratedTerminal"
+      "console": "integratedTerminal",
+      "justMyCode": false
     },
     {
-        "name": "Debug NDAstro API: Python Debugger",
-        "type": "debugpy",
-        "request": "launch",
-        "module": "uvicorn",
-        "justMyCode": false,
-        "args": [
-            "ndastro_api.main:app",
-            "--reload",
-            "--port=6001",
-            "--host=0.0.0.0"
-          //  "--ssl-keyfile=scripts/server.key",
-          //  "--ssl-certfile=scripts/server.crt"
-        ],
-        "cwd": "${workspaceFolder}",
-        "jinja": true,
-        "envFile": "${workspaceFolder}/.env",
+      "name": "NDAstro API: Debug (no reload)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "uvicorn",
+      "args": [
+        "ndastro_api.main:app",
+        "--port=6001",
+        "--host=0.0.0.0"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "jinja": true,
+      "envFile": "${workspaceFolder}/.env"
     },
-    
-      // Use this configuration to debug tests in the current file
-      // You can also use the 'Python: Test Current File' configuration for this purpose
-      // but this one is more flexible and allows you to set breakpoints in the test file
+    {
+      "name": "NDAstro API: Run (reload)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "uvicorn",
+      "args": [
+        "ndastro_api.main:app",
+        "--reload",
+        "--port=6001",
+        "--host=0.0.0.0"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "jinja": true,
+      "envFile": "${workspaceFolder}/.env"
+    },
     {
       "name": "Python: Debug Tests",
       "type": "debugpy",
       "request": "launch",
       "program": "${file}",
-      "purpose": ["debug-test"],
+      "purpose": [
+        "debug-test"
+      ],
       "console": "integratedTerminal",
       "justMyCode": false,
-      "envFile": "${workspaceFolder}/.env.test",
-    
-  },
+      "envFile": "${workspaceFolder}/.env.test"
+    }
   ]
 }

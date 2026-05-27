@@ -8,7 +8,9 @@ from __future__ import annotations
 
 from typing import TYPE_CHECKING, Any, cast
 
-from ndastro_api.core.constants import DEGREE_MAX, TOTAL_RAASI
+from ndastro_engine.constants import DEGREE_MAX
+
+from ndastro_api.core.constants import TOTAL_RAASI
 
 if TYPE_CHECKING:
     from ndastro_api.core.models.kattam import Kattam

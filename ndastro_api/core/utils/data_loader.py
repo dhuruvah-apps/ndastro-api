@@ -132,7 +132,7 @@ class AstroDataLoader:
 
         # Return cached parsed models if available
         if cache_key in self._model_cache:
-            return self._model_cache[cache_key]  # type: ignore[return-value]
+            return self._model_cache[cache_key]
 
         # Load raw JSON data
         data = self._load_json(filename)
@@ -143,10 +143,10 @@ class AstroDataLoader:
         adapter = self._adapter_cache[model]
 
         # Parse and cache the results
-        parsed_data = [adapter.validate_python(item) for item in data]  # type: ignore[arg-type]
+        parsed_data = [adapter.validate_python(item) for item in data]
         self._model_cache[cache_key] = parsed_data
 
-        return parsed_data  # type: ignore[return-value]
+        return parsed_data
 
     # Planet Data
     def get_planets(self) -> list[Planet]:

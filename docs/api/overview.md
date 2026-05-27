@@ -47,14 +47,15 @@ Tokens are obtained via [`POST /api/v1/auth/login`](auth.md#login).
 | `GET` | `/api/v1/tiers/{name}` | Yes | Get tier |
 | `PATCH` | `/api/v1/tiers/{name}` | Superuser | Update tier |
 | `DELETE` | `/api/v1/tiers/{name}` | Superuser | Delete tier |
-| `GET` | `/api/v1/astro/lunar-nodes` | Tier-based | Rahu & Kethu positions |
-| `GET` | `/api/v1/astro/planets` | Tier-based | All planet positions |
+| `GET` | `/api/v1/astro/lunar-nodes` | Tier-based | Rahu & Kethu positions (`node_type` override) |
+| `GET` | `/api/v1/astro/planets` | Tier-based | All planet positions (`node_type`, `position_reference` overrides) |
 | `GET` | `/api/v1/astro/ascendant` | Tier-based | Ascendant position |
 | `GET` | `/api/v1/astro/sunrise-sunset` | Tier-based | Sunrise & sunset |
 | `GET` | `/api/v1/astro/kattams` | Tier-based | 12-house kattam chart |
 | `GET` | `/api/v1/astro/chart` | Tier-based | SVG chart image |
 | `GET` | `/health-check` | No | API health status |
 | `GET` | `/metrics` | No | System metrics |
+| `GET` | `/api/v1/config` | Yes | Active engine calculation settings |
 
 ## Response Format
 

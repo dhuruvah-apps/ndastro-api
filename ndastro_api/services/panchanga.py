@@ -6,6 +6,7 @@ Computes tithi, karana, vara, and nitya yoga from basic inputs.
 from __future__ import annotations
 
 import datetime as datetime_module
+from collections.abc import Callable
 from dataclasses import dataclass
 from typing import TYPE_CHECKING
 
@@ -25,6 +26,7 @@ TITHI_COUNT = 30
 KARANA_COUNT = 60
 TITHI_DEGREES = FULL_CIRCLE_DEGREES / TITHI_COUNT
 KARANA_DEGREES = FULL_CIRCLE_DEGREES / KARANA_COUNT
+YOGA_DEGREES = FULL_CIRCLE_DEGREES / 27
 PAKSHA_DIVIDER = 15
 MUHURTA_WEIGHT = 0.6
 LIST_WEIGHT = 0.4
@@ -32,6 +34,10 @@ DAY_SEGMENTS = 8
 NIGHT_SEGMENTS = 8
 MUHURTA_COUNT = 15
 WEDNESDAY_VARA = 4
+
+# Approximate phase rates used to seed binary-search windows
+_TITHI_KARANA_RATE = 12.2  # (moon − sun) degrees per day
+_YOGA_RATE = 14.2  # (moon + sun) degrees per day
 
 TITHI_NAMES = [
     "Pratipada",
@@ -201,6 +207,53 @@ class TimeWindow:
     name: str
     start: datetime
     end: datetime
+
+
+def _find_end_time(
+    ref_dt: datetime,
+    current_phase: float,
+    end_degree: float,
+    rate_deg_per_day: float,
+    get_phase_fn: Callable[[datetime], float],
+) -> datetime:
+    """Binary-search forward for when phase first reaches end_degree after ref_dt."""
+    degrees_to_go = (end_degree - current_phase) % FULL_CIRCLE_DEGREES
+    if degrees_to_go == 0:
+        degrees_to_go = FULL_CIRCLE_DEGREES
+    est_days = degrees_to_go / rate_deg_per_day
+    lo = ref_dt
+    hi = ref_dt + datetime_module.timedelta(days=est_days * 2.0 + 0.05)
+    for _ in range(48):
+        mid = lo + (hi - lo) / 2
+        mid_phase = get_phase_fn(mid)
+        if (mid_phase - current_phase) % FULL_CIRCLE_DEGREES >= degrees_to_go:
+            hi = mid
+        else:
+            lo = mid
+    return lo + (hi - lo) / 2
+
+
+def _find_start_time(
+    ref_dt: datetime,
+    current_phase: float,
+    start_degree: float,
+    rate_deg_per_day: float,
+    get_phase_fn: Callable[[datetime], float],
+) -> datetime:
+    """Binary-search backward for when phase was last at start_degree before ref_dt."""
+    elapsed = (current_phase - start_degree) % FULL_CIRCLE_DEGREES
+    est_days = elapsed / rate_deg_per_day
+    lo = ref_dt - datetime_module.timedelta(days=est_days * 2.0 + 0.05)
+    hi = ref_dt
+    for _ in range(48):
+        mid = lo + (hi - lo) / 2
+        mid_phase = get_phase_fn(mid)
+        advance = (mid_phase - start_degree) % FULL_CIRCLE_DEGREES
+        if advance <= elapsed:
+            hi = mid
+        else:
+            lo = mid
+    return lo + (hi - lo) / 2
 
 
 def _get_phase_degrees(sun_longitude: float, moon_longitude: float) -> float:
@@ -706,6 +759,124 @@ def get_gulika(
     segment = GULIKA_SEGMENT_BY_VARA[vara_number]
     minutes = _segment_minutes(sunrise, sunset)
     return _segment_window(name="gulika", sunrise=sunrise, segment_index=segment, segment_minutes=minutes)
+
+
+# Durmuhurta offsets (vara_idx 0=Sunday..6=Saturday).
+# Value F means start = base + day_dur * F/12; duration = day_dur * 0.8/12.
+# 0.0 = no second Durmuhurta that day.
+# Tuesday (idx 2) second period uses night_dur measured from sunset.
+_DURMUHURTA_OFFSETS: list[list[float]] = [
+    [10.4, 0.0],  # Sunday
+    [5.6, 8.8],  # Monday  (traditional value; PyJHora has 6.4 which gives wrong result)
+    [2.4, 4.8],  # Tuesday
+    [5.6, 0.0],  # Wednesday
+    [4.0, 8.8],  # Thursday
+    [2.4, 6.4],  # Friday
+    [1.6, 0.0],  # Saturday
+]
+
+
+def get_durmuhurta(
+    *,
+    sunrise: datetime,
+    sunset: datetime,
+    next_sunrise: datetime,
+    weekday_index: int | None = None,
+    date_value: datetime | None = None,
+) -> list[TimeWindow]:
+    """Calculate Durmuhurta windows for the given date.
+
+    Sunday, Wednesday, and Saturday have one window; other days have two.
+    Tuesday's second window is measured from sunset using night duration.
+    """
+    vara_number = _get_vara_number(weekday_index=weekday_index, date_value=date_value)
+    vara_idx = vara_number - 1  # 0=Sunday .. 6=Saturday
+    day_dur_h = (sunset - sunrise).total_seconds() / 3600
+    night_dur_h = (next_sunrise - sunset).total_seconds() / 3600
+    result: list[TimeWindow] = []
+    for i, offset in enumerate(_DURMUHURTA_OFFSETS[vara_idx]):
+        if offset == 0.0:
+            continue
+        # Tuesday's second Durmuhurta uses night duration from sunset
+        if i == 1 and vara_idx == 2:
+            base = sunset
+            ref_dur_h = night_dur_h
+        else:
+            base = sunrise
+            ref_dur_h = day_dur_h
+        start = base + datetime_module.timedelta(hours=ref_dur_h * offset / 12)
+        end = start + datetime_module.timedelta(hours=day_dur_h * 0.8 / 12)
+        result.append(TimeWindow(name=f"durmuhurta_{i + 1}", start=start, end=end))
+    return result
+
+
+# Moon's approximate sidereal speed (degrees per day) — seeds binary-search windows.
+_MOON_SIDEREAL_RATE = 13.2
+# Degrees spanned by one nakshatra.
+_NAKSHATRA_DEG = 360.0 / 27
+
+# Varjya factor per nakshatra, 0-indexed (Ashwini=0 … Revati=26).
+# Factor F → Varjya starts at nak_entry + (F/24)*nak_duration.
+# Duration = nak_duration * 1.6/24.
+# Mula (index 18) has two windows: factors (8, 22.4).
+# Source: Panchangam Calculations – Karanam Ramakumar / PyJHora amrita_gadiya_varjyam_star_map.
+_VARJYA_FACTORS: list = [
+    20,
+    9.6,
+    12,
+    16,
+    5.6,
+    8.4,
+    12,
+    8,
+    12.8,
+    12,  # 0–9:  Ashwini–Magha
+    8,
+    7.2,
+    8.4,
+    8,
+    5.6,
+    5.6,
+    4,
+    5.6,
+    (8, 22.4),
+    9.6,  # 10–19: Purva Phalguni–Purva Ashadha
+    8,
+    4,
+    4,
+    7.2,
+    6.4,
+    9.6,
+    12,  # 20–26: Uttara Ashadha–Revati
+]
+
+
+def get_varjya(
+    *,
+    ref_dt: datetime,
+    current_moon_lon: float,
+    moon_lon_fn: Callable[[datetime], float],
+) -> list[TimeWindow]:
+    """Calculate Varjya window(s) for the nakshatra occupied by the Moon at ref_dt.
+
+    Uses binary search (via _find_start_time/_find_end_time) to determine the
+    precise nakshatra entry and exit times, then applies the traditional factor.
+    """
+    nak_num = int(current_moon_lon / _NAKSHATRA_DEG)  # 0-indexed: 0=Ashwini..26=Revati
+    nak_start_deg = nak_num * _NAKSHATRA_DEG
+    nak_end_deg = (nak_num + 1) * _NAKSHATRA_DEG
+    nak_entry = _find_start_time(ref_dt, current_moon_lon, nak_start_deg, _MOON_SIDEREAL_RATE, moon_lon_fn)
+    nak_exit = _find_end_time(ref_dt, current_moon_lon, nak_end_deg, _MOON_SIDEREAL_RATE, moon_lon_fn)
+    nak_dur_h = (nak_exit - nak_entry).total_seconds() / 3600
+    varjya_dur_h = nak_dur_h * 1.6 / 24
+    factor = _VARJYA_FACTORS[nak_num]
+    factors = factor if isinstance(factor, tuple) else (factor,)
+    result: list[TimeWindow] = []
+    for f in factors:
+        vstart = nak_entry + datetime_module.timedelta(hours=f / 24 * nak_dur_h)
+        vend = vstart + datetime_module.timedelta(hours=varjya_dur_h)
+        result.append(TimeWindow(name="varjya", start=vstart, end=vend))
+    return result
 
 
 def get_inauspicious_timings(

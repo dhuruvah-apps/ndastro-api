@@ -5,47 +5,16 @@ in ndastro_api/resources/data/
 """
 
 from dataclasses import field
-from typing import Literal, TypeAlias
 
+from ndastro_engine.enums import (
+    AstronomicalCode,
+    HouseCode,
+    NakshatraCode,
+    PlanetCode,
+    RasiCode,
+)
 from pydantic import ConfigDict
 from pydantic.dataclasses import dataclass
-
-PlanetCode: TypeAlias = Literal["SU", "MO", "MA", "ME", "JU", "VE", "SA", "RA", "KE", "EA", "AS", ""]
-AstronomicalCode: TypeAlias = Literal[
-    "sun", "moon", "mars barycenter", "mercury", "jupiter barycenter", "venus", "saturn barycenter", "rahu", "kethu", "earth", "ascendant", ""
-]
-RasiCode: TypeAlias = Literal["R01", "R02", "R03", "R04", "R05", "R06", "R07", "R08", "R09", "R10", "R11", "R12", ""]
-HouseCode: TypeAlias = Literal["H01", "H02", "H03", "H04", "H05", "H06", "H07", "H08", "H09", "H10", "H11", "H12", ""]
-NakshatraCode: TypeAlias = Literal[
-    "N01",
-    "N02",
-    "N03",
-    "N04",
-    "N05",
-    "N06",
-    "N07",
-    "N08",
-    "N09",
-    "N10",
-    "N11",
-    "N12",
-    "N13",
-    "N14",
-    "N15",
-    "N16",
-    "N17",
-    "N18",
-    "N19",
-    "N20",
-    "N21",
-    "N22",
-    "N23",
-    "N24",
-    "N25",
-    "N26",
-    "N27",
-    "",
-]
 
 # ============================================================================
 # Planet Models
@@ -76,7 +45,7 @@ class MoolatrikonaInfo:
     The degree_range can be either a DegreeRange object (preferred) or a string (for backward compatibility).
     """
 
-    sign: RasiCode = ""
+    sign: RasiCode = "R01"
     degree_range: DegreeRange | str = ""
 
 
@@ -121,7 +90,7 @@ class Planet:
         debilitation (DegreeInfo | None): The debilitation information for the planet.
         moolatrikona (MoolatrikonaInfo | None): The moolatrikona information for the planet.
         vargottama_status (str | None): The vargottama status of the planet.
-        posited_at (HouseCode): The house position code (H1-H12).
+        posited_at (HouseCode): The house position code (H01-H12).
         natural_friends (list[PlanetCode]): The natural friends of the planet.
         natural_enemies (list[PlanetCode]): The natural enemies of the planet.
         natural_neutrals (list[PlanetCode]): The natural neutrals of the planet.
@@ -145,12 +114,12 @@ class Planet:
         represents (list[str]): The significations represented by the planet.
         keywords (list[str]): Keywords associated with the planet.
         orbit (str): The orbital characteristics of the planet.
-        aspects (list[HouseCode] | None): The house aspects formed by the planet (e.g., ['H7'], ['H4', 'H7', 'H8']).
+        aspects (list[HouseCode] | None): The house aspects formed by the planet (e.g., ['H07'], ['H04', 'H07', 'H08']).
 
     """
 
     name: str = ""
-    code: PlanetCode = ""
+    code: PlanetCode = "EMPTY"
     astronomical_code: AstronomicalCode = ""
     sanskrit_name: str = ""
     description: str = ""
@@ -167,11 +136,11 @@ class Planet:
     direction: str = ""
     latitude: float = 0.0
     longitude: float = 0.0
-    posited_at: HouseCode = ""
+    posited_at: HouseCode | None = "H01"
     nirayana_longitude: float | None = None
-    rasi_occupied: RasiCode | None = None
+    rasi_occupied: RasiCode = "R01"
     advanced_by: float | None = None
-    nakshatra: NakshatraCode | None = None
+    nakshatra: NakshatraCode = "N01"
     pada: int | None = None
     primary_signification: str = ""
     body_parts: list[str] = field(default_factory=list)
@@ -241,17 +210,17 @@ class Rasi:
     """
 
     name: str = ""
-    code: RasiCode = ""
+    code: RasiCode = "R01"
     description: str = ""
     symbol: str = ""
     number: int = 0
     element_panchamahabhuta: str = ""
     quality: str = ""
     gender: str = ""
-    ruler: PlanetCode = ""
-    exalted_planet: PlanetCode = ""
-    debilitated_planet: PlanetCode = ""
-    moolatrikona_planet: PlanetCode = ""
+    ruler: PlanetCode = "EMPTY"
+    exalted_planet: PlanetCode = "EMPTY"
+    debilitated_planet: PlanetCode = "EMPTY"
+    moolatrikona_planet: PlanetCode = "EMPTY"
     body_parts: list[str] = field(default_factory=list)
     nature: str = ""
     caste: str = ""
@@ -294,8 +263,8 @@ class NakshatraPada:
     pada_number: int = 0
     start_degree: float = 0.0
     end_degree: float = 0.0
-    navamsa_rasi: RasiCode = ""
-    navamsa_lord: PlanetCode = ""
+    navamsa_rasi: RasiCode = "R01"
+    navamsa_lord: PlanetCode = "EMPTY"
     sound: str = ""
     motivation: str = ""
     characteristics: str = ""
@@ -355,10 +324,10 @@ class Nakshatra:
     """
 
     name: str = ""
-    code: NakshatraCode = ""
+    code: NakshatraCode = "N01"
     number: int = 0
     description: str = ""
-    ruling_planet: PlanetCode = ""
+    ruling_planet: PlanetCode = "EMPTY"
     ruling_deity: str = ""
     symbol: str = ""
     animal_symbol: str = ""
@@ -453,8 +422,8 @@ class House:
     kama: bool = False
     moksha: bool = False
     dharma: bool = False
-    natural_ruler: PlanetCode = ""
-    natural_sign: RasiCode = ""
+    natural_ruler: PlanetCode = "EMPTY"
+    natural_sign: RasiCode = "R01"
     body_parts: list[str] = field(default_factory=list)
     nature: str = ""
     signification: str = ""
@@ -600,7 +569,7 @@ class DashaPeriod:
 
     """
 
-    planet: PlanetCode = ""
+    planet: PlanetCode = "EMPTY"
     years: int = 0
     nature: str = ""
     effects: str = ""
@@ -688,7 +657,7 @@ class Tithi:
     paksha: str = ""
     description: str = ""
     deity: str = ""
-    tithi_lord: PlanetCode = ""
+    tithi_lord: PlanetCode = "EMPTY"
     element_panchamahabhuta: str = ""
     nature: str = ""
     quality: str = ""
@@ -789,8 +758,8 @@ class Vara:
     code: str = ""
     number: int = 0
     description: str = ""
-    ruling_planet: PlanetCode = ""
-    deity: str = ""
+    ruling_planet: PlanetCode = "EMPTY"
+    deity: str | None = None
     element_panchamahabhuta: str = ""
     nature: str = ""
     color: str = ""

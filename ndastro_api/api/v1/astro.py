@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from enum import Enum
 from typing import Annotated, cast
 
@@ -12,8 +12,16 @@ from fastapi import APIRouter, Query, Request
 from fastapi.responses import Response
 from fastapi_babel import _
 from ndastro_engine.ayanamsa import AyanamsaSystem, get_ayanamsa
-from ndastro_engine.core import get_lunar_node_positions, get_sunrise_sunset
+from ndastro_engine.config import EngineSettingsOverride, override_settings
+from ndastro_engine.core import (
+    get_lunar_node_positions,
+    get_planet_position,
+    get_planet_rise_set,
+    get_sunrise_sunset,
+)
+from ndastro_engine.enums import Planets as EnginePlanets
 from ndastro_engine.planet_enum import Planets
+from ndastro_engine.utils import normalize_degree as _norm_deg
 from pydantic import BaseModel
 
 from ndastro_api.api.deps import get_conditional_dependencies
@@ -26,6 +34,19 @@ from ndastro_api.services.chart_utils import (
     generate_south_indian_chart_svg,
 )
 from ndastro_api.services.kattams import get_kattams
+from ndastro_api.services.panchanga import (
+    _TITHI_KARANA_RATE,
+    _YOGA_RATE,
+    _find_end_time,
+    _find_start_time,
+    build_panchanga_summary,
+    get_durmuhurta,
+    get_gulika,
+    get_panchanga_with_data,
+    get_rahu_kalam,
+    get_varjya,
+    get_yamagandam,
+)
 from ndastro_api.services.position import (
     get_sidereal_ascendant_position,
     get_sidereal_planet_positions,
@@ -75,9 +96,16 @@ class ChartRequest(BaseModel):
 @router.get("/lunar-nodes")
 def get_lunar_nodes(
     dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    node_type: Annotated[
+        str | None, Query(description="Override node type: 'true' (osculating) or 'mean' (IAU polynomial). Defaults to server setting.")
+    ] = None,
 ) -> list[Planet]:
     """Calculate the positions of Rahu and Kethu (lunar nodes) for a given datetime."""
-    results = get_lunar_node_positions(_parse_datetime_with_tz(dateandtime))
+    if node_type is not None:
+        with override_settings(EngineSettingsOverride(node_type=node_type)):  # type: ignore[arg-type]
+            results = get_lunar_node_positions(_parse_datetime_with_tz(dateandtime))
+    else:
+        results = get_lunar_node_positions(_parse_datetime_with_tz(dateandtime))
 
     rahu = astro_data.get_planet_by_astronomical_code(Planets.RAHU.astronomical_code)
     kethu = astro_data.get_planet_by_astronomical_code(Planets.KETHU.astronomical_code)
@@ -104,10 +132,23 @@ def get_sidereal_positions(
     lon: Annotated[float, Query(description="Longitude")] = 77.593611,
     ayanamsa: Annotated[AyanamsaSystem, Query(description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")] = "lahiri",
     dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    node_type: Annotated[
+        str | None, Query(description="Override node type: 'true' (osculating) or 'mean' (IAU polynomial). Defaults to server setting.")
+    ] = None,
+    position_reference: Annotated[
+        str | None, Query(description="Override position reference: 'geocentric' or 'topocentric'. Defaults to server setting.")
+    ] = None,
 ) -> list[Planet]:
     """Calculate sidereal planetary positions for given latitude, longitude, datetime, and ayanamsa."""
     dt = _parse_datetime_with_tz(dateandtime)
-
+    if node_type is not None or position_reference is not None:
+        with override_settings(
+            EngineSettingsOverride(
+                node_type=node_type,  # type: ignore[arg-type]
+                position_reference=position_reference,  # type: ignore[arg-type]
+            )
+        ):
+            return get_sidereal_planet_positions(lat, lon, dt, get_ayanamsa(dt, ayanamsa))
     return get_sidereal_planet_positions(lat, lon, dt, get_ayanamsa(dt, ayanamsa))
 
 
@@ -272,4 +313,172 @@ def get_astrology_chart_svg(  # noqa: PLR0913
         content=svg_content,
         media_type="image/svg+xml",
         headers={"Content-Disposition": f"inline; filename={filename}", "Content-Language": target_lang},
+    )
+
+
+class ActivitySupportResponse(BaseModel):
+    """Response model for activity support across panchanga elements."""
+
+    activity: str
+    tithi_support: bool
+    karana_support: bool
+    vara_support: bool
+    yoga_support: bool
+    inauspicious_flags: list[str]
+
+
+class TimeRange(BaseModel):
+    """A time window with start and end."""
+
+    start: datetime
+    end: datetime
+
+
+class PanchangaResponse(BaseModel):
+    """Response model for panchanga calculation."""
+
+    tithi_name: str
+    tithi_number: int
+    tithi_start: datetime | None = None
+    tithi_end: datetime | None = None
+    karana_name: str
+    karana_number: int
+    karana_start: datetime | None = None
+    karana_end: datetime | None = None
+    vara_name: str
+    vara_number: int
+    vara_start: datetime | None = None
+    vara_end: datetime | None = None
+    yoga_name: str
+    yoga_number: int
+    yoga_start: datetime | None = None
+    yoga_end: datetime | None = None
+    muhurta_rating: float | None
+    auspicious_for: list[str]
+    inauspicious_for: list[str]
+    interpretations: dict[str, str]
+    nakshatra_compatibility: dict[str, list[str]]
+    activity_support: ActivitySupportResponse | None
+    sunrise: datetime | None = None
+    sunset: datetime | None = None
+    moonrise: datetime | None = None
+    moonset: datetime | None = None
+    rahu_kalam: TimeRange | None = None
+    gulika_kala: TimeRange | None = None
+    yama_ghantaka: TimeRange | None = None
+    durmuhurta: list[TimeRange] = []
+    varjya: list[TimeRange] = []
+
+
+@router.get("/panchanga", response_model=PanchangaResponse)
+def get_panchanga(
+    lat: Annotated[float, Query(description="Latitude")] = 12.971667,
+    lon: Annotated[float, Query(description="Longitude")] = 77.593611,
+    ayanamsa: Annotated[AyanamsaSystem, Query(description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")] = "lahiri",
+    dateandtime: Annotated[str, Query(description="Datetime in ISO format")] = datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    activity: Annotated[str | None, Query(description="Optional activity name to check support for (e.g. 'marriage', 'travel')")] = None,
+) -> PanchangaResponse:
+    """Calculate panchanga (tithi, karana, vara, yoga) for given latitude, longitude, datetime, and ayanamsa."""
+    dt = _parse_datetime_with_tz(dateandtime)
+    ayanamsa_val = get_ayanamsa(dt, ayanamsa)
+    planets = get_sidereal_planet_positions(lat, lon, dt, ayanamsa_val)
+
+    sun = next(p for p in planets if p.code == Planets.SUN.code)
+    moon = next(p for p in planets if p.code == Planets.MOON.code)
+
+    panchanga_data = get_panchanga_with_data(sun.longitude, moon.longitude, date_value=dt)
+    summary = build_panchanga_summary(panchanga_data, activity=activity)
+
+    # --- phase function closures for timing binary search ---
+    def _diff_phase(t: datetime) -> float:
+        """(moon - sun) sidereal longitude, used for tithi/karana timing."""
+        ayan = get_ayanamsa(t, ayanamsa)
+        s = _norm_deg(get_planet_position(EnginePlanets.SUN, lat, lon, t).longitude - ayan)
+        m = _norm_deg(get_planet_position(EnginePlanets.MOON, lat, lon, t).longitude - ayan)
+        return _norm_deg(m - s)
+
+    def _sum_phase(t: datetime) -> float:
+        """(moon + sun) sidereal longitude, used for yoga timing."""
+        ayan = get_ayanamsa(t, ayanamsa)
+        s = _norm_deg(get_planet_position(EnginePlanets.SUN, lat, lon, t).longitude - ayan)
+        m = _norm_deg(get_planet_position(EnginePlanets.MOON, lat, lon, t).longitude - ayan)
+        return _norm_deg(m + s)
+
+    current_diff = _diff_phase(dt)
+    current_sum = _sum_phase(dt)
+    t_data = panchanga_data.panchanga
+
+    tithi_start = _find_start_time(dt, current_diff, t_data.tithi.start_degree, _TITHI_KARANA_RATE, _diff_phase)
+    tithi_end = _find_end_time(dt, current_diff, t_data.tithi.end_degree, _TITHI_KARANA_RATE, _diff_phase)
+    karana_start = _find_start_time(dt, current_diff, t_data.karana.start_degree, _TITHI_KARANA_RATE, _diff_phase)
+    karana_end = _find_end_time(dt, current_diff, t_data.karana.end_degree, _TITHI_KARANA_RATE, _diff_phase)
+
+    yoga_result = panchanga_data.panchanga
+    yoga_start_deg = (yoga_result.yoga_number - 1) * (360.0 / 27)
+    yoga_end_deg = yoga_result.yoga_number * (360.0 / 27)
+    yoga_start = _find_start_time(dt, current_sum, yoga_start_deg, _YOGA_RATE, _sum_phase)
+    yoga_end = _find_end_time(dt, current_sum, yoga_end_deg, _YOGA_RATE, _sum_phase)
+
+    # Vara runs from today's sunrise to tomorrow's sunrise (Vedic convention)
+    sunrise, sunset = get_sunrise_sunset(lat, lon, dt)
+    tomorrow = dt + timedelta(days=1)
+    vara_end, _ = get_sunrise_sunset(lat, lon, tomorrow)
+
+    moonrise, moonset = get_planet_rise_set(EnginePlanets.MOON, lat, lon, dt)
+
+    # --- moon sidereal longitude closure for nakshatra / varjya ---
+    def _moon_sidereal_lon(t: datetime) -> float:
+        ayan = get_ayanamsa(t, ayanamsa)
+        return _norm_deg(get_planet_position(EnginePlanets.MOON, lat, lon, t).longitude - ayan)
+
+    current_moon_lon = _moon_sidereal_lon(dt)
+
+    # --- inauspicious timings ---
+    _rahu_tw = get_rahu_kalam(sunrise=sunrise, sunset=sunset, date_value=dt) if sunrise and sunset else None
+    _gulika_tw = get_gulika(sunrise=sunrise, sunset=sunset, date_value=dt) if sunrise and sunset else None
+    _yama_tw = get_yamagandam(sunrise=sunrise, sunset=sunset, date_value=dt) if sunrise and sunset else None
+    _durmuhurta_tws = get_durmuhurta(sunrise=sunrise, sunset=sunset, next_sunrise=vara_end, date_value=dt) if sunrise and sunset and vara_end else []
+    _varjya_tws = get_varjya(ref_dt=dt, current_moon_lon=current_moon_lon, moon_lon_fn=_moon_sidereal_lon)
+
+    return PanchangaResponse(
+        tithi_name=summary.tithi_name,
+        tithi_number=summary.tithi_number,
+        tithi_start=tithi_start,
+        tithi_end=tithi_end,
+        karana_name=summary.karana_name,
+        karana_number=summary.karana_number,
+        karana_start=karana_start,
+        karana_end=karana_end,
+        vara_name=summary.vara_name,
+        vara_number=summary.vara_number,
+        vara_start=sunrise,
+        vara_end=vara_end,
+        yoga_name=summary.yoga_name,
+        yoga_number=summary.yoga_number,
+        yoga_start=yoga_start,
+        yoga_end=yoga_end,
+        muhurta_rating=summary.muhurta_rating,
+        auspicious_for=summary.auspicious_for,
+        inauspicious_for=summary.inauspicious_for,
+        interpretations=summary.interpretations,
+        nakshatra_compatibility=summary.nakshatra_compatibility,
+        activity_support=ActivitySupportResponse(
+            activity=summary.activity_support.activity,
+            tithi_support=summary.activity_support.tithi_support,
+            karana_support=summary.activity_support.karana_support,
+            vara_support=summary.activity_support.vara_support,
+            yoga_support=summary.activity_support.yoga_support,
+            inauspicious_flags=summary.activity_support.inauspicious_flags,
+        )
+        if summary.activity_support
+        else None,
+        sunrise=sunrise,
+        sunset=sunset,
+        moonrise=moonrise,
+        moonset=moonset,
+        rahu_kalam=TimeRange(start=_rahu_tw.start, end=_rahu_tw.end) if _rahu_tw else None,
+        gulika_kala=TimeRange(start=_gulika_tw.start, end=_gulika_tw.end) if _gulika_tw else None,
+        yama_ghantaka=TimeRange(start=_yama_tw.start, end=_yama_tw.end) if _yama_tw else None,
+        durmuhurta=[TimeRange(start=tw.start, end=tw.end) for tw in _durmuhurta_tws],
+        varjya=[TimeRange(start=tw.start, end=tw.end) for tw in _varjya_tws],
     )

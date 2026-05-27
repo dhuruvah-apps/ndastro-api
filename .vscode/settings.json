@@ -23,5 +23,12 @@
   "python.testing.pytestEnabled": true,
   "github.copilot.nextEditSuggestions.enabled": true,
   "python-envs.defaultEnvManager": "ms-python.python:poetry",
-  "python-envs.defaultPackageManager": "ms-python.python:poetry"
+  "python-envs.defaultPackageManager": "ms-python.python:poetry",
+  "python-envs.pythonProjects": [
+    {
+      "path": ".",
+      "envManager": "ms-python.python:poetry",
+      "packageManager": "ms-python.python:poetry"
+    }
+  ]
 }
