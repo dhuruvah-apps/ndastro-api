@@ -212,6 +212,146 @@ Generates and returns a South Indian astrology chart as an SVG image.
 
 ---
 
+## Panchanga
+
+```
+GET /api/v1/astro/panchanga
+```
+
+Returns the complete five-limb Vedic panchanga for the given location and datetime, including precise start/end times for each element and all inauspicious timing windows.
+
+**Query parameters**:
+
+| Parameter | Type | Default | Description |
+|-----------|------|---------|-------------|
+| `lat` | `float` | `12.971667` | Observer latitude |
+| `lon` | `float` | `77.593611` | Observer longitude |
+| `ayanamsa` | `string` | `"lahiri"` | Ayanamsa system |
+| `dateandtime` | `string` | Current UTC | ISO 8601 datetime string |
+| `activity` | `string` | `null` | Optional activity to check auspiciousness for (e.g. `"marriage"`, `"travel"`) |
+
+**Response** `200 OK`:
+
+```json
+{
+  "tithi_name": "Navami",
+  "tithi_number": 9,
+  "tithi_start": "2026-05-23T23:01:00Z",
+  "tithi_end": "2026-05-24T22:31:00Z",
+  "karana_name": "Balava",
+  "karana_number": 2,
+  "karana_start": "2026-05-24T10:54:00Z",
+  "karana_end": "2026-05-24T22:31:00Z",
+  "vara_name": "Bhanu",
+  "vara_number": 1,
+  "vara_start": "2026-05-24T00:22:00Z",
+  "vara_end": "2026-05-25T00:22:00Z",
+  "yoga_name": "Harshana",
+  "yoga_number": 14,
+  "yoga_start": "2026-05-23T22:11:00Z",
+  "yoga_end": "2026-05-24T21:52:00Z",
+  "muhurta_rating": 0.72,
+  "auspicious_for": ["general", "travel"],
+  "inauspicious_for": [],
+  "interpretations": {
+    "tithi": "Navami is good for bold actions...",
+    "vara": "Sunday is ruled by the Sun..."
+  },
+  "nakshatra_compatibility": {
+    "friendly": ["Ashwini", "Bharani"],
+    "neutral": ["Krittika"]
+  },
+  "activity_support": null,
+  "sunrise": "2026-05-24T00:22:00Z",
+  "sunset": "2026-05-24T13:07:00Z",
+  "moonrise": "2026-05-24T07:36:00Z",
+  "moonset": "2026-05-24T20:02:00Z",
+  "rahu_kalam": {
+    "start": "2026-05-24T11:32:00Z",
+    "end": "2026-05-24T13:07:00Z"
+  },
+  "gulika_kala": {
+    "start": "2026-05-24T09:57:00Z",
+    "end": "2026-05-24T11:32:00Z"
+  },
+  "yama_ghantaka": {
+    "start": "2026-05-24T06:47:00Z",
+    "end": "2026-05-24T08:22:00Z"
+  },
+  "durmuhurta": [
+    {
+      "start": "2026-05-24T11:25:00Z",
+      "end": "2026-05-24T12:16:00Z"
+    }
+  ],
+  "varjya": [
+    {
+      "start": "2026-05-24T04:51:00Z",
+      "end": "2026-05-24T06:30:00Z"
+    }
+  ]
+}
+```
+
+**`PanchangaResponse` fields**:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `tithi_name` | `string` | Tithi name (e.g. `"Navami"`) |
+| `tithi_number` | `int` | Tithi number (1–30) |
+| `tithi_start` | `datetime\|null` | UTC datetime when the tithi begins |
+| `tithi_end` | `datetime\|null` | UTC datetime when the tithi ends |
+| `karana_name` | `string` | Karana name |
+| `karana_number` | `int` | Karana number |
+| `karana_start` | `datetime\|null` | UTC datetime when the karana begins |
+| `karana_end` | `datetime\|null` | UTC datetime when the karana ends |
+| `vara_name` | `string` | Vedic weekday name |
+| `vara_number` | `int` | Vara number (1=Sunday … 7=Saturday) |
+| `vara_start` | `datetime\|null` | Sunrise of current Vedic day |
+| `vara_end` | `datetime\|null` | Sunrise of next Vedic day |
+| `yoga_name` | `string` | Nitya yoga name |
+| `yoga_number` | `int` | Yoga number (1–27) |
+| `yoga_start` | `datetime\|null` | UTC datetime when the yoga begins |
+| `yoga_end` | `datetime\|null` | UTC datetime when the yoga ends |
+| `muhurta_rating` | `float\|null` | Overall muhurta quality score (0–1) |
+| `auspicious_for` | `string[]` | Activity categories favoured today |
+| `inauspicious_for` | `string[]` | Activity categories to avoid today |
+| `interpretations` | `object` | Textual interpretation per element |
+| `nakshatra_compatibility` | `object` | Nakshatra groups by compatibility |
+| `activity_support` | `object\|null` | Tithi/vara/yoga support for the requested activity |
+| `sunrise` | `datetime\|null` | Sunrise time (UTC) |
+| `sunset` | `datetime\|null` | Sunset time (UTC) |
+| `moonrise` | `datetime\|null` | Moonrise time (UTC) |
+| `moonset` | `datetime\|null` | Moonset time (UTC) |
+| `rahu_kalam` | `TimeRange\|null` | Rahu Kalam window |
+| `gulika_kala` | `TimeRange\|null` | Gulika Kala window |
+| `yama_ghantaka` | `TimeRange\|null` | Yama Ghantaka window |
+| `durmuhurta` | `TimeRange[]` | Durmuhurta window(s) — 1 or 2 per day |
+| `varjya` | `TimeRange[]` | Varjya window(s) for the current nakshatra |
+
+**`TimeRange` object**:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `start` | `datetime` | Window start (UTC) |
+| `end` | `datetime` | Window end (UTC) |
+
+**`ActivitySupportResponse` object** (present when `activity` parameter is supplied):
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `activity` | `string` | The activity queried |
+| `tithi_support` | `bool` | Whether the tithi supports the activity |
+| `karana_support` | `bool` | Whether the karana supports the activity |
+| `vara_support` | `bool` | Whether the vara supports the activity |
+| `yoga_support` | `bool` | Whether the yoga supports the activity |
+| `inauspicious_flags` | `string[]` | Active inauspicious periods that overlap |
+
+!!! note
+    All times are returned in UTC. Inauspicious periods (`rahu_kalam`, `gulika_kala`, `yama_ghantaka`, `durmuhurta`, `varjya`) are computed only when both sunrise and sunset are available for the location. Mula nakshatra produces two `varjya` windows.
+
+---
+
 ## Per-Request Calculation Overrides
 
 The `node_type` and `position_reference` query parameters on `/lunar-nodes` and `/planets` let a client temporarily override the server's default engine settings **for that single request only**. No other concurrent request is affected.

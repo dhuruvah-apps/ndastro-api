@@ -53,6 +53,7 @@ Tokens are obtained via [`POST /api/v1/auth/login`](auth.md#login).
 | `GET` | `/api/v1/astro/sunrise-sunset` | Tier-based | Sunrise & sunset |
 | `GET` | `/api/v1/astro/kattams` | Tier-based | 12-house kattam chart |
 | `GET` | `/api/v1/astro/chart` | Tier-based | SVG chart image |
+| `GET` | `/api/v1/astro/panchanga` | Tier-based | Full panchanga with timing windows |
 | `GET` | `/health-check` | No | API health status |
 | `GET` | `/metrics` | No | System metrics |
 | `GET` | `/api/v1/config` | Yes | Active engine calculation settings |

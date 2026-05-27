@@ -226,3 +226,187 @@ Computes the Abhijit muhurta window — the auspicious midday period. Returns `N
 |-----------|-------------|
 | `MissingWeekdayError` | Invalid weekday passed to `get_vara_number_from_weekday` |
 | `MissingTimezoneError` | Naive datetime passed to `get_vara_result_from_datetime` |
+
+---
+
+## Inauspicious Timing Windows
+
+These functions compute the traditional inauspicious (and conditionally inauspicious) time windows for a given Vedic day. All accept timezone-aware `datetime` objects.
+
+All functions return a `TimeWindow` dataclass:
+
+```python
+@dataclass
+class TimeWindow:
+    name: str
+    start: datetime
+    end: datetime
+```
+
+---
+
+### `get_rahu_kalam`
+
+```python
+get_rahu_kalam(
+    *,
+    sunrise: datetime,
+    sunset: datetime,
+    weekday_index: int | None = None,
+    date_value: datetime | None = None,
+) -> TimeWindow
+```
+
+Returns the **Rahu Kalam** window — an inauspicious 90-minute period ruled by Rahu.
+
+The daytime arc (sunrise→sunset) is divided into 8 equal segments. Rahu Kalam occupies a fixed segment per weekday:
+
+| Day | Segment |
+|-----|---------|
+| Sunday | 8th |
+| Monday | 2nd |
+| Tuesday | 7th |
+| Wednesday | 5th |
+| Thursday | 6th |
+| Friday | 4th |
+| Saturday | 3rd |
+
+Pass either `weekday_index` (Python `datetime.weekday()`, 0=Monday) or `date_value` (a timezone-aware datetime).
+
+---
+
+### `get_yamagandam`
+
+```python
+get_yamagandam(
+    *,
+    sunrise: datetime,
+    sunset: datetime,
+    weekday_index: int | None = None,
+    date_value: datetime | None = None,
+) -> TimeWindow
+```
+
+Returns the **Yama Ghantaka** window — the period associated with Yama (death), traditionally avoided for auspicious activities.
+
+Segment per weekday:
+
+| Day | Segment |
+|-----|---------|
+| Sunday | 5th |
+| Monday | 4th |
+| Tuesday | 3rd |
+| Wednesday | 2nd |
+| Thursday | 1st |
+| Friday | 7th |
+| Saturday | 6th |
+
+---
+
+### `get_gulika`
+
+```python
+get_gulika(
+    *,
+    sunrise: datetime,
+    sunset: datetime,
+    weekday_index: int | None = None,
+    date_value: datetime | None = None,
+) -> TimeWindow
+```
+
+Returns the **Gulika Kala** (Kuliga / Maandi) window — the period ruled by Saturn's son Gulika.
+
+Segment per weekday:
+
+| Day | Segment |
+|-----|---------|
+| Sunday | 7th |
+| Monday | 6th |
+| Tuesday | 5th |
+| Wednesday | 4th |
+| Thursday | 3rd |
+| Friday | 2nd |
+| Saturday | 1st |
+
+---
+
+### `get_durmuhurta`
+
+```python
+get_durmuhurta(
+    *,
+    sunrise: datetime,
+    sunset: datetime,
+    next_sunrise: datetime,
+    weekday_index: int | None = None,
+    date_value: datetime | None = None,
+) -> list[TimeWindow]
+```
+
+Returns the **Durmuhurta** window(s) — inauspicious muhurta periods during the day.
+
+- **Sunday, Wednesday, Saturday**: one window.
+- **Monday, Thursday, Friday**: two windows.
+- **Tuesday**: two windows; the second is measured from sunset using the **night** duration.
+- Each window lasts `day_duration × 0.8 / 12` hours (approximately 48–52 minutes).
+
+Offsets (fraction of day duration from sunrise, divided by 12):
+
+| Day | Window 1 offset | Window 2 offset |
+|-----|-----------------|-----------------|
+| Sunday | 10.4 | — |
+| Monday | 5.6 | 8.8 |
+| Tuesday | 2.4 | 4.8 (from sunset) |
+| Wednesday | 5.6 | — |
+| Thursday | 4.0 | 8.8 |
+| Friday | 2.4 | 6.4 |
+| Saturday | 1.6 | — |
+
+---
+
+### `get_varjya`
+
+```python
+get_varjya(
+    *,
+    ref_dt: datetime,
+    current_moon_lon: float,
+    moon_lon_fn: Callable[[datetime], float],
+) -> list[TimeWindow]
+```
+
+Returns the **Varjya** window(s) — an inauspicious period derived from the Moon's current nakshatra.
+
+The function uses binary search (via `_find_start_time` / `_find_end_time`) to find the precise nakshatra entry and exit times, then applies the traditional factor:
+
+```
+varjya_start = nakshatra_entry + (factor / 24) × nakshatra_duration
+varjya_duration = nakshatra_duration × 1.6 / 24
+```
+
+Factors are sourced from the classical *Panchangam Calculations* by Karanam Ramakumar.
+
+- Most nakshatras produce **one** Varjya window.
+- **Mula** (nakshatra 19) produces **two** windows (factors 8 and 22.4).
+
+`moon_lon_fn` must be a callable `(datetime) -> float` that returns the Moon's sidereal longitude for an arbitrary time — used for the binary search iterations.
+
+**Example**:
+
+```python
+from ndastro_engine.core import get_planet_position
+from ndastro_engine.enums import Planets
+from ndastro_engine.ayanamsa import get_ayanamsa
+from ndastro_engine.utils import normalize_degree
+from ndastro_api.services.panchanga import get_varjya
+
+def moon_lon(t):
+    ayan = get_ayanamsa(t, "true_lahiri")
+    return normalize_degree(get_planet_position(Planets.MOON, lat, lon, t).longitude - ayan)
+
+current = moon_lon(dt)
+windows = get_varjya(ref_dt=dt, current_moon_lon=current, moon_lon_fn=moon_lon)
+for w in windows:
+    print(f"Varjya: {w.start} → {w.end}")
+```
