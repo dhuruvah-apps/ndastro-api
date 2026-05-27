@@ -1,3 +1,9 @@
+## v0.3.0 (2026-05-27)
+
+### Refactor
+
+- **panchanga**: Refactor Panchanga service and remove Vimsottari Dasa module
+
 ## v0.2.3 (2026-03-22)
 
 ### Refactor
