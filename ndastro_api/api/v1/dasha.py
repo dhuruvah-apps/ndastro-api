@@ -3,14 +3,12 @@
 from __future__ import annotations
 
 from datetime import datetime, timezone
-from typing import TYPE_CHECKING, Annotated, NoReturn, cast
+from typing import Annotated, NoReturn, cast
 
 import pytz
 from fastapi import APIRouter, Depends, HTTPException, Path, Query
+from ndastro_engine.ayanamsa import AyanamsaSystem
 from pydantic import BaseModel, Field
-
-if TYPE_CHECKING:
-    from ndastro_engine.ayanamsa import AyanamsaSystem
 
 from ndastro_api.api.deps import get_conditional_dependencies
 from ndastro_api.services.dasha import (
@@ -80,11 +78,11 @@ class DasaBirthInfoResponse(BaseModel):
 class DasaCurrentQuery(BaseModel):
     """Query parameters for current dasa endpoint."""
 
-    lat: float = Query(default=12.971667, description="Latitude")
-    lon: float = Query(default=77.593611, description="Longitude")
-    ayanamsa: Annotated[AyanamsaSystem, Query(default="lahiri", description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")]
-    dateandtime: str = Query(default=_DEFAULT_DT, description="Birth datetime in ISO format")
-    current_dateandtime: str | None = Query(
+    lat: float = Field(default=12.971667, description="Latitude")
+    lon: float = Field(default=77.593611, description="Longitude")
+    ayanamsa: AyanamsaSystem = Field(default="lahiri", description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")
+    dateandtime: str = Field(default=_DEFAULT_DT, description="Birth datetime in ISO format")
+    current_dateandtime: str | None = Field(
         default=None,
         description="Reference datetime for 'current' period (defaults to now)",
     )
@@ -93,12 +91,12 @@ class DasaCurrentQuery(BaseModel):
 class DasaTimelineQuery(BaseModel):
     """Query parameters for timeline endpoint."""
 
-    lat: float = Query(default=12.971667, description="Latitude")
-    lon: float = Query(default=77.593611, description="Longitude")
-    ayanamsa: Annotated[AyanamsaSystem, Query(default="lahiri", description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")]
-    dateandtime: str = Query(default=_DEFAULT_DT, description="Birth datetime in ISO format")
-    levels: int = Query(default=1, description="Number of dasa levels to include (1-4)", ge=1, le=4)
-    years: float | None = Query(default=None, description="Timeline horizon in years; omit to use engine default", gt=0)
+    lat: float = Field(default=12.971667, description="Latitude")
+    lon: float = Field(default=77.593611, description="Longitude")
+    ayanamsa: AyanamsaSystem = Field(default="lahiri", description="Ayanamsa name i.e 'lahiri', 'chitrapaksha', etc.")
+    dateandtime: str = Field(default=_DEFAULT_DT, description="Birth datetime in ISO format")
+    levels: int = Field(default=1, description="Number of dasa levels to include (1-4)", ge=1, le=4)
+    years: float | None = Field(default=None, description="Timeline horizon in years; omit to use engine default", gt=0)
 
 
 class DasaTimelineQueryResponse(BaseModel):
@@ -193,7 +191,7 @@ def get_dasa_types() -> DasaTypesResponse:
 
 @router.get("/{dasa_name}/current", response_model=DasaCurrentResponse)
 def get_current_dasa(
-    params: Annotated[DasaCurrentQuery, Depends()],
+    params: Annotated[DasaCurrentQuery, Query()],
     dasa_name: Annotated[str, Path(title="Dasa system name", example="vimshottari", description="Name of the dasa system to query")],
 ) -> DasaCurrentResponse:
     """Return running dasa details for the requested dasa system."""
@@ -205,7 +203,7 @@ def get_current_dasa(
             birth_datetime=birth_dt,
             lat=params.lat,
             lon=params.lon,
-            ayanamsa_system=cast("AyanamsaSystem", params.ayanamsa),
+            ayanamsa_system=cast(AyanamsaSystem, params.ayanamsa),
             dasa_type=dasa_name,
         )
     except ValueError as exc:
@@ -215,7 +213,7 @@ def get_current_dasa(
 
 @router.get("/{dasa_name}/timeline", response_model=DasaTimelineResponse)
 def get_dasa_timeline_by_type(
-    params: Annotated[DasaTimelineQuery, Depends()],
+    params: Annotated[DasaTimelineQuery, Query()],
     dasa_name: Annotated[str, Path(title="Dasa system name", example="vimshottari", description="Name of the dasa system to query")],
 ) -> DasaTimelineResponse:
     """Return a dasa timeline for the requested dasa system."""
@@ -225,7 +223,7 @@ def get_dasa_timeline_by_type(
             birth_datetime=birth_dt,
             lat=params.lat,
             lon=params.lon,
-            ayanamsa_system=cast("AyanamsaSystem", params.ayanamsa),
+            ayanamsa_system=cast(AyanamsaSystem, params.ayanamsa),
             dasa_type=dasa_name,
             levels=params.levels,
             years=params.years,
@@ -235,4 +233,6 @@ def get_dasa_timeline_by_type(
     return _timeline_response(details)
 
 
+DasaCurrentQuery.model_rebuild()
+DasaTimelineQuery.model_rebuild()
 DasaPeriodResponse.model_rebuild()

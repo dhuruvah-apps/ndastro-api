@@ -3,6 +3,21 @@ API to serve data for ndastro-ui.
 
 ## Running the API
 
+1. ** Create environment **
+   ```sh
+   pyenv install 3.13.1
+
+   pyenv local 3.13.1
+   ```
+   If you dont have pyenv, please follow [this site](https://pyenv-win.github.io/pyenv-win/) to install and configure it.
+
+   After installing required python version, create and activate the environment.
+   ```sh
+   poetry env use 3.13.1
+
+   Invoke-Expression (poetry env activate)
+   ```
+
 1. **Install dependencies**
    ```sh
    poetry install

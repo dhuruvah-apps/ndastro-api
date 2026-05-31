@@ -237,6 +237,17 @@ class EmailSettings(BaseSettings):
     EMAIL_TEST_RECIPIENT: str | None = config("EMAIL_TEST_RECIPIENT", default=None)
 
 
+class LocationSettings(BaseSettings):
+    """Settings for the external location lookup provider."""
+
+    LOCATION_SERVICE_URL: str = config("LOCATION_SERVICE_URL", default="https://nominatim.openstreetmap.org/search")
+    LOCATION_SERVICE_FALLBACK_URLS: list[str] = config("LOCATION_SERVICE_FALLBACK_URLS", cast=list, default=[])
+    LOCATION_SERVICE_TIMEOUT_SECONDS: float = config("LOCATION_SERVICE_TIMEOUT_SECONDS", cast=float, default=5.0)
+    LOCATION_SERVICE_USER_AGENT: str = config("LOCATION_SERVICE_USER_AGENT", default="ndastro-api/0.3.0")
+    LOCATION_SERVICE_DEFAULT_LIMIT: int = config("LOCATION_SERVICE_DEFAULT_LIMIT", default=5)
+    LOCATION_SERVICE_MAX_LIMIT: int = config("LOCATION_SERVICE_MAX_LIMIT", default=10)
+
+
 class Settings(
     AppSettings,
     PostgresSettings,
@@ -249,6 +260,7 @@ class Settings(
     CRUDAdminSettings,
     EnvironmentSettings,
     EmailSettings,
+    LocationSettings,
 ):
     """Main settings class that aggregates all configuration settings for the application."""
 

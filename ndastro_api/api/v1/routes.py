@@ -13,6 +13,7 @@ from ndastro_api.api.v1.dasha import router as dasha
 from ndastro_api.api.v1.divisional import router as divisional
 from ndastro_api.api.v1.health import router as health
 from ndastro_api.api.v1.login import router as login
+from ndastro_api.api.v1.location import router as location
 from ndastro_api.api.v1.logout import router as logout
 from ndastro_api.api.v1.longevity import router as longevity
 from ndastro_api.api.v1.muhurta import router as muhurta
@@ -28,6 +29,7 @@ router = APIRouter(prefix="/v1")
 router.include_router(config)
 router.include_router(login)
 router.include_router(logout)
+router.include_router(location)
 router.include_router(tier)
 router.include_router(user)
 router.include_router(astro)
