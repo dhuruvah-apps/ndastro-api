@@ -1,3 +1,9 @@
+## v0.4.0 (2026-07-14)
+
+### Feat
+
+- **muhurta**: added endpoints to list all the auspicious date and time for the given date range
+
 ## v0.3.0 (2026-05-27)
 
 ### Refactor
