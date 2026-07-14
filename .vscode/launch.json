@@ -39,6 +39,7 @@
       "cwd": "${workspaceFolder}",
       "console": "integratedTerminal",
       "jinja": true,
+      "subProcess": true,
       "envFile": "${workspaceFolder}/.env"
     },
     {

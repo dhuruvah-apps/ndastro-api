@@ -12,7 +12,8 @@
 - **Ashtakavarga** — Sarva and Bhinna ashtakavarga calculations with transit predictions
 - **Avasthas** — Age, alertness, mood and activity avastha analysis
 - **Longevity** — Maraka, Rudra Trishoola and Maheswara analysis
-- **Muhurta** — Durmuhurta, Varjyam, and Amrita Kala windows
+- **Muhurta** — Durmuhurta, Varjyam, and Amrita Kala windows; **auspicious date-range search** across 70 life events using the classical 5-formula system (Formula 1–5) with Tara Bala, Chandra Ashtama, Disha Shool, combustion checks, Moon body-part rule, and per-hour Lagna windows
+- **Location lookup** — Geocode free-form place names to lat/lon/timezone via Nominatim with provider fallback and result caching
 - **Shadbala & Vimshopaka** — Planetary strength calculations
 - **Multilingual** — Full i18n support via Babel/FastAPI-Babel
 
