@@ -1,3 +1,9 @@
+## v0.5.0 (2026-07-20)
+
+### Feat
+
+- **prasana-service**: Add Prasna service and models for Vedic horary astrology analysis
+
 ## v0.4.0 (2026-07-14)
 
 ### Feat
