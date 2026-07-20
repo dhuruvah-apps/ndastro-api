@@ -56,7 +56,7 @@
     "gender": "Female",
     "ruler": "VE",
     "exaltedPlanet": "MO",
-    "debilitatedPlanet": "",
+    "debilitatedPlanet": "EMPTY",
     "moolatrikonaPlanet": "VE",
     "bodyParts": [
       "Neck",
@@ -102,8 +102,8 @@
     "gender": "Male",
     "ruler": "ME",
     "exaltedPlanet": "RA",
-    "debilitatedPlanet": "",
-    "moolatrikonaPlanet": "",
+    "debilitatedPlanet": "EMPTY",
+    "moolatrikonaPlanet": "EMPTY",
     "bodyParts": [
       "Shoulders",
       "Arms",
@@ -149,7 +149,7 @@
     "ruler": "MO",
     "exaltedPlanet": "JU",
     "debilitatedPlanet": "MA",
-    "moolatrikonaPlanet": "",
+    "moolatrikonaPlanet": "EMPTY",
     "bodyParts": [
       "Chest",
       "Breasts",
@@ -193,8 +193,8 @@
     "quality": "Fixed",
     "gender": "Male",
     "ruler": "SU",
-    "exaltedPlanet": "",
-    "debilitatedPlanet": "",
+    "exaltedPlanet": "EMPTY",
+    "debilitatedPlanet": "EMPTY",
     "moolatrikonaPlanet": "SU",
     "bodyParts": [
       "Heart",
@@ -331,9 +331,9 @@
     "quality": "Fixed",
     "gender": "Female",
     "ruler": "MA",
-    "exaltedPlanet": "",
+    "exaltedPlanet": "EMPTY",
     "debilitatedPlanet": "MO",
-    "moolatrikonaPlanet": "",
+    "moolatrikonaPlanet": "EMPTY",
     "bodyParts": [
       "Reproductive Organs",
       "Genitals",
@@ -378,7 +378,7 @@
     "gender": "Male",
     "ruler": "JU",
     "exaltedPlanet": "KE",
-    "debilitatedPlanet": "",
+    "debilitatedPlanet": "EMPTY",
     "moolatrikonaPlanet": "JU",
     "bodyParts": [
       "Thighs",
@@ -425,7 +425,7 @@
     "ruler": "SA",
     "exaltedPlanet": "MA",
     "debilitatedPlanet": "JU",
-    "moolatrikonaPlanet": "",
+    "moolatrikonaPlanet": "EMPTY",
     "bodyParts": [
       "Knees",
       "Bones",
@@ -469,8 +469,8 @@
     "quality": "Fixed",
     "gender": "Male",
     "ruler": "SA",
-    "exaltedPlanet": "",
-    "debilitatedPlanet": "",
+    "exaltedPlanet": "EMPTY",
+    "debilitatedPlanet": "EMPTY",
     "moolatrikonaPlanet": "SA",
     "bodyParts": [
       "Ankles",
@@ -517,7 +517,7 @@
     "ruler": "JU",
     "exaltedPlanet": "VE",
     "debilitatedPlanet": "ME",
-    "moolatrikonaPlanet": "",
+    "moolatrikonaPlanet": "EMPTY",
     "bodyParts": [
       "Feet",
       "Toes",

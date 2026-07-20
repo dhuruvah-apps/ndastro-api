@@ -11,17 +11,14 @@ from dataclasses import asdict
 from math import ceil, floor
 from typing import TYPE_CHECKING, cast
 
-from ndastro_engine.constants import DEGREE_MAX
+from ndastro_engine.constants import DEGREE_MAX, DEGREE_PER_RASI, TOTAL_NAKSHATRAS
 from ndastro_engine.core import get_ascendent_position, get_planets_position
 from ndastro_engine.enums import Houses, NakshatraCode, Planets, Rasis
 from ndastro_engine.retrograde import is_planet_in_retrograde
 from skyfield.units import Angle
 
 from ndastro_api.core.constants import (
-    AYANAMSA,
-    DEGREES_PER_RAASI,
-    TOTAL_NAKSHATRAS,
-)
+    AYANAMSA)
 from ndastro_api.core.models.astro_system import Planet
 from ndastro_api.core.utils.data_loader import astro_data
 from ndastro_api.services.utils import normalize_degree, normalize_rasi_house
@@ -57,7 +54,7 @@ def get_sidereal_planet_positions(lat: float, lon: float, given_time: datetime, 
 
         # Use the actual longitude from position data
         asc = normalize_degree(pos_detail.longitude - ayanamsa)
-        asc_h, asc_adv_by = divmod(asc, DEGREES_PER_RAASI)
+        asc_h, asc_adv_by = divmod(asc, DEGREE_PER_RASI)
         rasi_num = int(asc_h)
 
         # Calculate position-specific values
@@ -136,7 +133,7 @@ def get_sidereal_ascendant_position(given_time: datetime, lat: float, lon: float
 
     asc = normalize_degree(ascr - ayanamsa)
 
-    asc_h, asc_adv_by = divmod(asc, DEGREES_PER_RAASI)
+    asc_h, asc_adv_by = divmod(asc, DEGREE_PER_RASI)
     rasi_num = int(asc_h)
     rasi_occupied = Rasis(normalize_rasi_house(rasi_num if asc_adv_by == 0 else int(rasi_num + 1))).code
     posited_at = Houses.HOUSE1.code
@@ -232,8 +229,8 @@ def get_planet_sign_and_degree(planet_longitude: float) -> tuple[Rasis, Angle]:
 
     """
     longitude = cast("float", planet_longitude % DEGREE_MAX)
-    sign_index = int(longitude // DEGREES_PER_RAASI)
-    degree_within_sign = longitude % DEGREES_PER_RAASI
+    sign_index = int(longitude // DEGREE_PER_RASI)
+    degree_within_sign = longitude % DEGREE_PER_RASI
 
     return Rasis(normalize_rasi_house(sign_index)), Angle(degrees=degree_within_sign)
 
@@ -250,7 +247,7 @@ def get_planet_house_position(ascendant_longitude: float, planet_longitude: floa
 
     """
     relative_longitude = normalize_degree(planet_longitude - ascendant_longitude)
-    house_index = int(relative_longitude // DEGREES_PER_RAASI)
+    house_index = int(relative_longitude // DEGREE_PER_RASI)
 
     # Convert 0-based index to 1-based house number (1-12)
     house_number = normalize_rasi_house(house_index + 1)

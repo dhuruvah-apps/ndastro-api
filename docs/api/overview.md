@@ -56,6 +56,7 @@ Tokens are obtained via [`POST /api/v1/auth/login`](auth.md#login).
 | `GET` | `/api/v1/astro/panchanga` | Tier-based | Full panchanga with timing windows |
 | `GET` | `/api/v1/muhurta` | Tier-based | Single-day muhurta analysis (Durmuhurta, Varjyam, Amrita Kala) |
 | `GET` | `/api/v1/muhurta/auspicious-range` | Tier-based | Best dates in a range for a life event (70 event types, 5-formula scoring) |
+| `GET` | `/api/v1/prasna/query-topic` | Tier-based | Predict the topic of an unspoken query (Prasna Shastra, 6-rule chart analysis) |
 | `GET` | `/api/v1/location/search` | Tier-based | Geocode free-form text → lat, lon, timezone |
 | `GET` | `/health-check` | No | API health status |
 | `GET` | `/metrics` | No | System metrics |

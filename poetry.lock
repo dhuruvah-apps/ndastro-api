@@ -1851,14 +1851,14 @@ files = [
 
 [[package]]
 name = "ndastro-engine"
-version = "0.27.0"
+version = "0.28.0"
 description = "A modern Vedic astrology calculation engine for Python, providing accurate astronomical calculations for birth charts, planetary positions, and ayanamsa systems."
 optional = false
-python-versions = "<4.0,>=3.10"
+python-versions = "<3.14,>=3.10"
 groups = ["main"]
 files = [
-    {file = "ndastro_engine-0.27.0-py3-none-any.whl", hash = "sha256:0ca9a5fe4bf6de5324e75e64c06cb41dba8d1793861648784b6f3234f756b771"},
-    {file = "ndastro_engine-0.27.0.tar.gz", hash = "sha256:671f5c57a2aa17fd2e73884ccf4d673fd6bd93c357b70a073e385608dc4034a0"},
+    {file = "ndastro_engine-0.28.0-py3-none-any.whl", hash = "sha256:81c65651a1d192bdf1ef142b75ffee3065e169a6ef706bf617bc8da40a4ef0c6"},
+    {file = "ndastro_engine-0.28.0.tar.gz", hash = "sha256:cfbaa8adffe902052ebbde0c5b31129748cb1d52df23f0e77ea40e940f114d1e"},
 ]
 
 [package.dependencies]
@@ -3823,4 +3823,4 @@ dev = ["pytest", "setuptools"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10.0,<3.14"
-content-hash = "34243990e70774b6cc21d66ad1a56b2fefd70938cc81e11f61fe9820a2867b5e"
+content-hash = "9480d392849a743638c78caa895b1adffd5da0e056c7d5aa83c4d448c13c1354"

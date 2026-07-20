@@ -18,6 +18,7 @@ from ndastro_api.api.v1.logout import router as logout
 from ndastro_api.api.v1.longevity import router as longevity
 from ndastro_api.api.v1.muhurta import router as muhurta
 from ndastro_api.api.v1.nakshatra import router as nakshatra
+from ndastro_api.api.v1.prasna import router as prasna
 from ndastro_api.api.v1.strengths import router as strengths
 from ndastro_api.api.v1.tiers import router as tier
 from ndastro_api.api.v1.transits import router as transits
@@ -43,5 +44,6 @@ router.include_router(strengths)
 router.include_router(transits)
 router.include_router(longevity)
 router.include_router(muhurta)
+router.include_router(prasna)
 router.include_router(divisional)
 router.include_router(upagrahas)

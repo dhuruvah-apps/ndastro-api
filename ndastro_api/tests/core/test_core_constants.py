@@ -1,18 +1,11 @@
 """Unit tests for ndastro_api.core.constants."""
-
 from ndastro_api.core.constants import (
     AYANAMSA,
-    DEGREE_MAX,
-    DEGREES_PER_NAKSHATRA,
-    DEGREES_PER_PADAM,
-    DEGREES_PER_RAASI,
-    HALF_CIRCLE_DEGREES,
     KATTAM_RASI_MAP,
-    SYMBOLS,
-    TOTAL_NAKSHATRAS,
-    TOTAL_PADAM,
-    TOTAL_RAASI,
+    SYMBOLS
 )
+
+from ndastro_engine.constants import DEGREE_MAX, DEGREE_PER_RASI, TOTAL_RASI, TOTAL_NAKSHATRAS, TOTAL_PADA, DEGREE_PER_NAKSHATRA, DEGREE_PER_PADA, HALF_CIRCLE_DEGREES
 
 # ---------------------------------------------------------------------------
 # Numeric constants
@@ -28,33 +21,33 @@ def test_half_circle():
 
 
 def test_degrees_per_raasi():
-    assert DEGREES_PER_RAASI == 30
+    assert DEGREE_PER_RASI == 30
 
 
 def test_total_raasi():
-    assert TOTAL_RAASI == 12
+    assert TOTAL_RASI == 12
 
 
 def test_total_nakshatras():
     assert TOTAL_NAKSHATRAS == 27
 
 
-def test_total_padam():
-    assert TOTAL_PADAM == 4
+def test_total_pada():
+    assert TOTAL_PADA == 4
 
 
 def test_degrees_per_nakshatra():
     """360 / 27 ≈ 13.333°."""
     import pytest
 
-    assert pytest.approx(360 / 27) == DEGREES_PER_NAKSHATRA
+    assert pytest.approx(360 / 27) == DEGREE_PER_NAKSHATRA
 
 
-def test_degrees_per_padam():
+def test_degrees_per_pada():
     """360 / (27*4) ≈ 3.333°."""
     import pytest
 
-    assert pytest.approx(360 / 108) == DEGREES_PER_PADAM
+    assert pytest.approx(360 / 108) == DEGREE_PER_PADA
 
 
 def test_kattam_rasi_map_length():

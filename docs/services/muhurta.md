@@ -8,6 +8,8 @@ Two modules provide muhurta functionality:
 
 The public result dataclasses live in `ndastro_api.core.models.muhurta`.
 
+For the related topic of predicting *what a person came to ask about* before they speak, see **[Prasna](prasna.md)**.
+
 ---
 
 ## API Endpoints

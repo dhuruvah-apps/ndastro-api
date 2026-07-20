@@ -6,7 +6,7 @@ from ndastro_api.core.utils.data_loader import astro_data
 # Helpers
 # ---------------------------------------------------------------------------
 
-PLANET_CODES = {"SU", "MO", "MA", "ME", "JU", "VE", "SA", "RA", "KE", "EA", "AS", ""}
+PLANET_CODES = {"SU", "MO", "MA", "ME", "JU", "VE", "SA", "RA", "KE", "EA", "AS", "EMPTY", ""}
 RASI_PATTERN = re.compile(r"^R(0[1-9]|1[0-2])$")
 HOUSE_PATTERN = re.compile(r"^H(0[1-9]|1[0-2])$")
 NAKSHATRA_PATTERN = re.compile(r"^N(0[1-9]|1[0-9]|2[0-7])$")
@@ -147,8 +147,8 @@ VALID_PLANET_CODES = {"SU", "MO", "MA", "ME", "JU", "VE", "SA", "RA", "KE", "EA"
 
 
 def test_planets_load_expected_count():
-    # 9 grahas + Earth + Ascendant = 11
-    assert len(astro_data.get_planets()) == 11
+    # 9 grahas + Ascendant = 10
+    assert len(astro_data.get_planets()) == 10
 
 
 def test_planet_codes_are_known():
